@@ -1,4 +1,4 @@
-# COVID-19-Coronavirus-German-Regions
+# COVID-19 aka coronavirus disease time evolution in German regions
 data and charts of the COVID-19 coronavirus desease time evoution in German regions
 
 data copied on daily basis from [Robert Koch Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
