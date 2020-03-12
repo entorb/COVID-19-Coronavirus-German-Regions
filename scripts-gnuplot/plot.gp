@@ -39,7 +39,6 @@ set key bottom right box
 # ln 2  = b * t
 # -> t = ln (2) / b
 
-# delete fit logfile
 set fit quiet
 a = 50.0
 b = 0.2
@@ -67,7 +66,9 @@ load "plot-sub1.gp"
 colName = 'DE-total' ; col = 20
 load "plot-sub1.gp"
 
+# delete fit logfile
 `rm fit.log`
+
 unset xlabel
 
 
