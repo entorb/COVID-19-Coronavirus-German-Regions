@@ -7,6 +7,7 @@ data re-aranged using Excel sheet [cases-de.xlsx](https://github.com/entorb/COVI
 format: UTF-8 encoded, tab as column separator
 
 futher good information sources
-* [Robert Koch Institut](https://www.rki.de)
+* [Robert Koch Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
+* [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 * [NDR Info Podcast: Das Coronavirus-Update mit Christian Drosten](https://www.ndr.de/nachrichten/info/podcast4684.html)
 * [medium.com: Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
