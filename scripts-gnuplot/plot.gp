@@ -50,7 +50,7 @@ f(x)=a * exp(b * x)
 
 #set key off
 # text will be inserted later on
-set label 1 "" right front at graph 0.98, graph 0.15
+set label 1 "" right front at graph 0.98, graph 0.22
 # font ",20" 
 print ("Doubling time")
 
@@ -60,10 +60,46 @@ load "plot-sub1.gp"
 colName = 'BY' ; col = 5
 load "plot-sub1.gp"
 
+colName = 'BE' ; col = 6
+load "plot-sub1.gp"
+
+colName = 'BB' ; col = 7
+load "plot-sub1.gp"
+
+colName = 'HB' ; col = 8
+load "plot-sub1.gp"
+
+colName = 'HH' ; col = 9
+load "plot-sub1.gp"
+
+colName = 'HE' ; col = 10
+load "plot-sub1.gp"
+
+colName = 'MV' ; col = 11
+load "plot-sub1.gp"
+
 colName = 'NS' ; col = 12
 load "plot-sub1.gp"
 
 colName = 'NW' ; col = 13
+load "plot-sub1.gp"
+
+colName = 'RP' ; col = 14
+load "plot-sub1.gp"
+
+colName = 'SL' ; col = 15
+load "plot-sub1.gp"
+
+colName = 'SN' ; col = 16
+load "plot-sub1.gp"
+
+colName = 'ST' ; col = 17
+load "plot-sub1.gp"
+
+colName = 'SH' ; col = 18
+load "plot-sub1.gp"
+
+colName = 'TH' ; col = 19
 load "plot-sub1.gp"
 
 colName = 'DE-total' ; col = 20
