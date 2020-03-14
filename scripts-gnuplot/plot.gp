@@ -20,11 +20,14 @@ set xtics mirror
 set ytics mirror 
 
 
-set title "Plot Title"
-set ylabel "Cases"
-set xlabel "Days since first data"
+set title "Titel"
+# set ylabel "Cases"
+# set xlabel "Days since first data"
+set ylabel "Fälle"
+set xlabel "Tage seit erstem Datenpunkt"
 
-set key bottom right box
+
+set key top left box
 
 # FOR SOME STRANGE REASON THIS IS NOT WORKING, So fitting againt number column insteays since first datanot working: Singular matrix
 # set timefmt '%d.%m.%Y %H:%M'
@@ -47,7 +50,7 @@ f(x)=a * exp(b * x)
 
 #set key off
 # text will be inserted later on
-# set label 1 "" left front at graph 0.5, graph 0.5
+set label 1 "" right front at graph 0.98, graph 0.15
 # font ",20" 
 print ("Doubling time")
 
@@ -57,14 +60,16 @@ load "plot-sub1.gp"
 colName = 'BY' ; col = 5
 load "plot-sub1.gp"
 
-colName = 'NDS' ; col = 12
+colName = 'NS' ; col = 12
 load "plot-sub1.gp"
 
-colName = 'NRW' ; col = 13
+colName = 'NW' ; col = 13
 load "plot-sub1.gp"
 
 colName = 'DE-total' ; col = 20
 load "plot-sub1.gp"
+
+unset label 1
 
 # delete fit logfile
 `rm fit.log`
@@ -85,8 +90,8 @@ plot \
  data using 2:20 title "DE total" with linespoints \
 ,data using 2:4 title "BW" with linespoints \
 ,data using 2:5 title "BY" with linespoints \
-,data using 2:12 title "NDS" with linespoints \
-,data using 2:13 title "NRW" with linespoints \
+,data using 2:12 title "NS" with linespoints \
+,data using 2:13 title "NW" with linespoints \
 
 unset output
 
