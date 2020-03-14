@@ -54,55 +54,55 @@ set label 1 "" right front at graph 0.98, graph 0.22
 # font ",20" 
 print ("Doubling time")
 
-colName = 'BW' ; col = 4
+short_name = 'BW' ; col = 4; long_name = "Baden-Württemberg"
 load "plot-sub1.gp"
 
-colName = 'BY' ; col = 5
+short_name = 'BY' ; col = 5; long_name = "Bayern"
 load "plot-sub1.gp"
 
-colName = 'BE' ; col = 6
+short_name = 'BE' ; col = 6; long_name = "Berlin"
 load "plot-sub1.gp"
 
-colName = 'BB' ; col = 7
+short_name = 'BB' ; col = 7; long_name = "Brandenburg"
 load "plot-sub1.gp"
 
-colName = 'HB' ; col = 8
+short_name = 'HB' ; col = 8; long_name = "Bremen"
 load "plot-sub1.gp"
 
-colName = 'HH' ; col = 9
+short_name = 'HH' ; col = 9; long_name = "Hamburg"
 load "plot-sub1.gp"
 
-colName = 'HE' ; col = 10
+short_name = 'HE' ; col = 10; long_name = "Hessen"
 load "plot-sub1.gp"
 
-colName = 'MV' ; col = 11
+short_name = 'MV' ; col = 11; long_name = "Mecklenburg-Vorpommern"
 load "plot-sub1.gp"
 
-colName = 'NS' ; col = 12
+short_name = 'NI' ; col = 12; long_name = "Niedersachsen"
 load "plot-sub1.gp"
 
-colName = 'NW' ; col = 13
+short_name = 'NW' ; col = 13; long_name = "Nordrhein-Westfalen"
 load "plot-sub1.gp"
 
-colName = 'RP' ; col = 14
+short_name = 'RP' ; col = 14; long_name = "Rheinland-Pfalz"
 load "plot-sub1.gp"
 
-colName = 'SL' ; col = 15
+short_name = 'SL' ; col = 15; long_name = "Saarland"
 load "plot-sub1.gp"
 
-colName = 'SN' ; col = 16
+short_name = 'SN' ; col = 16; long_name = "Sachsen"
 load "plot-sub1.gp"
 
-colName = 'ST' ; col = 17
+short_name = 'ST' ; col = 17; long_name = "Sachsen-Anhalt"
 load "plot-sub1.gp"
 
-colName = 'SH' ; col = 18
+short_name = 'SH' ; col = 18; long_name = "Schleswig-Holstein"
 load "plot-sub1.gp"
 
-colName = 'TH' ; col = 19
+short_name = 'TH' ; col = 19; long_name = "Thüringen"
 load "plot-sub1.gp"
 
-colName = 'DE-total' ; col = 20
+short_name = 'DE-total' ; col = 20; long_name = "Deutschland"
 load "plot-sub1.gp"
 
 unset label 1
