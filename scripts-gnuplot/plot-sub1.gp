@@ -6,6 +6,7 @@ t_doubling = log(2) / b
 print sprintf ("%.1f days", t_doubling) . "\t " . colName
 set label 1 sprintf("Fit Ergebnisse\nVerdopplungszeit: %.1f Tage\nAnstiegsfaktor 1 Tag: %.0f%%\n  -> %d Fälle\nAnstiegsfaktor 7 Tage: %.0f%%\n  -> %d Fälle", t_doubling, (exp(b * 1)-1)*100, f(x_max+1), (exp(b * 7)-1)*100, f(x_max+7) )
 set output '../plots-gnuplot/cases-de-fit-'.colName.'.png'
+set xrange [0:x_max+1]
 plot data using 1:col title "data" with linespoints \
 , f(x) title sprintf ("fit") with lines
 unset output

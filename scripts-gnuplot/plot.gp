@@ -109,7 +109,7 @@ unset label 1
 
 # delete fit logfile
 `rm fit.log`
-
+unset xrange
 unset xlabel
 
 
