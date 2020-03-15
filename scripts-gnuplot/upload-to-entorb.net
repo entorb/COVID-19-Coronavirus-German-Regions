@@ -1,5 +1,0 @@
-# TODO: replace by rsync
-
-scp -r ../plots-gnuplot entorb@entorb.net:html/COVID-19-coronavirus/*.png
-scp -r ../plots-excel entorb@entorb.net:html/COVID-19-coronavirus/*.png
-

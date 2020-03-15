@@ -16,7 +16,7 @@ print sprintf (  long_name."\t".short_name."\t%d\t%.2f\t%.2f\t%.2f\t%.2f\t%d\t%.
 unset print 
 
 # plot 1: lin scale
-set label 2 sprintf("Fit Ergebnisse\nVerdopplungszeit: %.1f Tage\nAnstiegsfaktor 1 Tag: %.0f%%\n  -> %d Fälle\nAnstiegsfaktor 7 Tage: %.0f%%\n  -> %d Fälle", t_doubling, (exp(b * 1)-1)*100, y_last * exp(b * 1), (exp(b * 7)-1)*100, y_last * exp(b * 7) )
+set label 2 sprintf("Fit Ergebnisse\nVerdopplungszeit: %.1f Tage\nZunahme 1 Tag: %.0f%%\n  -> %d Fälle\nZunahme 7 Tage: %.0f%%\n  -> %d Fälle", t_doubling, (exp(b * 1)-1)*100, y_last * exp(b * 1), (exp(b * 7)-1)*100, y_last * exp(b * 7) )
 set label 3 "" .y_last right at first x_max - 0.25, first y_last 
 set output '../plots-gnuplot/cases-de-fit-'.short_name.'.png'
 set xrange [0:x_max+1]

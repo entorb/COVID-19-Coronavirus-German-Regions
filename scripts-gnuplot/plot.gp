@@ -164,8 +164,8 @@ set output '../plots-gnuplot/cases-de-fit-doubling-time.png'
 plot fit_data_file u 6:xticlabels(1) with boxes linecolor rgb "red"
 unset output
 set ytics format "%g%%" 
-set title "Fitergebnis Anstiegsfaktor 1 Tag (%)"
-set ylabel "Anstiegsfaktor 1 Tag"
+set title "Fitergebnis Zunahme 1 Tag"
+set ylabel "Zunahme 1 Tag"
 set output '../plots-gnuplot/cases-de-fit-increase-1-day.png'
 plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes linecolor rgb "red"
 unset output
