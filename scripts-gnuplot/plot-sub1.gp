@@ -11,7 +11,7 @@ plot data using 1:col title "data" with linespoints \
 , f(x) title sprintf ("fit") with lines
 unset output
 set logscale y
-set title "Fitting ".long_name. " log"
+set title "Fitting ".long_name. " - Logarithmische Skalierung"
 set output '../plots-gnuplot/cases-de-fit-'.short_name.'-log.png'
 replot
 unset output
