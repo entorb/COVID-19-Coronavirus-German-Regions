@@ -49,10 +49,21 @@ f(x)=a * exp(b * x)
 
 
 #set key off
-# text will be inserted later on
-set label 1 "" right front at graph 0.98, graph 0.22
 # font ",20" 
 print ("Doubling time")
+# write header line into fit output file
+fit_data_file = "../data/cases-de-gnuplot-fit.csv"
+set print fit_data_file
+print "# Region\tShort\ta\tb\tCases\tDoubling time\tfactor t+1\tcases t+1\tfactor t+7\tcases t+7"
+unset print
+
+# fetch data from last row of data
+x_max = ( system("tail -1 " . data . " | cut -f1") + 0 )
+date_last = system("tail -1 " . data . " | cut -f2")
+
+# text will be inserted later on
+set label 1 "by Torben (https://entorb.net) based on RKI data of ".date_last rotate by 90 center at screen 0.985, screen 0.5
+set label 2 "" right front at graph 0.98, graph 0.22
 
 short_name = 'BW' ; col = 4; long_name = "Baden-Württemberg"
 load "plot-sub1.gp"
@@ -105,14 +116,13 @@ load "plot-sub1.gp"
 short_name = 'DE-total' ; col = 20; long_name = "Deutschland"
 load "plot-sub1.gp"
 
-unset label 1
+unset label 2
+unset label 3
 
 # delete fit logfile
 `rm fit.log`
 unset xrange
 unset xlabel
-
-
 
 # now lets compare several stats
 set timefmt '%d.%m.%Y %H:%M'
@@ -138,3 +148,32 @@ set output '../plots-gnuplot/cases-de-comparison-log.png'
 replot
 unset output
 unset logscale y
+unset xdata
+
+# let's plot the fit data as boxes
+set title "Fitergebnis Verdopplungszeit (Tage)"
+set ylabel "Verdopplungszeit (Tage)"
+set xtics rotate by 60 offset 1,0 right
+set ytics format "%.1f" 
+set bmargin 10.5
+set style fill solid 0.5 border 0
+set boxwidth 0.75 relative
+set key off
+set yrange [0:]
+set output '../plots-gnuplot/cases-de-fit-doubling-time.png'
+plot fit_data_file u 6:xticlabels(1) with boxes linecolor rgb "red"
+unset output
+set ytics format "%g%%" 
+set title "Fitergebnis Anstiegsfaktor 1 Tag (%)"
+set ylabel "Anstiegsfaktor 1 Tag"
+set output '../plots-gnuplot/cases-de-fit-increase-1-day.png'
+plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes linecolor rgb "red"
+unset output
+
+
+unset yrange
+unset style
+unset boxwidth
+unset bmargin
+unset xtics
+unset ytics
