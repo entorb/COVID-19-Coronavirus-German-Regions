@@ -1,6 +1,9 @@
-title = "Fitting Fälle in ".long_name
+title = "Fitting Infektionen in ".long_name
 set title title
 # fitting
+f(x)=a * exp(b * x)
+a = 50.0
+b = 0.2
 fit f(x) data using 1:col via a, b
 # stats data using 1:col nooutput
 # x_max = STATS_max_x

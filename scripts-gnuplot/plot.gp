@@ -23,8 +23,8 @@ set ytics mirror
 set title "Titel"
 # set ylabel "Cases"
 # set xlabel "Days since first data"
-set ylabel "Fälle"
-set xlabel "Tage seit erstem Datenpunkt"
+set ylabel "Infektionen"
+set xlabel "Tage seit erstem Datenpunkt (28.02.20)"
 
 
 set key top left box
@@ -43,10 +43,6 @@ set key top left box
 # -> t = ln (2) / b
 
 set fit quiet
-a = 50.0
-b = 0.2
-f(x)=a * exp(b * x)
-
 
 #set key off
 # font ",20" 
@@ -130,7 +126,8 @@ set format x '%d.%m'
 set xdata time
 
 # set key on
-set title "Comparison"
+title = "Vergleich ausgewählter Regionen"
+set title title
 set output '../plots-gnuplot/cases-de-comparison.png'
 plot \
  data using 2:20 title "DE total" with linespoints \
@@ -143,7 +140,7 @@ unset output
 
 set logscale y
 # set format y "10^{%L}"
-set title "Comparison log"
+set title title ." - Logarithmische Skalierung"
 set output '../plots-gnuplot/cases-de-comparison-log.png'
 replot
 unset output
@@ -164,8 +161,8 @@ set output '../plots-gnuplot/cases-de-fit-doubling-time.png'
 plot fit_data_file u 6:xticlabels(1) with boxes linecolor rgb "red"
 unset output
 set ytics format "%g%%" 
-set title "Fitergebnis Zunahme 1 Tag"
-set ylabel "Zunahme 1 Tag"
+set title "Fitergebnis Zunahme Infektionen pro Tag"
+set ylabel "Zunahme Infektionen pro Tag"
 set output '../plots-gnuplot/cases-de-fit-increase-1-day.png'
 plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes linecolor rgb "red"
 unset output
