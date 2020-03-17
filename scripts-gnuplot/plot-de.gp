@@ -12,7 +12,7 @@ set title "Titel"
 # set ylabel "Cases"
 # set xlabel "Days since first data"
 set ylabel "Infektionen"
-set xlabel "Tage seit erstem Datenpunkt (28.02.20)"
+set xlabel "Tage"
 
 
 set key top left box
@@ -42,63 +42,64 @@ print "# Region\tShort\ta\tb\tCases\tDoubling time\tfactor t+1\tcases t+1\tfacto
 unset print
 
 # fetch data from last row of data
+x_min = ( system("head -n 2 " . data . " | tail -1 | cut -f1") + 0 )
 x_max = ( system("tail -1 " . data . " | cut -f1") + 0 )
 date_last = system("tail -1 " . data . " | cut -f2")
 
 # text will be inserted later on
-set label 1 "by Torben (https://entorb.net) based on RKI data of ".date_last rotate by 90 center at screen 0.985, screen 0.5
+set label 1 label1_text_right." based on RKI data of ".date_last
 set label 2 "" right front at graph 0.98, graph 0.22
 
 short_name = 'BW' ; col = 4; long_name = "Baden-Württemberg"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'BY' ; col = 5; long_name = "Bayern"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'BE' ; col = 6; long_name = "Berlin"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'BB' ; col = 7; long_name = "Brandenburg"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'HB' ; col = 8; long_name = "Bremen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'HH' ; col = 9; long_name = "Hamburg"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'HE' ; col = 10; long_name = "Hessen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'MV' ; col = 11; long_name = "Mecklenburg-Vorpommern"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'NI' ; col = 12; long_name = "Niedersachsen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'NW' ; col = 13; long_name = "Nordrhein-Westfalen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'RP' ; col = 14; long_name = "Rheinland-Pfalz"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'SL' ; col = 15; long_name = "Saarland"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'SN' ; col = 16; long_name = "Sachsen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'ST' ; col = 17; long_name = "Sachsen-Anhalt"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'SH' ; col = 18; long_name = "Schleswig-Holstein"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'TH' ; col = 19; long_name = "Thüringen"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 short_name = 'DE-total' ; col = 20; long_name = "Deutschland"
-load "plot-sub1.gp"
+load "plot-de-sub1.gp"
 
 unset label 2
 unset label 3
@@ -145,14 +146,17 @@ set style fill solid 0.5 border 0
 set boxwidth 0.75 relative
 set key off
 set yrange [0:]
+y_value_de = ( system("tail -1 " . fit_data_file . " | cut -f6") + 0)
 set output '../plots-gnuplot/cases-de-fit-doubling-time.png'
-plot fit_data_file u 6:xticlabels(1) with boxes linecolor rgb "red"
+plot fit_data_file u 6:xticlabels(1) with boxes ls 11, y_value_de
 unset output
 set ytics format "%g%%" 
 set title "Fitergebnis Zunahme Infektionen pro Tag"
 set ylabel "Zunahme Infektionen pro Tag"
+y_value_de = ( system("tail -1 " . fit_data_file . " | cut -f7") + 0)
+y_value_de = (y_value_de-1)*100
 set output '../plots-gnuplot/cases-de-fit-increase-1-day.png'
-plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes linecolor rgb "red"
+plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes ls 11, y_value_de
 unset output
 
 
