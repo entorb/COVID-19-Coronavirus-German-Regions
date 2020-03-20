@@ -7,23 +7,27 @@ x_max = ( system("tail -1 " . data . " | cut -f1") + 0 )
 y_last = ( system("tail -1 " . data . " | cut -f".col) + 0)
 date_last = system("tail -1 " . data . " | cut -f2")
 
-title = "Fitting Deaths in ".country_name
+print country_name
+
+title = "Fitting Casulties in ".country_name
 set title title
 set label 1 label1_text_right." based on JHU data of ".date_last
 
-set xrange [x_min:x_max+1]
-
-# Important: remove 0 values from fit
-set yrange [1:] 
-
 # fitting
+# fit only the last 14 days and death > 2
+set xrange [-14:0]
+set yrange [2:]
 f(x)=a * exp(b * x)
 a = y_last # initial value
 b = 0.24
 fit f(x) data using 1:col via a, b
 t_doubling = log(2) / b
-print sprintf (country_name."\t%.1f days", t_doubling)
 
+print sprintf (country_code."\t%.1f days", t_doubling)
+# write fit results to file
+set print fit_data_file append
+print sprintf (  country_name."\t".country_code."\t%d\t%.2f\t%.2f\t%.2f\t%.2f\t%d\t%.2f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
+unset print 
 # guide lines
 f2(x)=a2 * exp(log(2)/2 * x)
 f3(x)=a3 * exp(log(2)/3 * x)
@@ -31,6 +35,10 @@ fit f2(x) data using 1:col via a2
 fit f3(x) data using 1:col via a3
 
 
+# plot range filters != fit range filters 
+# set xrange [x_min:x_max+1]
+set xrange [-30:x_max+1]
+set yrange [1:] 
 
 set key top left box
 # plot 1: lin scale
@@ -49,3 +57,5 @@ set output '../plots-gnuplot/deaths-'.country_code.'-fit-log.png'
 replot
 unset output
 unset logscale y
+
+

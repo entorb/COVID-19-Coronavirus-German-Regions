@@ -1,6 +1,7 @@
 title = "Fitting Infektionen in ".long_name
 set title title
 # fitting
+
 set xrange [x_min:x_max+1]
 
 # fetch data from last row of data

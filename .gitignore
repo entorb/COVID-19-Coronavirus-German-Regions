@@ -1,4 +1,5 @@
 .vscode
 .DS_Store
 ~$*.xlsx
-plots-gnuplot/*
+**/plots-gnuplot/*
+**/data/international-timeseries.json

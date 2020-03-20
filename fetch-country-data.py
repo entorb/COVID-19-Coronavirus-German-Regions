@@ -61,6 +61,8 @@ def read_ref_selected_countries() -> dict:
     with open('data/ref_selected_countries.csv', mode='r', encoding='utf-8') as f:
         csv_reader = csv.DictReader(f, dialect='excel', delimiter=";")
         for row in csv_reader:
+            if row["Country"][0] == '#':
+                continue
             d = {}
             for key in ('Code',):
                 d[key] = row[key]
@@ -99,7 +101,7 @@ def extract_latest_date_data_selected():
     with open('data/countries-latest-selected.csv', 'w') as f:
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(
-            ('Country', 'Date', 'Confirmed', 'Deaths', 'Recovered',
+            ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered',
              'Confirmed_per_Million', 'Deaths_per_Million', 'Recovered_per_Million')
         )
         for country in sorted(d_selected_countries.keys(), key=str.casefold):
@@ -146,15 +148,16 @@ def export_time_series_selected_countries():
             )
             i = 1-len(country_data)  # last date gets number 0
             for entry in country_data:
-                csvwriter.writerow(
-                    (i, entry['date'], entry['confirmed'], entry['deaths'], entry['recovered'], "%.3f" % (
-                        entry['confirmed']/pop_in_Mill), "%.3f" % (entry['deaths']/pop_in_Mill), "%.3f" % (entry['recovered']/pop_in_Mill))
-                )
+                if i > -30:
+                    csvwriter.writerow(
+                        (i, entry['date'], entry['confirmed'], entry['deaths'], entry['recovered'], "%.3f" % (
+                            entry['confirmed']/pop_in_Mill), "%.3f" % (entry['deaths']/pop_in_Mill), "%.3f" % (entry['recovered']/pop_in_Mill))
+                    )
                 i += 1
 
 
 # TODO: uncomment once a day
-# download_new_data()
+download_new_data()
 
 
 d_selected_countries = read_ref_selected_countries()
