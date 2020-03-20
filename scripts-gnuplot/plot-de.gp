@@ -5,7 +5,7 @@
 
 load "header.gp"
 
-data = '../data/cases-de.csv'
+data = '../data/cases-de.tsv'
 
 
 set title "Titel"
@@ -36,7 +36,7 @@ set fit quiet
 # font ",20" 
 print ("Doubling time")
 # write header line into fit output file
-fit_data_file = "../data/cases-de-gnuplot-fit.csv"
+fit_data_file = "../data/cases-de-gnuplot-fit.tsv"
 set print fit_data_file
 print "# Region\tShort\ta\tb\tCases\tDoubling time\tfactor t+1\tcases t+1\tfactor t+7\tcases t+7"
 unset print

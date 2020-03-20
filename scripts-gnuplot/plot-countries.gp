@@ -5,7 +5,7 @@
 
 load "header.gp"
 
-data = '../data/countries-latest-selected.csv'
+data = '../data/countries-latest-selected.tsv'
 
 date_last = system("tail -1 " . data . " | cut -f2")
 
@@ -54,7 +54,7 @@ unset logscale y
 
 title = "Duplications until hitting Italy's casulties per capita\n(larger means more time to prepare)"
 set yrange [0:]
-deaths_per_million_of_IT = system ("grep Italy ../data/countries-latest-selected.csv| tail -1 | cut -f7") + 0
+deaths_per_million_of_IT = system ("grep Italy ../data/countries-latest-selected.tsv| tail -1 | cut -f7") + 0
 print deaths_per_million_of_IT
 set title title
 set ylabel "Duplications"
@@ -62,7 +62,7 @@ set output '../plots-gnuplot/countries-duplications-until-IT-level-of-casulties.
 plot data u (log(deaths_per_million_of_IT/$7)/log(2)):xticlabels(1) with boxes ls 11
 unset output
 
-# combining the duplications until reaching IT level from countries-latest-selected.csv and the duplication time from countries-gnuplot-fit.csv
+# combining the duplications until reaching IT level from countries-latest-selected.tsv and the duplication time from countries-gnuplot-fit.tsv
 # this needs the python script join-country-latest-and-fit-data.py to run first after plotting
 set title "Days until hitting Italy's casulties per capita\nbased on current casulties and fitted duplication time"
 set ylabel "Days (estimated)"
@@ -70,7 +70,7 @@ set yrange [0:28]
 set ytics 0,7
 out = system ("cd .. ; python join-country-latest-and-fit-data.py ; cd scripts-gnuplot")
 print out
-data = '../data/countries-joined_selected_and_gnuplot_fit.csv'
+data = '../data/countries-joined_selected_and_gnuplot_fit.tsv'
 set output '../plots-gnuplot/countries-days-until-IT-level-of-casulties.png'
 plot data u 18:xticlabels(1) with boxes ls 11
 unset output
@@ -87,7 +87,7 @@ set xlabel "Days"
 
 col = 4
 
-fit_data_file = "../data/countries-gnuplot-fit.csv"
+fit_data_file = "../data/countries-gnuplot-fit.tsv"
 set print fit_data_file
 print "# Country\tCode\ta\tb\tDeaths\tDoubling time\tFactor at t+1\tDeaths at t+1\tFactor at t+7\tDeaths at t+7"
 unset print

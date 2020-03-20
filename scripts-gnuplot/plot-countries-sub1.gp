@@ -1,4 +1,4 @@
-data = "../data/countries-timeseries-".country_code.".csv"
+data = "../data/countries-timeseries-".country_code.".tsv"
 
 # fetch data from last row of data
 x_min = ( system("head -n 2 " . data . " | tail -1 | cut -f1") + 0 )

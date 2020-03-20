@@ -56,10 +56,10 @@ def read_json_data() -> dict:
 
 
 def read_ref_selected_countries() -> dict:
-    "reads data for selected countries from csv file and returns it as dict"
+    "reads data for selected countries from tsv file and returns it as dict"
     d_countries = {}
-    with open('data/ref_selected_countries.csv', mode='r', encoding='utf-8') as f:
-        csv_reader = csv.DictReader(f, dialect='excel', delimiter=";")
+    with open('data/ref_selected_countries.tsv', mode='r', encoding='utf-8') as f:
+        csv_reader = csv.DictReader(f, dialect='excel', delimiter="\t")
         for row in csv_reader:
             if row["Country"][0] == '#':
                 continue
@@ -77,9 +77,9 @@ def read_ref_selected_countries() -> dict:
 def extract_latest_date_data():
     """
     for all countries in json: extract latest entry
-    writes to data/countries-latest-all.csv
+    writes to data/countries-latest-all.tsv
     """
-    with open('data/countries-latest-all.csv', 'w') as f:
+    with open('data/countries-latest-all.tsv', 'w') as f:
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(  # header row
             ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered')
@@ -96,9 +96,9 @@ def extract_latest_date_data():
 def extract_latest_date_data_selected():
     """
     for my selected countries: extract latest of json and calculate per capita values
-    writes to data/countries-latest-selected.csv
+    writes to data/countries-latest-selected.tsv
     """
-    with open('data/countries-latest-selected.csv', 'w') as f:
+    with open('data/countries-latest-selected.tsv', 'w') as f:
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(
             ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered',
@@ -140,7 +140,7 @@ def export_time_series_selected_countries():
         country_data = d_json_data[country]
         pop_in_Mill = d_selected_countries[country]['Population'] / 1000000
 
-        with open(f'data/countries-timeseries-{country_code}.csv', 'w') as f:
+        with open(f'data/countries-timeseries-{country_code}.tsv', 'w') as f:
             csvwriter = csv.writer(f, delimiter="\t")
             csvwriter.writerow(  # header row
                 ('#', 'Date', 'Confirmed', 'Deaths', 'Recovered',
