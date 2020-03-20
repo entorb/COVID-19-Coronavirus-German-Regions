@@ -54,15 +54,28 @@ unset logscale y
 
 title = "Duplications until hitting Italy's casulties per capita\n(larger means more time to prepare)"
 set yrange [0:]
-death_per_mill_IT = system ("grep Italy ../data/countries-latest-selected.csv| tail -1 | cut -f7") + 0
-print death_per_mill_IT
+deaths_per_million_of_IT = system ("grep Italy ../data/countries-latest-selected.csv| tail -1 | cut -f7") + 0
+print deaths_per_million_of_IT
 set title title
 set ylabel "Duplications"
 set output '../plots-gnuplot/countries-duplications-until-IT-level-of-casulties.png'
-plot data u (log(death_per_mill_IT/$7)/log(2)):xticlabels(1) with boxes ls 11
+plot data u (log(deaths_per_million_of_IT/$7)/log(2)):xticlabels(1) with boxes ls 11
 unset output
 
-
+# combining the duplications until reaching IT level from countries-latest-selected.csv and the duplication time from countries-gnuplot-fit.csv
+# this needs the python script join-country-latest-and-fit-data.py to run first after plotting
+set title "Days until hitting Italy's casulties per capita\nbased on current casulties and fitted duplication time"
+set ylabel "Days (estimated)"
+set yrange [0:28]
+set ytics 0,7
+out = system ("cd .. ; python join-country-latest-and-fit-data.py ; cd scripts-gnuplot")
+print out
+data = '../data/countries-joined_selected_and_gnuplot_fit.csv'
+set output '../plots-gnuplot/countries-days-until-IT-level-of-casulties.png'
+plot data u 18:xticlabels(1) with boxes ls 11
+unset output
+unset yrange
+unset ytics
 # plot and fit time series
 
 
@@ -76,7 +89,7 @@ col = 4
 
 fit_data_file = "../data/countries-gnuplot-fit.csv"
 set print fit_data_file
-print "# Country\tCode\ta\tb\tCases\tDoubling time\tfactor t+1\tcases t+1\tfactor t+7\tcases t+7"
+print "# Country\tCode\ta\tb\tDeaths\tDoubling time\tFactor at t+1\tDeaths at t+1\tFactor at t+7\tDeaths at t+7"
 unset print
 
 country_code = "AT" ; country_name = "Austria" ; load "plot-countries-sub1.gp"
@@ -84,13 +97,14 @@ country_code = "BE" ; country_name = "Belgium" ; load "plot-countries-sub1.gp"
 # country_code = "FI" ; country_name = "Finland" ; load "plot-countries-sub1.gp"
 country_code = "FR" ; country_name = "France" ; load "plot-countries-sub1.gp"
 country_code = "DE" ; country_name = "Germany" ; load "plot-countries-sub1.gp"
-# country_code = "HU" ; country_name = "Hungary" ; load "plot-countries-sub1.gp"
+country_code = "HU" ; country_name = "Hungary" ; load "plot-countries-sub1.gp"
 country_code = "IR" ; country_name = "Iran" ; load "plot-countries-sub1.gp"
 country_code = "IT" ; country_name = "Italy" ; load "plot-countries-sub1.gp"
 country_code = "JP" ; country_name = "Japan" ; load "plot-countries-sub1.gp"
 country_code = "KR" ; country_name = "Korea, South" ; load "plot-countries-sub1.gp"
 country_code = "NL" ; country_name = "Netherlands" ; load "plot-countries-sub1.gp"
 country_code = "ES" ; country_name = "Spain" ; load "plot-countries-sub1.gp"
+country_code = "SE" ; country_name = "Sweden" ; load "plot-countries-sub1.gp"
 country_code = "CH" ; country_name = "Switzerland" ; load "plot-countries-sub1.gp"
 country_code = "UK" ; country_name = "United Kingdom" ; load "plot-countries-sub1.gp"
 country_code = "US" ; country_name = "US" ; load "plot-countries-sub1.gp"
@@ -106,7 +120,7 @@ unset xlabel
 unset ylabel
 
 # let's plot the fit data as boxes
-set title "Fiterresult Casulties Doubling Time (days)"
+set title "Fit Result: Casulties Doubling Time (days)"
 set ylabel "Casulties Doubling Time (days)"
 set xtics rotate by 60 offset 1,0 right
 set ytics format "%g" 
@@ -121,7 +135,7 @@ plot fit_data_file u 6:xticlabels(1) with boxes ls 11
 #, y_value_de
 unset output
 set ytics format "%g%%" 
-set title "Fiterresult Increase of Casulties per Day"
+set title "Fit Result: Increase of Casulties per Day"
 set ylabel "Increase Casulties per Day"
 # y_value_de = ( system("tail -1 " . fit_data_file . " | cut -f7") + 0)
 # y_value_de = (y_value_de-1)*100
@@ -129,3 +143,4 @@ set output '../plots-gnuplot/countries-fit-deaths-increase-1-day.png'
 plot fit_data_file u (($7-1)*100):xticlabels(1) with boxes ls 11
 # , y_value_de
 unset output
+

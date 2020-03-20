@@ -6,11 +6,11 @@ This script downloads COVID-19 / coronavirus data provided by https://github.com
 
 """
 
+import json
+import urllib.request
+import csv
 
 # Built-in/Generic Imports
-import csv
-import urllib.request
-import json
 
 # Author and version info
 __author__ = "Dr. Torben Menke"
@@ -159,7 +159,6 @@ def export_time_series_selected_countries():
 # TODO: uncomment once a day
 download_new_data()
 
-
 d_selected_countries = read_ref_selected_countries()
 
 d_json_data = read_json_data()
@@ -172,16 +171,12 @@ extract_latest_date_data_selected()
 
 export_time_series_selected_countries()
 
+print("latest date in DE set: " + d_json_data['Germany'][-1]['date'])
 
-# TODO
-# export time series for interesting countries to files
+
+# IDEAS
 
 # DONE
-# am I missing further intersting countries ?
 # for selected countries write into csv: all 3 data per capita
-
-# data_de = json_data['Germany']
-# for entry in data_de:
-#     print(
-#         f"{entry['date']}\t{entry['confirmed']}\t{entry['deaths']}\t{entry['recovered']}")
-# print(json_data)
+# am I missing further intersting countries ?
+# export time series for interesting countries to files

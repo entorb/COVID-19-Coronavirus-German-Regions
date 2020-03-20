@@ -1,5 +1,7 @@
 .vscode
 .DS_Store
 ~$*.xlsx
+index.html
 **/plots-gnuplot/*
 **/data/international-timeseries.json
+**/backup/*
