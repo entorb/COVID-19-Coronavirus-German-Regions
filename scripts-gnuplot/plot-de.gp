@@ -50,62 +50,29 @@ date_last = system("tail -1 " . data . " | cut -f2")
 set label 1 label1_text_right." based on RKI data of ".date_last
 set label 2 "" right front at graph 0.98, graph 0.22
 
-short_name = 'BW' ; col = 4; long_name = "Baden-Württemberg"
-load "plot-de-sub1.gp"
-
-short_name = 'BY' ; col = 5; long_name = "Bayern"
-load "plot-de-sub1.gp"
-
-short_name = 'BE' ; col = 6; long_name = "Berlin"
-load "plot-de-sub1.gp"
-
-short_name = 'BB' ; col = 7; long_name = "Brandenburg"
-load "plot-de-sub1.gp"
-
-short_name = 'HB' ; col = 8; long_name = "Bremen"
-load "plot-de-sub1.gp"
-
-short_name = 'HH' ; col = 9; long_name = "Hamburg"
-load "plot-de-sub1.gp"
-
-short_name = 'HE' ; col = 10; long_name = "Hessen"
-load "plot-de-sub1.gp"
-
-short_name = 'MV' ; col = 11; long_name = "Mecklenburg-Vorpommern"
-load "plot-de-sub1.gp"
-
-short_name = 'NI' ; col = 12; long_name = "Niedersachsen"
-load "plot-de-sub1.gp"
-
-short_name = 'NW' ; col = 13; long_name = "Nordrhein-Westfalen"
-load "plot-de-sub1.gp"
-
-short_name = 'RP' ; col = 14; long_name = "Rheinland-Pfalz"
-load "plot-de-sub1.gp"
-
-short_name = 'SL' ; col = 15; long_name = "Saarland"
-load "plot-de-sub1.gp"
-
-short_name = 'SN' ; col = 16; long_name = "Sachsen"
-load "plot-de-sub1.gp"
-
-short_name = 'ST' ; col = 17; long_name = "Sachsen-Anhalt"
-load "plot-de-sub1.gp"
-
-short_name = 'SH' ; col = 18; long_name = "Schleswig-Holstein"
-load "plot-de-sub1.gp"
-
-short_name = 'TH' ; col = 19; long_name = "Thüringen"
-load "plot-de-sub1.gp"
-
-short_name = 'DE-total' ; col = 20; long_name = "Deutschland"
-load "plot-de-sub1.gp"
-
-unset label 2
-unset label 3
+short_name = 'BW' ; col = 4 ; long_name = "Baden-Württemberg" ; load "plot-de-sub1.gp"
+short_name = 'BY' ; col = 5; long_name = "Bayern" ; load "plot-de-sub1.gp"
+short_name = 'BE' ; col = 6; long_name = "Berlin" ; load "plot-de-sub1.gp"
+short_name = 'BB' ; col = 7; long_name = "Brandenburg" ; load "plot-de-sub1.gp"
+short_name = 'HB' ; col = 8; long_name = "Bremen" ; load "plot-de-sub1.gp"
+short_name = 'HH' ; col = 9; long_name = "Hamburg" ; load "plot-de-sub1.gp"
+short_name = 'HE' ; col = 10; long_name = "Hessen" ; load "plot-de-sub1.gp"
+short_name = 'MV' ; col = 11; long_name = "Mecklenburg-Vorpommern" ; load "plot-de-sub1.gp"
+short_name = 'NI' ; col = 12; long_name = "Niedersachsen" ; load "plot-de-sub1.gp"
+short_name = 'NW' ; col = 13; long_name = "Nordrhein-Westfalen" ; load "plot-de-sub1.gp"
+short_name = 'RP' ; col = 14; long_name = "Rheinland-Pfalz" ; load "plot-de-sub1.gp"
+short_name = 'SL' ; col = 15; long_name = "Saarland" ; load "plot-de-sub1.gp"
+short_name = 'SN' ; col = 16; long_name = "Sachsen" ; load "plot-de-sub1.gp"
+short_name = 'ST' ; col = 17; long_name = "Sachsen-Anhalt" ; load "plot-de-sub1.gp"
+short_name = 'SH' ; col = 18; long_name = "Schleswig-Holstein" ; load "plot-de-sub1.gp"
+short_name = 'TH' ; col = 19; long_name = "Thüringen" ; load "plot-de-sub1.gp"
+short_name = 'DE-total' ; col = 20; long_name = "Deutschland" ; load "plot-de-sub1.gp"
 
 # delete fit logfile
 `rm fit.log`
+
+unset label 2
+unset label 3
 unset xrange
 unset xlabel
 
