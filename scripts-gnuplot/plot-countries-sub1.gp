@@ -26,7 +26,7 @@ t_doubling = log(2) / b
 print sprintf (country_code."\t%.1f days", t_doubling)
 # write fit results to file
 set print fit_data_file append
-print sprintf (  country_name."\t".country_code."\t%d\t%.2f\t%.2f\t%.2f\t%.2f\t%d\t%.2f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
+print sprintf (  country_name."\t".country_code."\t%d\t%.3f\t%.3f\t%.3f\t%.3f\t%d\t%.3f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
 unset print 
 # guide lines
 f2(x)=a2 * exp(log(2)/2 * x)
