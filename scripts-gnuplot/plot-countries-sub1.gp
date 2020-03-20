@@ -9,7 +9,7 @@ date_last = system("tail -1 " . data . " | cut -f2")
 
 print country_name
 
-title = "Fitting Casulties in ".country_name
+title = "Fitting Casualties in ".country_name
 set title title
 set label 1 label1_text_right." based on JHU data of ".date_last
 
