@@ -102,7 +102,7 @@ def extract_latest_date_data_selected():
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(
             ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered',
-             'Confirmed_per_Million', 'Deaths_per_Million', 'Recovered_per_Million')
+             'Confirmed per Million', 'Deaths per Million', 'Recovered per Million')
         )
         for country in sorted(d_selected_countries.keys(), key=str.casefold):
             country_data = d_json_data[country]
@@ -144,7 +144,7 @@ def export_time_series_selected_countries():
             csvwriter = csv.writer(f, delimiter="\t")
             csvwriter.writerow(  # header row
                 ('#', 'Date', 'Confirmed', 'Deaths', 'Recovered',
-                 'Confirmed_per_Million', 'Deaths_per_Million', 'Recovered_per_Million')
+                 'Confirmed per Million', 'Deaths per Million', 'Recovered per Million')
             )
             i = 1-len(country_data)  # last date gets number 0
             for entry in country_data:

@@ -1,4 +1,4 @@
-# Country	Date	Confirmed	Deaths	Recovered	Confirmed_per_Million	Deaths_per_Million	Recovered_per_Million	Code	a	b	Deaths	Doubling time	Factor at t+1	Deaths at t+1	Factor at t+7	Deaths at t+7	Days till deaths/pop of Italy
+# Country	Date	Confirmed	Deaths	Recovered	Confirmed per Million	Deaths per Million	Recovered per Million	Code	a	b	Deaths	Doubling time	Factor at t+1	Deaths at t+1	Factor at t+7	Deaths at t+7	Days till deaths/pop of Italy
 Austria	19.03.2020	2013	6	9	226.114	0.674	1.011	AT	6	5.96	0.34	2.05	1.40	8	10.61	63	13.1
 Belgium	19.03.2020	1795	21	31	155.873	1.824	2.692	BE	21	20.62	0.37	1.86	1.45	30	13.58	285	9.2
 France	19.03.2020	10947	243	12	163.334	3.626	0.179	FR	243	226.88	0.21	3.34	1.23	299	4.27	1038	13.2
