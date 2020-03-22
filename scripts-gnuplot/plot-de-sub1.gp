@@ -35,7 +35,7 @@ t_doubling = log(2) / b
 print sprintf (short_name."\t%.1f days", t_doubling)
 # write fit results to file
 set print fit_data_file append
-print sprintf (  long_name."\t".short_name."\t%d\t%.2f\t%.2f\t%.2f\t%.2f\t%d\t%.2f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
+print sprintf (  long_name."\t".short_name."\t%d\t%.3f\t%.3f\t%.3f\t%.3f\t%d\t%.3f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
 unset print 
 
 # plot 1: lin scale

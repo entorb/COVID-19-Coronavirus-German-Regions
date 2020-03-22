@@ -6,11 +6,11 @@ This script downloads COVID-19 / coronavirus data provided by https://github.com
 
 """
 
+import json
+import urllib.request
+import csv
 
 # Built-in/Generic Imports
-import csv
-import urllib.request
-import json
 
 # Author and version info
 __author__ = "Dr. Torben Menke"
@@ -56,10 +56,10 @@ def read_json_data() -> dict:
 
 
 def read_ref_selected_countries() -> dict:
-    "reads data for selected countries from csv file and returns it as dict"
+    "reads data for selected countries from tsv file and returns it as dict"
     d_countries = {}
-    with open('data/ref_selected_countries.csv', mode='r', encoding='utf-8') as f:
-        csv_reader = csv.DictReader(f, dialect='excel', delimiter=";")
+    with open('data/ref_selected_countries.tsv', mode='r', encoding='utf-8') as f:
+        csv_reader = csv.DictReader(f, dialect='excel', delimiter="\t")
         for row in csv_reader:
             if row["Country"][0] == '#':
                 continue
@@ -77,9 +77,9 @@ def read_ref_selected_countries() -> dict:
 def extract_latest_date_data():
     """
     for all countries in json: extract latest entry
-    writes to data/countries-latest-all.csv
+    writes to data/countries-latest-all.tsv
     """
-    with open('data/countries-latest-all.csv', 'w') as f:
+    with open('data/countries-latest-all.tsv', 'w') as f:
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(  # header row
             ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered')
@@ -96,13 +96,13 @@ def extract_latest_date_data():
 def extract_latest_date_data_selected():
     """
     for my selected countries: extract latest of json and calculate per capita values
-    writes to data/countries-latest-selected.csv
+    writes to data/countries-latest-selected.tsv
     """
-    with open('data/countries-latest-selected.csv', 'w') as f:
+    with open('data/countries-latest-selected.tsv', 'w') as f:
         csvwriter = csv.writer(f, delimiter="\t")
         csvwriter.writerow(
             ('# Country', 'Date', 'Confirmed', 'Deaths', 'Recovered',
-             'Confirmed_per_Million', 'Deaths_per_Million', 'Recovered_per_Million')
+             'Confirmed per Million', 'Deaths per Million', 'Recovered per Million')
         )
         for country in sorted(d_selected_countries.keys(), key=str.casefold):
             country_data = d_json_data[country]
@@ -140,11 +140,11 @@ def export_time_series_selected_countries():
         country_data = d_json_data[country]
         pop_in_Mill = d_selected_countries[country]['Population'] / 1000000
 
-        with open(f'data/countries-timeseries-{country_code}.csv', 'w') as f:
+        with open(f'data/countries-timeseries-{country_code}.tsv', 'w') as f:
             csvwriter = csv.writer(f, delimiter="\t")
             csvwriter.writerow(  # header row
                 ('#', 'Date', 'Confirmed', 'Deaths', 'Recovered',
-                 'Confirmed_per_Million', 'Deaths_per_Million', 'Recovered_per_Million')
+                 'Confirmed per Million', 'Deaths per Million', 'Recovered per Million')
             )
             i = 1-len(country_data)  # last date gets number 0
             for entry in country_data:
@@ -159,7 +159,6 @@ def export_time_series_selected_countries():
 # TODO: uncomment once a day
 download_new_data()
 
-
 d_selected_countries = read_ref_selected_countries()
 
 d_json_data = read_json_data()
@@ -172,16 +171,12 @@ extract_latest_date_data_selected()
 
 export_time_series_selected_countries()
 
+print("latest date in DE set: " + d_json_data['Germany'][-1]['date'])
 
-# TODO
-# export time series for interesting countries to files
+
+# IDEAS
 
 # DONE
-# am I missing further intersting countries ?
 # for selected countries write into csv: all 3 data per capita
-
-# data_de = json_data['Germany']
-# for entry in data_de:
-#     print(
-#         f"{entry['date']}\t{entry['confirmed']}\t{entry['deaths']}\t{entry['recovered']}")
-# print(json_data)
+# am I missing further intersting countries ?
+# export time series for interesting countries to files

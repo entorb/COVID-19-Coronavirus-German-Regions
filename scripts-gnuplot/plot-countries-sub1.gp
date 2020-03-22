@@ -1,4 +1,4 @@
-data = "../data/countries-timeseries-".country_code.".csv"
+data = "../data/countries-timeseries-".country_code.".tsv"
 
 # fetch data from last row of data
 x_min = ( system("head -n 2 " . data . " | tail -1 | cut -f1") + 0 )
@@ -9,7 +9,7 @@ date_last = system("tail -1 " . data . " | cut -f2")
 
 print country_name
 
-title = "Fitting Casulties in ".country_name
+title = "Fitting Casualties in ".country_name
 set title title
 set label 1 label1_text_right." based on JHU data of ".date_last
 
@@ -26,7 +26,7 @@ t_doubling = log(2) / b
 print sprintf (country_code."\t%.1f days", t_doubling)
 # write fit results to file
 set print fit_data_file append
-print sprintf (  country_name."\t".country_code."\t%d\t%.2f\t%.2f\t%.2f\t%.2f\t%d\t%.2f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
+print sprintf (  country_name."\t".country_code."\t%d\t%.3f\t%.3f\t%.3f\t%.3f\t%d\t%.3f\t%d", y_last, a, b, t_doubling, exp(b * 1), y_last * exp(b * 1), exp(b * 7), y_last * exp(b * 7)   )
 unset print 
 # guide lines
 f2(x)=a2 * exp(log(2)/2 * x)
