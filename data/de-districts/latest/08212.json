@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3356,
- "Cases_Last_Week": 305,
- "Cases_Last_Week_Per_100000": 97.7,
- "Cases_Last_Week_Per_Million": 977,
- "Cases_New": 34,
- "Cases_Per_Million": 10754,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.8,
- "DIVI_Intensivstationen_Covid_Prozent": 11.5,
- "Date_Latest": "2020-12-03",
+ "Cases": 3404,
+ "Cases_Last_Week": 302,
+ "Cases_Last_Week_Per_100000": 96.7,
+ "Cases_Last_Week_Per_Million": 967,
+ "Cases_New": 36,
+ "Cases_Per_Million": 10908,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.6,
+ "Date_Latest": "2020-12-04",
  "Deaths": 46,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.2,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Karlsruhe (Stadtkreis)",
  "Population": 312060,
- "Slope_Cases_New_Per_Million": -21.85,
- "Slope_Deaths_New_Per_Million": -1.8
+ "Slope_Cases_New_Per_Million": -24.81,
+ "Slope_Deaths_New_Per_Million": -1.66
 }

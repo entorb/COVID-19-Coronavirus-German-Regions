@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 887,
- "Cases_Last_Week": 78,
- "Cases_Last_Week_Per_100000": 100.8,
- "Cases_Last_Week_Per_Million": 1008,
- "Cases_New": 11,
- "Cases_Per_Million": 11463,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.8,
+ "Cases": 900,
+ "Cases_Last_Week": 79,
+ "Cases_Last_Week_Per_100000": 102.1,
+ "Cases_Last_Week_Per_Million": 1021,
+ "Cases_New": 10,
+ "Cases_Per_Million": 11631,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.3,
  "DIVI_Intensivstationen_Covid_Prozent": 10.3,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 34,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bamberg (Kreisfreie Stadt)",
  "Population": 77373,
- "Slope_Cases_New_Per_Million": -13.97,
- "Slope_Deaths_New_Per_Million": -3.61
+ "Slope_Cases_New_Per_Million": -12.23,
+ "Slope_Deaths_New_Per_Million": -3.1
 }

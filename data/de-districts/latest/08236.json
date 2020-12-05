@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3000,
- "Cases_Last_Week": 375,
- "Cases_Last_Week_Per_100000": 187.9,
- "Cases_Last_Week_Per_Million": 1879,
- "Cases_New": 74,
- "Cases_Per_Million": 15033,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
+ "Cases": 3053,
+ "Cases_Last_Week": 388,
+ "Cases_Last_Week_Per_100000": 194.4,
+ "Cases_Last_Week_Per_Million": 1944,
+ "Cases_New": 59,
+ "Cases_Per_Million": 15298,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 45,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.01,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Enzkreis (Landkreis)",
  "Population": 199556,
- "Slope_Cases_New_Per_Million": 0.83,
- "Slope_Deaths_New_Per_Million": -1.47
+ "Slope_Cases_New_Per_Million": 9.06,
+ "Slope_Deaths_New_Per_Million": -1.22
 }

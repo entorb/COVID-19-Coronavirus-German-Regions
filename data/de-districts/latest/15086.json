@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 744,
- "Cases_Last_Week": 90,
- "Cases_Last_Week_Per_100000": 100.4,
- "Cases_Last_Week_Per_Million": 1004,
- "Cases_New": 19,
- "Cases_Per_Million": 8304,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 55.2,
+ "Cases": 751,
+ "Cases_Last_Week": 91,
+ "Cases_Last_Week_Per_100000": 101.5,
+ "Cases_Last_Week_Per_Million": 1015,
+ "Cases_New": 4,
+ "Cases_Per_Million": 8382,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 44.8,
  "DIVI_Intensivstationen_Covid_Prozent": 3.4,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 18,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 22.32,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Jerichower Land (Landkreis)",
  "Population": 89589,
- "Slope_Cases_New_Per_Million": -67.91,
- "Slope_Deaths_New_Per_Million": -5.08
+ "Slope_Cases_New_Per_Million": -58.79,
+ "Slope_Deaths_New_Per_Million": -4.24
 }

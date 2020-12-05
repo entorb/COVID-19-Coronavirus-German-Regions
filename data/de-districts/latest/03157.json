@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1303,
- "Cases_Last_Week": 112,
- "Cases_Last_Week_Per_100000": 83.0,
- "Cases_Last_Week_Per_Million": 830,
+ "Cases": 1316,
+ "Cases_Last_Week": 99,
+ "Cases_Last_Week_Per_100000": 73.4,
+ "Cases_Last_Week_Per_Million": 734,
  "Cases_New": 0,
- "Cases_Per_Million": 9666,
+ "Cases_Per_Million": 9762,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 54.5,
- "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-12-03",
+ "DIVI_Intensivstationen_Covid_Prozent": 9.1,
+ "Date_Latest": "2020-12-04",
  "Deaths": 19,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Peine (Landkreis)",
  "Population": 134801,
- "Slope_Cases_New_Per_Million": -24.29,
- "Slope_Deaths_New_Per_Million": -0.77
+ "Slope_Cases_New_Per_Million": -31.73,
+ "Slope_Deaths_New_Per_Million": -0.88
 }

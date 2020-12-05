@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2187,
- "Cases_Last_Week": 188,
- "Cases_Last_Week_Per_100000": 62.2,
- "Cases_Last_Week_Per_Million": 622,
- "Cases_New": 29,
- "Cases_Per_Million": 7246,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.5,
- "DIVI_Intensivstationen_Covid_Prozent": 8.6,
- "Date_Latest": "2020-12-03",
+ "Cases": 2242,
+ "Cases_Last_Week": 205,
+ "Cases_Last_Week_Per_100000": 67.9,
+ "Cases_Last_Week_Per_Million": 679,
+ "Cases_New": 35,
+ "Cases_Per_Million": 7429,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.0,
+ "Date_Latest": "2020-12-04",
  "Deaths": 29,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Soest (Kreis)",
  "Population": 301785,
- "Slope_Cases_New_Per_Million": -30.26,
- "Slope_Deaths_New_Per_Million": -0.71
+ "Slope_Cases_New_Per_Million": -29.38,
+ "Slope_Deaths_New_Per_Million": -0.91
 }

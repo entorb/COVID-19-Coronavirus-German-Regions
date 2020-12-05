@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1891,
+ "Cases": 1914,
  "Cases_Last_Week": 151,
  "Cases_Last_Week_Per_100000": 103.8,
  "Cases_Last_Week_Per_Million": 1038,
- "Cases_New": 32,
- "Cases_Per_Million": 13010,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.9,
+ "Cases_New": 23,
+ "Cases_Per_Million": 13169,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 21.4,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 43,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.88,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Unterallgäu (Landkreis)",
  "Population": 145341,
- "Slope_Cases_New_Per_Million": -45.67,
- "Slope_Deaths_New_Per_Million": 0.21
+ "Slope_Cases_New_Per_Million": -39.4,
+ "Slope_Deaths_New_Per_Million": 0.54
 }

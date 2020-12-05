@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 5528,
- "Cases_Last_Week": 527,
- "Cases_Last_Week_Per_100000": 144.1,
- "Cases_Last_Week_Per_Million": 1441,
- "Cases_New": 110,
- "Cases_Per_Million": 15120,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.4,
- "DIVI_Intensivstationen_Covid_Prozent": 10.6,
- "Date_Latest": "2020-12-03",
+ "Cases": 5604,
+ "Cases_Last_Week": 538,
+ "Cases_Last_Week_Per_100000": 147.1,
+ "Cases_Last_Week_Per_Million": 1471,
+ "Cases_New": 75,
+ "Cases_Per_Million": 15328,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.1,
+ "Date_Latest": "2020-12-04",
  "Deaths": 52,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 8.21,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bochum (Kreisfreie Stadt)",
  "Population": 365587,
- "Slope_Cases_New_Per_Million": -28.85,
- "Slope_Deaths_New_Per_Million": -0.26
+ "Slope_Cases_New_Per_Million": -22.01,
+ "Slope_Deaths_New_Per_Million": -0.17
 }

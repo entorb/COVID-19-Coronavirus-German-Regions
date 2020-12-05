@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 2014,
- "Cases_Last_Week": 158,
- "Cases_Last_Week_Per_100000": 73.6,
- "Cases_Last_Week_Per_Million": 736,
- "Cases_New": 16,
- "Cases_Per_Million": 9392,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 56.5,
+ "Cases": 2039,
+ "Cases_Last_Week": 161,
+ "Cases_Last_Week_Per_100000": 75.0,
+ "Cases_Last_Week_Per_Million": 750,
+ "Cases_New": 12,
+ "Cases_Per_Million": 9508,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.9,
  "DIVI_Intensivstationen_Covid_Prozent": 4.3,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 32,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 13.99,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Mayen-Koblenz (Landkreis)",
  "Population": 214434,
- "Slope_Cases_New_Per_Million": -32.96,
- "Slope_Deaths_New_Per_Million": -0.67
+ "Slope_Cases_New_Per_Million": -32.54,
+ "Slope_Deaths_New_Per_Million": -0.53
 }

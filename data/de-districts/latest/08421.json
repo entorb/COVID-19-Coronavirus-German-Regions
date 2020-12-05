@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2013,
- "Cases_Last_Week": 213,
- "Cases_Last_Week_Per_100000": 167.9,
- "Cases_Last_Week_Per_Million": 1679,
+ "Cases": 2072,
+ "Cases_Last_Week": 224,
+ "Cases_Last_Week_Per_100000": 176.6,
+ "Cases_Last_Week_Per_Million": 1766,
  "Cases_New": 47,
- "Cases_Per_Million": 15876,
+ "Cases_Per_Million": 16341,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.1,
- "DIVI_Intensivstationen_Covid_Prozent": 15.0,
- "Date_Latest": "2020-12-03",
+ "DIVI_Intensivstationen_Covid_Prozent": 14.3,
+ "Date_Latest": "2020-12-04",
  "Deaths": 26,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.89,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Ulm (Stadtkreis)",
  "Population": 126790,
- "Slope_Cases_New_Per_Million": -6.38,
- "Slope_Deaths_New_Per_Million": -0.28
+ "Slope_Cases_New_Per_Million": 3.78,
+ "Slope_Deaths_New_Per_Million": 0.05
 }

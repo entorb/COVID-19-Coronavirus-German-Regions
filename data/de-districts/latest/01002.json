@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 1373,
- "Cases_Last_Week": 164,
- "Cases_Last_Week_Per_100000": 66.4,
- "Cases_Last_Week_Per_Million": 664,
- "Cases_New": 45,
- "Cases_Per_Million": 5563,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.3,
+ "Cases": 1403,
+ "Cases_Last_Week": 176,
+ "Cases_Last_Week_Per_100000": 71.3,
+ "Cases_Last_Week_Per_Million": 713,
+ "Cases_New": 27,
+ "Cases_Per_Million": 5684,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.1,
  "DIVI_Intensivstationen_Covid_Prozent": 4.2,
- "Date_Latest": "2020-12-03",
+ "Date_Latest": "2020-12-04",
  "Deaths": 17,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Kiel (Kreisfreie Stadt)",
  "Population": 246794,
- "Slope_Cases_New_Per_Million": 3.14,
- "Slope_Deaths_New_Per_Million": 0.31
+ "Slope_Cases_New_Per_Million": 0.26,
+ "Slope_Deaths_New_Per_Million": 0.19
 }
