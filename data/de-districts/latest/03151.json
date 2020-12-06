@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1070,
- "Cases_Last_Week": 93,
- "Cases_Last_Week_Per_100000": 52.6,
- "Cases_Last_Week_Per_Million": 526,
+ "Cases": 1102,
+ "Cases_Last_Week": 118,
+ "Cases_Last_Week_Per_100000": 66.8,
+ "Cases_Last_Week_Per_Million": 668,
  "Cases_New": 0,
- "Cases_Per_Million": 6061,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.6,
- "DIVI_Intensivstationen_Covid_Prozent": 17.4,
- "Date_Latest": "2020-12-04",
+ "Cases_Per_Million": 6242,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.7,
+ "Date_Latest": "2020-12-05",
  "Deaths": 9,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.66,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Gifhorn (Landkreis)",
  "Population": 176523,
- "Slope_Cases_New_Per_Million": -34.59,
- "Slope_Deaths_New_Per_Million": -0.2
+ "Slope_Cases_New_Per_Million": -20.8,
+ "Slope_Deaths_New_Per_Million": 0.0
 }

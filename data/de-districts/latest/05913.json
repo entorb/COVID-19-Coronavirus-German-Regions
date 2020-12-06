@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 9929,
- "Cases_Last_Week": 895,
- "Cases_Last_Week_Per_100000": 152.1,
- "Cases_Last_Week_Per_Million": 1521,
- "Cases_New": 142,
- "Cases_Per_Million": 16878,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.8,
- "DIVI_Intensivstationen_Covid_Prozent": 11.1,
- "Date_Latest": "2020-12-04",
+ "Cases": 10099,
+ "Cases_Last_Week": 956,
+ "Cases_Last_Week_Per_100000": 162.5,
+ "Cases_Last_Week_Per_Million": 1625,
+ "Cases_New": 161,
+ "Cases_Per_Million": 17167,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.2,
+ "Date_Latest": "2020-12-05",
  "Deaths": 87,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 3.4,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Dortmund (Kreisfreie Stadt)",
  "Population": 588250,
- "Slope_Cases_New_Per_Million": -47.32,
- "Slope_Deaths_New_Per_Million": -3.05
+ "Slope_Cases_New_Per_Million": -40.03,
+ "Slope_Deaths_New_Per_Million": -2.88
 }

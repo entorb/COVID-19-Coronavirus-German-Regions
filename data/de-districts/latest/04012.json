@@ -1,15 +1,15 @@
 {
  "BL_Code": "HB",
  "Bundesland": "Bremen",
- "Cases": 915,
- "Cases_Last_Week": 76,
- "Cases_Last_Week_Per_100000": 66.8,
- "Cases_Last_Week_Per_Million": 668,
- "Cases_New": 17,
- "Cases_Per_Million": 8051,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.0,
- "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-12-04",
+ "Cases": 929,
+ "Cases_Last_Week": 87,
+ "Cases_Last_Week_Per_100000": 76.5,
+ "Cases_Last_Week_Per_Million": 765,
+ "Cases_New": 14,
+ "Cases_Per_Million": 8174,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.1,
+ "Date_Latest": "2020-12-05",
  "Deaths": 18,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.8,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bremerhaven (Kreisfreie Stadt)",
  "Population": 113643,
- "Slope_Cases_New_Per_Million": -34.35,
- "Slope_Deaths_New_Per_Million": -0.52
+ "Slope_Cases_New_Per_Million": -29.53,
+ "Slope_Deaths_New_Per_Million": -0.19
 }

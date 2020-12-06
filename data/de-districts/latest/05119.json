@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3296,
- "Cases_Last_Week": 333,
- "Cases_Last_Week_Per_100000": 157.9,
- "Cases_Last_Week_Per_Million": 1579,
- "Cases_New": 25,
- "Cases_Per_Million": 15638,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.3,
- "DIVI_Intensivstationen_Covid_Prozent": 11.2,
- "Date_Latest": "2020-12-04",
+ "Cases": 3338,
+ "Cases_Last_Week": 346,
+ "Cases_Last_Week_Per_100000": 164.1,
+ "Cases_Last_Week_Per_Million": 1641,
+ "Cases_New": 15,
+ "Cases_Per_Million": 15837,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.2,
+ "Date_Latest": "2020-12-05",
  "Deaths": 45,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 14.23,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Oberhausen (Kreisfreie Stadt)",
  "Population": 210764,
- "Slope_Cases_New_Per_Million": -21.95,
- "Slope_Deaths_New_Per_Million": -1.51
+ "Slope_Cases_New_Per_Million": -14.7,
+ "Slope_Deaths_New_Per_Million": -1.29
 }

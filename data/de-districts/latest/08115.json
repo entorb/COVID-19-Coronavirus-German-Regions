@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 6580,
- "Cases_Last_Week": 503,
- "Cases_Last_Week_Per_100000": 128.0,
- "Cases_Last_Week_Per_Million": 1280,
- "Cases_New": 93,
- "Cases_Per_Million": 16751,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.3,
- "DIVI_Intensivstationen_Covid_Prozent": 17.9,
- "Date_Latest": "2020-12-04",
+ "Cases": 6699,
+ "Cases_Last_Week": 539,
+ "Cases_Last_Week_Per_100000": 137.2,
+ "Cases_Last_Week_Per_Million": 1372,
+ "Cases_New": 100,
+ "Cases_Per_Million": 17054,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 18.2,
+ "Date_Latest": "2020-12-05",
  "Deaths": 92,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 2.55,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Böblingen (Landkreis)",
  "Population": 392807,
- "Slope_Cases_New_Per_Million": -17.47,
- "Slope_Deaths_New_Per_Million": -0.45
+ "Slope_Cases_New_Per_Million": -5.22,
+ "Slope_Deaths_New_Per_Million": -0.54
 }

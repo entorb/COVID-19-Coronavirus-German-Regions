@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 863,
- "Cases_Last_Week": 98,
- "Cases_Last_Week_Per_100000": 69.6,
- "Cases_Last_Week_Per_Million": 696,
- "Cases_New": 22,
- "Cases_Per_Million": 6134,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.0,
- "DIVI_Intensivstationen_Covid_Prozent": 5.0,
- "Date_Latest": "2020-12-04",
+ "Cases": 891,
+ "Cases_Last_Week": 111,
+ "Cases_Last_Week_Per_100000": 78.9,
+ "Cases_Last_Week_Per_Million": 789,
+ "Cases_New": 25,
+ "Cases_Per_Million": 6333,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+ "Date_Latest": "2020-12-05",
  "Deaths": 16,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 14.22,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Heidekreis (Landkreis)",
  "Population": 140673,
- "Slope_Cases_New_Per_Million": -26.64,
- "Slope_Deaths_New_Per_Million": 0.48
+ "Slope_Cases_New_Per_Million": -21.71,
+ "Slope_Deaths_New_Per_Million": 0.53
 }

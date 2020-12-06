@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2150,
- "Cases_Last_Week": 236,
- "Cases_Last_Week_Per_100000": 175.2,
- "Cases_Last_Week_Per_Million": 1752,
- "Cases_New": 32,
- "Cases_Per_Million": 15966,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.9,
+ "Cases": 2156,
+ "Cases_Last_Week": 192,
+ "Cases_Last_Week_Per_100000": 142.5,
+ "Cases_Last_Week_Per_Million": 1425,
+ "Cases_New": 0,
+ "Cases_Per_Million": 16011,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.4,
  "DIVI_Intensivstationen_Covid_Prozent": 33.3,
- "Date_Latest": "2020-12-04",
+ "Date_Latest": "2020-12-05",
  "Deaths": 38,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.43,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Aichach-Friedberg (Landkreis)",
  "Population": 134655,
- "Slope_Cases_New_Per_Million": -4.56,
- "Slope_Deaths_New_Per_Million": -2.97
+ "Slope_Cases_New_Per_Million": -19.14,
+ "Slope_Deaths_New_Per_Million": -2.77
 }

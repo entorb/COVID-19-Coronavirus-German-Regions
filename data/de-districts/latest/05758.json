@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3541,
- "Cases_Last_Week": 346,
- "Cases_Last_Week_Per_100000": 138.0,
- "Cases_Last_Week_Per_Million": 1380,
- "Cases_New": 58,
- "Cases_Per_Million": 14131,
+ "Cases": 3635,
+ "Cases_Last_Week": 387,
+ "Cases_Last_Week_Per_100000": 154.4,
+ "Cases_Last_Week_Per_Million": 1544,
+ "Cases_New": 72,
+ "Cases_Per_Million": 14506,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.7,
  "DIVI_Intensivstationen_Covid_Prozent": 11.8,
- "Date_Latest": "2020-12-04",
+ "Date_Latest": "2020-12-05",
  "Deaths": 42,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Herford (Kreis)",
  "Population": 250578,
- "Slope_Cases_New_Per_Million": -8.62,
- "Slope_Deaths_New_Per_Million": -1.06
+ "Slope_Cases_New_Per_Million": 4.0,
+ "Slope_Deaths_New_Per_Million": -0.9
 }

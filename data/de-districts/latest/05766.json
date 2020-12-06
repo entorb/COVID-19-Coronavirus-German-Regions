@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 5461,
- "Cases_Last_Week": 779,
- "Cases_Last_Week_Per_100000": 224.1,
- "Cases_Last_Week_Per_Million": 2241,
- "Cases_New": 149,
- "Cases_Per_Million": 15714,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 98.0,
- "DIVI_Intensivstationen_Covid_Prozent": 32.0,
- "Date_Latest": "2020-12-04",
+ "Cases": 5572,
+ "Cases_Last_Week": 793,
+ "Cases_Last_Week_Per_100000": 228.1,
+ "Cases_Last_Week_Per_Million": 2281,
+ "Cases_New": 111,
+ "Cases_Per_Million": 16033,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 26.0,
+ "Date_Latest": "2020-12-05",
  "Deaths": 70,
  "Deaths_Last_Week": 4,
  "Deaths_Last_Week_Per_Million": 11.51,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Lippe (Kreis)",
  "Population": 347514,
- "Slope_Cases_New_Per_Million": -43.49,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": -40.95,
+ "Slope_Deaths_New_Per_Million": -1.06
 }

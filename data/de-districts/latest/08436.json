@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2591,
- "Cases_Last_Week": 279,
- "Cases_Last_Week_Per_100000": 97.7,
- "Cases_Last_Week_Per_Million": 977,
- "Cases_New": 44,
- "Cases_Per_Million": 9077,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
- "DIVI_Intensivstationen_Covid_Prozent": 14.5,
- "Date_Latest": "2020-12-04",
+ "Cases": 2624,
+ "Cases_Last_Week": 256,
+ "Cases_Last_Week_Per_100000": 89.6,
+ "Cases_Last_Week_Per_Million": 896,
+ "Cases_New": 28,
+ "Cases_Per_Million": 9193,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.9,
+ "Date_Latest": "2020-12-05",
  "Deaths": 25,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.5,
@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ravensburg (Landkreis)",
  "Population": 285424,
- "Slope_Cases_New_Per_Million": 14.09,
- "Slope_Deaths_New_Per_Million": -0.09
+ "Slope_Cases_New_Per_Million": 14.62,
+ "Slope_Deaths_New_Per_Million": -0.17
 }

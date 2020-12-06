@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 939,
- "Cases_Last_Week": 300,
- "Cases_Last_Week_Per_100000": 290.7,
- "Cases_Last_Week_Per_Million": 2907,
- "Cases_New": 61,
- "Cases_Per_Million": 9098,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
+ "Cases": 947,
+ "Cases_Last_Week": 286,
+ "Cases_Last_Week_Per_100000": 277.1,
+ "Cases_Last_Week_Per_Million": 2771,
+ "Cases_New": 8,
+ "Cases_Per_Million": 9176,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 63.6,
  "DIVI_Intensivstationen_Covid_Prozent": 9.1,
- "Date_Latest": "2020-12-04",
+ "Date_Latest": "2020-12-05",
  "Deaths": 18,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 29.07,
@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saalfeld-Rudolstadt (Landkreis)",
  "Population": 103199,
- "Slope_Cases_New_Per_Million": 86.95,
- "Slope_Deaths_New_Per_Million": 0.02
+ "Slope_Cases_New_Per_Million": 90.3,
+ "Slope_Deaths_New_Per_Million": -0.62
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 2709,
- "Cases_Last_Week": 142,
- "Cases_Last_Week_Per_100000": 43.5,
- "Cases_Last_Week_Per_Million": 435,
- "Cases_New": 20,
- "Cases_Per_Million": 8308,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.1,
- "DIVI_Intensivstationen_Covid_Prozent": 4.9,
- "Date_Latest": "2020-12-04",
+ "Cases": 2741,
+ "Cases_Last_Week": 151,
+ "Cases_Last_Week_Per_100000": 46.3,
+ "Cases_Last_Week_Per_Million": 463,
+ "Cases_New": 32,
+ "Cases_Per_Million": 8406,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 4.4,
+ "Date_Latest": "2020-12-05",
  "Deaths": 93,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Göttingen (Landkreis)",
  "Population": 326041,
- "Slope_Cases_New_Per_Million": -23.67,
- "Slope_Deaths_New_Per_Million": -0.41
+ "Slope_Cases_New_Per_Million": -17.12,
+ "Slope_Deaths_New_Per_Million": -0.3
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3318,
- "Cases_Last_Week": 276,
- "Cases_Last_Week_Per_100000": 96.4,
- "Cases_Last_Week_Per_Million": 964,
- "Cases_New": 44,
- "Cases_Per_Million": 11589,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.4,
- "DIVI_Intensivstationen_Covid_Prozent": 12.2,
- "Date_Latest": "2020-12-04",
+ "Cases": 3359,
+ "Cases_Last_Week": 281,
+ "Cases_Last_Week_Per_100000": 98.1,
+ "Cases_Last_Week_Per_Million": 981,
+ "Cases_New": 40,
+ "Cases_Per_Million": 11732,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.1,
+ "Date_Latest": "2020-12-05",
  "Deaths": 50,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.49,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Konstanz (Landkreis)",
  "Population": 286305,
- "Slope_Cases_New_Per_Million": -40.54,
- "Slope_Deaths_New_Per_Million": -1.49
+ "Slope_Cases_New_Per_Million": -30.92,
+ "Slope_Deaths_New_Per_Million": -1.55
 }

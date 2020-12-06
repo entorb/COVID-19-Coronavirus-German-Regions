@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3727,
- "Cases_Last_Week": 470,
- "Cases_Last_Week_Per_100000": 205.4,
- "Cases_Last_Week_Per_Million": 2054,
- "Cases_New": 102,
- "Cases_Per_Million": 16293,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.2,
+ "Cases": 3809,
+ "Cases_Last_Week": 448,
+ "Cases_Last_Week_Per_100000": 195.8,
+ "Cases_Last_Week_Per_Million": 1958,
+ "Cases_New": 82,
+ "Cases_Per_Million": 16652,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-12-04",
+ "Date_Latest": "2020-12-05",
  "Deaths": 80,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Lörrach (Landkreis)",
  "Population": 228736,
- "Slope_Cases_New_Per_Million": -11.17,
- "Slope_Deaths_New_Per_Million": -4.21
+ "Slope_Cases_New_Per_Million": -7.73,
+ "Slope_Deaths_New_Per_Million": -3.84
 }
