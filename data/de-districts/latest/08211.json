@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 707,
- "Cases_Last_Week": 54,
- "Cases_Last_Week_Per_100000": 97.8,
- "Cases_Last_Week_Per_Million": 978,
- "Cases_New": 1,
- "Cases_Per_Million": 12811,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.8,
+ "Cases": 718,
+ "Cases_Last_Week": 60,
+ "Cases_Last_Week_Per_100000": 108.7,
+ "Cases_Last_Week_Per_Million": 1087,
+ "Cases_New": 11,
+ "Cases_Per_Million": 13010,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.3,
  "DIVI_Intensivstationen_Covid_Prozent": 22.7,
- "Date_Latest": "2020-12-05",
+ "Date_Latest": "2020-12-06",
  "Deaths": 23,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 18.12,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Baden-Baden (Stadtkreis)",
  "Population": 55185,
- "Slope_Cases_New_Per_Million": -45.98,
- "Slope_Deaths_New_Per_Million": 1.59
+ "Slope_Cases_New_Per_Million": -38.01,
+ "Slope_Deaths_New_Per_Million": 1.79
 }

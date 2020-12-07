@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1441,
- "Cases_Last_Week": 145,
- "Cases_Last_Week_Per_100000": 150.1,
- "Cases_Last_Week_Per_Million": 1501,
- "Cases_New": 24,
- "Cases_Per_Million": 14923,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.2,
+ "Cases": 1456,
+ "Cases_Last_Week": 140,
+ "Cases_Last_Week_Per_100000": 144.9,
+ "Cases_Last_Week_Per_Million": 1449,
+ "Cases_New": 15,
+ "Cases_Per_Million": 15078,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.5,
  "DIVI_Intensivstationen_Covid_Prozent": 30.8,
- "Date_Latest": "2020-12-05",
+ "Date_Latest": "2020-12-06",
  "Deaths": 52,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Dillingen a.d. Donau (Landkreis)",
  "Population": 96562,
- "Slope_Cases_New_Per_Million": -14.72,
- "Slope_Deaths_New_Per_Million": -3.98
+ "Slope_Cases_New_Per_Million": -25.13,
+ "Slope_Deaths_New_Per_Million": -5.92
 }

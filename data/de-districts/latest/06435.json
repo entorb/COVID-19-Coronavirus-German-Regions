@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 7383,
- "Cases_Last_Week": 878,
- "Cases_Last_Week_Per_100000": 208.7,
- "Cases_Last_Week_Per_Million": 2087,
- "Cases_New": 116,
- "Cases_Per_Million": 17555,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.8,
- "DIVI_Intensivstationen_Covid_Prozent": 21.1,
- "Date_Latest": "2020-12-05",
+ "Cases": 7384,
+ "Cases_Last_Week": 879,
+ "Cases_Last_Week_Per_100000": 209.0,
+ "Cases_Last_Week_Per_Million": 2090,
+ "Cases_New": 0,
+ "Cases_Per_Million": 17557,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.5,
+ "Date_Latest": "2020-12-06",
  "Deaths": 99,
  "Deaths_Last_Week": 5,
  "Deaths_Last_Week_Per_Million": 11.89,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Main-Kinzig-Kreis (Landkreis)",
  "Population": 420552,
- "Slope_Cases_New_Per_Million": -29.08,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": -22.14,
+ "Slope_Deaths_New_Per_Million": -0.71
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 9598,
- "Cases_Last_Week": 709,
- "Cases_Last_Week_Per_100000": 220.7,
- "Cases_Last_Week_Per_Million": 2207,
- "Cases_New": 19,
- "Cases_Per_Million": 29888,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.7,
- "DIVI_Intensivstationen_Covid_Prozent": 27.4,
- "Date_Latest": "2020-12-05",
+ "Cases": 9617,
+ "Cases_Last_Week": 700,
+ "Cases_Last_Week_Per_100000": 217.9,
+ "Cases_Last_Week_Per_Million": 2179,
+ "Cases_New": 0,
+ "Cases_Per_Million": 29948,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 26.7,
+ "Date_Latest": "2020-12-06",
  "Deaths": 102,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 9.34,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Neukölln (Bezirk)",
  "Population": 321123,
- "Slope_Cases_New_Per_Million": -67.04,
- "Slope_Deaths_New_Per_Million": -1.55
+ "Slope_Cases_New_Per_Million": -64.05,
+ "Slope_Deaths_New_Per_Million": -1.59
 }

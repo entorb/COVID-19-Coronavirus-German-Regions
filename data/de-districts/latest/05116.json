@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 4098,
- "Cases_Last_Week": 358,
- "Cases_Last_Week_Per_100000": 137.1,
- "Cases_Last_Week_Per_Million": 1371,
- "Cases_New": 18,
- "Cases_Per_Million": 15699,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.2,
- "DIVI_Intensivstationen_Covid_Prozent": 18.9,
- "Date_Latest": "2020-12-05",
+ "Cases": 4130,
+ "Cases_Last_Week": 378,
+ "Cases_Last_Week_Per_100000": 144.8,
+ "Cases_Last_Week_Per_Million": 1448,
+ "Cases_New": 14,
+ "Cases_Per_Million": 15821,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.1,
+ "Date_Latest": "2020-12-06",
  "Deaths": 81,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.83,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Mönchengladbach (Kreisfreie Stadt)",
  "Population": 261034,
- "Slope_Cases_New_Per_Million": 5.63,
- "Slope_Deaths_New_Per_Million": 0.08
+ "Slope_Cases_New_Per_Million": -3.8,
+ "Slope_Deaths_New_Per_Million": -0.08
 }

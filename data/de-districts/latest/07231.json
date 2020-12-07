@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1119,
- "Cases_Last_Week": 39,
- "Cases_Last_Week_Per_100000": 34.6,
- "Cases_Last_Week_Per_Million": 346,
- "Cases_New": 0,
- "Cases_Per_Million": 9948,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
+ "Cases": 1141,
+ "Cases_Last_Week": 61,
+ "Cases_Last_Week_Per_100000": 54.2,
+ "Cases_Last_Week_Per_Million": 542,
+ "Cases_New": 4,
+ "Cases_Per_Million": 10143,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 54.2,
  "DIVI_Intensivstationen_Covid_Prozent": 4.2,
- "Date_Latest": "2020-12-05",
+ "Date_Latest": "2020-12-06",
  "Deaths": 18,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bernkastel-Wittlich (Landkreis)",
  "Population": 112483,
- "Slope_Cases_New_Per_Million": -36.42,
- "Slope_Deaths_New_Per_Million": 0.14
+ "Slope_Cases_New_Per_Million": -23.82,
+ "Slope_Deaths_New_Per_Million": -0.14
 }

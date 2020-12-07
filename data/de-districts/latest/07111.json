@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1499,
- "Cases_Last_Week": 149,
- "Cases_Last_Week_Per_100000": 130.6,
- "Cases_Last_Week_Per_Million": 1306,
+ "Cases": 1511,
+ "Cases_Last_Week": 142,
+ "Cases_Last_Week_Per_100000": 124.5,
+ "Cases_Last_Week_Per_Million": 1245,
  "Cases_New": 0,
- "Cases_Per_Million": 13143,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.3,
- "DIVI_Intensivstationen_Covid_Prozent": 8.0,
- "Date_Latest": "2020-12-05",
+ "Cases_Per_Million": 13248,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 67.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.1,
+ "Date_Latest": "2020-12-06",
  "Deaths": 30,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Koblenz (Kreisfreie Stadt)",
  "Population": 114052,
- "Slope_Cases_New_Per_Million": -10.25,
- "Slope_Deaths_New_Per_Million": -1.04
+ "Slope_Cases_New_Per_Million": -18.96,
+ "Slope_Deaths_New_Per_Million": -1.14
 }

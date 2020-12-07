@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1273,
- "Cases_Last_Week": 90,
- "Cases_Last_Week_Per_100000": 50.2,
- "Cases_Last_Week_Per_Million": 502,
- "Cases_New": 7,
- "Cases_Per_Million": 7111,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.1,
+ "Cases": 1277,
+ "Cases_Last_Week": 94,
+ "Cases_Last_Week_Per_100000": 52.5,
+ "Cases_Last_Week_Per_Million": 525,
+ "Cases_New": 3,
+ "Cases_Per_Million": 7133,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
  "DIVI_Intensivstationen_Covid_Prozent": 10.7,
- "Date_Latest": "2020-12-05",
+ "Date_Latest": "2020-12-06",
  "Deaths": 20,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Celle (Landkreis)",
  "Population": 179011,
- "Slope_Cases_New_Per_Million": -11.99,
- "Slope_Deaths_New_Per_Million": 0.86
+ "Slope_Cases_New_Per_Million": -17.75,
+ "Slope_Deaths_New_Per_Million": 0.52
 }

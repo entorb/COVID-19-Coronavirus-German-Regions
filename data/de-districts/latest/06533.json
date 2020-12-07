@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 2361,
- "Cases_Last_Week": 300,
- "Cases_Last_Week_Per_100000": 174.5,
- "Cases_Last_Week_Per_Million": 1745,
- "Cases_New": 0,
- "Cases_Per_Million": 13733,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.5,
- "DIVI_Intensivstationen_Covid_Prozent": 17.3,
- "Date_Latest": "2020-12-05",
+ "Cases": 2386,
+ "Cases_Last_Week": 324,
+ "Cases_Last_Week_Per_100000": 188.4,
+ "Cases_Last_Week_Per_Million": 1884,
+ "Cases_New": 2,
+ "Cases_Per_Million": 13879,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 19.2,
+ "Date_Latest": "2020-12-06",
  "Deaths": 20,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.82,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Limburg-Weilburg (Landkreis)",
  "Population": 171912,
- "Slope_Cases_New_Per_Million": -12.63,
- "Slope_Deaths_New_Per_Million": 0.11
+ "Slope_Cases_New_Per_Million": 1.3,
+ "Slope_Deaths_New_Per_Million": 0.09
 }

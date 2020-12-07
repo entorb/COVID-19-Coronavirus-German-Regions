@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1643,
- "Cases_Last_Week": 118,
- "Cases_Last_Week_Per_100000": 47.3,
- "Cases_Last_Week_Per_Million": 473,
- "Cases_New": 19,
- "Cases_Per_Million": 6587,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 74.8,
- "DIVI_Intensivstationen_Covid_Prozent": 2.9,
- "Date_Latest": "2020-12-05",
+ "Cases": 1654,
+ "Cases_Last_Week": 119,
+ "Cases_Last_Week_Per_100000": 47.7,
+ "Cases_Last_Week_Per_Million": 477,
+ "Cases_New": 10,
+ "Cases_Per_Million": 6631,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 2.2,
+ "Date_Latest": "2020-12-06",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Braunschweig (Kreisfreie Stadt)",
  "Population": 249406,
- "Slope_Cases_New_Per_Million": -2.29,
- "Slope_Deaths_New_Per_Million": -0.21
+ "Slope_Cases_New_Per_Million": -3.96,
+ "Slope_Deaths_New_Per_Million": -0.11
 }
