@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 13337,
- "Cases_Last_Week": 957,
- "Cases_Last_Week_Per_100000": 82.7,
- "Cases_Last_Week_Per_Million": 827,
- "Cases_New": 0,
- "Cases_Per_Million": 11526,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.7,
- "DIVI_Intensivstationen_Covid_Prozent": 8.4,
- "Date_Latest": "2020-12-06",
+ "Cases": 13495,
+ "Cases_Last_Week": 1042,
+ "Cases_Last_Week_Per_100000": 90.0,
+ "Cases_Last_Week_Per_Million": 900,
+ "Cases_New": 1,
+ "Cases_Per_Million": 11662,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.6,
+ "Date_Latest": "2020-12-07",
  "Deaths": 223,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Region Hannover (Landkreis)",
  "Population": 1157115,
- "Slope_Cases_New_Per_Million": -22.44,
- "Slope_Deaths_New_Per_Million": -0.87
+ "Slope_Cases_New_Per_Million": -14.05,
+ "Slope_Deaths_New_Per_Million": -0.83
 }

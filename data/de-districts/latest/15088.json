@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 1328,
- "Cases_Last_Week": 187,
- "Cases_Last_Week_Per_100000": 101.7,
- "Cases_Last_Week_Per_Million": 1017,
- "Cases_New": 0,
- "Cases_Per_Million": 7224,
+ "Cases": 1400,
+ "Cases_Last_Week": 242,
+ "Cases_Last_Week_Per_100000": 131.6,
+ "Cases_Last_Week_Per_Million": 1316,
+ "Cases_New": 36,
+ "Cases_Per_Million": 7616,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.8,
- "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-12-06",
+ "DIVI_Intensivstationen_Covid_Prozent": 18.2,
+ "Date_Latest": "2020-12-07",
  "Deaths": 24,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.44,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Saalekreis (Landkreis)",
  "Population": 183815,
- "Slope_Cases_New_Per_Million": -17.73,
- "Slope_Deaths_New_Per_Million": -3.87
+ "Slope_Cases_New_Per_Million": -16.1,
+ "Slope_Deaths_New_Per_Million": -3.81
 }

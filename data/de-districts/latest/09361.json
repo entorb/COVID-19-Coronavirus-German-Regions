@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 513,
- "Cases_Last_Week": 33,
- "Cases_Last_Week_Per_100000": 78.1,
- "Cases_Last_Week_Per_Million": 781,
+ "Cases": 518,
+ "Cases_Last_Week": 37,
+ "Cases_Last_Week_Per_100000": 87.6,
+ "Cases_Last_Week_Per_Million": 876,
  "Cases_New": 4,
- "Cases_Per_Million": 12154,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.9,
- "DIVI_Intensivstationen_Covid_Prozent": 4.3,
- "Date_Latest": "2020-12-06",
+ "Cases_Per_Million": 12272,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.5,
+ "Date_Latest": "2020-12-07",
  "Deaths": 6,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 23.69,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Amberg (Kreisfreie Stadt)",
  "Population": 42207,
- "Slope_Cases_New_Per_Million": -112.12,
- "Slope_Deaths_New_Per_Million": 2.5
+ "Slope_Cases_New_Per_Million": -108.95,
+ "Slope_Deaths_New_Per_Million": 2.55
 }

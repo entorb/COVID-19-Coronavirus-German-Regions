@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 6219,
- "Cases_Last_Week": 534,
- "Cases_Last_Week_Per_100000": 159.6,
- "Cases_Last_Week_Per_Million": 1596,
- "Cases_New": 25,
- "Cases_Per_Million": 18597,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.1,
- "DIVI_Intensivstationen_Covid_Prozent": 26.7,
- "Date_Latest": "2020-12-06",
+ "Cases": 6259,
+ "Cases_Last_Week": 514,
+ "Cases_Last_Week_Per_100000": 153.7,
+ "Cases_Last_Week_Per_Million": 1537,
+ "Cases_New": 24,
+ "Cases_Per_Million": 18717,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.1,
+ "Date_Latest": "2020-12-07",
  "Deaths": 62,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Charlottenburg-Wilmersdorf (Bezirk)",
  "Population": 334401,
- "Slope_Cases_New_Per_Million": -26.88,
- "Slope_Deaths_New_Per_Million": -1.08
+ "Slope_Cases_New_Per_Million": -24.02,
+ "Slope_Deaths_New_Per_Million": -1.6
 }

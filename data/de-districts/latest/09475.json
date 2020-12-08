@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1566,
- "Cases_Last_Week": 197,
- "Cases_Last_Week_Per_100000": 207.8,
- "Cases_Last_Week_Per_Million": 2078,
- "Cases_New": 54,
- "Cases_Per_Million": 16518,
+ "Cases": 1573,
+ "Cases_Last_Week": 199,
+ "Cases_Last_Week_Per_100000": 209.9,
+ "Cases_Last_Week_Per_Million": 2099,
+ "Cases_New": 7,
+ "Cases_Per_Million": 16592,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
  "DIVI_Intensivstationen_Covid_Prozent": 5.3,
- "Date_Latest": "2020-12-06",
+ "Date_Latest": "2020-12-07",
  "Deaths": 42,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Hof (Landkreis)",
  "Population": 94801,
- "Slope_Cases_New_Per_Million": -52.1,
- "Slope_Deaths_New_Per_Million": -2.5
+ "Slope_Cases_New_Per_Million": -44.42,
+ "Slope_Deaths_New_Per_Million": -3.36
 }

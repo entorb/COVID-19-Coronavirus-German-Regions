@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 3526,
- "Cases_Last_Week": 265,
- "Cases_Last_Week_Per_100000": 171.0,
- "Cases_Last_Week_Per_Million": 1710,
+ "Cases": 3588,
+ "Cases_Last_Week": 292,
+ "Cases_Last_Week_Per_100000": 188.5,
+ "Cases_Last_Week_Per_Million": 1885,
  "Cases_New": 0,
- "Cases_Per_Million": 22763,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 92.9,
- "DIVI_Intensivstationen_Covid_Prozent": 25.0,
- "Date_Latest": "2020-12-06",
+ "Cases_Per_Million": 23163,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 28.6,
+ "Date_Latest": "2020-12-07",
  "Deaths": 66,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Dachau (Landkreis)",
  "Population": 154899,
- "Slope_Cases_New_Per_Million": -36.07,
- "Slope_Deaths_New_Per_Million": -2.28
+ "Slope_Cases_New_Per_Million": -24.5,
+ "Slope_Deaths_New_Per_Million": -1.97
 }

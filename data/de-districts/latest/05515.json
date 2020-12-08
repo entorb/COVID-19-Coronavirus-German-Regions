@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3084,
- "Cases_Last_Week": 160,
- "Cases_Last_Week_Per_100000": 50.7,
- "Cases_Last_Week_Per_Million": 507,
- "Cases_New": 8,
- "Cases_Per_Million": 9781,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.7,
- "DIVI_Intensivstationen_Covid_Prozent": 7.3,
- "Date_Latest": "2020-12-06",
+ "Cases": 3121,
+ "Cases_Last_Week": 178,
+ "Cases_Last_Week_Per_100000": 56.4,
+ "Cases_Last_Week_Per_Million": 564,
+ "Cases_New": 15,
+ "Cases_Per_Million": 9898,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.2,
+ "Date_Latest": "2020-12-07",
  "Deaths": 33,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Münster (Kreisfreie Stadt)",
  "Population": 315293,
- "Slope_Cases_New_Per_Million": -9.34,
- "Slope_Deaths_New_Per_Million": -0.79
+ "Slope_Cases_New_Per_Million": -4.54,
+ "Slope_Deaths_New_Per_Million": -0.7
 }

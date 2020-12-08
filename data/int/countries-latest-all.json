@@ -2897,6 +2897,26 @@
   "Slope_Deaths_New_Per_Million": 0.0
  },
  {
+  "Cases": 2,
+  "Cases_Last_Week": 0,
+  "Cases_Last_Week_Per_100000": 0.0,
+  "Cases_Last_Week_Per_Million": 0,
+  "Cases_New": 0,
+  "Cases_Per_Million": 10,
+  "Code": "WS",
+  "Continent": "Oceania",
+  "Country": "Samoa",
+  "Date_Latest": "2020-12-06",
+  "Deaths": 0,
+  "Deaths_Last_Week": 0,
+  "Deaths_Last_Week_Per_Million": 0.0,
+  "Deaths_New": 0,
+  "Deaths_Per_Million": 0,
+  "Population": 196130,
+  "Slope_Cases_New_Per_Million": -0.19,
+  "Slope_Deaths_New_Per_Million": 0.0
+ },
+ {
   "Cases": 1789,
   "Cases_Last_Week": 203,
   "Cases_Last_Week_Per_100000": 600.8,

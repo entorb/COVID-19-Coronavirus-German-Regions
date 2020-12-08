@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1010,
- "Cases_Last_Week": 78,
- "Cases_Last_Week_Per_100000": 145.9,
- "Cases_Last_Week_Per_Million": 1459,
- "Cases_New": 1,
- "Cases_Per_Million": 18904,
+ "Cases": 1014,
+ "Cases_Last_Week": 76,
+ "Cases_Last_Week_Per_100000": 142.2,
+ "Cases_Last_Week_Per_Million": 1422,
+ "Cases_New": 4,
+ "Cases_Per_Million": 18979,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.5,
  "DIVI_Intensivstationen_Covid_Prozent": 11.9,
- "Date_Latest": "2020-12-06",
+ "Date_Latest": "2020-12-07",
  "Deaths": 32,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 18.72,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Schweinfurt (Kreisfreie Stadt)",
  "Population": 53426,
- "Slope_Cases_New_Per_Million": -69.49,
- "Slope_Deaths_New_Per_Million": -2.47
+ "Slope_Cases_New_Per_Million": -60.31,
+ "Slope_Deaths_New_Per_Million": -3.45
 }

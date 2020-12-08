@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2772,
- "Cases_Last_Week": 146,
- "Cases_Last_Week_Per_100000": 120.1,
- "Cases_Last_Week_Per_Million": 1201,
- "Cases_New": 26,
- "Cases_Per_Million": 22814,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.6,
- "DIVI_Intensivstationen_Covid_Prozent": 28.6,
- "Date_Latest": "2020-12-06",
+ "Cases": 2778,
+ "Cases_Last_Week": 143,
+ "Cases_Last_Week_Per_100000": 117.6,
+ "Cases_Last_Week_Per_Million": 1176,
+ "Cases_New": 6,
+ "Cases_Per_Million": 22863,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 35.7,
+ "Date_Latest": "2020-12-07",
  "Deaths": 70,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Rottal-Inn (Landkreis)",
  "Population": 121502,
- "Slope_Cases_New_Per_Million": -80.82,
- "Slope_Deaths_New_Per_Million": -5.17
+ "Slope_Cases_New_Per_Million": -80.73,
+ "Slope_Deaths_New_Per_Million": -4.43
 }
