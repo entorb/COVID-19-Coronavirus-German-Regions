@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 897,
- "Cases_Last_Week": 121,
- "Cases_Last_Week_Per_100000": 108.6,
- "Cases_Last_Week_Per_Million": 1086,
- "Cases_New": 8,
- "Cases_Per_Million": 8056,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.0,
- "DIVI_Intensivstationen_Covid_Prozent": 13.0,
- "Date_Latest": "2020-12-07",
+ "Cases": 911,
+ "Cases_Last_Week": 112,
+ "Cases_Last_Week_Per_100000": 100.5,
+ "Cases_Last_Week_Per_Million": 1005,
+ "Cases_New": 13,
+ "Cases_Per_Million": 8181,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 96.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 12.9,
+ "Date_Latest": "2020-12-08",
  "Deaths": 12,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.98,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Jena (Kreisfreie Stadt)",
  "Population": 111343,
- "Slope_Cases_New_Per_Million": 1.81,
- "Slope_Deaths_New_Per_Million": -1.32
+ "Slope_Cases_New_Per_Million": -1.56,
+ "Slope_Deaths_New_Per_Million": -1.3
 }

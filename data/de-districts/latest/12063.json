@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 1409,
- "Cases_Last_Week": 185,
- "Cases_Last_Week_Per_100000": 113.4,
- "Cases_Last_Week_Per_Million": 1134,
+ "Cases": 1435,
+ "Cases_Last_Week": 188,
+ "Cases_Last_Week_Per_100000": 115.3,
+ "Cases_Last_Week_Per_Million": 1153,
  "Cases_New": 0,
- "Cases_Per_Million": 8644,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.2,
- "DIVI_Intensivstationen_Covid_Prozent": 19.0,
- "Date_Latest": "2020-12-07",
+ "Cases_Per_Million": 8803,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.3,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.6,
+ "Date_Latest": "2020-12-08",
  "Deaths": 18,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.14,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Havelland (Landkreis)",
  "Population": 162996,
- "Slope_Cases_New_Per_Million": -33.41,
- "Slope_Deaths_New_Per_Million": -0.15
+ "Slope_Cases_New_Per_Million": -32.59,
+ "Slope_Deaths_New_Per_Million": -0.24
 }

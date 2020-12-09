@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2563,
- "Cases_Last_Week": 313,
- "Cases_Last_Week_Per_100000": 243.5,
- "Cases_Last_Week_Per_Million": 2435,
+ "Cases": 2627,
+ "Cases_Last_Week": 323,
+ "Cases_Last_Week_Per_100000": 251.3,
+ "Cases_Last_Week_Per_Million": 2513,
  "Cases_New": 0,
- "Cases_Per_Million": 19945,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.5,
- "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-12-07",
+ "Cases_Per_Million": 20444,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.0,
+ "Date_Latest": "2020-12-08",
  "Deaths": 55,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Fürth (Kreisfreie Stadt)",
  "Population": 128497,
- "Slope_Cases_New_Per_Million": -16.97,
- "Slope_Deaths_New_Per_Million": -7.71
+ "Slope_Cases_New_Per_Million": 13.22,
+ "Slope_Deaths_New_Per_Million": -7.23
 }

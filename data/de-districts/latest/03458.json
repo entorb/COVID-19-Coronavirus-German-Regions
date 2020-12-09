@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1749,
- "Cases_Last_Week": 112,
- "Cases_Last_Week_Per_100000": 85.5,
- "Cases_Last_Week_Per_Million": 855,
+ "Cases": 1775,
+ "Cases_Last_Week": 123,
+ "Cases_Last_Week_Per_100000": 93.9,
+ "Cases_Last_Week_Per_Million": 939,
  "Cases_New": 0,
- "Cases_Per_Million": 13362,
+ "Cases_Per_Million": 13561,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
  "DIVI_Intensivstationen_Covid_Prozent": 28.6,
- "Date_Latest": "2020-12-07",
+ "Date_Latest": "2020-12-08",
  "Deaths": 28,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.64,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Oldenburg (Landkreis)",
  "Population": 130890,
- "Slope_Cases_New_Per_Million": -8.23,
- "Slope_Deaths_New_Per_Million": -0.77
+ "Slope_Cases_New_Per_Million": -1.68,
+ "Slope_Deaths_New_Per_Million": -1.43
 }

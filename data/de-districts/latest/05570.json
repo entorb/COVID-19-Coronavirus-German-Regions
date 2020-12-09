@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 4221,
- "Cases_Last_Week": 327,
- "Cases_Last_Week_Per_100000": 117.6,
- "Cases_Last_Week_Per_Million": 1176,
- "Cases_New": 22,
- "Cases_Per_Million": 15192,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.2,
+ "Cases": 4250,
+ "Cases_Last_Week": 325,
+ "Cases_Last_Week_Per_100000": 116.9,
+ "Cases_Last_Week_Per_Million": 1169,
+ "Cases_New": 29,
+ "Cases_Per_Million": 15296,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.4,
  "DIVI_Intensivstationen_Covid_Prozent": 20.8,
- "Date_Latest": "2020-12-07",
+ "Date_Latest": "2020-12-08",
  "Deaths": 47,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 7.2,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Warendorf (Kreis)",
  "Population": 277840,
- "Slope_Cases_New_Per_Million": -28.78,
- "Slope_Deaths_New_Per_Million": -0.81
+ "Slope_Cases_New_Per_Million": -27.0,
+ "Slope_Deaths_New_Per_Million": -0.16
 }

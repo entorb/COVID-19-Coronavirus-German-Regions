@@ -3629,10 +3629,10 @@
  },
  {
   "Cases": 14949299,
-  "Cases_Last_Week": 1408078,
+  "Cases_Last_Week": 1408114,
   "Cases_Last_Week_Per_100000": 430.3,
   "Cases_Last_Week_Per_Million": 4303,
-  "Cases_New": 192299,
+  "Cases_New": 192416,
   "Cases_Per_Million": 45693,
   "Code": "US",
   "Continent": "North America",
@@ -3645,7 +3645,7 @@
   "Deaths_Per_Million": 867,
   "DoublingTime_Cases_Last_Week_Per_100000": 51.6,
   "Population": 327167434,
-  "Slope_Cases_New_Per_Million": 47.8,
+  "Slope_Cases_New_Per_Million": 47.78,
   "Slope_Deaths_New_Per_Million": 1.23
  },
  {
@@ -3766,26 +3766,6 @@
   "Deaths_New": 0,
   "Deaths_Per_Million": 0,
   "Population": 95540395,
-  "Slope_Cases_New_Per_Million": 0.0,
-  "Slope_Deaths_New_Per_Million": 0.0
- },
- {
-  "Cases": 10,
-  "Cases_Last_Week": 0,
-  "Cases_Last_Week_Per_100000": 0.0,
-  "Cases_Last_Week_Per_Million": 0,
-  "Cases_New": 0,
-  "Cases_Per_Million": 36,
-  "Code": "EH",
-  "Continent": "Africa",
-  "Country": "Western Sahara",
-  "Date_Latest": "2020-12-07",
-  "Deaths": 1,
-  "Deaths_Last_Week": 0,
-  "Deaths_Last_Week_Per_Million": 0.0,
-  "Deaths_New": 0,
-  "Deaths_Per_Million": 3,
-  "Population": 273008,
   "Slope_Cases_New_Per_Million": 0.0,
   "Slope_Deaths_New_Per_Million": 0.0
  },

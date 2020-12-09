@@ -1,13 +1,13 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2024,
- "Cases_Last_Week": 157,
- "Cases_Last_Week_Per_100000": 166.2,
- "Cases_Last_Week_Per_Million": 1662,
- "Cases_New": 16,
- "Cases_Per_Million": 21429,
- "Date_Latest": "2020-12-07",
+ "Cases": 2047,
+ "Cases_Last_Week": 150,
+ "Cases_Last_Week_Per_100000": 158.8,
+ "Cases_Last_Week_Per_Million": 1588,
+ "Cases_New": 15,
+ "Cases_Per_Million": 21672,
+ "Date_Latest": "2020-12-08",
  "Deaths": 81,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 10.59,
@@ -18,6 +18,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neustadt a.d. Waldnaab (Landkreis)",
  "Population": 94450,
- "Slope_Cases_New_Per_Million": 7.13,
- "Slope_Deaths_New_Per_Million": -0.51
+ "Slope_Cases_New_Per_Million": 2.39,
+ "Slope_Deaths_New_Per_Million": -0.79
 }

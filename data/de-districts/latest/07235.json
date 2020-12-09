@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1562,
- "Cases_Last_Week": 148,
- "Cases_Last_Week_Per_100000": 99.0,
- "Cases_Last_Week_Per_Million": 990,
+ "Cases": 1596,
+ "Cases_Last_Week": 136,
+ "Cases_Last_Week_Per_100000": 91.0,
+ "Cases_Last_Week_Per_Million": 910,
  "Cases_New": 0,
- "Cases_Per_Million": 10455,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 18.8,
- "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-07",
+ "Cases_Per_Million": 10682,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 25.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.2,
+ "Date_Latest": "2020-12-08",
  "Deaths": 16,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Trier-Saarburg (Landkreis)",
  "Population": 149398,
- "Slope_Cases_New_Per_Million": 9.17,
- "Slope_Deaths_New_Per_Million": -0.21
+ "Slope_Cases_New_Per_Million": 7.65,
+ "Slope_Deaths_New_Per_Million": -0.62
 }
