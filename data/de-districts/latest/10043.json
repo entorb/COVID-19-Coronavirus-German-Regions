@@ -1,15 +1,15 @@
 {
  "BL_Code": "SL",
  "Bundesland": "Saarland",
- "Cases": 1257,
- "Cases_Last_Week": 170,
- "Cases_Last_Week_Per_100000": 129.3,
- "Cases_Last_Week_Per_Million": 1293,
+ "Cases": 1685,
+ "Cases_Last_Week": 107,
+ "Cases_Last_Week_Per_100000": 81.4,
+ "Cases_Last_Week_Per_Million": 814,
  "Cases_New": 0,
- "Cases_Per_Million": 9565,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
- "DIVI_Intensivstationen_Covid_Prozent": 11.9,
- "Date_Latest": "2020-11-15",
+ "Cases_Per_Million": 12822,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.6,
+ "Date_Latest": "2020-12-07",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Neunkirchen (Landkreis)",
  "Population": 131408,
- "Slope_Cases_New_Per_Million": -34.89,
- "Slope_Deaths_New_Per_Million": -0.4
+ "Slope_Cases_New_Per_Million": -23.14,
+ "Slope_Deaths_New_Per_Million": 0.0
 }
