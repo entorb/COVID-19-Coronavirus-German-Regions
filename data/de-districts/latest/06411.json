@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 2317,
- "Cases_Last_Week": 200,
- "Cases_Last_Week_Per_100000": 125.0,
- "Cases_Last_Week_Per_Million": 1250,
- "Cases_New": 17,
- "Cases_Per_Million": 14492,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.8,
- "DIVI_Intensivstationen_Covid_Prozent": 16.3,
- "Date_Latest": "2020-12-08",
+ "Cases": 2383,
+ "Cases_Last_Week": 186,
+ "Cases_Last_Week_Per_100000": 116.3,
+ "Cases_Last_Week_Per_Million": 1163,
+ "Cases_New": 22,
+ "Cases_Per_Million": 14905,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.4,
+ "Date_Latest": "2020-12-10",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Darmstadt (Kreisfreie Stadt)",
  "Population": 159878,
- "Slope_Cases_New_Per_Million": -18.73,
- "Slope_Deaths_New_Per_Million": -5.03
+ "Slope_Cases_New_Per_Million": -16.78,
+ "Slope_Deaths_New_Per_Million": -3.48
 }

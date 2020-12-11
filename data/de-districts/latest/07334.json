@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1860,
- "Cases_Last_Week": 198,
- "Cases_Last_Week_Per_100000": 153.4,
- "Cases_Last_Week_Per_Million": 1534,
- "Cases_New": 33,
- "Cases_Per_Million": 14417,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.2,
- "DIVI_Intensivstationen_Covid_Prozent": 9.5,
- "Date_Latest": "2020-12-08",
+ "Cases": 1914,
+ "Cases_Last_Week": 185,
+ "Cases_Last_Week_Per_100000": 143.3,
+ "Cases_Last_Week_Per_Million": 1433,
+ "Cases_New": 13,
+ "Cases_Per_Million": 14835,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.3,
+ "Date_Latest": "2020-12-10",
  "Deaths": 34,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Germersheim (Landkreis)",
  "Population": 129013,
- "Slope_Cases_New_Per_Million": -25.15,
- "Slope_Deaths_New_Per_Million": -5.54
+ "Slope_Cases_New_Per_Million": -6.83,
+ "Slope_Deaths_New_Per_Million": -3.97
 }

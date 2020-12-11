@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2688,
- "Cases_Last_Week": 284,
- "Cases_Last_Week_Per_100000": 223.5,
- "Cases_Last_Week_Per_Million": 2235,
- "Cases_New": 53,
- "Cases_Per_Million": 21160,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.7,
- "DIVI_Intensivstationen_Covid_Prozent": 8.5,
- "Date_Latest": "2020-12-08",
+ "Cases": 2853,
+ "Cases_Last_Week": 337,
+ "Cases_Last_Week_Per_100000": 265.2,
+ "Cases_Last_Week_Per_Million": 2652,
+ "Cases_New": 31,
+ "Cases_Per_Million": 22459,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.0,
+ "Date_Latest": "2020-12-10",
  "Deaths": 40,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Günzburg (Landkreis)",
  "Population": 127027,
- "Slope_Cases_New_Per_Million": -75.22,
- "Slope_Deaths_New_Per_Million": -3.89
+ "Slope_Cases_New_Per_Million": -36.01,
+ "Slope_Deaths_New_Per_Million": -4.67
 }
