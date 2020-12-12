@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 3552,
+ "Cases": 3635,
  "Cases_Last_Week": 234,
  "Cases_Last_Week_Per_100000": 92.3,
  "Cases_Last_Week_Per_Million": 923,
- "Cases_New": 10,
- "Cases_Per_Million": 14021,
+ "Cases_New": 15,
+ "Cases_Per_Million": 14349,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.2,
  "DIVI_Intensivstationen_Covid_Prozent": 4.9,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 45,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.95,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Lahn-Dill-Kreis (Landkreis)",
  "Population": 253319,
- "Slope_Cases_New_Per_Million": -79.26,
- "Slope_Deaths_New_Per_Million": -2.17
+ "Slope_Cases_New_Per_Million": -67.51,
+ "Slope_Deaths_New_Per_Million": -1.8
 }

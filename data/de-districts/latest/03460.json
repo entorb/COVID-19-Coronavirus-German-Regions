@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 3426,
- "Cases_Last_Week": 234,
- "Cases_Last_Week_Per_100000": 163.8,
- "Cases_Last_Week_Per_Million": 1638,
- "Cases_New": 47,
- "Cases_Per_Million": 23989,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.4,
- "DIVI_Intensivstationen_Covid_Prozent": 2.8,
- "Date_Latest": "2020-12-10",
+ "Cases": 3454,
+ "Cases_Last_Week": 227,
+ "Cases_Last_Week_Per_100000": 158.9,
+ "Cases_Last_Week_Per_Million": 1589,
+ "Cases_New": 28,
+ "Cases_Per_Million": 24185,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 7.3,
+ "Date_Latest": "2020-12-11",
  "Deaths": 37,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Vechta (Landkreis)",
  "Population": 142814,
- "Slope_Cases_New_Per_Million": -46.11,
- "Slope_Deaths_New_Per_Million": -0.74
+ "Slope_Cases_New_Per_Million": -41.63,
+ "Slope_Deaths_New_Per_Million": -0.4
 }

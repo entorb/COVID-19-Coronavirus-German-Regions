@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1933,
- "Cases_Last_Week": 223,
- "Cases_Last_Week_Per_100000": 185.3,
- "Cases_Last_Week_Per_Million": 1853,
- "Cases_New": 64,
- "Cases_Per_Million": 16067,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.3,
+ "Cases": 1974,
+ "Cases_Last_Week": 234,
+ "Cases_Last_Week_Per_100000": 194.5,
+ "Cases_Last_Week_Per_Million": 1945,
+ "Cases_New": 41,
+ "Cases_Per_Million": 16408,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
  "DIVI_Intensivstationen_Covid_Prozent": 41.7,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 22,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.31,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Landsberg am Lech (Landkreis)",
  "Population": 120302,
- "Slope_Cases_New_Per_Million": 1.66,
- "Slope_Deaths_New_Per_Million": -0.82
+ "Slope_Cases_New_Per_Million": 6.84,
+ "Slope_Deaths_New_Per_Million": -0.66
 }

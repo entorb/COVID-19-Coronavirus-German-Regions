@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2453,
- "Cases_Last_Week": 289,
- "Cases_Last_Week_Per_100000": 205.3,
- "Cases_Last_Week_Per_Million": 2053,
- "Cases_New": 51,
- "Cases_Per_Million": 17426,
+ "Cases": 2511,
+ "Cases_Last_Week": 313,
+ "Cases_Last_Week_Per_100000": 222.3,
+ "Cases_Last_Week_Per_Million": 2223,
+ "Cases_New": 58,
+ "Cases_Per_Million": 17838,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
  "DIVI_Intensivstationen_Covid_Prozent": 40.0,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 58,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.1,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Tuttlingen (Landkreis)",
  "Population": 140766,
- "Slope_Cases_New_Per_Million": -31.56,
- "Slope_Deaths_New_Per_Million": -4.01
+ "Slope_Cases_New_Per_Million": -21.69,
+ "Slope_Deaths_New_Per_Million": -4.82
 }

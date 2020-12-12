@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1939,
- "Cases_Last_Week": 146,
- "Cases_Last_Week_Per_100000": 144.3,
- "Cases_Last_Week_Per_Million": 1443,
- "Cases_New": 26,
- "Cases_Per_Million": 19175,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "Cases": 1967,
+ "Cases_Last_Week": 144,
+ "Cases_Last_Week_Per_100000": 142.4,
+ "Cases_Last_Week_Per_Million": 1424,
+ "Cases_New": 27,
+ "Cases_Per_Million": 19452,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.7,
  "DIVI_Intensivstationen_Covid_Prozent": 45.5,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 61,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Straubing-Bogen (Landkreis)",
  "Population": 101120,
- "Slope_Cases_New_Per_Million": -58.66,
- "Slope_Deaths_New_Per_Million": -6.37
+ "Slope_Cases_New_Per_Million": -72.8,
+ "Slope_Deaths_New_Per_Million": -6.61
 }

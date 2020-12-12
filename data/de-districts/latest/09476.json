@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1106,
- "Cases_Last_Week": 143,
- "Cases_Last_Week_Per_100000": 214.2,
- "Cases_Last_Week_Per_Million": 2142,
- "Cases_New": 54,
- "Cases_Per_Million": 16571,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
- "DIVI_Intensivstationen_Covid_Prozent": 42.9,
- "Date_Latest": "2020-12-10",
+ "Cases": 1141,
+ "Cases_Last_Week": 159,
+ "Cases_Last_Week_Per_100000": 238.2,
+ "Cases_Last_Week_Per_Million": 2382,
+ "Cases_New": 30,
+ "Cases_Per_Million": 17095,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 50.0,
+ "Date_Latest": "2020-12-11",
  "Deaths": 21,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Kronach (Landkreis)",
  "Population": 66743,
- "Slope_Cases_New_Per_Million": -19.44,
- "Slope_Deaths_New_Per_Million": -1.48
+ "Slope_Cases_New_Per_Million": 10.61,
+ "Slope_Deaths_New_Per_Million": -1.32
 }

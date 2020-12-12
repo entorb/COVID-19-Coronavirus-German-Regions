@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 1715,
- "Cases_Last_Week": 182,
- "Cases_Last_Week_Per_100000": 101.7,
- "Cases_Last_Week_Per_Million": 1017,
+ "Cases": 1754,
+ "Cases_Last_Week": 190,
+ "Cases_Last_Week_Per_100000": 106.2,
+ "Cases_Last_Week_Per_Million": 1062,
  "Cases_New": 0,
- "Cases_Per_Million": 9591,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.4,
- "DIVI_Intensivstationen_Covid_Prozent": 24.6,
- "Date_Latest": "2020-12-10",
+ "Cases_Per_Million": 9809,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.6,
+ "DIVI_Intensivstationen_Covid_Prozent": 26.6,
+ "Date_Latest": "2020-12-11",
  "Deaths": 24,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.59,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Oder-Spree (Landkreis)",
  "Population": 178803,
- "Slope_Cases_New_Per_Million": -38.9,
- "Slope_Deaths_New_Per_Million": -2.03
+ "Slope_Cases_New_Per_Million": -36.49,
+ "Slope_Deaths_New_Per_Million": -1.86
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 357,
- "Cases_Last_Week": 38,
- "Cases_Last_Week_Per_100000": 66.7,
- "Cases_Last_Week_Per_Million": 667,
- "Cases_New": 0,
- "Cases_Per_Million": 6271,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+ "Cases": 364,
+ "Cases_Last_Week": 39,
+ "Cases_Last_Week_Per_100000": 68.5,
+ "Cases_Last_Week_Per_Million": 685,
+ "Cases_New": 2,
+ "Cases_Per_Million": 6394,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
  "DIVI_Intensivstationen_Covid_Prozent": 12.5,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 5,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Wittmund (Landkreis)",
  "Population": 56926,
- "Slope_Cases_New_Per_Million": -17.55,
- "Slope_Deaths_New_Per_Million": -3.4
+ "Slope_Cases_New_Per_Million": -13.25,
+ "Slope_Deaths_New_Per_Million": -3.01
 }

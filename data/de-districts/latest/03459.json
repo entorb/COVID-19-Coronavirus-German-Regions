@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 6366,
- "Cases_Last_Week": 459,
- "Cases_Last_Week_Per_100000": 128.1,
- "Cases_Last_Week_Per_Million": 1281,
+ "Cases": 6462,
+ "Cases_Last_Week": 463,
+ "Cases_Last_Week_Per_100000": 129.3,
+ "Cases_Last_Week_Per_Million": 1293,
  "Cases_New": 0,
- "Cases_Per_Million": 17778,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.7,
- "DIVI_Intensivstationen_Covid_Prozent": 3.3,
- "Date_Latest": "2020-12-10",
+ "Cases_Per_Million": 18046,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 62.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 4.2,
+ "Date_Latest": "2020-12-11",
  "Deaths": 116,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 2.79,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Osnabrück (Landkreis)",
  "Population": 358080,
- "Slope_Cases_New_Per_Million": -31.1,
- "Slope_Deaths_New_Per_Million": -0.92
+ "Slope_Cases_New_Per_Million": -23.63,
+ "Slope_Deaths_New_Per_Million": -1.02
 }

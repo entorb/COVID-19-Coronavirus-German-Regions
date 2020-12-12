@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 967,
- "Cases_Last_Week": 91,
- "Cases_Last_Week_Per_100000": 204.9,
- "Cases_Last_Week_Per_Million": 2049,
- "Cases_New": 5,
- "Cases_Per_Million": 21780,
+ "Cases": 986,
+ "Cases_Last_Week": 92,
+ "Cases_Last_Week_Per_100000": 207.2,
+ "Cases_Last_Week_Per_Million": 2072,
+ "Cases_New": 4,
+ "Cases_Per_Million": 22208,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.0,
  "DIVI_Intensivstationen_Covid_Prozent": 50.0,
- "Date_Latest": "2020-12-10",
+ "Date_Latest": "2020-12-11",
  "Deaths": 32,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Kaufbeuren (Kreisfreie Stadt)",
  "Population": 44398,
- "Slope_Cases_New_Per_Million": 4.0,
- "Slope_Deaths_New_Per_Million": -6.88
+ "Slope_Cases_New_Per_Million": 25.5,
+ "Slope_Deaths_New_Per_Million": -5.4
 }
