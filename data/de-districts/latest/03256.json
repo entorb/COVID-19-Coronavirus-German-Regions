@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 889,
- "Cases_Last_Week": 94,
- "Cases_Last_Week_Per_100000": 77.4,
- "Cases_Last_Week_Per_Million": 774,
- "Cases_New": 18,
- "Cases_Per_Million": 7323,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+ "Cases": 894,
+ "Cases_Last_Week": 80,
+ "Cases_Last_Week_Per_100000": 65.9,
+ "Cases_Last_Week_Per_Million": 659,
+ "Cases_New": 3,
+ "Cases_Per_Million": 7364,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
  "DIVI_Intensivstationen_Covid_Prozent": 4.2,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Nienburg (Weser) (Landkreis)",
  "Population": 121390,
- "Slope_Cases_New_Per_Million": -23.89,
- "Slope_Deaths_New_Per_Million": -0.72
+ "Slope_Cases_New_Per_Million": -19.79,
+ "Slope_Deaths_New_Per_Million": -0.6
 }

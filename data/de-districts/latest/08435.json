@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2151,
+ "Cases": 2177,
  "Cases_Last_Week": 268,
  "Cases_Last_Week_Per_100000": 123.2,
  "Cases_Last_Week_Per_Million": 1232,
- "Cases_New": 67,
- "Cases_Per_Million": 9891,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 61.9,
- "DIVI_Intensivstationen_Covid_Prozent": 12.7,
- "Date_Latest": "2020-12-11",
+ "Cases_New": 26,
+ "Cases_Per_Million": 10010,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.2,
+ "Date_Latest": "2020-12-12",
  "Deaths": 14,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bodenseekreis (Landkreis)",
  "Population": 217470,
- "Slope_Cases_New_Per_Million": -15.78,
- "Slope_Deaths_New_Per_Million": -0.81
+ "Slope_Cases_New_Per_Million": 2.67,
+ "Slope_Deaths_New_Per_Million": -0.67
 }

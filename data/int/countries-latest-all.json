@@ -2030,9 +2030,9 @@
  },
  {
   "Cases": 17473,
-  "Cases_Last_Week": 0,
-  "Cases_Last_Week_Per_100000": 0.0,
-  "Cases_Last_Week_Per_Million": 0,
+  "Cases_Last_Week": 132,
+  "Cases_Last_Week_Per_100000": 0.5,
+  "Cases_Last_Week_Per_Million": 5,
   "Cases_New": 0,
   "Cases_Per_Million": 665,
   "Code": "MG",
@@ -2044,8 +2044,9 @@
   "Deaths_Last_Week_Per_Million": 0.0,
   "Deaths_New": 0,
   "Deaths_Per_Million": 9,
+  "DoublingTime_Cases_Last_Week_Per_100000": 4.2,
   "Population": 26262368,
-  "Slope_Cases_New_Per_Million": 0.21,
+  "Slope_Cases_New_Per_Million": 0.51,
   "Slope_Deaths_New_Per_Million": 0.01
  },
  {

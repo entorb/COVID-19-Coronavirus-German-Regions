@@ -1,15 +1,15 @@
 {
  "BL_Code": "ST",
  "Bundesland": "Sachsen-Anhalt",
- "Cases": 439,
- "Cases_Last_Week": 67,
- "Cases_Last_Week_Per_100000": 80.5,
- "Cases_Last_Week_Per_Million": 805,
- "Cases_New": 8,
- "Cases_Per_Million": 5278,
+ "Cases": 450,
+ "Cases_Last_Week": 71,
+ "Cases_Last_Week_Per_100000": 85.3,
+ "Cases_Last_Week_Per_Million": 853,
+ "Cases_New": 11,
+ "Cases_Per_Million": 5410,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.8,
  "DIVI_Intensivstationen_Covid_Prozent": 12.5,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 10,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Altmarkkreis Salzwedel (Landkreis)",
  "Population": 83173,
- "Slope_Cases_New_Per_Million": 0.69,
- "Slope_Deaths_New_Per_Million": -1.53
+ "Slope_Cases_New_Per_Million": 2.27,
+ "Slope_Deaths_New_Per_Million": -1.9
 }

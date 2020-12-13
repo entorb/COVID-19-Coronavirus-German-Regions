@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 1663,
- "Cases_Last_Week": 130,
- "Cases_Last_Week_Per_100000": 98.1,
- "Cases_Last_Week_Per_Million": 981,
- "Cases_New": 7,
- "Cases_Per_Million": 12560,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
+ "Cases": 1685,
+ "Cases_Last_Week": 139,
+ "Cases_Last_Week_Per_100000": 104.9,
+ "Cases_Last_Week_Per_Million": 1049,
+ "Cases_New": 21,
+ "Cases_Per_Million": 12726,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 48.8,
  "DIVI_Intensivstationen_Covid_Prozent": 7.5,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 18,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Main-Tauber-Kreis (Landkreis)",
  "Population": 132399,
- "Slope_Cases_New_Per_Million": -32.9,
- "Slope_Deaths_New_Per_Million": -2.06
+ "Slope_Cases_New_Per_Million": -35.89,
+ "Slope_Deaths_New_Per_Million": -2.42
 }

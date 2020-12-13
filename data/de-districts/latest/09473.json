@@ -1,13 +1,13 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1640,
- "Cases_Last_Week": 251,
- "Cases_Last_Week_Per_100000": 289.3,
- "Cases_Last_Week_Per_Million": 2893,
- "Cases_New": 38,
- "Cases_Per_Million": 18905,
- "Date_Latest": "2020-12-11",
+ "Cases": 1680,
+ "Cases_Last_Week": 256,
+ "Cases_Last_Week_Per_100000": 295.1,
+ "Cases_Last_Week_Per_Million": 2951,
+ "Cases_New": 40,
+ "Cases_Per_Million": 19366,
+ "Date_Latest": "2020-12-12",
  "Deaths": 51,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -18,6 +18,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Coburg (Landkreis)",
  "Population": 86747,
- "Slope_Cases_New_Per_Million": -1.86,
- "Slope_Deaths_New_Per_Million": -11.81
+ "Slope_Cases_New_Per_Million": -2.72,
+ "Slope_Deaths_New_Per_Million": -12.31
 }

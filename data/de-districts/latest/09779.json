@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2117,
- "Cases_Last_Week": 148,
- "Cases_Last_Week_Per_100000": 110.6,
- "Cases_Last_Week_Per_Million": 1106,
- "Cases_New": 22,
- "Cases_Per_Million": 15824,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.7,
+ "Cases": 2147,
+ "Cases_Last_Week": 146,
+ "Cases_Last_Week_Per_100000": 109.1,
+ "Cases_Last_Week_Per_Million": 1091,
+ "Cases_New": 30,
+ "Cases_Per_Million": 16048,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.3,
  "DIVI_Intensivstationen_Covid_Prozent": 26.1,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 43,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Donau-Ries (Landkreis)",
  "Population": 133783,
- "Slope_Cases_New_Per_Million": -12.68,
- "Slope_Deaths_New_Per_Million": -1.25
+ "Slope_Cases_New_Per_Million": -10.73,
+ "Slope_Deaths_New_Per_Million": -1.36
 }

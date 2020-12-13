@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 917,
- "Cases_Last_Week": 90,
- "Cases_Last_Week_Per_100000": 125.7,
- "Cases_Last_Week_Per_Million": 1257,
- "Cases_New": 26,
- "Cases_Per_Million": 12813,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
- "DIVI_Intensivstationen_Covid_Prozent": 12.0,
- "Date_Latest": "2020-12-11",
+ "Cases": 934,
+ "Cases_Last_Week": 96,
+ "Cases_Last_Week_Per_100000": 134.1,
+ "Cases_Last_Week_Per_Million": 1341,
+ "Cases_New": 17,
+ "Cases_Per_Million": 13050,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 8.0,
+ "Date_Latest": "2020-12-12",
  "Deaths": 14,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Kulmbach (Landkreis)",
  "Population": 71566,
- "Slope_Cases_New_Per_Million": 35.88,
- "Slope_Deaths_New_Per_Million": 1.07
+ "Slope_Cases_New_Per_Million": 30.17,
+ "Slope_Deaths_New_Per_Million": 0.64
 }

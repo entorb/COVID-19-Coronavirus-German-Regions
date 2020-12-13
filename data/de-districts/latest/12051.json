@@ -1,15 +1,15 @@
 {
  "BL_Code": "BB",
  "Bundesland": "Brandenburg",
- "Cases": 494,
- "Cases_Last_Week": 38,
- "Cases_Last_Week_Per_100000": 52.6,
- "Cases_Last_Week_Per_Million": 526,
- "Cases_New": 2,
- "Cases_Per_Million": 6843,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
- "DIVI_Intensivstationen_Covid_Prozent": 18.4,
- "Date_Latest": "2020-12-11",
+ "Cases": 498,
+ "Cases_Last_Week": 31,
+ "Cases_Last_Week_Per_100000": 42.9,
+ "Cases_Last_Week_Per_Million": 429,
+ "Cases_New": 0,
+ "Cases_Per_Million": 6899,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.0,
+ "Date_Latest": "2020-12-12",
  "Deaths": 7,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Brandenburg an der Havel (Kreisfreie Stadt)",
  "Population": 72184,
- "Slope_Cases_New_Per_Million": -16.66,
- "Slope_Deaths_New_Per_Million": -2.01
+ "Slope_Cases_New_Per_Million": -22.49,
+ "Slope_Deaths_New_Per_Million": -2.28
 }

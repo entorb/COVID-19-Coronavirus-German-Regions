@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 3436,
- "Cases_Last_Week": 451,
- "Cases_Last_Week_Per_100000": 212.2,
- "Cases_Last_Week_Per_Million": 2122,
- "Cases_New": 49,
- "Cases_Per_Million": 16168,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.9,
- "DIVI_Intensivstationen_Covid_Prozent": 25.0,
- "Date_Latest": "2020-12-11",
+ "Cases": 3525,
+ "Cases_Last_Week": 477,
+ "Cases_Last_Week_Per_100000": 224.4,
+ "Cases_Last_Week_Per_Million": 2244,
+ "Cases_New": 53,
+ "Cases_Per_Million": 16587,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.2,
+ "Date_Latest": "2020-12-12",
  "Deaths": 66,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 4.71,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Schwarzwald-Baar-Kreis (Landkreis)",
  "Population": 212506,
- "Slope_Cases_New_Per_Million": -10.15,
- "Slope_Deaths_New_Per_Million": -2.72
+ "Slope_Cases_New_Per_Million": -0.81,
+ "Slope_Deaths_New_Per_Million": -2.61
 }

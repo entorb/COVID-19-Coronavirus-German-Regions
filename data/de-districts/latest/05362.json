@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 7345,
- "Cases_Last_Week": 600,
- "Cases_Last_Week_Per_100000": 127.4,
- "Cases_Last_Week_Per_Million": 1274,
- "Cases_New": 108,
- "Cases_Per_Million": 15607,
+ "Cases": 7451,
+ "Cases_Last_Week": 622,
+ "Cases_Last_Week_Per_100000": 132.1,
+ "Cases_Last_Week_Per_Million": 1321,
+ "Cases_New": 106,
+ "Cases_Per_Million": 15832,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
  "DIVI_Intensivstationen_Covid_Prozent": 20.0,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 134,
  "Deaths_Last_Week": 5,
  "Deaths_Last_Week_Per_Million": 10.62,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Rhein-Erft-Kreis (Kreis)",
  "Population": 470615,
- "Slope_Cases_New_Per_Million": -12.84,
- "Slope_Deaths_New_Per_Million": -0.71
+ "Slope_Cases_New_Per_Million": -4.01,
+ "Slope_Deaths_New_Per_Million": -0.57
 }

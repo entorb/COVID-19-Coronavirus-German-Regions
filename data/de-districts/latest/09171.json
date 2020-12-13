@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2491,
- "Cases_Last_Week": 238,
- "Cases_Last_Week_Per_100000": 213.4,
- "Cases_Last_Week_Per_Million": 2134,
- "Cases_New": 51,
- "Cases_Per_Million": 22337,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.7,
+ "Cases": 2512,
+ "Cases_Last_Week": 228,
+ "Cases_Last_Week_Per_100000": 204.4,
+ "Cases_Last_Week_Per_Million": 2044,
+ "Cases_New": 21,
+ "Cases_Per_Million": 22525,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.1,
  "DIVI_Intensivstationen_Covid_Prozent": 10.3,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 80,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Altötting (Landkreis)",
  "Population": 111516,
- "Slope_Cases_New_Per_Million": -27.98,
- "Slope_Deaths_New_Per_Million": -2.21
+ "Slope_Cases_New_Per_Million": -34.32,
+ "Slope_Deaths_New_Per_Million": -4.12
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 5617,
- "Cases_Last_Week": 616,
- "Cases_Last_Week_Per_100000": 184.3,
- "Cases_Last_Week_Per_Million": 1843,
- "Cases_New": 114,
- "Cases_Per_Million": 16807,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
- "DIVI_Intensivstationen_Covid_Prozent": 23.6,
- "Date_Latest": "2020-12-11",
+ "Cases": 5694,
+ "Cases_Last_Week": 599,
+ "Cases_Last_Week_Per_100000": 179.2,
+ "Cases_Last_Week_Per_Million": 1792,
+ "Cases_New": 77,
+ "Cases_Per_Million": 17037,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 24.2,
+ "Date_Latest": "2020-12-12",
  "Deaths": 54,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 2.99,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bielefeld (Kreisfreie Stadt)",
  "Population": 334195,
- "Slope_Cases_New_Per_Million": -11.36,
- "Slope_Deaths_New_Per_Million": -1.81
+ "Slope_Cases_New_Per_Million": -7.46,
+ "Slope_Deaths_New_Per_Million": -1.57
 }

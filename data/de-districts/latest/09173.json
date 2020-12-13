@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2110,
- "Cases_Last_Week": 164,
- "Cases_Last_Week_Per_100000": 128.2,
- "Cases_Last_Week_Per_Million": 1282,
- "Cases_New": 5,
- "Cases_Per_Million": 16495,
+ "Cases": 2169,
+ "Cases_Last_Week": 203,
+ "Cases_Last_Week_Per_100000": 158.6,
+ "Cases_Last_Week_Per_Million": 1586,
+ "Cases_New": 21,
+ "Cases_Per_Million": 16956,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.8,
  "DIVI_Intensivstationen_Covid_Prozent": 16.7,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 16,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Bad Tölz-Wolfratshausen (Landkreis)",
  "Population": 127917,
- "Slope_Cases_New_Per_Million": -6.0,
- "Slope_Deaths_New_Per_Million": -0.41
+ "Slope_Cases_New_Per_Million": 12.03,
+ "Slope_Deaths_New_Per_Million": -0.22
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 2319,
- "Cases_Last_Week": 307,
- "Cases_Last_Week_Per_100000": 170.8,
- "Cases_Last_Week_Per_Million": 1708,
- "Cases_New": 72,
- "Cases_Per_Million": 12906,
+ "Cases": 2343,
+ "Cases_Last_Week": 312,
+ "Cases_Last_Week_Per_100000": 173.6,
+ "Cases_Last_Week_Per_Million": 1736,
+ "Cases_New": 24,
+ "Cases_Per_Million": 13040,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.8,
  "DIVI_Intensivstationen_Covid_Prozent": 29.2,
- "Date_Latest": "2020-12-11",
+ "Date_Latest": "2020-12-12",
  "Deaths": 68,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 16.7,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Schwalm-Eder-Kreis (Landkreis)",
  "Population": 179673,
- "Slope_Cases_New_Per_Million": 2.05,
- "Slope_Deaths_New_Per_Million": 0.32
+ "Slope_Cases_New_Per_Million": 10.42,
+ "Slope_Deaths_New_Per_Million": 0.27
 }

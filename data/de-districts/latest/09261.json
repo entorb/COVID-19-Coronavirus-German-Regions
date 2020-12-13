@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1446,
- "Cases_Last_Week": 231,
- "Cases_Last_Week_Per_100000": 314.6,
- "Cases_Last_Week_Per_Million": 3146,
- "Cases_New": 37,
- "Cases_Per_Million": 19697,
+ "Cases": 1464,
+ "Cases_Last_Week": 227,
+ "Cases_Last_Week_Per_100000": 309.2,
+ "Cases_Last_Week_Per_Million": 3092,
+ "Cases_New": 17,
+ "Cases_Per_Million": 19942,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 93.8,
- "DIVI_Intensivstationen_Covid_Prozent": 10.9,
- "Date_Latest": "2020-12-11",
+ "DIVI_Intensivstationen_Covid_Prozent": 12.5,
+ "Date_Latest": "2020-12-12",
  "Deaths": 20,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 27.24,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Landshut (Kreisfreie Stadt)",
  "Population": 73411,
- "Slope_Cases_New_Per_Million": 122.96,
- "Slope_Deaths_New_Per_Million": 0.18
+ "Slope_Cases_New_Per_Million": 133.91,
+ "Slope_Deaths_New_Per_Million": -0.39
 }

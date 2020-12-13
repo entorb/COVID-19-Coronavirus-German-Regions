@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 3115,
- "Cases_Last_Week": 249,
- "Cases_Last_Week_Per_100000": 162.6,
- "Cases_Last_Week_Per_Million": 1626,
- "Cases_New": 41,
- "Cases_Per_Million": 20346,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.8,
- "DIVI_Intensivstationen_Covid_Prozent": 21.4,
- "Date_Latest": "2020-12-11",
+ "Cases": 3150,
+ "Cases_Last_Week": 251,
+ "Cases_Last_Week_Per_100000": 163.9,
+ "Cases_Last_Week_Per_Million": 1639,
+ "Cases_New": 19,
+ "Cases_Per_Million": 20575,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.2,
+ "Date_Latest": "2020-12-12",
  "Deaths": 24,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.53,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Regensburg (Kreisfreie Stadt)",
  "Population": 153094,
- "Slope_Cases_New_Per_Million": -13.64,
- "Slope_Deaths_New_Per_Million": -1.18
+ "Slope_Cases_New_Per_Million": -6.88,
+ "Slope_Deaths_New_Per_Million": -1.32
 }
