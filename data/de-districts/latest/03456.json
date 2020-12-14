@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1900,
- "Cases_Last_Week": 159,
- "Cases_Last_Week_Per_100000": 115.9,
- "Cases_Last_Week_Per_Million": 1159,
- "Cases_New": 53,
- "Cases_Per_Million": 13852,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 60.7,
- "DIVI_Intensivstationen_Covid_Prozent": 17.9,
- "Date_Latest": "2020-12-12",
+ "Cases": 1934,
+ "Cases_Last_Week": 191,
+ "Cases_Last_Week_Per_100000": 139.2,
+ "Cases_Last_Week_Per_Million": 1392,
+ "Cases_New": 34,
+ "Cases_Per_Million": 14100,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.4,
+ "Date_Latest": "2020-12-13",
  "Deaths": 45,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Grafschaft Bentheim (Landkreis)",
  "Population": 137162,
- "Slope_Cases_New_Per_Million": 27.19,
- "Slope_Deaths_New_Per_Million": -1.63
+ "Slope_Cases_New_Per_Million": 27.63,
+ "Slope_Deaths_New_Per_Million": -1.62
 }

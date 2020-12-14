@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 3733,
- "Cases_Last_Week": 322,
- "Cases_Last_Week_Per_100000": 247.1,
- "Cases_Last_Week_Per_Million": 2471,
- "Cases_New": 46,
- "Cases_Per_Million": 28653,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.8,
+ "Cases": 3747,
+ "Cases_Last_Week": 331,
+ "Cases_Last_Week_Per_100000": 254.0,
+ "Cases_Last_Week_Per_Million": 2540,
+ "Cases_New": 15,
+ "Cases_Per_Million": 28761,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
  "DIVI_Intensivstationen_Covid_Prozent": 12.1,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 45,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Offenbach am Main (Kreisfreie Stadt)",
  "Population": 130280,
- "Slope_Cases_New_Per_Million": -31.43,
- "Slope_Deaths_New_Per_Million": -3.54
+ "Slope_Cases_New_Per_Million": -49.07,
+ "Slope_Deaths_New_Per_Million": -4.49
 }

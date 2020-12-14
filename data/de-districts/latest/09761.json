@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 7909,
- "Cases_Last_Week": 644,
- "Cases_Last_Week_Per_100000": 217.1,
- "Cases_Last_Week_Per_Million": 2171,
- "Cases_New": 65,
- "Cases_Per_Million": 26667,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.7,
- "DIVI_Intensivstationen_Covid_Prozent": 21.7,
- "Date_Latest": "2020-12-12",
+ "Cases": 7952,
+ "Cases_Last_Week": 654,
+ "Cases_Last_Week_Per_100000": 220.5,
+ "Cases_Last_Week_Per_Million": 2205,
+ "Cases_New": 25,
+ "Cases_Per_Million": 26812,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.5,
+ "DIVI_Intensivstationen_Covid_Prozent": 23.3,
+ "Date_Latest": "2020-12-13",
  "Deaths": 137,
  "Deaths_Last_Week": 6,
  "Deaths_Last_Week_Per_Million": 20.23,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Augsburg (Kreisfreie Stadt)",
  "Population": 296582,
- "Slope_Cases_New_Per_Million": -36.51,
- "Slope_Deaths_New_Per_Million": -1.37
+ "Slope_Cases_New_Per_Million": -33.6,
+ "Slope_Deaths_New_Per_Million": -1.13
 }

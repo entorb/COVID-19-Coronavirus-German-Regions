@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 354,
- "Cases_Last_Week": 121,
- "Cases_Last_Week_Per_100000": 328.9,
- "Cases_Last_Week_Per_Million": 3289,
- "Cases_New": 1,
- "Cases_Per_Million": 9622,
+ "Cases": 375,
+ "Cases_Last_Week": 140,
+ "Cases_Last_Week_Per_100000": 380.5,
+ "Cases_Last_Week_Per_Million": 3805,
+ "Cases_New": 4,
+ "Cases_Per_Million": 10193,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
  "DIVI_Intensivstationen_Covid_Prozent": 23.3,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,6 +21,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Suhl (Kreisfreie Stadt)",
  "Population": 36789,
- "Slope_Cases_New_Per_Million": 219.62,
- "Slope_Deaths_New_Per_Million": -2.51
+ "Slope_Cases_New_Per_Million": 250.54,
+ "Slope_Deaths_New_Per_Million": -5.85
 }

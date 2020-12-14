@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 2164,
- "Cases_Last_Week": 217,
- "Cases_Last_Week_Per_100000": 184.5,
- "Cases_Last_Week_Per_Million": 1845,
- "Cases_New": 48,
- "Cases_Per_Million": 18406,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.5,
+ "Cases": 2187,
+ "Cases_Last_Week": 239,
+ "Cases_Last_Week_Per_100000": 203.2,
+ "Cases_Last_Week_Per_Million": 2032,
+ "Cases_New": 23,
+ "Cases_Per_Million": 18602,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.5,
  "DIVI_Intensivstationen_Covid_Prozent": 17.5,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 15,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Bottrop (Kreisfreie Stadt)",
  "Population": 117565,
- "Slope_Cases_New_Per_Million": 7.87,
- "Slope_Deaths_New_Per_Million": -1.05
+ "Slope_Cases_New_Per_Million": 15.62,
+ "Slope_Deaths_New_Per_Million": -1.57
 }

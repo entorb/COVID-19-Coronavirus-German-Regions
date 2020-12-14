@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 5780,
- "Cases_Last_Week": 282,
- "Cases_Last_Week_Per_100000": 101.2,
- "Cases_Last_Week_Per_Million": 1012,
+ "Cases": 5876,
+ "Cases_Last_Week": 377,
+ "Cases_Last_Week_Per_100000": 135.3,
+ "Cases_Last_Week_Per_Million": 1353,
  "Cases_New": 0,
- "Cases_Per_Million": 20755,
+ "Cases_Per_Million": 21100,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.1,
- "DIVI_Intensivstationen_Covid_Prozent": 27.9,
- "Date_Latest": "2020-12-12",
+ "DIVI_Intensivstationen_Covid_Prozent": 26.7,
+ "Date_Latest": "2020-12-13",
  "Deaths": 78,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 10.77,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Wiesbaden (Kreisfreie Stadt)",
  "Population": 278474,
- "Slope_Cases_New_Per_Million": -82.53,
- "Slope_Deaths_New_Per_Million": -0.66
+ "Slope_Cases_New_Per_Million": -56.69,
+ "Slope_Deaths_New_Per_Million": -0.34
 }

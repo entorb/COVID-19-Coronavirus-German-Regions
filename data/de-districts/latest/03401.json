@@ -5,11 +5,11 @@
  "Cases_Last_Week": 99,
  "Cases_Last_Week_Per_100000": 127.6,
  "Cases_Last_Week_Per_Million": 1276,
- "Cases_New": 13,
+ "Cases_New": 0,
  "Cases_Per_Million": 19224,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 94.1,
  "DIVI_Intensivstationen_Covid_Prozent": 35.3,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 24,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Delmenhorst (Kreisfreie Stadt)",
  "Population": 77559,
- "Slope_Cases_New_Per_Million": 8.72,
- "Slope_Deaths_New_Per_Million": -3.15
+ "Slope_Cases_New_Per_Million": -12.31,
+ "Slope_Deaths_New_Per_Million": -2.49
 }

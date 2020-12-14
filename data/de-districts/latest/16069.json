@@ -5,11 +5,11 @@
  "Cases_Last_Week": 270,
  "Cases_Last_Week_Per_100000": 427.2,
  "Cases_Last_Week_Per_Million": 4272,
- "Cases_New": 29,
+ "Cases_New": 0,
  "Cases_Per_Million": 26567,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
  "DIVI_Intensivstationen_Covid_Prozent": 33.3,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 26,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 15.82,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Hildburghausen (Landkreis)",
  "Population": 63197,
- "Slope_Cases_New_Per_Million": -64.26,
- "Slope_Deaths_New_Per_Million": -6.33
+ "Slope_Cases_New_Per_Million": -30.62,
+ "Slope_Deaths_New_Per_Million": -5.15
 }

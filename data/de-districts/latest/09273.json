@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1891,
- "Cases_Last_Week": 157,
- "Cases_Last_Week_Per_100000": 127.5,
- "Cases_Last_Week_Per_Million": 1275,
- "Cases_New": 21,
- "Cases_Per_Million": 15366,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.3,
+ "Cases": 1895,
+ "Cases_Last_Week": 143,
+ "Cases_Last_Week_Per_100000": 116.2,
+ "Cases_Last_Week_Per_Million": 1162,
+ "Cases_New": 4,
+ "Cases_Per_Million": 15399,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 57.1,
  "DIVI_Intensivstationen_Covid_Prozent": 21.4,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 40,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 8.13,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Kelheim (Landkreis)",
  "Population": 123058,
- "Slope_Cases_New_Per_Million": -4.12,
- "Slope_Deaths_New_Per_Million": 0.59
+ "Slope_Cases_New_Per_Million": -1.66,
+ "Slope_Deaths_New_Per_Million": 0.71
 }

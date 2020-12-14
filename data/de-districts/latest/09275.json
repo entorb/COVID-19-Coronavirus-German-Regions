@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 5123,
- "Cases_Last_Week": 637,
- "Cases_Last_Week_Per_100000": 330.6,
- "Cases_Last_Week_Per_Million": 3306,
- "Cases_New": 58,
- "Cases_Per_Million": 26591,
+ "Cases": 5151,
+ "Cases_Last_Week": 609,
+ "Cases_Last_Week_Per_100000": 316.1,
+ "Cases_Last_Week_Per_Million": 3161,
+ "Cases_New": 21,
+ "Cases_Per_Million": 26736,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 77.8,
  "DIVI_Intensivstationen_Covid_Prozent": 29.6,
- "Date_Latest": "2020-12-12",
+ "Date_Latest": "2020-12-13",
  "Deaths": 70,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Passau (Landkreis)",
  "Population": 192656,
- "Slope_Cases_New_Per_Million": -25.34,
- "Slope_Deaths_New_Per_Million": -3.23
+ "Slope_Cases_New_Per_Million": -27.52,
+ "Slope_Deaths_New_Per_Million": -2.54
 }
