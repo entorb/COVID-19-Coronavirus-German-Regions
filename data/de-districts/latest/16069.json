@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 1679,
- "Cases_Last_Week": 270,
- "Cases_Last_Week_Per_100000": 427.2,
- "Cases_Last_Week_Per_Million": 4272,
- "Cases_New": 0,
- "Cases_Per_Million": 26567,
+ "Cases": 1707,
+ "Cases_Last_Week": 288,
+ "Cases_Last_Week_Per_100000": 455.7,
+ "Cases_Last_Week_Per_Million": 4557,
+ "Cases_New": 28,
+ "Cases_Per_Million": 27010,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
  "DIVI_Intensivstationen_Covid_Prozent": 33.3,
- "Date_Latest": "2020-12-13",
+ "Date_Latest": "2020-12-14",
  "Deaths": 26,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 15.82,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Hildburghausen (Landkreis)",
  "Population": 63197,
- "Slope_Cases_New_Per_Million": -30.62,
- "Slope_Deaths_New_Per_Million": -5.15
+ "Slope_Cases_New_Per_Million": -1.4,
+ "Slope_Deaths_New_Per_Million": -3.55
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3455,
- "Cases_Last_Week": 218,
- "Cases_Last_Week_Per_100000": 83.9,
- "Cases_Last_Week_Per_Million": 839,
- "Cases_New": 15,
- "Cases_Per_Million": 13299,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.9,
- "DIVI_Intensivstationen_Covid_Prozent": 6.7,
- "Date_Latest": "2020-12-13",
+ "Cases": 3481,
+ "Cases_Last_Week": 226,
+ "Cases_Last_Week_Per_100000": 86.9,
+ "Cases_Last_Week_Per_Million": 869,
+ "Cases_New": 26,
+ "Cases_Per_Million": 13399,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 68.2,
+ "DIVI_Intensivstationen_Covid_Prozent": 6.8,
+ "Date_Latest": "2020-12-14",
  "Deaths": 53,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.85,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Hochsauerlandkreis (Kreis)",
  "Population": 259777,
- "Slope_Cases_New_Per_Million": 6.85,
- "Slope_Deaths_New_Per_Million": -0.2
+ "Slope_Cases_New_Per_Million": 7.54,
+ "Slope_Deaths_New_Per_Million": -0.19
 }

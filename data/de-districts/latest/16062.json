@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 544,
- "Cases_Last_Week": 65,
- "Cases_Last_Week_Per_100000": 77.9,
- "Cases_Last_Week_Per_Million": 779,
- "Cases_New": 2,
- "Cases_Per_Million": 6521,
+ "Cases": 548,
+ "Cases_Last_Week": 55,
+ "Cases_Last_Week_Per_100000": 65.9,
+ "Cases_Last_Week_Per_Million": 659,
+ "Cases_New": 3,
+ "Cases_Per_Million": 6569,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 59.2,
  "DIVI_Intensivstationen_Covid_Prozent": 18.3,
- "Date_Latest": "2020-12-13",
+ "Date_Latest": "2020-12-14",
  "Deaths": 10,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Nordhausen (Landkreis)",
  "Population": 83416,
- "Slope_Cases_New_Per_Million": -52.46,
- "Slope_Deaths_New_Per_Million": -1.19
+ "Slope_Cases_New_Per_Million": -56.26,
+ "Slope_Deaths_New_Per_Million": -1.26
 }

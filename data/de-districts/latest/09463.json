@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 605,
- "Cases_Last_Week": 94,
- "Cases_Last_Week_Per_100000": 228.8,
- "Cases_Last_Week_Per_Million": 2288,
- "Cases_New": 4,
- "Cases_Per_Million": 14730,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.7,
- "DIVI_Intensivstationen_Covid_Prozent": 16.3,
- "Date_Latest": "2020-12-13",
+ "Cases": 611,
+ "Cases_Last_Week": 96,
+ "Cases_Last_Week_Per_100000": 233.7,
+ "Cases_Last_Week_Per_Million": 2337,
+ "Cases_New": 6,
+ "Cases_Per_Million": 14876,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 14.0,
+ "Date_Latest": "2020-12-14",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Coburg (Kreisfreie Stadt)",
  "Population": 41072,
- "Slope_Cases_New_Per_Million": 70.83,
- "Slope_Deaths_New_Per_Million": -6.58
+ "Slope_Cases_New_Per_Million": 63.13,
+ "Slope_Deaths_New_Per_Million": -6.8
 }
