@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1202,
- "Cases_Last_Week": 99,
- "Cases_Last_Week_Per_100000": 52.1,
- "Cases_Last_Week_Per_Million": 521,
+ "Cases": 1207,
+ "Cases_Last_Week": 91,
+ "Cases_Last_Week_Per_100000": 47.9,
+ "Cases_Last_Week_Per_Million": 479,
  "Cases_New": 0,
- "Cases_Per_Million": 6336,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 69.2,
+ "Cases_Per_Million": 6362,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.9,
  "DIVI_Intensivstationen_Covid_Prozent": 5.1,
- "Date_Latest": "2020-12-14",
+ "Date_Latest": "2020-12-15",
  "Deaths": 19,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.27,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Aurich (Landkreis)",
  "Population": 189694,
- "Slope_Cases_New_Per_Million": 1.62,
- "Slope_Deaths_New_Per_Million": 0.28
+ "Slope_Cases_New_Per_Million": 4.38,
+ "Slope_Deaths_New_Per_Million": 0.38
 }

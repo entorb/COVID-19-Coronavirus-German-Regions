@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 864,
- "Cases_Last_Week": 77,
- "Cases_Last_Week_Per_100000": 102.2,
- "Cases_Last_Week_Per_Million": 1022,
- "Cases_New": 4,
- "Cases_Per_Million": 11470,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.3,
+ "Cases": 879,
+ "Cases_Last_Week": 84,
+ "Cases_Last_Week_Per_100000": 111.5,
+ "Cases_Last_Week_Per_Million": 1115,
+ "Cases_New": 15,
+ "Cases_Per_Million": 11669,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 66.7,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-14",
+ "Date_Latest": "2020-12-15",
  "Deaths": 15,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 13.28,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Donnersbergkreis (Landkreis)",
  "Population": 75325,
- "Slope_Cases_New_Per_Million": -2.38,
- "Slope_Deaths_New_Per_Million": 1.17
+ "Slope_Cases_New_Per_Million": 9.8,
+ "Slope_Deaths_New_Per_Million": 1.31
 }

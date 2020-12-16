@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 12505,
- "Cases_Last_Week": 1407,
- "Cases_Last_Week_Per_100000": 271.4,
- "Cases_Last_Week_Per_Million": 2714,
- "Cases_New": 46,
- "Cases_Per_Million": 24123,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.1,
- "DIVI_Intensivstationen_Covid_Prozent": 27.6,
- "Date_Latest": "2020-12-14",
+ "Cases": 13298,
+ "Cases_Last_Week": 1758,
+ "Cases_Last_Week_Per_100000": 339.1,
+ "Cases_Last_Week_Per_Million": 3391,
+ "Cases_New": 446,
+ "Cases_Per_Million": 25653,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.2,
+ "Date_Latest": "2020-12-15",
  "Deaths": 117,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Nürnberg (Kreisfreie Stadt)",
  "Population": 518370,
- "Slope_Cases_New_Per_Million": -81.83,
- "Slope_Deaths_New_Per_Million": -1.31
+ "Slope_Cases_New_Per_Million": -51.54,
+ "Slope_Deaths_New_Per_Million": -0.98
 }

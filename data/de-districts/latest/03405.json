@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 403,
- "Cases_Last_Week": 46,
- "Cases_Last_Week_Per_100000": 60.4,
- "Cases_Last_Week_Per_Million": 604,
+ "Cases": 405,
+ "Cases_Last_Week": 33,
+ "Cases_Last_Week_Per_100000": 43.3,
+ "Cases_Last_Week_Per_Million": 433,
  "Cases_New": 0,
- "Cases_Per_Million": 5296,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 47.5,
+ "Cases_Per_Million": 5322,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.0,
  "DIVI_Intensivstationen_Covid_Prozent": 15.0,
- "Date_Latest": "2020-12-14",
+ "Date_Latest": "2020-12-15",
  "Deaths": 13,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Wilhelmshaven (Kreisfreie Stadt)",
  "Population": 76089,
- "Slope_Cases_New_Per_Million": 28.16,
- "Slope_Deaths_New_Per_Million": -0.69
+ "Slope_Cases_New_Per_Million": 25.13,
+ "Slope_Deaths_New_Per_Million": -0.38
 }

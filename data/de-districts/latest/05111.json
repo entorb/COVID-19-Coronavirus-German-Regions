@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 11594,
- "Cases_Last_Week": 750,
- "Cases_Last_Week_Per_100000": 120.6,
- "Cases_Last_Week_Per_Million": 1206,
- "Cases_New": 31,
- "Cases_Per_Million": 18643,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.9,
- "DIVI_Intensivstationen_Covid_Prozent": 12.3,
- "Date_Latest": "2020-12-14",
+ "Cases": 11715,
+ "Cases_Last_Week": 714,
+ "Cases_Last_Week_Per_100000": 114.8,
+ "Cases_Last_Week_Per_Million": 1148,
+ "Cases_New": 71,
+ "Cases_Per_Million": 18838,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 13.2,
+ "Date_Latest": "2020-12-15",
  "Deaths": 112,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 3.22,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Düsseldorf (Kreisfreie Stadt)",
  "Population": 621877,
- "Slope_Cases_New_Per_Million": 7.13,
- "Slope_Deaths_New_Per_Million": -0.34
+ "Slope_Cases_New_Per_Million": 11.71,
+ "Slope_Deaths_New_Per_Million": -0.29
 }
