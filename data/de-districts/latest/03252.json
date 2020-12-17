@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1255,
- "Cases_Last_Week": 84,
- "Cases_Last_Week_Per_100000": 56.5,
- "Cases_Last_Week_Per_Million": 565,
+ "Cases": 1281,
+ "Cases_Last_Week": 85,
+ "Cases_Last_Week_Per_100000": 57.2,
+ "Cases_Last_Week_Per_Million": 572,
  "Cases_New": 0,
- "Cases_Per_Million": 8448,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.4,
+ "Cases_Per_Million": 8623,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.1,
  "DIVI_Intensivstationen_Covid_Prozent": 10.1,
- "Date_Latest": "2020-12-15",
+ "Date_Latest": "2020-12-16",
  "Deaths": 18,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Hameln-Pyrmont (Landkreis)",
  "Population": 148549,
- "Slope_Cases_New_Per_Million": 3.78,
- "Slope_Deaths_New_Per_Million": -1.04
+ "Slope_Cases_New_Per_Million": 9.65,
+ "Slope_Deaths_New_Per_Million": -1.23
 }

@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 7154,
- "Cases_Last_Week": 800,
- "Cases_Last_Week_Per_100000": 173.9,
- "Cases_Last_Week_Per_Million": 1739,
- "Cases_New": 104,
- "Cases_Per_Million": 15552,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.2,
- "DIVI_Intensivstationen_Covid_Prozent": 23.8,
- "Date_Latest": "2020-12-15",
+ "Cases": 7317,
+ "Cases_Last_Week": 815,
+ "Cases_Last_Week_Per_100000": 177.1,
+ "Cases_Last_Week_Per_Million": 1771,
+ "Cases_New": 162,
+ "Cases_Per_Million": 15907,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 22.2,
+ "Date_Latest": "2020-12-16",
  "Deaths": 56,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 2.17,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Wesel (Kreis)",
  "Population": 459976,
- "Slope_Cases_New_Per_Million": -10.04,
- "Slope_Deaths_New_Per_Million": -0.56
+ "Slope_Cases_New_Per_Million": -10.44,
+ "Slope_Deaths_New_Per_Million": -0.45
 }

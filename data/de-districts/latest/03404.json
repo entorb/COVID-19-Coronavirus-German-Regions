@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 2627,
- "Cases_Last_Week": 174,
- "Cases_Last_Week_Per_100000": 105.2,
- "Cases_Last_Week_Per_Million": 1052,
+ "Cases": 2644,
+ "Cases_Last_Week": 150,
+ "Cases_Last_Week_Per_100000": 90.7,
+ "Cases_Last_Week_Per_Million": 907,
  "Cases_New": 0,
- "Cases_Per_Million": 15897,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.9,
+ "Cases_Per_Million": 15999,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.6,
  "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-12-15",
+ "Date_Latest": "2020-12-16",
  "Deaths": 37,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.05,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Osnabrück (Kreisfreie Stadt)",
  "Population": 165251,
- "Slope_Cases_New_Per_Million": -45.69,
- "Slope_Deaths_New_Per_Million": -0.49
+ "Slope_Cases_New_Per_Million": -52.96,
+ "Slope_Deaths_New_Per_Million": -0.32
 }

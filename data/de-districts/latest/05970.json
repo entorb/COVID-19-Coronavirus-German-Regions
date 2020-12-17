@@ -1,15 +1,15 @@
 {
  "BL_Code": "NW",
  "Bundesland": "Nordrhein-Westfalen",
- "Cases": 3989,
- "Cases_Last_Week": 389,
- "Cases_Last_Week_Per_100000": 140.4,
- "Cases_Last_Week_Per_Million": 1404,
- "Cases_New": 83,
- "Cases_Per_Million": 14403,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
- "DIVI_Intensivstationen_Covid_Prozent": 3.6,
- "Date_Latest": "2020-12-15",
+ "Cases": 4035,
+ "Cases_Last_Week": 363,
+ "Cases_Last_Week_Per_100000": 131.0,
+ "Cases_Last_Week_Per_Million": 1310,
+ "Cases_New": 29,
+ "Cases_Per_Million": 14569,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 75.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 4.3,
+ "Date_Latest": "2020-12-16",
  "Deaths": 34,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.61,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Siegen-Wittgenstein (Kreis)",
  "Population": 276944,
- "Slope_Cases_New_Per_Million": -15.8,
- "Slope_Deaths_New_Per_Million": -2.59
+ "Slope_Cases_New_Per_Million": -8.47,
+ "Slope_Deaths_New_Per_Million": -2.58
 }

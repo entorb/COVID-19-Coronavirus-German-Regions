@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 802,
- "Cases_Last_Week": 62,
- "Cases_Last_Week_Per_100000": 69.9,
- "Cases_Last_Week_Per_Million": 699,
- "Cases_New": 4,
- "Cases_Per_Million": 9053,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 76.5,
+ "Cases": 819,
+ "Cases_Last_Week": 67,
+ "Cases_Last_Week_Per_100000": 75.6,
+ "Cases_Last_Week_Per_Million": 756,
+ "Cases_New": 5,
+ "Cases_Per_Million": 9245,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.6,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-15",
+ "Date_Latest": "2020-12-16",
  "Deaths": 12,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Wesermarsch (Landkreis)",
  "Population": 88583,
- "Slope_Cases_New_Per_Million": -18.88,
- "Slope_Deaths_New_Per_Million": -1.44
+ "Slope_Cases_New_Per_Million": -21.3,
+ "Slope_Deaths_New_Per_Million": -0.99
 }

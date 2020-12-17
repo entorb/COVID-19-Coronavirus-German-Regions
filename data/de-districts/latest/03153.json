@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 824,
+ "Cases": 843,
  "Cases_Last_Week": 62,
  "Cases_Last_Week_Per_100000": 45.4,
  "Cases_Last_Week_Per_Million": 454,
- "Cases_New": 15,
- "Cases_Per_Million": 6045,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
+ "Cases_New": 17,
+ "Cases_Per_Million": 6185,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.6,
  "DIVI_Intensivstationen_Covid_Prozent": 2.6,
- "Date_Latest": "2020-12-15",
+ "Date_Latest": "2020-12-16",
  "Deaths": 31,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.34,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Goslar (Landkreis)",
  "Population": 136292,
- "Slope_Cases_New_Per_Million": 39.95,
- "Slope_Deaths_New_Per_Million": 0.73
+ "Slope_Cases_New_Per_Million": 29.0,
+ "Slope_Deaths_New_Per_Million": 0.77
 }

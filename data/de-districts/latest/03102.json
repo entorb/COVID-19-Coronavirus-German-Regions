@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1480,
- "Cases_Last_Week": 82,
- "Cases_Last_Week_Per_100000": 78.6,
- "Cases_Last_Week_Per_Million": 786,
+ "Cases": 1522,
+ "Cases_Last_Week": 99,
+ "Cases_Last_Week_Per_100000": 94.9,
+ "Cases_Last_Week_Per_Million": 949,
  "Cases_New": 0,
- "Cases_Per_Million": 14191,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 65.5,
- "DIVI_Intensivstationen_Covid_Prozent": 13.8,
- "Date_Latest": "2020-12-15",
+ "Cases_Per_Million": 14593,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 44.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 17.2,
+ "Date_Latest": "2020-12-16",
  "Deaths": 35,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Salzgitter (Kreisfreie Stadt)",
  "Population": 104291,
- "Slope_Cases_New_Per_Million": 11.75,
- "Slope_Deaths_New_Per_Million": -2.87
+ "Slope_Cases_New_Per_Million": 25.13,
+ "Slope_Deaths_New_Per_Million": -2.59
 }

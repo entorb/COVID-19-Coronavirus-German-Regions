@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 6043,
- "Cases_Last_Week": 544,
- "Cases_Last_Week_Per_100000": 197.2,
- "Cases_Last_Week_Per_Million": 1972,
- "Cases_New": 63,
- "Cases_Per_Million": 21916,
+ "Cases": 6144,
+ "Cases_Last_Week": 539,
+ "Cases_Last_Week_Per_100000": 195.4,
+ "Cases_Last_Week_Per_Million": 1954,
+ "Cases_New": 101,
+ "Cases_Per_Million": 22282,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
- "DIVI_Intensivstationen_Covid_Prozent": 52.9,
- "Date_Latest": "2020-12-15",
+ "DIVI_Intensivstationen_Covid_Prozent": 58.8,
+ "Date_Latest": "2020-12-16",
  "Deaths": 90,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 3.63,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Groß-Gerau (Landkreis)",
  "Population": 275726,
- "Slope_Cases_New_Per_Million": 21.12,
- "Slope_Deaths_New_Per_Million": -1.61
+ "Slope_Cases_New_Per_Million": 14.33,
+ "Slope_Deaths_New_Per_Million": -2.02
 }

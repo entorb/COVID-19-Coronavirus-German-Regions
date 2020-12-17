@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2339,
- "Cases_Last_Week": 150,
- "Cases_Last_Week_Per_100000": 141.6,
- "Cases_Last_Week_Per_Million": 1416,
- "Cases_New": 11,
- "Cases_Per_Million": 22080,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 78.9,
- "DIVI_Intensivstationen_Covid_Prozent": 5.3,
- "Date_Latest": "2020-12-15",
+ "Cases": 2365,
+ "Cases_Last_Week": 140,
+ "Cases_Last_Week_Per_100000": 132.1,
+ "Cases_Last_Week_Per_Million": 1321,
+ "Cases_New": 25,
+ "Cases_Per_Million": 22326,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 5.0,
+ "Date_Latest": "2020-12-16",
  "Deaths": 55,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 9.44,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Berchtesgadener Land (Landkreis)",
  "Population": 105929,
- "Slope_Cases_New_Per_Million": -5.86,
- "Slope_Deaths_New_Per_Million": -5.04
+ "Slope_Cases_New_Per_Million": -7.98,
+ "Slope_Deaths_New_Per_Million": -5.89
 }
