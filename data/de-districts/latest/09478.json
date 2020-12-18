@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 1291,
+ "Cases": 1316,
  "Cases_Last_Week": 113,
  "Cases_Last_Week_Per_100000": 169.2,
  "Cases_Last_Week_Per_Million": 1692,
- "Cases_New": 22,
- "Cases_Per_Million": 19333,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.4,
- "DIVI_Intensivstationen_Covid_Prozent": 14.0,
- "Date_Latest": "2020-12-16",
+ "Cases_New": 25,
+ "Cases_Per_Million": 19707,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 79.1,
+ "DIVI_Intensivstationen_Covid_Prozent": 11.6,
+ "Date_Latest": "2020-12-17",
  "Deaths": 34,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 14.98,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Lichtenfels (Landkreis)",
  "Population": 66776,
- "Slope_Cases_New_Per_Million": 8.41,
- "Slope_Deaths_New_Per_Million": -0.03
+ "Slope_Cases_New_Per_Million": 15.1,
+ "Slope_Deaths_New_Per_Million": 0.03
 }

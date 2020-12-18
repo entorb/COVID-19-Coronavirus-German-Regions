@@ -1,15 +1,15 @@
 {
  "BL_Code": "TH",
  "Bundesland": "Thüringen",
- "Cases": 846,
- "Cases_Last_Week": 117,
- "Cases_Last_Week_Per_100000": 168.5,
- "Cases_Last_Week_Per_Million": 1685,
- "Cases_New": 22,
- "Cases_Per_Million": 12185,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
+ "Cases": 879,
+ "Cases_Last_Week": 134,
+ "Cases_Last_Week_Per_100000": 193.0,
+ "Cases_Last_Week_Per_Million": 1930,
+ "Cases_New": 27,
+ "Cases_Per_Million": 12660,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 33.3,
- "Date_Latest": "2020-12-16",
+ "Date_Latest": "2020-12-17",
  "Deaths": 19,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 28.81,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Sömmerda (Landkreis)",
  "Population": 69427,
- "Slope_Cases_New_Per_Million": 0.09,
- "Slope_Deaths_New_Per_Million": 1.68
+ "Slope_Cases_New_Per_Million": 16.48,
+ "Slope_Deaths_New_Per_Million": 2.37
 }
