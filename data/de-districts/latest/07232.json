@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1568,
- "Cases_Last_Week": 98,
- "Cases_Last_Week_Per_100000": 98.9,
- "Cases_Last_Week_Per_Million": 989,
- "Cases_New": 6,
- "Cases_Per_Million": 15829,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 71.4,
+ "Cases": 1608,
+ "Cases_Last_Week": 111,
+ "Cases_Last_Week_Per_100000": 112.0,
+ "Cases_Last_Week_Per_Million": 1120,
+ "Cases_New": 32,
+ "Cases_Per_Million": 16232,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 64.3,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-17",
+ "Date_Latest": "2020-12-18",
  "Deaths": 8,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Eifelkreis Bitburg-Prüm (Landkreis)",
  "Population": 99058,
- "Slope_Cases_New_Per_Million": -54.51,
- "Slope_Deaths_New_Per_Million": -1.07
+ "Slope_Cases_New_Per_Million": -43.98,
+ "Slope_Deaths_New_Per_Million": -1.0
 }

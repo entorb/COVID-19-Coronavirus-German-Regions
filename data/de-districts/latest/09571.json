@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2944,
- "Cases_Last_Week": 247,
- "Cases_Last_Week_Per_100000": 133.8,
- "Cases_Last_Week_Per_Million": 1338,
- "Cases_New": 18,
- "Cases_Per_Million": 15948,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
- "DIVI_Intensivstationen_Covid_Prozent": 25.0,
- "Date_Latest": "2020-12-17",
+ "Cases": 3048,
+ "Cases_Last_Week": 266,
+ "Cases_Last_Week_Per_100000": 144.1,
+ "Cases_Last_Week_Per_Million": 1441,
+ "Cases_New": 10,
+ "Cases_Per_Million": 16512,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
+ "DIVI_Intensivstationen_Covid_Prozent": 27.3,
+ "Date_Latest": "2020-12-18",
  "Deaths": 69,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 5.42,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Ansbach (Landkreis)",
  "Population": 184591,
- "Slope_Cases_New_Per_Million": -3.93,
- "Slope_Deaths_New_Per_Million": -1.12
+ "Slope_Cases_New_Per_Million": 3.22,
+ "Slope_Deaths_New_Per_Million": -1.32
 }

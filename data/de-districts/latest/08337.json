@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 2867,
- "Cases_Last_Week": 318,
- "Cases_Last_Week_Per_100000": 185.9,
- "Cases_Last_Week_Per_Million": 1859,
- "Cases_New": 61,
- "Cases_Per_Million": 16765,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 70.0,
- "DIVI_Intensivstationen_Covid_Prozent": 20.0,
- "Date_Latest": "2020-12-17",
+ "Cases": 2916,
+ "Cases_Last_Week": 314,
+ "Cases_Last_Week_Per_100000": 183.6,
+ "Cases_Last_Week_Per_Million": 1836,
+ "Cases_New": 48,
+ "Cases_Per_Million": 17052,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 10.0,
+ "Date_Latest": "2020-12-18",
  "Deaths": 68,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 11.7,
@@ -20,6 +20,6 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Waldshut (Landkreis)",
  "Population": 171003,
- "Slope_Cases_New_Per_Million": -2.61,
- "Slope_Deaths_New_Per_Million": -2.61
+ "Slope_Cases_New_Per_Million": 5.97,
+ "Slope_Deaths_New_Per_Million": -1.7
 }

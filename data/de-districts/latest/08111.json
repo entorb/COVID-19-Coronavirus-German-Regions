@@ -1,15 +1,15 @@
 {
  "BL_Code": "BW",
  "Bundesland": "Baden-Württemberg",
- "Cases": 13189,
- "Cases_Last_Week": 1062,
- "Cases_Last_Week_Per_100000": 167.0,
- "Cases_Last_Week_Per_Million": 1670,
- "Cases_New": 36,
- "Cases_Per_Million": 20740,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.2,
- "DIVI_Intensivstationen_Covid_Prozent": 19.3,
- "Date_Latest": "2020-12-17",
+ "Cases": 13349,
+ "Cases_Last_Week": 1003,
+ "Cases_Last_Week_Per_100000": 157.7,
+ "Cases_Last_Week_Per_Million": 1577,
+ "Cases_New": 18,
+ "Cases_Per_Million": 20991,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.8,
+ "DIVI_Intensivstationen_Covid_Prozent": 19.7,
+ "Date_Latest": "2020-12-18",
  "Deaths": 144,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Stadtkreis",
  "Landkreis": "Stuttgart (Stadtkreis)",
  "Population": 635911,
- "Slope_Cases_New_Per_Million": 18.2,
- "Slope_Deaths_New_Per_Million": -0.32
+ "Slope_Cases_New_Per_Million": 16.99,
+ "Slope_Deaths_New_Per_Million": -0.42
 }

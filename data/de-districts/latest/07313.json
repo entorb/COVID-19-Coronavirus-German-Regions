@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 502,
- "Cases_Last_Week": 71,
- "Cases_Last_Week_Per_100000": 151.4,
- "Cases_Last_Week_Per_Million": 1514,
- "Cases_New": 0,
- "Cases_Per_Million": 10707,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.7,
- "DIVI_Intensivstationen_Covid_Prozent": 22.7,
- "Date_Latest": "2020-12-17",
+ "Cases": 523,
+ "Cases_Last_Week": 86,
+ "Cases_Last_Week_Per_100000": 183.4,
+ "Cases_Last_Week_Per_Million": 1834,
+ "Cases_New": 10,
+ "Cases_Per_Million": 11155,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 73.9,
+ "DIVI_Intensivstationen_Covid_Prozent": 21.7,
+ "Date_Latest": "2020-12-18",
  "Deaths": 3,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,6 +20,6 @@
  "LK_Typ": "Kreisfreie Stadt",
  "Landkreis": "Landau in der Pfalz (Kreisfreie Stadt)",
  "Population": 46881,
- "Slope_Cases_New_Per_Million": 61.54,
- "Slope_Deaths_New_Per_Million": -2.25
+ "Slope_Cases_New_Per_Million": 66.8,
+ "Slope_Deaths_New_Per_Million": -2.11
 }
