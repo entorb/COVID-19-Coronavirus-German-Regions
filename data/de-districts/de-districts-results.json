@@ -21,6 +21,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Flensburg (Kreisfreie Stadt)",
   "Population": 90164,
+  "Slope_Cases_Last_Week_Percent": 9.6,
   "Slope_Cases_New_Per_Million": 34.15,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -47,7 +48,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Kiel (Kreisfreie Stadt)",
   "Population": 246794,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 27.09,
+  "Slope_Deaths_Last_Week_Percent": -4.3,
   "Slope_Deaths_New_Per_Million": -1.86
  },
  "01003": {
@@ -73,7 +76,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Lübeck (Kreisfreie Stadt)",
   "Population": 216530,
+  "Slope_Cases_Last_Week_Percent": 8.2,
   "Slope_Cases_New_Per_Million": 107.07,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -1.11
  },
  "01004": {
@@ -98,7 +103,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Neumünster (Kreisfreie Stadt)",
   "Population": 80196,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 6.3,
+  "Slope_Deaths_Last_Week_Percent": 2.0,
   "Slope_Deaths_New_Per_Million": 0.38
  },
  "01051": {
@@ -123,7 +130,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Dithmarschen (Kreis)",
   "Population": 133193,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 13.97,
+  "Slope_Deaths_Last_Week_Percent": 19.6,
   "Slope_Deaths_New_Per_Million": 0.4
  },
  "01053": {
@@ -149,7 +158,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Herzogtum Lauenburg (Kreis)",
   "Population": 198019,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 15.4,
+  "Slope_Deaths_Last_Week_Percent": -5.5,
   "Slope_Deaths_New_Per_Million": -0.52
  },
  "01054": {
@@ -175,7 +186,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Nordfriesland (Kreis)",
   "Population": 165951,
+  "Slope_Cases_Last_Week_Percent": 11.4,
   "Slope_Cases_New_Per_Million": 36.51,
+  "Slope_Deaths_Last_Week_Percent": 22.6,
   "Slope_Deaths_New_Per_Million": 0.44
  },
  "01055": {
@@ -201,7 +214,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Ostholstein (Kreis)",
   "Population": 200539,
+  "Slope_Cases_Last_Week_Percent": 8.5,
   "Slope_Cases_New_Per_Million": 35.72,
+  "Slope_Deaths_Last_Week_Percent": 3.7,
   "Slope_Deaths_New_Per_Million": -0.03
  },
  "01056": {
@@ -227,7 +242,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Pinneberg (Kreis)",
   "Population": 316103,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 36.49,
+  "Slope_Deaths_Last_Week_Percent": 1.4,
   "Slope_Deaths_New_Per_Million": -0.06
  },
  "01057": {
@@ -252,6 +269,7 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Plön (Kreis)",
   "Population": 128686,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 5.04,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -278,6 +296,7 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Rendsburg-Eckernförde (Kreis)",
   "Population": 274098,
+  "Slope_Cases_Last_Week_Percent": 5.0,
   "Slope_Cases_New_Per_Million": 29.58,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -303,6 +322,7 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Schleswig-Flensburg (Kreis)",
   "Population": 201156,
+  "Slope_Cases_Last_Week_Percent": 12.1,
   "Slope_Cases_New_Per_Million": 27.53,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -329,7 +349,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Segeberg (Kreis)",
   "Population": 277175,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 22.27,
+  "Slope_Deaths_Last_Week_Percent": -5.2,
   "Slope_Deaths_New_Per_Million": -1.13
  },
  "01061": {
@@ -355,7 +377,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Steinburg (Kreis)",
   "Population": 131013,
+  "Slope_Cases_Last_Week_Percent": 14.4,
   "Slope_Cases_New_Per_Million": 80.92,
+  "Slope_Deaths_Last_Week_Percent": 22.6,
   "Slope_Deaths_New_Per_Million": 0.67
  },
  "01062": {
@@ -381,7 +405,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Stormarn (Kreis)",
   "Population": 244156,
+  "Slope_Cases_Last_Week_Percent": 4.9,
   "Slope_Cases_New_Per_Million": 56.16,
+  "Slope_Deaths_Last_Week_Percent": -2.9,
   "Slope_Deaths_New_Per_Million": -1.19
  },
  "02000": {
@@ -407,7 +433,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Hamburg (Kreisfreie Stadt)",
   "Population": 1847253,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 31.09,
+  "Slope_Deaths_Last_Week_Percent": -3.9,
   "Slope_Deaths_New_Per_Million": -1.25
  },
  "03101": {
@@ -433,7 +461,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Braunschweig (Kreisfreie Stadt)",
   "Population": 249406,
+  "Slope_Cases_Last_Week_Percent": 6.5,
   "Slope_Cases_New_Per_Million": 48.56,
+  "Slope_Deaths_Last_Week_Percent": 10.5,
   "Slope_Deaths_New_Per_Million": 1.03
  },
  "03102": {
@@ -459,7 +489,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Salzgitter (Kreisfreie Stadt)",
   "Population": 104291,
+  "Slope_Cases_Last_Week_Percent": 3.8,
   "Slope_Cases_New_Per_Million": 38.61,
+  "Slope_Deaths_Last_Week_Percent": -15.5,
   "Slope_Deaths_New_Per_Million": -1.67
  },
  "03103": {
@@ -484,7 +516,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Wolfsburg (Kreisfreie Stadt)",
   "Population": 124371,
+  "Slope_Cases_Last_Week_Percent": 5.6,
   "Slope_Cases_New_Per_Million": 44.18,
+  "Slope_Deaths_Last_Week_Percent": -15.7,
   "Slope_Deaths_New_Per_Million": -0.42
  },
  "03151": {
@@ -510,7 +544,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Gifhorn (Landkreis)",
   "Population": 176523,
+  "Slope_Cases_Last_Week_Percent": 6.6,
   "Slope_Cases_New_Per_Million": 72.18,
+  "Slope_Deaths_Last_Week_Percent": 6.5,
   "Slope_Deaths_New_Per_Million": 0.44
  },
  "03153": {
@@ -535,7 +571,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Goslar (Landkreis)",
   "Population": 136292,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 13.53,
+  "Slope_Deaths_Last_Week_Percent": 1.5,
   "Slope_Deaths_New_Per_Million": 0.03
  },
  "03154": {
@@ -560,7 +598,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Helmstedt (Landkreis)",
   "Population": 91297,
+  "Slope_Cases_Last_Week_Percent": 10.5,
   "Slope_Cases_New_Per_Million": 48.76,
+  "Slope_Deaths_Last_Week_Percent": 11.4,
   "Slope_Deaths_New_Per_Million": 0.96
  },
  "03155": {
@@ -585,6 +625,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Northeim (Landkreis)",
   "Population": 132285,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 14.08,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -610,7 +651,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Peine (Landkreis)",
   "Population": 134801,
+  "Slope_Cases_Last_Week_Percent": 0.4,
   "Slope_Cases_New_Per_Million": 3.51,
+  "Slope_Deaths_Last_Week_Percent": -1.3,
   "Slope_Deaths_New_Per_Million": -0.21
  },
  "03158": {
@@ -635,7 +678,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wolfenbüttel (Landkreis)",
   "Population": 119622,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 33.5,
+  "Slope_Deaths_Last_Week_Percent": 4.5,
   "Slope_Deaths_New_Per_Million": 1.29
  },
  "03159": {
@@ -661,7 +706,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Göttingen (Landkreis)",
   "Population": 326041,
+  "Slope_Cases_Last_Week_Percent": 4.4,
   "Slope_Cases_New_Per_Million": 28.52,
+  "Slope_Deaths_Last_Week_Percent": 8.9,
   "Slope_Deaths_New_Per_Million": 0.35
  },
  "03241": {
@@ -687,7 +734,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Region Hannover (Landkreis)",
   "Population": 1157115,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 33.85,
+  "Slope_Deaths_Last_Week_Percent": -2.6,
   "Slope_Deaths_New_Per_Million": -0.64
  },
  "03251": {
@@ -713,6 +762,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Diepholz (Landkreis)",
   "Population": 217089,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 33.78,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -739,7 +789,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hameln-Pyrmont (Landkreis)",
   "Population": 148549,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 20.08,
+  "Slope_Deaths_Last_Week_Percent": -12.0,
   "Slope_Deaths_New_Per_Million": -1.3
  },
  "03254": {
@@ -764,7 +816,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hildesheim (Landkreis)",
   "Population": 275817,
+  "Slope_Cases_Last_Week_Percent": -0.9,
   "Slope_Cases_New_Per_Million": -7.85,
+  "Slope_Deaths_Last_Week_Percent": 1.2,
   "Slope_Deaths_New_Per_Million": 0.34
  },
  "03255": {
@@ -789,7 +843,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Holzminden (Landkreis)",
   "Population": 70458,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 32.32,
+  "Slope_Deaths_Last_Week_Percent": -0.9,
   "Slope_Deaths_New_Per_Million": -1.28
  },
  "03256": {
@@ -815,7 +871,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Nienburg (Weser) (Landkreis)",
   "Population": 121390,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 33.25,
+  "Slope_Deaths_Last_Week_Percent": -11.9,
   "Slope_Deaths_New_Per_Million": -1.63
  },
  "03257": {
@@ -841,7 +899,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schaumburg (Landkreis)",
   "Population": 157820,
+  "Slope_Cases_Last_Week_Percent": 5.8,
   "Slope_Cases_New_Per_Million": 41.31,
+  "Slope_Deaths_Last_Week_Percent": -7.9,
   "Slope_Deaths_New_Per_Million": -0.68
  },
  "03351": {
@@ -867,7 +927,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Celle (Landkreis)",
   "Population": 179011,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 12.4,
+  "Slope_Deaths_Last_Week_Percent": 8.6,
   "Slope_Deaths_New_Per_Million": 0.43
  },
  "03352": {
@@ -892,7 +954,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Cuxhaven (Landkreis)",
   "Population": 198038,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 1.17,
+  "Slope_Deaths_Last_Week_Percent": -14.8,
   "Slope_Deaths_New_Per_Million": -2.25
  },
  "03353": {
@@ -918,6 +982,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Harburg (Landkreis)",
   "Population": 254431,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 25.45,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -943,7 +1008,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lüchow-Dannenberg (Landkreis)",
   "Population": 48412,
+  "Slope_Cases_Last_Week_Percent": 17.0,
   "Slope_Cases_New_Per_Million": 75.06,
+  "Slope_Deaths_Last_Week_Percent": 10.8,
   "Slope_Deaths_New_Per_Million": 0.54
  },
  "03355": {
@@ -969,7 +1036,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lüneburg (Landkreis)",
   "Population": 184139,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 20.67,
+  "Slope_Deaths_Last_Week_Percent": -3.2,
   "Slope_Deaths_New_Per_Million": -1.09
  },
  "03356": {
@@ -994,7 +1063,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Osterholz (Landkreis)",
   "Population": 113928,
+  "Slope_Cases_Last_Week_Percent": -2.9,
   "Slope_Cases_New_Per_Million": -26.4,
+  "Slope_Deaths_Last_Week_Percent": -8.1,
   "Slope_Deaths_New_Per_Million": -3.32
  },
  "03357": {
@@ -1020,7 +1091,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rotenburg (Wümme) (Landkreis)",
   "Population": 163782,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 19.71,
+  "Slope_Deaths_Last_Week_Percent": 1.2,
   "Slope_Deaths_New_Per_Million": 0.04
  },
  "03358": {
@@ -1046,7 +1119,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Heidekreis (Landkreis)",
   "Population": 140673,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 42.47,
+  "Slope_Deaths_Last_Week_Percent": 1.8,
   "Slope_Deaths_New_Per_Million": -0.02
  },
  "03359": {
@@ -1072,7 +1147,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Stade (Landkreis)",
   "Population": 204512,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 34.08,
+  "Slope_Deaths_Last_Week_Percent": -6.8,
   "Slope_Deaths_New_Per_Million": -1.44
  },
  "03360": {
@@ -1097,6 +1174,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Uelzen (Landkreis)",
   "Population": 92389,
+  "Slope_Cases_Last_Week_Percent": 0.5,
   "Slope_Cases_New_Per_Million": 1.48,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -1123,7 +1201,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Verden (Landkreis)",
   "Population": 137133,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 18.19,
+  "Slope_Deaths_Last_Week_Percent": -9.0,
   "Slope_Deaths_New_Per_Million": -1.36
  },
  "03401": {
@@ -1148,7 +1228,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Delmenhorst (Kreisfreie Stadt)",
   "Population": 77559,
+  "Slope_Cases_Last_Week_Percent": -0.1,
   "Slope_Cases_New_Per_Million": -1.0,
+  "Slope_Deaths_Last_Week_Percent": 4.0,
   "Slope_Deaths_New_Per_Million": 0.74
  },
  "03402": {
@@ -1173,6 +1255,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Emden (Kreisfreie Stadt)",
   "Population": 49913,
+  "Slope_Cases_Last_Week_Percent": 10.3,
   "Slope_Cases_New_Per_Million": 46.92,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -1198,7 +1281,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Oldenburg (Oldb) (Kreisfreie Stadt)",
   "Population": 169077,
+  "Slope_Cases_Last_Week_Percent": 0.1,
   "Slope_Cases_New_Per_Million": 1.25,
+  "Slope_Deaths_Last_Week_Percent": -3.4,
   "Slope_Deaths_New_Per_Million": -0.74
  },
  "03404": {
@@ -1223,7 +1308,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Osnabrück (Kreisfreie Stadt)",
   "Population": 165251,
+  "Slope_Cases_Last_Week_Percent": -2.6,
   "Slope_Cases_New_Per_Million": -35.91,
+  "Slope_Deaths_Last_Week_Percent": 2.3,
   "Slope_Deaths_New_Per_Million": 0.47
  },
  "03405": {
@@ -1248,7 +1335,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Wilhelmshaven (Kreisfreie Stadt)",
   "Population": 76089,
+  "Slope_Cases_Last_Week_Percent": 7.2,
   "Slope_Cases_New_Per_Million": 56.22,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -1.42
  },
  "03451": {
@@ -1273,7 +1362,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ammerland (Landkreis)",
   "Population": 124859,
+  "Slope_Cases_Last_Week_Percent": -0.0,
   "Slope_Cases_New_Per_Million": -0.18,
+  "Slope_Deaths_Last_Week_Percent": 4.4,
   "Slope_Deaths_New_Per_Million": 0.65
  },
  "03452": {
@@ -1299,7 +1390,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Aurich (Landkreis)",
   "Population": 189694,
+  "Slope_Cases_Last_Week_Percent": 5.1,
   "Slope_Cases_New_Per_Million": 25.43,
+  "Slope_Deaths_Last_Week_Percent": 16.4,
   "Slope_Deaths_New_Per_Million": 0.83
  },
  "03453": {
@@ -1324,7 +1417,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Cloppenburg (Landkreis)",
   "Population": 170682,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -7.64,
+  "Slope_Deaths_Last_Week_Percent": -6.4,
   "Slope_Deaths_New_Per_Million": -0.72
  },
  "03454": {
@@ -1350,7 +1445,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Emsland (Landkreis)",
   "Population": 326954,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 13.22,
+  "Slope_Deaths_Last_Week_Percent": -2.7,
   "Slope_Deaths_New_Per_Million": -0.3
  },
  "03455": {
@@ -1375,7 +1472,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Friesland (Landkreis)",
   "Population": 98704,
+  "Slope_Cases_Last_Week_Percent": -3.3,
   "Slope_Cases_New_Per_Million": -32.26,
+  "Slope_Deaths_Last_Week_Percent": -6.7,
   "Slope_Deaths_New_Per_Million": -3.32
  },
  "03456": {
@@ -1401,7 +1500,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Grafschaft Bentheim (Landkreis)",
   "Population": 137162,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 43.36,
+  "Slope_Deaths_Last_Week_Percent": -8.1,
   "Slope_Deaths_New_Per_Million": -3.12
  },
  "03457": {
@@ -1426,6 +1527,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Leer (Landkreis)",
   "Population": 170756,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 13.34,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -1452,7 +1554,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Oldenburg (Landkreis)",
   "Population": 130890,
+  "Slope_Cases_Last_Week_Percent": 4.1,
   "Slope_Cases_New_Per_Million": 49.65,
+  "Slope_Deaths_Last_Week_Percent": -0.2,
   "Slope_Deaths_New_Per_Million": -1.26
  },
  "03459": {
@@ -1477,7 +1581,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Osnabrück (Landkreis)",
   "Population": 358080,
+  "Slope_Cases_Last_Week_Percent": -1.6,
   "Slope_Cases_New_Per_Million": -22.84,
+  "Slope_Deaths_Last_Week_Percent": -6.3,
   "Slope_Deaths_New_Per_Million": -1.63
  },
  "03460": {
@@ -1502,7 +1608,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vechta (Landkreis)",
   "Population": 142814,
+  "Slope_Cases_Last_Week_Percent": 1.1,
   "Slope_Cases_New_Per_Million": 18.82,
+  "Slope_Deaths_Last_Week_Percent": -5.6,
   "Slope_Deaths_New_Per_Million": -0.62
  },
  "03461": {
@@ -1527,7 +1635,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wesermarsch (Landkreis)",
   "Population": 88583,
+  "Slope_Cases_Last_Week_Percent": -2.0,
   "Slope_Cases_New_Per_Million": -19.78,
+  "Slope_Deaths_Last_Week_Percent": -19.5,
   "Slope_Deaths_New_Per_Million": -0.6
  },
  "03462": {
@@ -1552,6 +1662,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wittmund (Landkreis)",
   "Population": 56926,
+  "Slope_Cases_Last_Week_Percent": -4.6,
   "Slope_Cases_New_Per_Million": -26.56,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -1578,7 +1689,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bremen (Kreisfreie Stadt)",
   "Population": 567559,
+  "Slope_Cases_Last_Week_Percent": 1.5,
   "Slope_Cases_New_Per_Million": 18.77,
+  "Slope_Deaths_Last_Week_Percent": 0.3,
   "Slope_Deaths_New_Per_Million": -0.1
  },
  "04012": {
@@ -1604,7 +1717,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bremerhaven (Kreisfreie Stadt)",
   "Population": 113643,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 30.69,
+  "Slope_Deaths_Last_Week_Percent": -13.6,
   "Slope_Deaths_New_Per_Million": -1.33
  },
  "05111": {
@@ -1630,7 +1745,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Düsseldorf (Kreisfreie Stadt)",
   "Population": 621877,
+  "Slope_Cases_Last_Week_Percent": 1.8,
   "Slope_Cases_New_Per_Million": 21.71,
+  "Slope_Deaths_Last_Week_Percent": 0.9,
   "Slope_Deaths_New_Per_Million": -0.0
  },
  "05112": {
@@ -1655,7 +1772,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Duisburg (Kreisfreie Stadt)",
   "Population": 498686,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 6.26,
+  "Slope_Deaths_Last_Week_Percent": -3.8,
   "Slope_Deaths_New_Per_Million": -3.12
  },
  "05113": {
@@ -1681,7 +1800,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Essen (Kreisfreie Stadt)",
   "Population": 582760,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 47.86,
+  "Slope_Deaths_Last_Week_Percent": -2.5,
   "Slope_Deaths_New_Per_Million": -1.21
  },
  "05114": {
@@ -1706,7 +1827,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Krefeld (Kreisfreie Stadt)",
   "Population": 227417,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 9.27,
+  "Slope_Deaths_Last_Week_Percent": -6.3,
   "Slope_Deaths_New_Per_Million": -0.63
  },
  "05116": {
@@ -1732,7 +1855,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Mönchengladbach (Kreisfreie Stadt)",
   "Population": 261034,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 29.35,
+  "Slope_Deaths_Last_Week_Percent": -3.9,
   "Slope_Deaths_New_Per_Million": -1.07
  },
  "05117": {
@@ -1757,7 +1882,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Mülheim an der Ruhr (Kreisfreie Stadt)",
   "Population": 170632,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 6.01,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -1.39
  },
  "05119": {
@@ -1783,7 +1910,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Oberhausen (Kreisfreie Stadt)",
   "Population": 210764,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 85.54,
+  "Slope_Deaths_Last_Week_Percent": 0.2,
   "Slope_Deaths_New_Per_Million": -1.6
  },
  "05120": {
@@ -1808,7 +1937,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Remscheid (Kreisfreie Stadt)",
   "Population": 111338,
+  "Slope_Cases_Last_Week_Percent": 1.1,
   "Slope_Cases_New_Per_Million": 22.97,
+  "Slope_Deaths_Last_Week_Percent": -3.8,
   "Slope_Deaths_New_Per_Million": -5.19
  },
  "05122": {
@@ -1834,7 +1965,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Solingen (Kreisfreie Stadt)",
   "Population": 159245,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 46.35,
+  "Slope_Deaths_Last_Week_Percent": -3.7,
   "Slope_Deaths_New_Per_Million": -4.2
  },
  "05124": {
@@ -1859,7 +1992,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Wuppertal (Kreisfreie Stadt)",
   "Population": 355100,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 18.35,
+  "Slope_Deaths_Last_Week_Percent": -4.5,
   "Slope_Deaths_New_Per_Million": -2.37
  },
  "05154": {
@@ -1885,7 +2020,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Kleve (Kreis)",
   "Population": 312465,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 26.47,
+  "Slope_Deaths_Last_Week_Percent": 0.2,
   "Slope_Deaths_New_Per_Million": -0.22
  },
  "05158": {
@@ -1911,7 +2048,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Mettmann (Kreis)",
   "Population": 485570,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 46.94,
+  "Slope_Deaths_Last_Week_Percent": -0.2,
   "Slope_Deaths_New_Per_Million": -0.71
  },
  "05162": {
@@ -1937,7 +2076,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Rhein-Kreis Neuss (Kreis)",
   "Population": 451730,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 35.69,
+  "Slope_Deaths_Last_Week_Percent": 1.6,
   "Slope_Deaths_New_Per_Million": 0.02
  },
  "05166": {
@@ -1963,7 +2104,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Viersen (Kreis)",
   "Population": 298863,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 28.21,
+  "Slope_Deaths_Last_Week_Percent": -3.5,
   "Slope_Deaths_New_Per_Million": -0.96
  },
  "05170": {
@@ -1988,7 +2131,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Wesel (Kreis)",
   "Population": 459976,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -7.31,
+  "Slope_Deaths_Last_Week_Percent": -4.7,
   "Slope_Deaths_New_Per_Million": -0.38
  },
  "05314": {
@@ -2014,7 +2159,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bonn (Kreisfreie Stadt)",
   "Population": 329673,
+  "Slope_Cases_Last_Week_Percent": 3.4,
   "Slope_Cases_New_Per_Million": 65.09,
+  "Slope_Deaths_Last_Week_Percent": 0.1,
   "Slope_Deaths_New_Per_Million": -0.51
  },
  "05315": {
@@ -2039,7 +2186,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Köln (Kreisfreie Stadt)",
   "Population": 1087863,
+  "Slope_Cases_Last_Week_Percent": 0.9,
   "Slope_Cases_New_Per_Million": 12.87,
+  "Slope_Deaths_Last_Week_Percent": -5.9,
   "Slope_Deaths_New_Per_Million": -1.34
  },
  "05316": {
@@ -2064,7 +2213,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Leverkusen (Kreisfreie Stadt)",
   "Population": 163729,
+  "Slope_Cases_Last_Week_Percent": 0.1,
   "Slope_Cases_New_Per_Million": 1.85,
+  "Slope_Deaths_Last_Week_Percent": -1.8,
   "Slope_Deaths_New_Per_Million": -0.5
  },
  "05334": {
@@ -2090,7 +2241,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Städteregion Aachen (Kreis)",
   "Population": 557026,
+  "Slope_Cases_Last_Week_Percent": 1.8,
   "Slope_Cases_New_Per_Million": 28.12,
+  "Slope_Deaths_Last_Week_Percent": -4.4,
   "Slope_Deaths_New_Per_Million": -1.31
  },
  "05358": {
@@ -2116,7 +2269,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Düren (Kreis)",
   "Population": 264638,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 46.71,
+  "Slope_Deaths_Last_Week_Percent": -6.3,
   "Slope_Deaths_New_Per_Million": -4.49
  },
  "05362": {
@@ -2142,7 +2297,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Rhein-Erft-Kreis (Kreis)",
   "Population": 470615,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 27.67,
+  "Slope_Deaths_Last_Week_Percent": -3.7,
   "Slope_Deaths_New_Per_Million": -1.65
  },
  "05366": {
@@ -2168,7 +2325,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Euskirchen (Kreis)",
   "Population": 193656,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 24.12,
+  "Slope_Deaths_Last_Week_Percent": 0.5,
   "Slope_Deaths_New_Per_Million": -0.17
  },
  "05370": {
@@ -2193,7 +2352,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Heinsberg (Kreis)",
   "Population": 255555,
+  "Slope_Cases_Last_Week_Percent": -0.6,
   "Slope_Cases_New_Per_Million": -8.4,
+  "Slope_Deaths_Last_Week_Percent": -5.4,
   "Slope_Deaths_New_Per_Million": -0.57
  },
  "05374": {
@@ -2219,7 +2380,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Oberbergischer Kreis (Kreis)",
   "Population": 272057,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 37.44,
+  "Slope_Deaths_Last_Week_Percent": -3.3,
   "Slope_Deaths_New_Per_Million": -2.0
  },
  "05378": {
@@ -2245,7 +2408,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Rheinisch-Bergischer Kreis (Kreis)",
   "Population": 283271,
+  "Slope_Cases_Last_Week_Percent": 4.3,
   "Slope_Cases_New_Per_Million": 66.13,
+  "Slope_Deaths_Last_Week_Percent": 19.0,
   "Slope_Deaths_New_Per_Million": 0.26
  },
  "05382": {
@@ -2271,7 +2436,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Rhein-Sieg-Kreis (Kreis)",
   "Population": 600764,
+  "Slope_Cases_Last_Week_Percent": 4.4,
   "Slope_Cases_New_Per_Million": 67.6,
+  "Slope_Deaths_Last_Week_Percent": -3.3,
   "Slope_Deaths_New_Per_Million": -1.33
  },
  "05512": {
@@ -2297,7 +2464,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bottrop (Kreisfreie Stadt)",
   "Population": 117565,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 46.06,
+  "Slope_Deaths_Last_Week_Percent": -3.5,
   "Slope_Deaths_New_Per_Million": -1.23
  },
  "05513": {
@@ -2323,7 +2492,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Gelsenkirchen (Kreisfreie Stadt)",
   "Population": 259645,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 69.75,
+  "Slope_Deaths_Last_Week_Percent": -0.7,
   "Slope_Deaths_New_Per_Million": -0.9
  },
  "05515": {
@@ -2349,7 +2520,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Münster (Kreisfreie Stadt)",
   "Population": 315293,
+  "Slope_Cases_Last_Week_Percent": 5.2,
   "Slope_Cases_New_Per_Million": 45.3,
+  "Slope_Deaths_Last_Week_Percent": -2.2,
   "Slope_Deaths_New_Per_Million": -0.29
  },
  "05554": {
@@ -2375,7 +2548,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Borken (Kreis)",
   "Population": 371339,
+  "Slope_Cases_Last_Week_Percent": 6.0,
   "Slope_Cases_New_Per_Million": 79.3,
+  "Slope_Deaths_Last_Week_Percent": 3.5,
   "Slope_Deaths_New_Per_Million": 0.12
  },
  "05558": {
@@ -2401,6 +2576,7 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Coesfeld (Kreis)",
   "Population": 220586,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 31.95,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -2427,7 +2603,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Recklinghausen (Kreis)",
   "Population": 614137,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 77.57,
+  "Slope_Deaths_Last_Week_Percent": -4.7,
   "Slope_Deaths_New_Per_Million": -2.56
  },
  "05566": {
@@ -2453,7 +2631,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Steinfurt (Kreis)",
   "Population": 448220,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 18.38,
+  "Slope_Deaths_Last_Week_Percent": -0.3,
   "Slope_Deaths_New_Per_Million": -0.2
  },
  "05570": {
@@ -2479,7 +2659,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Warendorf (Kreis)",
   "Population": 277840,
+  "Slope_Cases_Last_Week_Percent": 4.8,
   "Slope_Cases_New_Per_Million": 74.94,
+  "Slope_Deaths_Last_Week_Percent": -0.1,
   "Slope_Deaths_New_Per_Million": -0.89
  },
  "05711": {
@@ -2504,7 +2686,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bielefeld (Kreisfreie Stadt)",
   "Population": 334195,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 6.04,
+  "Slope_Deaths_Last_Week_Percent": -9.6,
   "Slope_Deaths_New_Per_Million": -2.26
  },
  "05754": {
@@ -2530,7 +2714,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Gütersloh (Kreis)",
   "Population": 364938,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 40.45,
+  "Slope_Deaths_Last_Week_Percent": 0.6,
   "Slope_Deaths_New_Per_Million": -0.15
  },
  "05758": {
@@ -2556,7 +2742,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Herford (Kreis)",
   "Population": 250578,
+  "Slope_Cases_Last_Week_Percent": 1.5,
   "Slope_Cases_New_Per_Million": 26.5,
+  "Slope_Deaths_Last_Week_Percent": -2.3,
   "Slope_Deaths_New_Per_Million": -0.39
  },
  "05762": {
@@ -2581,7 +2769,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Höxter (Kreis)",
   "Population": 140251,
+  "Slope_Cases_Last_Week_Percent": 0.9,
   "Slope_Cases_New_Per_Million": 12.97,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -0.55
  },
  "05766": {
@@ -2606,7 +2796,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Lippe (Kreis)",
   "Population": 347514,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 23.82,
+  "Slope_Deaths_Last_Week_Percent": -2.6,
   "Slope_Deaths_New_Per_Million": -2.25
  },
  "05770": {
@@ -2632,7 +2824,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Minden-Lübbecke (Kreis)",
   "Population": 310409,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 44.65,
+  "Slope_Deaths_Last_Week_Percent": -7.9,
   "Slope_Deaths_New_Per_Million": -3.6
  },
  "05774": {
@@ -2657,7 +2851,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Paderborn (Kreis)",
   "Population": 307839,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -2.62,
+  "Slope_Deaths_Last_Week_Percent": -3.6,
   "Slope_Deaths_New_Per_Million": -0.86
  },
  "05911": {
@@ -2683,7 +2879,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bochum (Kreisfreie Stadt)",
   "Population": 365587,
+  "Slope_Cases_Last_Week_Percent": 3.8,
   "Slope_Cases_New_Per_Million": 64.75,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -0.63
  },
  "05913": {
@@ -2709,7 +2907,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Dortmund (Kreisfreie Stadt)",
   "Population": 588250,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 54.82,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.52
  },
  "05914": {
@@ -2734,7 +2934,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Hagen (Kreisfreie Stadt)",
   "Population": 188686,
+  "Slope_Cases_Last_Week_Percent": -2.9,
   "Slope_Cases_New_Per_Million": -65.12,
+  "Slope_Deaths_Last_Week_Percent": -8.8,
   "Slope_Deaths_New_Per_Million": -6.44
  },
  "05915": {
@@ -2760,7 +2962,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Hamm (Kreisfreie Stadt)",
   "Population": 179916,
+  "Slope_Cases_Last_Week_Percent": 2.7,
   "Slope_Cases_New_Per_Million": 48.32,
+  "Slope_Deaths_Last_Week_Percent": 2.8,
   "Slope_Deaths_New_Per_Million": 0.94
  },
  "05916": {
@@ -2786,7 +2990,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Herne (Kreisfreie Stadt)",
   "Population": 156449,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 40.83,
+  "Slope_Deaths_Last_Week_Percent": -0.5,
   "Slope_Deaths_New_Per_Million": -1.08
  },
  "05954": {
@@ -2812,7 +3018,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Ennepe-Ruhr-Kreis (Kreis)",
   "Population": 324106,
+  "Slope_Cases_Last_Week_Percent": 4.1,
   "Slope_Cases_New_Per_Million": 72.85,
+  "Slope_Deaths_Last_Week_Percent": 0.3,
   "Slope_Deaths_New_Per_Million": -0.73
  },
  "05958": {
@@ -2838,7 +3046,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Hochsauerlandkreis (Kreis)",
   "Population": 259777,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 16.8,
+  "Slope_Deaths_Last_Week_Percent": 1.4,
   "Slope_Deaths_New_Per_Million": 0.15
  },
  "05962": {
@@ -2864,7 +3074,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Märkischer Kreis (Kreis)",
   "Population": 410222,
+  "Slope_Cases_Last_Week_Percent": 2.6,
   "Slope_Cases_New_Per_Million": 40.96,
+  "Slope_Deaths_Last_Week_Percent": -2.0,
   "Slope_Deaths_New_Per_Million": -1.06
  },
  "05966": {
@@ -2890,7 +3102,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Olpe (Kreis)",
   "Population": 133955,
+  "Slope_Cases_Last_Week_Percent": 10.4,
   "Slope_Cases_New_Per_Million": 125.67,
+  "Slope_Deaths_Last_Week_Percent": -3.0,
   "Slope_Deaths_New_Per_Million": -2.26
  },
  "05970": {
@@ -2915,7 +3129,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Siegen-Wittgenstein (Kreis)",
   "Population": 276944,
+  "Slope_Cases_Last_Week_Percent": 0.5,
   "Slope_Cases_New_Per_Million": 7.19,
+  "Slope_Deaths_Last_Week_Percent": -8.9,
   "Slope_Deaths_New_Per_Million": -3.21
  },
  "05974": {
@@ -2941,7 +3157,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Soest (Kreis)",
   "Population": 301785,
+  "Slope_Cases_Last_Week_Percent": 5.4,
   "Slope_Cases_New_Per_Million": 51.16,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.87
  },
  "05978": {
@@ -2966,7 +3184,9 @@
   "LK_Typ": "Kreis",
   "Landkreis": "Unna (Kreis)",
   "Population": 394891,
+  "Slope_Cases_Last_Week_Percent": 0.1,
   "Slope_Cases_New_Per_Million": 3.22,
+  "Slope_Deaths_Last_Week_Percent": -7.6,
   "Slope_Deaths_New_Per_Million": -5.04
  },
  "06411": {
@@ -2992,7 +3212,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Darmstadt (Kreisfreie Stadt)",
   "Population": 159878,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 22.16,
+  "Slope_Deaths_Last_Week_Percent": -2.4,
   "Slope_Deaths_New_Per_Million": -1.09
  },
  "06412": {
@@ -3017,7 +3239,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Frankfurt am Main (Kreisfreie Stadt)",
   "Population": 763380,
+  "Slope_Cases_Last_Week_Percent": -0.7,
   "Slope_Cases_New_Per_Million": -11.27,
+  "Slope_Deaths_Last_Week_Percent": -4.8,
   "Slope_Deaths_New_Per_Million": -1.43
  },
  "06413": {
@@ -3042,7 +3266,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Offenbach am Main (Kreisfreie Stadt)",
   "Population": 130280,
+  "Slope_Cases_Last_Week_Percent": -2.1,
   "Slope_Cases_New_Per_Million": -55.8,
+  "Slope_Deaths_Last_Week_Percent": -14.1,
   "Slope_Deaths_New_Per_Million": -5.01
  },
  "06414": {
@@ -3068,7 +3294,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Wiesbaden (Kreisfreie Stadt)",
   "Population": 278474,
+  "Slope_Cases_Last_Week_Percent": 1.5,
   "Slope_Cases_New_Per_Million": 20.65,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -1.0
  },
  "06431": {
@@ -3094,7 +3322,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bergstraße (Landkreis)",
   "Population": 270340,
+  "Slope_Cases_Last_Week_Percent": 4.9,
   "Slope_Cases_New_Per_Million": 71.48,
+  "Slope_Deaths_Last_Week_Percent": -2.2,
   "Slope_Deaths_New_Per_Million": -2.2
  },
  "06432": {
@@ -3120,7 +3350,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Darmstadt-Dieburg (Landkreis)",
   "Population": 297844,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 52.63,
+  "Slope_Deaths_Last_Week_Percent": -1.4,
   "Slope_Deaths_New_Per_Million": -1.18
  },
  "06433": {
@@ -3145,7 +3377,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Groß-Gerau (Landkreis)",
   "Population": 275726,
+  "Slope_Cases_Last_Week_Percent": -0.5,
   "Slope_Cases_New_Per_Million": -9.58,
+  "Slope_Deaths_Last_Week_Percent": -8.5,
   "Slope_Deaths_New_Per_Million": -2.88
  },
  "06434": {
@@ -3170,7 +3404,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hochtaunuskreis (Landkreis)",
   "Population": 236914,
+  "Slope_Cases_Last_Week_Percent": 0.4,
   "Slope_Cases_New_Per_Million": 4.87,
+  "Slope_Deaths_Last_Week_Percent": -6.5,
   "Slope_Deaths_New_Per_Million": -0.6
  },
  "06435": {
@@ -3196,7 +3432,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Main-Kinzig-Kreis (Landkreis)",
   "Population": 420552,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 55.45,
+  "Slope_Deaths_Last_Week_Percent": -1.9,
   "Slope_Deaths_New_Per_Million": -2.14
  },
  "06436": {
@@ -3222,7 +3460,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Main-Taunus-Kreis (Landkreis)",
   "Population": 238558,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 31.78,
+  "Slope_Deaths_Last_Week_Percent": -1.7,
   "Slope_Deaths_New_Per_Million": -1.3
  },
  "06437": {
@@ -3248,7 +3488,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Odenwaldkreis (Landkreis)",
   "Population": 96703,
+  "Slope_Cases_Last_Week_Percent": 7.8,
   "Slope_Cases_New_Per_Million": 175.09,
+  "Slope_Deaths_Last_Week_Percent": 6.5,
   "Slope_Deaths_New_Per_Million": 2.07
  },
  "06438": {
@@ -3273,7 +3515,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Offenbach (Landkreis)",
   "Population": 355813,
+  "Slope_Cases_Last_Week_Percent": 1.0,
   "Slope_Cases_New_Per_Million": 21.97,
+  "Slope_Deaths_Last_Week_Percent": -6.9,
   "Slope_Deaths_New_Per_Million": -5.96
  },
  "06439": {
@@ -3299,7 +3543,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rheingau-Taunus-Kreis (Landkreis)",
   "Population": 187160,
+  "Slope_Cases_Last_Week_Percent": 1.8,
   "Slope_Cases_New_Per_Million": 34.62,
+  "Slope_Deaths_Last_Week_Percent": -4.8,
   "Slope_Deaths_New_Per_Million": -3.76
  },
  "06440": {
@@ -3325,7 +3571,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wetteraukreis (Landkreis)",
   "Population": 308339,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 79.0,
+  "Slope_Deaths_Last_Week_Percent": 0.3,
   "Slope_Deaths_New_Per_Million": -2.0
  },
  "06531": {
@@ -3351,7 +3599,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Gießen (Landkreis)",
   "Population": 270688,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 87.31,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -1.33
  },
  "06532": {
@@ -3377,7 +3627,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lahn-Dill-Kreis (Landkreis)",
   "Population": 253319,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 25.98,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -0.69
  },
  "06533": {
@@ -3402,7 +3654,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Limburg-Weilburg (Landkreis)",
   "Population": 171912,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 17.67,
+  "Slope_Deaths_Last_Week_Percent": -8.5,
   "Slope_Deaths_New_Per_Million": -3.99
  },
  "06534": {
@@ -3428,7 +3682,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Marburg-Biedenkopf (Landkreis)",
   "Population": 247084,
+  "Slope_Cases_Last_Week_Percent": 2.4,
   "Slope_Cases_New_Per_Million": 36.57,
+  "Slope_Deaths_Last_Week_Percent": -1.6,
   "Slope_Deaths_New_Per_Million": -2.22
  },
  "06535": {
@@ -3454,7 +3710,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vogelsbergkreis (Landkreis)",
   "Population": 105643,
+  "Slope_Cases_Last_Week_Percent": 8.6,
   "Slope_Cases_New_Per_Million": 157.9,
+  "Slope_Deaths_Last_Week_Percent": -0.0,
   "Slope_Deaths_New_Per_Million": -4.2
  },
  "06611": {
@@ -3480,7 +3738,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Kassel (Kreisfreie Stadt)",
   "Population": 202137,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 47.45,
+  "Slope_Deaths_Last_Week_Percent": -2.0,
   "Slope_Deaths_New_Per_Million": -1.69
  },
  "06631": {
@@ -3506,7 +3766,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Fulda (Landkreis)",
   "Population": 223145,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 43.99,
+  "Slope_Deaths_Last_Week_Percent": -7.1,
   "Slope_Deaths_New_Per_Million": -5.59
  },
  "06632": {
@@ -3532,7 +3794,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hersfeld-Rotenburg (Landkreis)",
   "Population": 120719,
+  "Slope_Cases_Last_Week_Percent": 4.6,
   "Slope_Cases_New_Per_Million": 86.05,
+  "Slope_Deaths_Last_Week_Percent": 1.6,
   "Slope_Deaths_New_Per_Million": -0.09
  },
  "06633": {
@@ -3558,7 +3822,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kassel (Landkreis)",
   "Population": 236764,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 26.3,
+  "Slope_Deaths_Last_Week_Percent": -4.5,
   "Slope_Deaths_New_Per_Million": -2.22
  },
  "06634": {
@@ -3584,7 +3850,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schwalm-Eder-Kreis (Landkreis)",
   "Population": 179673,
+  "Slope_Cases_Last_Week_Percent": 6.0,
   "Slope_Cases_New_Per_Million": 102.93,
+  "Slope_Deaths_Last_Week_Percent": -1.2,
   "Slope_Deaths_New_Per_Million": -2.25
  },
  "06635": {
@@ -3610,7 +3878,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Waldeck-Frankenberg (Landkreis)",
   "Population": 156406,
+  "Slope_Cases_Last_Week_Percent": 6.8,
   "Slope_Cases_New_Per_Million": 109.25,
+  "Slope_Deaths_Last_Week_Percent": 1.4,
   "Slope_Deaths_New_Per_Million": -0.63
  },
  "06636": {
@@ -3636,7 +3906,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Werra-Meißner-Kreis (Landkreis)",
   "Population": 100629,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 26.85,
+  "Slope_Deaths_Last_Week_Percent": -0.6,
   "Slope_Deaths_New_Per_Million": -1.38
  },
  "07111": {
@@ -3662,7 +3934,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Koblenz (Kreisfreie Stadt)",
   "Population": 114052,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 39.15,
+  "Slope_Deaths_Last_Week_Percent": -3.3,
   "Slope_Deaths_New_Per_Million": -1.98
  },
  "07131": {
@@ -3688,7 +3962,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ahrweiler (Landkreis)",
   "Population": 130086,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 21.02,
+  "Slope_Deaths_Last_Week_Percent": 1.0,
   "Slope_Deaths_New_Per_Million": 0.0
  },
  "07132": {
@@ -3714,7 +3990,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Altenkirchen (Westerwald) (Landkreis)",
   "Population": 128805,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 32.64,
+  "Slope_Deaths_Last_Week_Percent": 5.9,
   "Slope_Deaths_New_Per_Million": 0.36
  },
  "07133": {
@@ -3740,7 +4018,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bad Kreuznach (Landkreis)",
   "Population": 158345,
+  "Slope_Cases_Last_Week_Percent": 5.8,
   "Slope_Cases_New_Per_Million": 100.17,
+  "Slope_Deaths_Last_Week_Percent": 3.1,
   "Slope_Deaths_New_Per_Million": 0.06
  },
  "07134": {
@@ -3766,7 +4046,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Birkenfeld (Landkreis)",
   "Population": 80951,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 16.05,
+  "Slope_Deaths_Last_Week_Percent": -17.8,
   "Slope_Deaths_New_Per_Million": -0.65
  },
  "07135": {
@@ -3791,7 +4073,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Cochem-Zell (Landkreis)",
   "Population": 61375,
+  "Slope_Cases_Last_Week_Percent": 2.4,
   "Slope_Cases_New_Per_Million": 30.63,
+  "Slope_Deaths_Last_Week_Percent": -0.5,
   "Slope_Deaths_New_Per_Million": -0.68
  },
  "07137": {
@@ -3817,7 +4101,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mayen-Koblenz (Landkreis)",
   "Population": 214434,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 44.16,
+  "Slope_Deaths_Last_Week_Percent": -3.2,
   "Slope_Deaths_New_Per_Million": -2.44
  },
  "07138": {
@@ -3843,7 +4129,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neuwied (Landkreis)",
   "Population": 182811,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 77.37,
+  "Slope_Deaths_Last_Week_Percent": -2.0,
   "Slope_Deaths_New_Per_Million": -2.06
  },
  "07140": {
@@ -3868,7 +4156,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rhein-Hunsrück-Kreis (Landkreis)",
   "Population": 103163,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 3.55,
+  "Slope_Deaths_Last_Week_Percent": 6.8,
   "Slope_Deaths_New_Per_Million": 1.11
  },
  "07141": {
@@ -3894,7 +4184,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rhein-Lahn-Kreis (Landkreis)",
   "Population": 122297,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 60.31,
+  "Slope_Deaths_Last_Week_Percent": 5.9,
   "Slope_Deaths_New_Per_Million": 3.76
  },
  "07143": {
@@ -3920,7 +4212,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Westerwaldkreis (Landkreis)",
   "Population": 201904,
+  "Slope_Cases_Last_Week_Percent": 6.3,
   "Slope_Cases_New_Per_Million": 76.03,
+  "Slope_Deaths_Last_Week_Percent": -1.6,
   "Slope_Deaths_New_Per_Million": -1.43
  },
  "07211": {
@@ -3946,7 +4240,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Trier (Kreisfreie Stadt)",
   "Population": 111528,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 42.93,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -0.75
  },
  "07231": {
@@ -3972,7 +4268,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bernkastel-Wittlich (Landkreis)",
   "Population": 112483,
+  "Slope_Cases_Last_Week_Percent": 7.0,
   "Slope_Cases_New_Per_Million": 72.05,
+  "Slope_Deaths_Last_Week_Percent": -0.1,
   "Slope_Deaths_New_Per_Million": -0.96
  },
  "07232": {
@@ -3997,7 +4295,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Eifelkreis Bitburg-Prüm (Landkreis)",
   "Population": 99058,
+  "Slope_Cases_Last_Week_Percent": -3.6,
   "Slope_Cases_New_Per_Million": -43.98,
+  "Slope_Deaths_Last_Week_Percent": -15.6,
   "Slope_Deaths_New_Per_Million": -1.0
  },
  "07233": {
@@ -4022,7 +4322,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vulkaneifel (Landkreis)",
   "Population": 60646,
+  "Slope_Cases_Last_Week_Percent": 2.6,
   "Slope_Cases_New_Per_Million": 43.2,
+  "Slope_Deaths_Last_Week_Percent": 3.2,
   "Slope_Deaths_New_Per_Million": 0.4
  },
  "07235": {
@@ -4048,7 +4350,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Trier-Saarburg (Landkreis)",
   "Population": 149398,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 27.29,
+  "Slope_Deaths_Last_Week_Percent": -4.8,
   "Slope_Deaths_New_Per_Million": -0.84
  },
  "07311": {
@@ -4073,7 +4377,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Frankenthal (Pfalz) (Kreisfreie Stadt)",
   "Population": 48762,
+  "Slope_Cases_Last_Week_Percent": -0.6,
   "Slope_Cases_New_Per_Million": -14.14,
+  "Slope_Deaths_Last_Week_Percent": -12.1,
   "Slope_Deaths_New_Per_Million": -9.74
  },
  "07312": {
@@ -4099,7 +4405,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Kaiserslautern (Kreisfreie Stadt)",
   "Population": 100030,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 43.69,
+  "Slope_Deaths_Last_Week_Percent": 4.5,
   "Slope_Deaths_New_Per_Million": 1.38
  },
  "07313": {
@@ -4124,7 +4432,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Landau in der Pfalz (Kreisfreie Stadt)",
   "Population": 46881,
+  "Slope_Cases_Last_Week_Percent": 4.7,
   "Slope_Cases_New_Per_Million": 66.8,
+  "Slope_Deaths_Last_Week_Percent": -11.5,
   "Slope_Deaths_New_Per_Million": -2.11
  },
  "07314": {
@@ -4149,7 +4459,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Ludwigshafen am Rhein (Kreisfreie Stadt)",
   "Population": 172253,
+  "Slope_Cases_Last_Week_Percent": -2.1,
   "Slope_Cases_New_Per_Million": -80.69,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -10.72
  },
  "07315": {
@@ -4175,7 +4487,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Mainz (Kreisfreie Stadt)",
   "Population": 218578,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 28.83,
+  "Slope_Deaths_Last_Week_Percent": 2.7,
   "Slope_Deaths_New_Per_Million": 0.82
  },
  "07316": {
@@ -4200,7 +4514,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Neustadt an der Weinstraße (Kreisfreie Stadt)",
   "Population": 53264,
+  "Slope_Cases_Last_Week_Percent": -1.5,
   "Slope_Cases_New_Per_Million": -21.94,
+  "Slope_Deaths_Last_Week_Percent": 1.5,
   "Slope_Deaths_New_Per_Million": 1.77
  },
  "07317": {
@@ -4225,6 +4541,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Pirmasens (Kreisfreie Stadt)",
   "Population": 40231,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 28.8,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -4251,7 +4568,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Speyer (Kreisfreie Stadt)",
   "Population": 50561,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 130.71,
+  "Slope_Deaths_Last_Week_Percent": -5.8,
   "Slope_Deaths_New_Per_Million": -6.39
  },
  "07319": {
@@ -4276,7 +4595,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Worms (Kreisfreie Stadt)",
   "Population": 83542,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 11.27,
+  "Slope_Deaths_Last_Week_Percent": -16.6,
   "Slope_Deaths_New_Per_Million": -0.87
  },
  "07320": {
@@ -4301,6 +4622,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Zweibrücken (Kreisfreie Stadt)",
   "Population": 34193,
+  "Slope_Cases_Last_Week_Percent": -0.3,
   "Slope_Cases_New_Per_Million": -2.84,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -4326,7 +4648,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Alzey-Worms (Landkreis)",
   "Population": 129687,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 21.29,
+  "Slope_Deaths_Last_Week_Percent": -12.2,
   "Slope_Deaths_New_Per_Million": -6.63
  },
  "07332": {
@@ -4351,7 +4675,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bad Dürkheim (Landkreis)",
   "Population": 132671,
+  "Slope_Cases_Last_Week_Percent": -2.8,
   "Slope_Cases_New_Per_Million": -40.85,
+  "Slope_Deaths_Last_Week_Percent": -11.0,
   "Slope_Deaths_New_Per_Million": -3.71
  },
  "07333": {
@@ -4377,7 +4703,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Donnersbergkreis (Landkreis)",
   "Population": 75325,
+  "Slope_Cases_Last_Week_Percent": 4.6,
   "Slope_Cases_New_Per_Million": 45.97,
+  "Slope_Deaths_Last_Week_Percent": 5.4,
   "Slope_Deaths_New_Per_Million": 1.14
  },
  "07334": {
@@ -4403,7 +4731,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Germersheim (Landkreis)",
   "Population": 129013,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 37.61,
+  "Slope_Deaths_Last_Week_Percent": 4.0,
   "Slope_Deaths_New_Per_Million": 2.06
  },
  "07335": {
@@ -4428,7 +4758,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kaiserslautern (Landkreis)",
   "Population": 105979,
+  "Slope_Cases_Last_Week_Percent": -1.4,
   "Slope_Cases_New_Per_Million": -18.65,
+  "Slope_Deaths_Last_Week_Percent": 1.7,
   "Slope_Deaths_New_Per_Million": 0.73
  },
  "07336": {
@@ -4453,7 +4785,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kusel (Landkreis)",
   "Population": 70219,
+  "Slope_Cases_Last_Week_Percent": 1.0,
   "Slope_Cases_New_Per_Million": 16.85,
+  "Slope_Deaths_Last_Week_Percent": -1.3,
   "Slope_Deaths_New_Per_Million": -1.16
  },
  "07337": {
@@ -4479,7 +4813,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Südliche Weinstraße (Landkreis)",
   "Population": 110521,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 21.66,
+  "Slope_Deaths_Last_Week_Percent": 2.7,
   "Slope_Deaths_New_Per_Million": 0.72
  },
  "07338": {
@@ -4502,7 +4838,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rhein-Pfalz-Kreis (Landkreis)",
   "Population": 154609,
+  "Slope_Cases_Last_Week_Percent": -0.8,
   "Slope_Cases_New_Per_Million": -21.69,
+  "Slope_Deaths_Last_Week_Percent": -10.7,
   "Slope_Deaths_New_Per_Million": -6.31
  },
  "07339": {
@@ -4528,7 +4866,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mainz-Bingen (Landkreis)",
   "Population": 211417,
+  "Slope_Cases_Last_Week_Percent": 4.1,
   "Slope_Cases_New_Per_Million": 53.44,
+  "Slope_Deaths_Last_Week_Percent": -4.3,
   "Slope_Deaths_New_Per_Million": -2.64
  },
  "07340": {
@@ -4554,7 +4894,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Südwestpfalz (Landkreis)",
   "Population": 94831,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 40.31,
+  "Slope_Deaths_Last_Week_Percent": -4.1,
   "Slope_Deaths_New_Per_Million": -3.59
  },
  "08111": {
@@ -4579,7 +4921,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Stuttgart (Stadtkreis)",
   "Population": 635911,
+  "Slope_Cases_Last_Week_Percent": 1.0,
   "Slope_Cases_New_Per_Million": 16.99,
+  "Slope_Deaths_Last_Week_Percent": -6.4,
   "Slope_Deaths_New_Per_Million": -0.42
  },
  "08115": {
@@ -4604,7 +4948,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Böblingen (Landkreis)",
   "Population": 392807,
+  "Slope_Cases_Last_Week_Percent": 0.6,
   "Slope_Cases_New_Per_Million": 8.98,
+  "Slope_Deaths_Last_Week_Percent": -1.6,
   "Slope_Deaths_New_Per_Million": -0.65
  },
  "08116": {
@@ -4629,7 +4975,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Esslingen (Landkreis)",
   "Population": 535024,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 14.37,
+  "Slope_Deaths_Last_Week_Percent": -2.5,
   "Slope_Deaths_New_Per_Million": -1.37
  },
  "08117": {
@@ -4654,7 +5002,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Göppingen (Landkreis)",
   "Population": 258145,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 3.25,
+  "Slope_Deaths_Last_Week_Percent": -5.7,
   "Slope_Deaths_New_Per_Million": -3.25
  },
  "08118": {
@@ -4679,7 +5029,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ludwigsburg (Landkreis)",
   "Population": 545423,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 13.25,
+  "Slope_Deaths_Last_Week_Percent": -3.9,
   "Slope_Deaths_New_Per_Million": -1.65
  },
  "08119": {
@@ -4705,7 +5057,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rems-Murr-Kreis (Landkreis)",
   "Population": 427248,
+  "Slope_Cases_Last_Week_Percent": 1.2,
   "Slope_Cases_New_Per_Million": 26.8,
+  "Slope_Deaths_Last_Week_Percent": -4.2,
   "Slope_Deaths_New_Per_Million": -1.92
  },
  "08121": {
@@ -4731,7 +5085,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Heilbronn (Stadtkreis)",
   "Population": 126592,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 97.24,
+  "Slope_Deaths_Last_Week_Percent": -5.7,
   "Slope_Deaths_New_Per_Million": -2.34
  },
  "08125": {
@@ -4757,7 +5113,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Heilbronn (Landkreis)",
   "Population": 344456,
+  "Slope_Cases_Last_Week_Percent": 1.5,
   "Slope_Cases_New_Per_Million": 33.49,
+  "Slope_Deaths_Last_Week_Percent": -8.3,
   "Slope_Deaths_New_Per_Million": -2.07
  },
  "08126": {
@@ -4783,7 +5141,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hohenlohekreis (Landkreis)",
   "Population": 112655,
+  "Slope_Cases_Last_Week_Percent": 7.3,
   "Slope_Cases_New_Per_Million": 87.44,
+  "Slope_Deaths_Last_Week_Percent": 1.9,
   "Slope_Deaths_New_Per_Million": -0.35
  },
  "08127": {
@@ -4809,7 +5169,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schwäbisch Hall (Landkreis)",
   "Population": 196761,
+  "Slope_Cases_Last_Week_Percent": 3.9,
   "Slope_Cases_New_Per_Million": 54.94,
+  "Slope_Deaths_Last_Week_Percent": -6.5,
   "Slope_Deaths_New_Per_Million": -2.93
  },
  "08128": {
@@ -4835,7 +5197,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Main-Tauber-Kreis (Landkreis)",
   "Population": 132399,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 40.64,
+  "Slope_Deaths_Last_Week_Percent": 0.6,
   "Slope_Deaths_New_Per_Million": -0.2
  },
  "08135": {
@@ -4860,7 +5224,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Heidenheim (Landkreis)",
   "Population": 132777,
+  "Slope_Cases_Last_Week_Percent": -1.5,
   "Slope_Cases_New_Per_Million": -24.21,
+  "Slope_Deaths_Last_Week_Percent": -5.9,
   "Slope_Deaths_New_Per_Million": -2.55
  },
  "08136": {
@@ -4885,7 +5251,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ostalbkreis (Landkreis)",
   "Population": 314025,
+  "Slope_Cases_Last_Week_Percent": 1.2,
   "Slope_Cases_New_Per_Million": 20.36,
+  "Slope_Deaths_Last_Week_Percent": 0.7,
   "Slope_Deaths_New_Per_Million": 0.05
  },
  "08211": {
@@ -4910,7 +5278,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Baden-Baden (Stadtkreis)",
   "Population": 55185,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 45.02,
+  "Slope_Deaths_Last_Week_Percent": 0.9,
   "Slope_Deaths_New_Per_Million": -0.28
  },
  "08212": {
@@ -4936,7 +5306,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Karlsruhe (Stadtkreis)",
   "Population": 312060,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 28.75,
+  "Slope_Deaths_Last_Week_Percent": -4.5,
   "Slope_Deaths_New_Per_Million": -1.71
  },
  "08215": {
@@ -4962,7 +5334,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Karlsruhe (Landkreis)",
   "Population": 445101,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 69.75,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -0.71
  },
  "08216": {
@@ -4988,7 +5362,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rastatt (Landkreis)",
   "Population": 231420,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 31.31,
+  "Slope_Deaths_Last_Week_Percent": 1.7,
   "Slope_Deaths_New_Per_Million": 0.44
  },
  "08221": {
@@ -5013,7 +5389,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Heidelberg (Stadtkreis)",
   "Population": 161485,
+  "Slope_Cases_Last_Week_Percent": -1.1,
   "Slope_Cases_New_Per_Million": -16.18,
+  "Slope_Deaths_Last_Week_Percent": -4.9,
   "Slope_Deaths_New_Per_Million": -0.54
  },
  "08222": {
@@ -5039,7 +5417,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Mannheim (Stadtkreis)",
   "Population": 310658,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 61.13,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -1.11
  },
  "08225": {
@@ -5065,7 +5445,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neckar-Odenwald-Kreis (Landkreis)",
   "Population": 143633,
+  "Slope_Cases_Last_Week_Percent": 6.2,
   "Slope_Cases_New_Per_Million": 144.65,
+  "Slope_Deaths_Last_Week_Percent": -1.6,
   "Slope_Deaths_New_Per_Million": -2.37
  },
  "08226": {
@@ -5091,7 +5473,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rhein-Neckar-Kreis (Landkreis)",
   "Population": 548355,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 74.54,
+  "Slope_Deaths_Last_Week_Percent": -4.9,
   "Slope_Deaths_New_Per_Million": -3.37
  },
  "08231": {
@@ -5116,7 +5500,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Pforzheim (Stadtkreis)",
   "Population": 125957,
+  "Slope_Cases_Last_Week_Percent": 0.1,
   "Slope_Cases_New_Per_Million": 4.76,
+  "Slope_Deaths_Last_Week_Percent": -6.0,
   "Slope_Deaths_New_Per_Million": -3.87
  },
  "08235": {
@@ -5142,7 +5528,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Calw (Landkreis)",
   "Population": 159201,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 86.51,
+  "Slope_Deaths_Last_Week_Percent": -3.5,
   "Slope_Deaths_New_Per_Million": -4.47
  },
  "08236": {
@@ -5168,7 +5556,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Enzkreis (Landkreis)",
   "Population": 199556,
+  "Slope_Cases_Last_Week_Percent": 3.4,
   "Slope_Cases_New_Per_Million": 88.5,
+  "Slope_Deaths_Last_Week_Percent": -2.3,
   "Slope_Deaths_New_Per_Million": -4.35
  },
  "08237": {
@@ -5194,7 +5584,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Freudenstadt (Landkreis)",
   "Population": 118243,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 73.69,
+  "Slope_Deaths_Last_Week_Percent": -4.2,
   "Slope_Deaths_New_Per_Million": -2.84
  },
  "08311": {
@@ -5220,7 +5612,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Freiburg im Breisgau (Stadtkreis)",
   "Population": 231195,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 31.5,
+  "Slope_Deaths_Last_Week_Percent": -12.1,
   "Slope_Deaths_New_Per_Million": -1.64
  },
  "08315": {
@@ -5246,7 +5640,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Breisgau-Hochschwarzwald (Landkreis)",
   "Population": 263601,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 20.92,
+  "Slope_Deaths_Last_Week_Percent": -4.7,
   "Slope_Deaths_New_Per_Million": -1.48
  },
  "08316": {
@@ -5271,7 +5667,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Emmendingen (Landkreis)",
   "Population": 166408,
+  "Slope_Cases_Last_Week_Percent": 0.0,
   "Slope_Cases_New_Per_Million": 0.56,
+  "Slope_Deaths_Last_Week_Percent": -8.6,
   "Slope_Deaths_New_Per_Million": -5.08
  },
  "08317": {
@@ -5297,7 +5695,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ortenaukreis (Landkreis)",
   "Population": 430953,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 53.71,
+  "Slope_Deaths_Last_Week_Percent": -3.1,
   "Slope_Deaths_New_Per_Million": -1.86
  },
  "08325": {
@@ -5323,7 +5723,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rottweil (Landkreis)",
   "Population": 139878,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 95.02,
+  "Slope_Deaths_Last_Week_Percent": -2.2,
   "Slope_Deaths_New_Per_Million": -5.58
  },
  "08326": {
@@ -5349,7 +5751,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schwarzwald-Baar-Kreis (Landkreis)",
   "Population": 212506,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 34.89,
+  "Slope_Deaths_Last_Week_Percent": -8.9,
   "Slope_Deaths_New_Per_Million": -2.53
  },
  "08327": {
@@ -5375,7 +5779,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Tuttlingen (Landkreis)",
   "Population": 140766,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 37.03,
+  "Slope_Deaths_Last_Week_Percent": -8.1,
   "Slope_Deaths_New_Per_Million": -4.0
  },
  "08335": {
@@ -5401,7 +5807,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Konstanz (Landkreis)",
   "Population": 286305,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 25.18,
+  "Slope_Deaths_Last_Week_Percent": 0.7,
   "Slope_Deaths_New_Per_Million": -0.11
  },
  "08336": {
@@ -5427,7 +5835,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lörrach (Landkreis)",
   "Population": 228736,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 87.7,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -2.51
  },
  "08337": {
@@ -5452,7 +5862,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Waldshut (Landkreis)",
   "Population": 171003,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 5.97,
+  "Slope_Deaths_Last_Week_Percent": -5.2,
   "Slope_Deaths_New_Per_Million": -1.7
  },
  "08415": {
@@ -5478,7 +5890,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Reutlingen (Landkreis)",
   "Population": 287034,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 49.15,
+  "Slope_Deaths_Last_Week_Percent": -4.9,
   "Slope_Deaths_New_Per_Million": -0.99
  },
  "08416": {
@@ -5504,7 +5918,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Tübingen (Landkreis)",
   "Population": 228678,
+  "Slope_Cases_Last_Week_Percent": 5.2,
   "Slope_Cases_New_Per_Million": 83.67,
+  "Slope_Deaths_Last_Week_Percent": 3.8,
   "Slope_Deaths_New_Per_Million": 0.22
  },
  "08417": {
@@ -5530,7 +5946,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Zollernalbkreis (Landkreis)",
   "Population": 189363,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 51.18,
+  "Slope_Deaths_Last_Week_Percent": -5.0,
   "Slope_Deaths_New_Per_Million": -1.76
  },
  "08421": {
@@ -5555,7 +5973,9 @@
   "LK_Typ": "Stadtkreis",
   "Landkreis": "Ulm (Stadtkreis)",
   "Population": 126790,
+  "Slope_Cases_Last_Week_Percent": -0.9,
   "Slope_Cases_New_Per_Million": -17.35,
+  "Slope_Deaths_Last_Week_Percent": 3.6,
   "Slope_Deaths_New_Per_Million": 0.45
  },
  "08425": {
@@ -5581,7 +6001,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Alb-Donau-Kreis (Landkreis)",
   "Population": 197076,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 49.55,
+  "Slope_Deaths_Last_Week_Percent": -6.6,
   "Slope_Deaths_New_Per_Million": -2.06
  },
  "08426": {
@@ -5607,7 +6029,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Biberach (Landkreis)",
   "Population": 201282,
+  "Slope_Cases_Last_Week_Percent": 3.4,
   "Slope_Cases_New_Per_Million": 63.13,
+  "Slope_Deaths_Last_Week_Percent": -6.8,
   "Slope_Deaths_New_Per_Million": -2.35
  },
  "08435": {
@@ -5633,7 +6057,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bodenseekreis (Landkreis)",
   "Population": 217470,
+  "Slope_Cases_Last_Week_Percent": 6.5,
   "Slope_Cases_New_Per_Million": 75.62,
+  "Slope_Deaths_Last_Week_Percent": 10.5,
   "Slope_Deaths_New_Per_Million": 1.33
  },
  "08436": {
@@ -5659,7 +6085,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ravensburg (Landkreis)",
   "Population": 285424,
+  "Slope_Cases_Last_Week_Percent": 4.0,
   "Slope_Cases_New_Per_Million": 49.34,
+  "Slope_Deaths_Last_Week_Percent": 1.8,
   "Slope_Deaths_New_Per_Million": -0.01
  },
  "08437": {
@@ -5685,6 +6113,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Sigmaringen (Landkreis)",
   "Population": 130849,
+  "Slope_Cases_Last_Week_Percent": 6.8,
   "Slope_Cases_New_Per_Million": 74.21,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -5711,7 +6140,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Ingolstadt (Kreisfreie Stadt)",
   "Population": 137392,
+  "Slope_Cases_Last_Week_Percent": 7.6,
   "Slope_Cases_New_Per_Million": 128.57,
+  "Slope_Deaths_Last_Week_Percent": -11.6,
   "Slope_Deaths_New_Per_Million": -0.64
  },
  "09162": {
@@ -5737,7 +6168,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "München (Kreisfreie Stadt)",
   "Population": 1484226,
+  "Slope_Cases_Last_Week_Percent": 2.7,
   "Slope_Cases_New_Per_Million": 63.12,
+  "Slope_Deaths_Last_Week_Percent": -4.1,
   "Slope_Deaths_New_Per_Million": -1.79
  },
  "09163": {
@@ -5762,7 +6195,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Rosenheim (Kreisfreie Stadt)",
   "Population": 63551,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -8.52,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.1
  },
  "09171": {
@@ -5787,7 +6222,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Altötting (Landkreis)",
   "Population": 111516,
+  "Slope_Cases_Last_Week_Percent": -1.9,
   "Slope_Cases_New_Per_Million": -40.28,
+  "Slope_Deaths_Last_Week_Percent": -11.4,
   "Slope_Deaths_New_Per_Million": -5.46
  },
  "09172": {
@@ -5812,7 +6249,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Berchtesgadener Land (Landkreis)",
   "Population": 105929,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 3.75,
+  "Slope_Deaths_Last_Week_Percent": -6.7,
   "Slope_Deaths_New_Per_Million": -4.5
  },
  "09173": {
@@ -5838,7 +6277,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bad Tölz-Wolfratshausen (Landkreis)",
   "Population": 127917,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 29.26,
+  "Slope_Deaths_Last_Week_Percent": -7.3,
   "Slope_Deaths_New_Per_Million": -1.65
  },
  "09174": {
@@ -5863,7 +6304,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Dachau (Landkreis)",
   "Population": 154899,
+  "Slope_Cases_Last_Week_Percent": -1.0,
   "Slope_Cases_New_Per_Million": -23.31,
+  "Slope_Deaths_Last_Week_Percent": -4.1,
   "Slope_Deaths_New_Per_Million": -1.33
  },
  "09175": {
@@ -5889,7 +6332,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ebersberg (Landkreis)",
   "Population": 143649,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 54.31,
+  "Slope_Deaths_Last_Week_Percent": 0.5,
   "Slope_Deaths_New_Per_Million": -0.49
  },
  "09176": {
@@ -5915,7 +6360,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Eichstätt (Landkreis)",
   "Population": 132881,
+  "Slope_Cases_Last_Week_Percent": 2.7,
   "Slope_Cases_New_Per_Million": 41.47,
+  "Slope_Deaths_Last_Week_Percent": -9.3,
   "Slope_Deaths_New_Per_Million": -2.98
  },
  "09177": {
@@ -5941,7 +6388,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Erding (Landkreis)",
   "Population": 138182,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 52.96,
+  "Slope_Deaths_Last_Week_Percent": -4.1,
   "Slope_Deaths_New_Per_Million": -0.6
  },
  "09178": {
@@ -5967,7 +6416,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Freising (Landkreis)",
   "Population": 180007,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 46.24,
+  "Slope_Deaths_Last_Week_Percent": -1.7,
   "Slope_Deaths_New_Per_Million": -0.34
  },
  "09179": {
@@ -5993,7 +6444,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Fürstenfeldbruck (Landkreis)",
   "Population": 219311,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 31.98,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -0.63
  },
  "09180": {
@@ -6019,7 +6472,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Garmisch-Partenkirchen (Landkreis)",
   "Population": 88424,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 30.64,
+  "Slope_Deaths_Last_Week_Percent": -9.4,
   "Slope_Deaths_New_Per_Million": -5.49
  },
  "09181": {
@@ -6044,7 +6499,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Landsberg am Lech (Landkreis)",
   "Population": 120302,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 4.71,
+  "Slope_Deaths_Last_Week_Percent": -0.3,
   "Slope_Deaths_New_Per_Million": -0.16
  },
  "09182": {
@@ -6069,7 +6526,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Miesbach (Landkreis)",
   "Population": 100010,
+  "Slope_Cases_Last_Week_Percent": -0.1,
   "Slope_Cases_New_Per_Million": -1.27,
+  "Slope_Deaths_Last_Week_Percent": 13.8,
   "Slope_Deaths_New_Per_Million": 0.99
  },
  "09183": {
@@ -6095,7 +6554,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mühldorf a. Inn (Landkreis)",
   "Population": 115872,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 51.43,
+  "Slope_Deaths_Last_Week_Percent": -4.8,
   "Slope_Deaths_New_Per_Million": -5.22
  },
  "09184": {
@@ -6121,7 +6582,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "München (Landkreis)",
   "Population": 350473,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 26.72,
+  "Slope_Deaths_Last_Week_Percent": 1.1,
   "Slope_Deaths_New_Per_Million": 0.06
  },
  "09185": {
@@ -6146,7 +6609,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neuburg-Schrobenhausen (Landkreis)",
   "Population": 97303,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 15.45,
+  "Slope_Deaths_Last_Week_Percent": 4.2,
   "Slope_Deaths_New_Per_Million": 1.58
  },
  "09186": {
@@ -6172,7 +6637,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Pfaffenhofen a.d. Ilm (Landkreis)",
   "Population": 128227,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 68.44,
+  "Slope_Deaths_Last_Week_Percent": -4.6,
   "Slope_Deaths_New_Per_Million": -5.45
  },
  "09187": {
@@ -6198,7 +6665,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rosenheim (Landkreis)",
   "Population": 261330,
+  "Slope_Cases_Last_Week_Percent": 2.6,
   "Slope_Cases_New_Per_Million": 50.83,
+  "Slope_Deaths_Last_Week_Percent": 3.3,
   "Slope_Deaths_New_Per_Million": 1.56
  },
  "09188": {
@@ -6224,7 +6693,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Starnberg (Landkreis)",
   "Population": 136667,
+  "Slope_Cases_Last_Week_Percent": 4.5,
   "Slope_Cases_New_Per_Million": 74.64,
+  "Slope_Deaths_Last_Week_Percent": 0.7,
   "Slope_Deaths_New_Per_Million": -0.21
  },
  "09189": {
@@ -6249,7 +6720,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Traunstein (Landkreis)",
   "Population": 177319,
+  "Slope_Cases_Last_Week_Percent": -1.6,
   "Slope_Cases_New_Per_Million": -38.2,
+  "Slope_Deaths_Last_Week_Percent": -3.5,
   "Slope_Deaths_New_Per_Million": -1.59
  },
  "09190": {
@@ -6275,7 +6748,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Weilheim-Schongau (Landkreis)",
   "Population": 135478,
+  "Slope_Cases_Last_Week_Percent": 2.6,
   "Slope_Cases_New_Per_Million": 41.01,
+  "Slope_Deaths_Last_Week_Percent": -2.1,
   "Slope_Deaths_New_Per_Million": -0.88
  },
  "09261": {
@@ -6300,7 +6775,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Landshut (Kreisfreie Stadt)",
   "Population": 73411,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -5.11,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -7.1
  },
  "09262": {
@@ -6325,7 +6802,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Passau (Kreisfreie Stadt)",
   "Population": 52803,
+  "Slope_Cases_Last_Week_Percent": -3.8,
   "Slope_Cases_New_Per_Million": -110.95,
+  "Slope_Deaths_Last_Week_Percent": 0.1,
   "Slope_Deaths_New_Per_Million": 1.75
  },
  "09263": {
@@ -6350,7 +6829,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Straubing (Kreisfreie Stadt)",
   "Population": 47791,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 56.59,
+  "Slope_Deaths_Last_Week_Percent": -7.9,
   "Slope_Deaths_New_Per_Million": -4.74
  },
  "09271": {
@@ -6376,7 +6857,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Deggendorf (Landkreis)",
   "Population": 119478,
+  "Slope_Cases_Last_Week_Percent": 5.0,
   "Slope_Cases_New_Per_Million": 118.89,
+  "Slope_Deaths_Last_Week_Percent": 5.4,
   "Slope_Deaths_New_Per_Million": 1.58
  },
  "09272": {
@@ -6401,7 +6884,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Freyung-Grafenau (Landkreis)",
   "Population": 78362,
+  "Slope_Cases_Last_Week_Percent": -0.8,
   "Slope_Cases_New_Per_Million": -27.99,
+  "Slope_Deaths_Last_Week_Percent": -6.4,
   "Slope_Deaths_New_Per_Million": -9.06
  },
  "09273": {
@@ -6427,7 +6912,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kelheim (Landkreis)",
   "Population": 123058,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 28.8,
+  "Slope_Deaths_Last_Week_Percent": 7.6,
   "Slope_Deaths_New_Per_Million": 0.61
  },
  "09274": {
@@ -6452,7 +6939,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Landshut (Landkreis)",
   "Population": 159895,
+  "Slope_Cases_Last_Week_Percent": -1.7,
   "Slope_Cases_New_Per_Million": -36.77,
+  "Slope_Deaths_Last_Week_Percent": -9.5,
   "Slope_Deaths_New_Per_Million": -2.08
  },
  "09275": {
@@ -6477,7 +6966,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Passau (Landkreis)",
   "Population": 192656,
+  "Slope_Cases_Last_Week_Percent": 0.5,
   "Slope_Cases_New_Per_Million": 18.33,
+  "Slope_Deaths_Last_Week_Percent": -7.4,
   "Slope_Deaths_New_Per_Million": -2.6
  },
  "09276": {
@@ -6502,7 +6993,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Regen (Landkreis)",
   "Population": 77410,
+  "Slope_Cases_Last_Week_Percent": 0.9,
   "Slope_Cases_New_Per_Million": 51.95,
+  "Slope_Deaths_Last_Week_Percent": -3.2,
   "Slope_Deaths_New_Per_Million": -9.62
  },
  "09277": {
@@ -6528,7 +7021,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rottal-Inn (Landkreis)",
   "Population": 121502,
+  "Slope_Cases_Last_Week_Percent": 6.3,
   "Slope_Cases_New_Per_Million": 116.02,
+  "Slope_Deaths_Last_Week_Percent": 1.8,
   "Slope_Deaths_New_Per_Million": -0.45
  },
  "09278": {
@@ -6554,7 +7049,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Straubing-Bogen (Landkreis)",
   "Population": 101120,
+  "Slope_Cases_Last_Week_Percent": 1.1,
   "Slope_Cases_New_Per_Million": 20.15,
+  "Slope_Deaths_Last_Week_Percent": -10.5,
   "Slope_Deaths_New_Per_Million": -1.57
  },
  "09279": {
@@ -6579,7 +7076,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Dingolfing-Landau (Landkreis)",
   "Population": 96683,
+  "Slope_Cases_Last_Week_Percent": 1.1,
   "Slope_Cases_New_Per_Million": 19.75,
+  "Slope_Deaths_Last_Week_Percent": -7.3,
   "Slope_Deaths_New_Per_Million": -5.59
  },
  "09361": {
@@ -6604,7 +7103,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Amberg (Kreisfreie Stadt)",
   "Population": 42207,
+  "Slope_Cases_Last_Week_Percent": 2.9,
   "Slope_Cases_New_Per_Million": 29.55,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.62
  },
  "09362": {
@@ -6629,7 +7130,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Regensburg (Kreisfreie Stadt)",
   "Population": 153094,
+  "Slope_Cases_Last_Week_Percent": -0.8,
   "Slope_Cases_New_Per_Million": -13.15,
+  "Slope_Deaths_Last_Week_Percent": -11.8,
   "Slope_Deaths_New_Per_Million": -1.49
  },
  "09363": {
@@ -6655,7 +7158,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Weiden i.d. OPf. (Kreisfreie Stadt)",
   "Population": 42743,
+  "Slope_Cases_Last_Week_Percent": 6.9,
   "Slope_Cases_New_Per_Million": 142.89,
+  "Slope_Deaths_Last_Week_Percent": -1.2,
   "Slope_Deaths_New_Per_Million": -1.08
  },
  "09371": {
@@ -6681,7 +7186,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Amberg-Sulzbach (Landkreis)",
   "Population": 103049,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 51.96,
+  "Slope_Deaths_Last_Week_Percent": 0.1,
   "Slope_Deaths_New_Per_Million": -0.51
  },
  "09372": {
@@ -6707,7 +7214,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Cham (Landkreis)",
   "Population": 127998,
+  "Slope_Cases_Last_Week_Percent": 4.3,
   "Slope_Cases_New_Per_Million": 57.14,
+  "Slope_Deaths_Last_Week_Percent": -2.9,
   "Slope_Deaths_New_Per_Million": -1.82
  },
  "09373": {
@@ -6732,7 +7241,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neumarkt i.d. OPf. (Landkreis)",
   "Population": 134573,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -4.31,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -3.09
  },
  "09374": {
@@ -6756,7 +7267,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neustadt a.d. Waldnaab (Landkreis)",
   "Population": 94450,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 91.85,
+  "Slope_Deaths_Last_Week_Percent": 1.5,
   "Slope_Deaths_New_Per_Million": -0.28
  },
  "09375": {
@@ -6781,7 +7294,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Regensburg (Landkreis)",
   "Population": 194070,
+  "Slope_Cases_Last_Week_Percent": -0.3,
   "Slope_Cases_New_Per_Million": -3.55,
+  "Slope_Deaths_Last_Week_Percent": -2.3,
   "Slope_Deaths_New_Per_Million": -0.39
  },
  "09376": {
@@ -6806,7 +7321,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schwandorf (Landkreis)",
   "Population": 147872,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 4.49,
+  "Slope_Deaths_Last_Week_Percent": 3.3,
   "Slope_Deaths_New_Per_Million": 0.88
  },
  "09377": {
@@ -6832,7 +7349,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Tirschenreuth (Landkreis)",
   "Population": 72046,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 59.42,
+  "Slope_Deaths_Last_Week_Percent": -4.5,
   "Slope_Deaths_New_Per_Million": -5.55
  },
  "09461": {
@@ -6858,7 +7377,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bamberg (Kreisfreie Stadt)",
   "Population": 77373,
+  "Slope_Cases_Last_Week_Percent": 4.3,
   "Slope_Cases_New_Per_Million": 86.76,
+  "Slope_Deaths_Last_Week_Percent": -5.0,
   "Slope_Deaths_New_Per_Million": -4.12
  },
  "09462": {
@@ -6884,7 +7405,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Bayreuth (Kreisfreie Stadt)",
   "Population": 74783,
+  "Slope_Cases_Last_Week_Percent": 4.7,
   "Slope_Cases_New_Per_Million": 73.67,
+  "Slope_Deaths_Last_Week_Percent": -3.7,
   "Slope_Deaths_New_Per_Million": -5.11
  },
  "09463": {
@@ -6910,7 +7433,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Coburg (Kreisfreie Stadt)",
   "Population": 41072,
+  "Slope_Cases_Last_Week_Percent": 4.4,
   "Slope_Cases_New_Per_Million": 111.52,
+  "Slope_Deaths_Last_Week_Percent": -13.4,
   "Slope_Deaths_New_Per_Million": -4.87
  },
  "09464": {
@@ -6935,7 +7460,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Hof (Kreisfreie Stadt)",
   "Population": 45825,
+  "Slope_Cases_Last_Week_Percent": 0.5,
   "Slope_Cases_New_Per_Million": 20.28,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -2.54
  },
  "09471": {
@@ -6961,7 +7488,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bamberg (Landkreis)",
   "Population": 147163,
+  "Slope_Cases_Last_Week_Percent": 5.3,
   "Slope_Cases_New_Per_Million": 68.43,
+  "Slope_Deaths_Last_Week_Percent": -5.6,
   "Slope_Deaths_New_Per_Million": -0.81
  },
  "09472": {
@@ -6987,7 +7516,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bayreuth (Landkreis)",
   "Population": 103664,
+  "Slope_Cases_Last_Week_Percent": 7.2,
   "Slope_Cases_New_Per_Million": 111.55,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -0.91
  },
  "09473": {
@@ -7011,7 +7542,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Coburg (Landkreis)",
   "Population": 86747,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 65.76,
+  "Slope_Deaths_Last_Week_Percent": -2.5,
   "Slope_Deaths_New_Per_Million": -3.55
  },
  "09474": {
@@ -7037,7 +7570,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Forchheim (Landkreis)",
   "Population": 116203,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 78.5,
+  "Slope_Deaths_Last_Week_Percent": -4.7,
   "Slope_Deaths_New_Per_Million": -2.27
  },
  "09475": {
@@ -7063,7 +7598,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hof (Landkreis)",
   "Population": 94801,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 61.73,
+  "Slope_Deaths_Last_Week_Percent": -7.4,
   "Slope_Deaths_New_Per_Million": -5.63
  },
  "09476": {
@@ -7089,7 +7626,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kronach (Landkreis)",
   "Population": 66743,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 45.48,
+  "Slope_Deaths_Last_Week_Percent": 5.2,
   "Slope_Deaths_New_Per_Million": 0.53
  },
  "09477": {
@@ -7114,7 +7653,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kulmbach (Landkreis)",
   "Population": 71566,
+  "Slope_Cases_Last_Week_Percent": 0.4,
   "Slope_Cases_New_Per_Million": 5.69,
+  "Slope_Deaths_Last_Week_Percent": -13.3,
   "Slope_Deaths_New_Per_Million": -2.7
  },
  "09478": {
@@ -7139,7 +7680,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lichtenfels (Landkreis)",
   "Population": 66776,
+  "Slope_Cases_Last_Week_Percent": 1.0,
   "Slope_Cases_New_Per_Million": 16.19,
+  "Slope_Deaths_Last_Week_Percent": -0.8,
   "Slope_Deaths_New_Per_Million": -0.33
  },
  "09479": {
@@ -7164,7 +7707,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wunsiedel i. Fichtelgebirge (Landkreis)",
   "Population": 72655,
+  "Slope_Cases_Last_Week_Percent": -4.9,
   "Slope_Cases_New_Per_Million": -85.09,
+  "Slope_Deaths_Last_Week_Percent": -15.0,
   "Slope_Deaths_New_Per_Million": -4.2
  },
  "09561": {
@@ -7189,6 +7734,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Ansbach (Kreisfreie Stadt)",
   "Population": 41798,
+  "Slope_Cases_Last_Week_Percent": 0.9,
   "Slope_Cases_New_Per_Million": 10.05,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -7215,7 +7761,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Erlangen (Kreisfreie Stadt)",
   "Population": 112528,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 43.05,
+  "Slope_Deaths_Last_Week_Percent": -6.4,
   "Slope_Deaths_New_Per_Million": -4.51
  },
  "09563": {
@@ -7240,7 +7788,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Fürth (Kreisfreie Stadt)",
   "Population": 128497,
+  "Slope_Cases_Last_Week_Percent": -0.8,
   "Slope_Cases_New_Per_Million": -20.87,
+  "Slope_Deaths_Last_Week_Percent": -2.7,
   "Slope_Deaths_New_Per_Million": -0.72
  },
  "09564": {
@@ -7265,7 +7815,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Nürnberg (Kreisfreie Stadt)",
   "Population": 518370,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 25.47,
+  "Slope_Deaths_Last_Week_Percent": -11.0,
   "Slope_Deaths_New_Per_Million": -3.78
  },
  "09565": {
@@ -7291,7 +7843,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Schwabach (Kreisfreie Stadt)",
   "Population": 40981,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 115.37,
+  "Slope_Deaths_Last_Week_Percent": 0.5,
   "Slope_Deaths_New_Per_Million": -0.48
  },
  "09571": {
@@ -7316,7 +7870,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ansbach (Landkreis)",
   "Population": 184591,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 3.22,
+  "Slope_Deaths_Last_Week_Percent": -5.8,
   "Slope_Deaths_New_Per_Million": -1.32
  },
  "09572": {
@@ -7341,7 +7897,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Erlangen-Höchstadt (Landkreis)",
   "Population": 137262,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 12.79,
+  "Slope_Deaths_Last_Week_Percent": -7.7,
   "Slope_Deaths_New_Per_Million": -6.81
  },
  "09573": {
@@ -7365,7 +7923,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Fürth (Landkreis)",
   "Population": 117853,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 43.11,
+  "Slope_Deaths_Last_Week_Percent": -7.9,
   "Slope_Deaths_New_Per_Million": -4.05
  },
  "09574": {
@@ -7390,7 +7950,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Nürnberger Land (Landkreis)",
   "Population": 170792,
+  "Slope_Cases_Last_Week_Percent": 0.8,
   "Slope_Cases_New_Per_Million": 19.27,
+  "Slope_Deaths_Last_Week_Percent": -2.2,
   "Slope_Deaths_New_Per_Million": -2.17
  },
  "09575": {
@@ -7415,7 +7977,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neustadt a.d. Aisch-Bad Windsheim (Landkreis)",
   "Population": 101014,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -6.42,
+  "Slope_Deaths_Last_Week_Percent": -3.8,
   "Slope_Deaths_New_Per_Million": -2.94
  },
  "09576": {
@@ -7441,7 +8005,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Roth (Landkreis)",
   "Population": 126749,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 51.95,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -1.18
  },
  "09577": {
@@ -7467,7 +8033,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Weißenburg-Gunzenhausen (Landkreis)",
   "Population": 94734,
+  "Slope_Cases_Last_Week_Percent": 3.6,
   "Slope_Cases_New_Per_Million": 77.17,
+  "Slope_Deaths_Last_Week_Percent": 7.9,
   "Slope_Deaths_New_Per_Million": 2.23
  },
  "09661": {
@@ -7493,7 +8061,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Aschaffenburg (Kreisfreie Stadt)",
   "Population": 71002,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 67.79,
+  "Slope_Deaths_Last_Week_Percent": 5.5,
   "Slope_Deaths_New_Per_Million": 5.26
  },
  "09662": {
@@ -7518,7 +8088,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Schweinfurt (Kreisfreie Stadt)",
   "Population": 53426,
+  "Slope_Cases_Last_Week_Percent": -0.3,
   "Slope_Cases_New_Per_Million": -4.67,
+  "Slope_Deaths_Last_Week_Percent": -8.5,
   "Slope_Deaths_New_Per_Million": -1.11
  },
  "09663": {
@@ -7544,7 +8116,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Würzburg (Kreisfreie Stadt)",
   "Population": 127934,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 28.21,
+  "Slope_Deaths_Last_Week_Percent": -12.2,
   "Slope_Deaths_New_Per_Million": -0.77
  },
  "09671": {
@@ -7570,7 +8144,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Aschaffenburg (Landkreis)",
   "Population": 174200,
+  "Slope_Cases_Last_Week_Percent": 3.3,
   "Slope_Cases_New_Per_Million": 62.43,
+  "Slope_Deaths_Last_Week_Percent": -0.8,
   "Slope_Deaths_New_Per_Million": -1.63
  },
  "09672": {
@@ -7596,7 +8172,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bad Kissingen (Landkreis)",
   "Population": 103235,
+  "Slope_Cases_Last_Week_Percent": 2.4,
   "Slope_Cases_New_Per_Million": 40.0,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.3
  },
  "09673": {
@@ -7621,7 +8199,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rhön-Grabfeld (Landkreis)",
   "Population": 79635,
+  "Slope_Cases_Last_Week_Percent": -1.0,
   "Slope_Cases_New_Per_Million": -14.2,
+  "Slope_Deaths_Last_Week_Percent": -5.1,
   "Slope_Deaths_New_Per_Million": -0.58
  },
  "09674": {
@@ -7646,7 +8226,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Haßberge (Landkreis)",
   "Population": 84384,
+  "Slope_Cases_Last_Week_Percent": -2.4,
   "Slope_Cases_New_Per_Million": -41.02,
+  "Slope_Deaths_Last_Week_Percent": -10.6,
   "Slope_Deaths_New_Per_Million": -1.74
  },
  "09675": {
@@ -7672,7 +8254,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kitzingen (Landkreis)",
   "Population": 91155,
+  "Slope_Cases_Last_Week_Percent": 8.2,
   "Slope_Cases_New_Per_Million": 103.06,
+  "Slope_Deaths_Last_Week_Percent": -8.2,
   "Slope_Deaths_New_Per_Million": -1.16
  },
  "09676": {
@@ -7698,7 +8282,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Miltenberg (Landkreis)",
   "Population": 128743,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 19.11,
+  "Slope_Deaths_Last_Week_Percent": 4.4,
   "Slope_Deaths_New_Per_Million": 1.16
  },
  "09677": {
@@ -7723,7 +8309,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Main-Spessart (Landkreis)",
   "Population": 126158,
+  "Slope_Cases_Last_Week_Percent": -1.6,
   "Slope_Cases_New_Per_Million": -39.41,
+  "Slope_Deaths_Last_Week_Percent": -5.1,
   "Slope_Deaths_New_Per_Million": -8.38
  },
  "09678": {
@@ -7748,7 +8336,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schweinfurt (Landkreis)",
   "Population": 115445,
+  "Slope_Cases_Last_Week_Percent": -0.6,
   "Slope_Cases_New_Per_Million": -8.28,
+  "Slope_Deaths_Last_Week_Percent": -2.2,
   "Slope_Deaths_New_Per_Million": -1.5
  },
  "09679": {
@@ -7773,7 +8363,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Würzburg (Landkreis)",
   "Population": 162302,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -3.09,
+  "Slope_Deaths_Last_Week_Percent": -18.7,
   "Slope_Deaths_New_Per_Million": -0.32
  },
  "09761": {
@@ -7798,7 +8390,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Augsburg (Kreisfreie Stadt)",
   "Population": 296582,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 5.71,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -1.08
  },
  "09762": {
@@ -7823,7 +8417,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Kaufbeuren (Kreisfreie Stadt)",
   "Population": 44398,
+  "Slope_Cases_Last_Week_Percent": -1.5,
   "Slope_Cases_New_Per_Million": -34.03,
+  "Slope_Deaths_Last_Week_Percent": -2.3,
   "Slope_Deaths_New_Per_Million": -0.69
  },
  "09763": {
@@ -7849,7 +8445,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Kempten (Allgäu) (Kreisfreie Stadt)",
   "Population": 69151,
+  "Slope_Cases_Last_Week_Percent": 7.0,
   "Slope_Cases_New_Per_Million": 102.86,
+  "Slope_Deaths_Last_Week_Percent": 8.1,
   "Slope_Deaths_New_Per_Million": 0.67
  },
  "09764": {
@@ -7874,7 +8472,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Memmingen (Kreisfreie Stadt)",
   "Population": 44100,
+  "Slope_Cases_Last_Week_Percent": 3.5,
   "Slope_Cases_New_Per_Million": 45.52,
+  "Slope_Deaths_Last_Week_Percent": -10.6,
   "Slope_Deaths_New_Per_Million": -2.39
  },
  "09771": {
@@ -7899,7 +8499,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Aichach-Friedberg (Landkreis)",
   "Population": 134655,
+  "Slope_Cases_Last_Week_Percent": -1.5,
   "Slope_Cases_New_Per_Million": -19.2,
+  "Slope_Deaths_Last_Week_Percent": -3.0,
   "Slope_Deaths_New_Per_Million": -0.69
  },
  "09772": {
@@ -7924,7 +8526,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Augsburg (Landkreis)",
   "Population": 253468,
+  "Slope_Cases_Last_Week_Percent": -0.4,
   "Slope_Cases_New_Per_Million": -9.2,
+  "Slope_Deaths_Last_Week_Percent": -7.0,
   "Slope_Deaths_New_Per_Million": -4.46
  },
  "09773": {
@@ -7950,7 +8554,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Dillingen a.d. Donau (Landkreis)",
   "Population": 96562,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 20.84,
+  "Slope_Deaths_Last_Week_Percent": -5.7,
   "Slope_Deaths_New_Per_Million": -7.74
  },
  "09774": {
@@ -7975,7 +8581,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Günzburg (Landkreis)",
   "Population": 127027,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -5.68,
+  "Slope_Deaths_Last_Week_Percent": 2.7,
   "Slope_Deaths_New_Per_Million": 2.06
  },
  "09775": {
@@ -8001,7 +8609,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neu-Ulm (Landkreis)",
   "Population": 175204,
+  "Slope_Cases_Last_Week_Percent": 1.2,
   "Slope_Cases_New_Per_Million": 26.22,
+  "Slope_Deaths_Last_Week_Percent": -2.6,
   "Slope_Deaths_New_Per_Million": -1.34
  },
  "09776": {
@@ -8027,7 +8637,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Lindau (Bodensee) (Landkreis)",
   "Population": 81981,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 42.38,
+  "Slope_Deaths_Last_Week_Percent": -7.2,
   "Slope_Deaths_New_Per_Million": -12.01
  },
  "09777": {
@@ -8053,7 +8665,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ostallgäu (Landkreis)",
   "Population": 141182,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 64.82,
+  "Slope_Deaths_Last_Week_Percent": -4.3,
   "Slope_Deaths_New_Per_Million": -1.06
  },
  "09778": {
@@ -8079,7 +8693,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Unterallgäu (Landkreis)",
   "Population": 145341,
+  "Slope_Cases_Last_Week_Percent": 4.7,
   "Slope_Cases_New_Per_Million": 63.55,
+  "Slope_Deaths_Last_Week_Percent": 10.6,
   "Slope_Deaths_New_Per_Million": 0.41
  },
  "09779": {
@@ -8105,7 +8721,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Donau-Ries (Landkreis)",
   "Population": 133783,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 28.9,
+  "Slope_Deaths_Last_Week_Percent": 0.5,
   "Slope_Deaths_New_Per_Million": -0.31
  },
  "09780": {
@@ -8131,7 +8749,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Oberallgäu (Landkreis)",
   "Population": 156008,
+  "Slope_Cases_Last_Week_Percent": 3.9,
   "Slope_Cases_New_Per_Million": 59.82,
+  "Slope_Deaths_Last_Week_Percent": 10.2,
   "Slope_Deaths_New_Per_Million": 0.38
  },
  "10041": {
@@ -8157,7 +8777,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Regionalverband Saarbrücken (Landkreis)",
   "Population": 328714,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 44.5,
+  "Slope_Deaths_Last_Week_Percent": -2.4,
   "Slope_Deaths_New_Per_Million": -0.81
  },
  "10042": {
@@ -8183,7 +8805,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Merzig-Wadern (Landkreis)",
   "Population": 103243,
+  "Slope_Cases_Last_Week_Percent": 2.1,
   "Slope_Cases_New_Per_Million": 23.58,
+  "Slope_Deaths_Last_Week_Percent": 16.4,
   "Slope_Deaths_New_Per_Million": 0.85
  },
  "10043": {
@@ -8209,7 +8833,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Neunkirchen (Landkreis)",
   "Population": 131408,
+  "Slope_Cases_Last_Week_Percent": 4.4,
   "Slope_Cases_New_Per_Million": 62.73,
+  "Slope_Deaths_Last_Week_Percent": 9.1,
   "Slope_Deaths_New_Per_Million": 1.51
  },
  "10044": {
@@ -8235,7 +8861,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saarlouis (Landkreis)",
   "Population": 194319,
+  "Slope_Cases_Last_Week_Percent": 6.2,
   "Slope_Cases_New_Per_Million": 111.6,
+  "Slope_Deaths_Last_Week_Percent": 1.3,
   "Slope_Deaths_New_Per_Million": -0.67
  },
  "10045": {
@@ -8260,7 +8888,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saarpfalz-Kreis (Landkreis)",
   "Population": 142196,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -3.6,
+  "Slope_Deaths_Last_Week_Percent": -10.6,
   "Slope_Deaths_New_Per_Million": -1.16
  },
  "10046": {
@@ -8285,7 +8915,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "St. Wendel (Landkreis)",
   "Population": 87007,
+  "Slope_Cases_Last_Week_Percent": 0.2,
   "Slope_Cases_New_Per_Million": 3.81,
+  "Slope_Deaths_Last_Week_Percent": -7.0,
   "Slope_Deaths_New_Per_Million": -7.55
  },
  "11001": {
@@ -8310,7 +8942,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Mitte (Bezirk)",
   "Population": 375238,
+  "Slope_Cases_Last_Week_Percent": -0.2,
   "Slope_Cases_New_Per_Million": -4.26,
+  "Slope_Deaths_Last_Week_Percent": -4.3,
   "Slope_Deaths_New_Per_Million": -2.48
  },
  "11002": {
@@ -8335,7 +8969,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Friedrichshain-Kreuzberg (Bezirk)",
   "Population": 282059,
+  "Slope_Cases_Last_Week_Percent": -1.2,
   "Slope_Cases_New_Per_Million": -24.13,
+  "Slope_Deaths_Last_Week_Percent": -2.7,
   "Slope_Deaths_New_Per_Million": -0.65
  },
  "11003": {
@@ -8360,7 +8996,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Pankow (Bezirk)",
   "Population": 398036,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 11.2,
+  "Slope_Deaths_Last_Week_Percent": -7.8,
   "Slope_Deaths_New_Per_Million": -0.97
  },
  "11004": {
@@ -8385,7 +9023,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Charlottenburg-Wilmersdorf (Bezirk)",
   "Population": 334401,
+  "Slope_Cases_Last_Week_Percent": 0.3,
   "Slope_Cases_New_Per_Million": 4.24,
+  "Slope_Deaths_Last_Week_Percent": -3.4,
   "Slope_Deaths_New_Per_Million": -1.6
  },
  "11005": {
@@ -8410,7 +9050,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Spandau (Bezirk)",
   "Population": 239019,
+  "Slope_Cases_Last_Week_Percent": -2.6,
   "Slope_Cases_New_Per_Million": -68.07,
+  "Slope_Deaths_Last_Week_Percent": -10.3,
   "Slope_Deaths_New_Per_Million": -5.21
  },
  "11006": {
@@ -8435,7 +9077,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Steglitz-Zehlendorf (Bezirk)",
   "Population": 302177,
+  "Slope_Cases_Last_Week_Percent": 0.4,
   "Slope_Cases_New_Per_Million": 7.9,
+  "Slope_Deaths_Last_Week_Percent": 1.0,
   "Slope_Deaths_New_Per_Million": 0.45
  },
  "11007": {
@@ -8461,7 +9105,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Tempelhof-Schöneberg (Bezirk)",
   "Population": 341772,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 32.06,
+  "Slope_Deaths_Last_Week_Percent": -5.0,
   "Slope_Deaths_New_Per_Million": -3.53
  },
  "11008": {
@@ -8486,7 +9132,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Neukölln (Bezirk)",
   "Population": 321123,
+  "Slope_Cases_Last_Week_Percent": -0.5,
   "Slope_Cases_New_Per_Million": -12.52,
+  "Slope_Deaths_Last_Week_Percent": -6.3,
   "Slope_Deaths_New_Per_Million": -3.31
  },
  "11009": {
@@ -8512,7 +9160,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Treptow-Köpenick (Bezirk)",
   "Population": 266488,
+  "Slope_Cases_Last_Week_Percent": 1.4,
   "Slope_Cases_New_Per_Million": 26.26,
+  "Slope_Deaths_Last_Week_Percent": -3.0,
   "Slope_Deaths_New_Per_Million": -1.62
  },
  "11010": {
@@ -8538,7 +9188,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Marzahn-Hellersdorf (Bezirk)",
   "Population": 262967,
+  "Slope_Cases_Last_Week_Percent": 1.8,
   "Slope_Cases_New_Per_Million": 29.96,
+  "Slope_Deaths_Last_Week_Percent": 6.2,
   "Slope_Deaths_New_Per_Million": 0.89
  },
  "11011": {
@@ -8564,7 +9216,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Lichtenberg (Bezirk)",
   "Population": 286522,
+  "Slope_Cases_Last_Week_Percent": 1.2,
   "Slope_Cases_New_Per_Million": 19.19,
+  "Slope_Deaths_Last_Week_Percent": -4.2,
   "Slope_Deaths_New_Per_Million": -1.29
  },
  "11012": {
@@ -8590,7 +9244,9 @@
   "LK_Typ": "Bezirk",
   "Landkreis": "Berlin Reinickendorf (Bezirk)",
   "Population": 259689,
+  "Slope_Cases_Last_Week_Percent": 1.4,
   "Slope_Cases_New_Per_Million": 34.45,
+  "Slope_Deaths_Last_Week_Percent": -1.9,
   "Slope_Deaths_New_Per_Million": -1.44
  },
  "12051": {
@@ -8615,7 +9271,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Brandenburg an der Havel (Kreisfreie Stadt)",
   "Population": 72184,
+  "Slope_Cases_Last_Week_Percent": 0.7,
   "Slope_Cases_New_Per_Million": 5.98,
+  "Slope_Deaths_Last_Week_Percent": 0.4,
   "Slope_Deaths_New_Per_Million": -0.0
  },
  "12052": {
@@ -8640,7 +9298,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Cottbus (Kreisfreie Stadt)",
   "Population": 99678,
+  "Slope_Cases_Last_Week_Percent": -10.6,
   "Slope_Cases_New_Per_Million": -152.81,
+  "Slope_Deaths_Last_Week_Percent": -11.3,
   "Slope_Deaths_New_Per_Million": -8.09
  },
  "12053": {
@@ -8666,6 +9326,7 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Frankfurt (Oder) (Kreisfreie Stadt)",
   "Population": 57751,
+  "Slope_Cases_Last_Week_Percent": 2.7,
   "Slope_Cases_New_Per_Million": 54.1,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -8691,7 +9352,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Potsdam (Kreisfreie Stadt)",
   "Population": 180334,
+  "Slope_Cases_Last_Week_Percent": -6.4,
   "Slope_Cases_New_Per_Million": -56.05,
+  "Slope_Deaths_Last_Week_Percent": -9.1,
   "Slope_Deaths_New_Per_Million": -0.89
  },
  "12060": {
@@ -8717,7 +9380,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Barnim (Landkreis)",
   "Population": 185244,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 27.01,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.24
  },
  "12061": {
@@ -8743,7 +9408,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Dahme-Spreewald (Landkreis)",
   "Population": 170791,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 45.41,
+  "Slope_Deaths_Last_Week_Percent": 3.5,
   "Slope_Deaths_New_Per_Million": 0.72
  },
  "12062": {
@@ -8769,7 +9436,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Elbe-Elster (Landkreis)",
   "Population": 101827,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 164.92,
+  "Slope_Deaths_Last_Week_Percent": 1.8,
   "Slope_Deaths_New_Per_Million": -0.37
  },
  "12063": {
@@ -8794,7 +9463,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Havelland (Landkreis)",
   "Population": 162996,
+  "Slope_Cases_Last_Week_Percent": -0.0,
   "Slope_Cases_New_Per_Million": -0.21,
+  "Slope_Deaths_Last_Week_Percent": -1.5,
   "Slope_Deaths_New_Per_Million": -0.53
  },
  "12064": {
@@ -8820,7 +9491,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Märkisch-Oderland (Landkreis)",
   "Population": 195751,
+  "Slope_Cases_Last_Week_Percent": 1.7,
   "Slope_Cases_New_Per_Million": 31.74,
+  "Slope_Deaths_Last_Week_Percent": -0.3,
   "Slope_Deaths_New_Per_Million": -1.36
  },
  "12065": {
@@ -8846,7 +9519,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Oberhavel (Landkreis)",
   "Population": 212914,
+  "Slope_Cases_Last_Week_Percent": 6.5,
   "Slope_Cases_New_Per_Million": 70.49,
+  "Slope_Deaths_Last_Week_Percent": 7.2,
   "Slope_Deaths_New_Per_Million": 0.34
  },
  "12066": {
@@ -8872,7 +9547,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Oberspreewald-Lausitz (Landkreis)",
   "Population": 109371,
+  "Slope_Cases_Last_Week_Percent": 5.1,
   "Slope_Cases_New_Per_Million": 246.05,
+  "Slope_Deaths_Last_Week_Percent": 3.0,
   "Slope_Deaths_New_Per_Million": 0.9
  },
  "12067": {
@@ -8898,7 +9575,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Oder-Spree (Landkreis)",
   "Population": 178803,
+  "Slope_Cases_Last_Week_Percent": 4.3,
   "Slope_Cases_New_Per_Million": 69.22,
+  "Slope_Deaths_Last_Week_Percent": 8.6,
   "Slope_Deaths_New_Per_Million": 3.99
  },
  "12068": {
@@ -8924,7 +9603,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ostprignitz-Ruppin (Landkreis)",
   "Population": 98861,
+  "Slope_Cases_Last_Week_Percent": 5.3,
   "Slope_Cases_New_Per_Million": 72.05,
+  "Slope_Deaths_Last_Week_Percent": 1.1,
   "Slope_Deaths_New_Per_Million": -0.16
  },
  "12069": {
@@ -8950,7 +9631,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Potsdam-Mittelmark (Landkreis)",
   "Population": 216566,
+  "Slope_Cases_Last_Week_Percent": 8.9,
   "Slope_Cases_New_Per_Million": 124.22,
+  "Slope_Deaths_Last_Week_Percent": 2.8,
   "Slope_Deaths_New_Per_Million": -0.22
  },
  "12070": {
@@ -8976,7 +9659,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Prignitz (Landkreis)",
   "Population": 76158,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 64.47,
+  "Slope_Deaths_Last_Week_Percent": -2.5,
   "Slope_Deaths_New_Per_Million": -0.61
  },
  "12071": {
@@ -9001,7 +9686,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Spree-Neiße (Landkreis)",
   "Population": 113720,
+  "Slope_Cases_Last_Week_Percent": 0.9,
   "Slope_Cases_New_Per_Million": 30.0,
+  "Slope_Deaths_Last_Week_Percent": 1.8,
   "Slope_Deaths_New_Per_Million": 1.99
  },
  "12072": {
@@ -9026,6 +9713,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Teltow-Fläming (Landkreis)",
   "Population": 169997,
+  "Slope_Cases_Last_Week_Percent": -0.3,
   "Slope_Cases_New_Per_Million": -3.46,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -9051,7 +9739,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Uckermark (Landkreis)",
   "Population": 118947,
+  "Slope_Cases_Last_Week_Percent": -2.1,
   "Slope_Cases_New_Per_Million": -20.02,
+  "Slope_Deaths_Last_Week_Percent": 4.6,
   "Slope_Deaths_New_Per_Million": 2.03
  },
  "13003": {
@@ -9076,7 +9766,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Rostock (Kreisfreie Stadt)",
   "Population": 209191,
+  "Slope_Cases_Last_Week_Percent": 2.2,
   "Slope_Cases_New_Per_Million": 4.05,
+  "Slope_Deaths_Last_Week_Percent": -14.3,
   "Slope_Deaths_New_Per_Million": -0.42
  },
  "13004": {
@@ -9102,7 +9794,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Schwerin (Kreisfreie Stadt)",
   "Population": 95653,
+  "Slope_Cases_Last_Week_Percent": 6.7,
   "Slope_Cases_New_Per_Million": 81.98,
+  "Slope_Deaths_Last_Week_Percent": -10.3,
   "Slope_Deaths_New_Per_Million": -3.68
  },
  "13071": {
@@ -9128,7 +9822,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mecklenburgische Seenplatte (Landkreis)",
   "Population": 258074,
+  "Slope_Cases_Last_Week_Percent": 7.3,
   "Slope_Cases_New_Per_Million": 88.85,
+  "Slope_Deaths_Last_Week_Percent": -1.4,
   "Slope_Deaths_New_Per_Million": -0.83
  },
  "13072": {
@@ -9154,7 +9850,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Rostock (Landkreis)",
   "Population": 215794,
+  "Slope_Cases_Last_Week_Percent": 13.5,
   "Slope_Cases_New_Per_Million": 49.34,
+  "Slope_Deaths_Last_Week_Percent": -1.3,
   "Slope_Deaths_New_Per_Million": -0.91
  },
  "13073": {
@@ -9180,7 +9878,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vorpommern-Rügen (Landkreis)",
   "Population": 224702,
+  "Slope_Cases_Last_Week_Percent": 3.4,
   "Slope_Cases_New_Per_Million": 16.97,
+  "Slope_Deaths_Last_Week_Percent": -2.3,
   "Slope_Deaths_New_Per_Million": -0.25
  },
  "13074": {
@@ -9206,7 +9906,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Nordwestmecklenburg (Landkreis)",
   "Population": 157322,
+  "Slope_Cases_Last_Week_Percent": 5.2,
   "Slope_Cases_New_Per_Million": 49.81,
+  "Slope_Deaths_Last_Week_Percent": 2.6,
   "Slope_Deaths_New_Per_Million": 0.0
  },
  "13075": {
@@ -9232,7 +9934,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vorpommern-Greifswald (Landkreis)",
   "Population": 235623,
+  "Slope_Cases_Last_Week_Percent": 3.4,
   "Slope_Cases_New_Per_Million": 34.23,
+  "Slope_Deaths_Last_Week_Percent": -2.7,
   "Slope_Deaths_New_Per_Million": -0.4
  },
  "13076": {
@@ -9258,7 +9962,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ludwigslust-Parchim (Landkreis)",
   "Population": 211779,
+  "Slope_Cases_Last_Week_Percent": 4.4,
   "Slope_Cases_New_Per_Million": 44.63,
+  "Slope_Deaths_Last_Week_Percent": -2.6,
   "Slope_Deaths_New_Per_Million": -1.81
  },
  "14511": {
@@ -9284,7 +9990,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Chemnitz (Kreisfreie Stadt)",
   "Population": 246334,
+  "Slope_Cases_Last_Week_Percent": 1.4,
   "Slope_Cases_New_Per_Million": 49.93,
+  "Slope_Deaths_Last_Week_Percent": -3.2,
   "Slope_Deaths_New_Per_Million": -2.48
  },
  "14521": {
@@ -9310,7 +10018,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Erzgebirgskreis (Landkreis)",
   "Population": 334948,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 103.44,
+  "Slope_Deaths_Last_Week_Percent": -0.1,
   "Slope_Deaths_New_Per_Million": -1.04
  },
  "14522": {
@@ -9336,7 +10046,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mittelsachsen (Landkreis)",
   "Population": 304099,
+  "Slope_Cases_Last_Week_Percent": 3.8,
   "Slope_Cases_New_Per_Million": 168.94,
+  "Slope_Deaths_Last_Week_Percent": -6.4,
   "Slope_Deaths_New_Per_Million": -0.39
  },
  "14523": {
@@ -9361,7 +10073,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Vogtlandkreis (Landkreis)",
   "Population": 225997,
+  "Slope_Cases_Last_Week_Percent": -1.1,
   "Slope_Cases_New_Per_Million": -24.33,
+  "Slope_Deaths_Last_Week_Percent": -9.4,
   "Slope_Deaths_New_Per_Million": -8.19
  },
  "14524": {
@@ -9387,7 +10101,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Zwickau (Landkreis)",
   "Population": 315002,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 137.29,
+  "Slope_Deaths_Last_Week_Percent": -7.4,
   "Slope_Deaths_New_Per_Million": -5.04
  },
  "14612": {
@@ -9413,7 +10129,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Dresden (Kreisfreie Stadt)",
   "Population": 556780,
+  "Slope_Cases_Last_Week_Percent": 2.8,
   "Slope_Cases_New_Per_Million": 100.62,
+  "Slope_Deaths_Last_Week_Percent": -5.0,
   "Slope_Deaths_New_Per_Million": -3.34
  },
  "14625": {
@@ -9439,7 +10157,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Bautzen (Landkreis)",
   "Population": 299758,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 179.59,
+  "Slope_Deaths_Last_Week_Percent": -1.0,
   "Slope_Deaths_New_Per_Million": -4.25
  },
  "14626": {
@@ -9465,7 +10185,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Görlitz (Landkreis)",
   "Population": 252725,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 180.57,
+  "Slope_Deaths_Last_Week_Percent": -4.8,
   "Slope_Deaths_New_Per_Million": -7.42
  },
  "14627": {
@@ -9491,7 +10213,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Meißen (Landkreis)",
   "Population": 241717,
+  "Slope_Cases_Last_Week_Percent": 3.2,
   "Slope_Cases_New_Per_Million": 160.4,
+  "Slope_Deaths_Last_Week_Percent": 0.1,
   "Slope_Deaths_New_Per_Million": -5.11
  },
  "14628": {
@@ -9517,7 +10241,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Sächsische Schweiz-Osterzgebirge (Landkreis)",
   "Population": 245586,
+  "Slope_Cases_Last_Week_Percent": 1.8,
   "Slope_Cases_New_Per_Million": 103.27,
+  "Slope_Deaths_Last_Week_Percent": -5.8,
   "Slope_Deaths_New_Per_Million": -16.79
  },
  "14713": {
@@ -9543,7 +10269,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Leipzig (Kreisfreie Stadt)",
   "Population": 593145,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 49.88,
+  "Slope_Deaths_Last_Week_Percent": -7.4,
   "Slope_Deaths_New_Per_Million": -0.87
  },
  "14729": {
@@ -9569,7 +10297,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Leipzig (Landkreis)",
   "Population": 258139,
+  "Slope_Cases_Last_Week_Percent": 4.1,
   "Slope_Cases_New_Per_Million": 111.81,
+  "Slope_Deaths_Last_Week_Percent": -1.9,
   "Slope_Deaths_New_Per_Million": -0.98
  },
  "14730": {
@@ -9595,7 +10325,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Nordsachsen (Landkreis)",
   "Population": 197741,
+  "Slope_Cases_Last_Week_Percent": 3.0,
   "Slope_Cases_New_Per_Million": 114.6,
+  "Slope_Deaths_Last_Week_Percent": -2.5,
   "Slope_Deaths_New_Per_Million": -3.05
  },
  "15001": {
@@ -9621,7 +10353,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Dessau-Roßlau (Kreisfreie Stadt)",
   "Population": 80103,
+  "Slope_Cases_Last_Week_Percent": 2.3,
   "Slope_Cases_New_Per_Million": 38.96,
+  "Slope_Deaths_Last_Week_Percent": -8.2,
   "Slope_Deaths_New_Per_Million": -4.99
  },
  "15002": {
@@ -9646,7 +10380,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Halle (Saale) (Kreisfreie Stadt)",
   "Population": 238762,
+  "Slope_Cases_Last_Week_Percent": -0.1,
   "Slope_Cases_New_Per_Million": -1.35,
+  "Slope_Deaths_Last_Week_Percent": -3.0,
   "Slope_Deaths_New_Per_Million": -1.03
  },
  "15003": {
@@ -9672,7 +10408,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Magdeburg (Kreisfreie Stadt)",
   "Population": 237565,
+  "Slope_Cases_Last_Week_Percent": 2.6,
   "Slope_Cases_New_Per_Million": 22.1,
+  "Slope_Deaths_Last_Week_Percent": -7.1,
   "Slope_Deaths_New_Per_Million": -1.52
  },
  "15081": {
@@ -9697,7 +10435,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Altmarkkreis Salzwedel (Landkreis)",
   "Population": 83173,
+  "Slope_Cases_Last_Week_Percent": 5.0,
   "Slope_Cases_New_Per_Million": 43.16,
+  "Slope_Deaths_Last_Week_Percent": -1.7,
   "Slope_Deaths_New_Per_Million": -3.2
  },
  "15082": {
@@ -9723,7 +10463,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Anhalt-Bitterfeld (Landkreis)",
   "Population": 158486,
+  "Slope_Cases_Last_Week_Percent": 7.5,
   "Slope_Cases_New_Per_Million": 99.88,
+  "Slope_Deaths_Last_Week_Percent": 9.9,
   "Slope_Deaths_New_Per_Million": 0.78
  },
  "15083": {
@@ -9749,7 +10491,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Börde (Landkreis)",
   "Population": 170923,
+  "Slope_Cases_Last_Week_Percent": 4.3,
   "Slope_Cases_New_Per_Million": 56.69,
+  "Slope_Deaths_Last_Week_Percent": 0.5,
   "Slope_Deaths_New_Per_Million": -0.48
  },
  "15084": {
@@ -9774,7 +10518,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Burgenlandkreis (Landkreis)",
   "Population": 178846,
+  "Slope_Cases_Last_Week_Percent": -1.7,
   "Slope_Cases_New_Per_Million": -45.29,
+  "Slope_Deaths_Last_Week_Percent": 1.4,
   "Slope_Deaths_New_Per_Million": 1.39
  },
  "15085": {
@@ -9800,7 +10546,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Harz (Landkreis)",
   "Population": 213310,
+  "Slope_Cases_Last_Week_Percent": 2.5,
   "Slope_Cases_New_Per_Million": 38.81,
+  "Slope_Deaths_Last_Week_Percent": -2.1,
   "Slope_Deaths_New_Per_Million": -1.82
  },
  "15086": {
@@ -9826,7 +10574,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Jerichower Land (Landkreis)",
   "Population": 89589,
+  "Slope_Cases_Last_Week_Percent": 1.3,
   "Slope_Cases_New_Per_Million": 15.44,
+  "Slope_Deaths_Last_Week_Percent": -4.7,
   "Slope_Deaths_New_Per_Million": -3.51
  },
  "15087": {
@@ -9852,7 +10602,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Mansfeld-Südharz (Landkreis)",
   "Population": 134942,
+  "Slope_Cases_Last_Week_Percent": 4.6,
   "Slope_Cases_New_Per_Million": 73.52,
+  "Slope_Deaths_Last_Week_Percent": -1.8,
   "Slope_Deaths_New_Per_Million": -2.18
  },
  "15088": {
@@ -9878,7 +10630,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saalekreis (Landkreis)",
   "Population": 183815,
+  "Slope_Cases_Last_Week_Percent": 4.7,
   "Slope_Cases_New_Per_Million": 90.58,
+  "Slope_Deaths_Last_Week_Percent": 3.8,
   "Slope_Deaths_New_Per_Million": 1.23
  },
  "15089": {
@@ -9904,7 +10658,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Salzlandkreis (Landkreis)",
   "Population": 189125,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 25.56,
+  "Slope_Deaths_Last_Week_Percent": -3.4,
   "Slope_Deaths_New_Per_Million": -2.72
  },
  "15090": {
@@ -9930,7 +10686,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Stendal (Landkreis)",
   "Population": 111190,
+  "Slope_Cases_Last_Week_Percent": 4.2,
   "Slope_Cases_New_Per_Million": 74.3,
+  "Slope_Deaths_Last_Week_Percent": 0.2,
   "Slope_Deaths_New_Per_Million": -2.43
  },
  "15091": {
@@ -9956,7 +10714,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wittenberg (Landkreis)",
   "Population": 124953,
+  "Slope_Cases_Last_Week_Percent": 4.9,
   "Slope_Cases_New_Per_Million": 104.83,
+  "Slope_Deaths_Last_Week_Percent": -5.7,
   "Slope_Deaths_New_Per_Million": -7.25
  },
  "16051": {
@@ -9982,7 +10742,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Erfurt (Kreisfreie Stadt)",
   "Population": 213981,
+  "Slope_Cases_Last_Week_Percent": 1.4,
   "Slope_Cases_New_Per_Million": 20.93,
+  "Slope_Deaths_Last_Week_Percent": -4.6,
   "Slope_Deaths_New_Per_Million": -2.66
  },
  "16052": {
@@ -10008,7 +10770,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Gera (Kreisfreie Stadt)",
   "Population": 93125,
+  "Slope_Cases_Last_Week_Percent": 7.9,
   "Slope_Cases_New_Per_Million": 231.24,
+  "Slope_Deaths_Last_Week_Percent": 3.4,
   "Slope_Deaths_New_Per_Million": -1.44
  },
  "16053": {
@@ -10034,7 +10798,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Jena (Kreisfreie Stadt)",
   "Population": 111343,
+  "Slope_Cases_Last_Week_Percent": 5.4,
   "Slope_Cases_New_Per_Million": 97.6,
+  "Slope_Deaths_Last_Week_Percent": -1.1,
   "Slope_Deaths_New_Per_Million": -1.38
  },
  "16054": {
@@ -10060,7 +10826,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Suhl (Kreisfreie Stadt)",
   "Population": 36789,
+  "Slope_Cases_Last_Week_Percent": 3.7,
   "Slope_Cases_New_Per_Million": 122.45,
+  "Slope_Deaths_Last_Week_Percent": -7.9,
   "Slope_Deaths_New_Per_Million": -15.47
  },
  "16055": {
@@ -10086,7 +10854,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Weimar (Kreisfreie Stadt)",
   "Population": 65228,
+  "Slope_Cases_Last_Week_Percent": 9.5,
   "Slope_Cases_New_Per_Million": 121.12,
+  "Slope_Deaths_Last_Week_Percent": 15.5,
   "Slope_Deaths_New_Per_Million": 3.3
  },
  "16056": {
@@ -10112,7 +10882,9 @@
   "LK_Typ": "Kreisfreie Stadt",
   "Landkreis": "Eisenach (Kreisfreie Stadt)",
   "Population": 42250,
+  "Slope_Cases_Last_Week_Percent": 12.7,
   "Slope_Cases_New_Per_Million": 149.57,
+  "Slope_Deaths_Last_Week_Percent": 26.4,
   "Slope_Deaths_New_Per_Million": 0.68
  },
  "16061": {
@@ -10138,7 +10910,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Eichsfeld (Landkreis)",
   "Population": 100006,
+  "Slope_Cases_Last_Week_Percent": 6.5,
   "Slope_Cases_New_Per_Million": 143.89,
+  "Slope_Deaths_Last_Week_Percent": 0.9,
   "Slope_Deaths_New_Per_Million": -2.22
  },
  "16062": {
@@ -10163,7 +10937,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Nordhausen (Landkreis)",
   "Population": 83416,
+  "Slope_Cases_Last_Week_Percent": 0.6,
   "Slope_Cases_New_Per_Million": 5.04,
+  "Slope_Deaths_Last_Week_Percent": -15.1,
   "Slope_Deaths_New_Per_Million": -1.05
  },
  "16063": {
@@ -10189,7 +10965,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Wartburgkreis (Landkreis)",
   "Population": 118974,
+  "Slope_Cases_Last_Week_Percent": 8.0,
   "Slope_Cases_New_Per_Million": 216.95,
+  "Slope_Deaths_Last_Week_Percent": 5.1,
   "Slope_Deaths_New_Per_Million": 0.41
  },
  "16064": {
@@ -10215,7 +10993,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Unstrut-Hainich-Kreis (Landkreis)",
   "Population": 102232,
+  "Slope_Cases_Last_Week_Percent": 7.0,
   "Slope_Cases_New_Per_Million": 228.14,
+  "Slope_Deaths_Last_Week_Percent": 6.1,
   "Slope_Deaths_New_Per_Million": 1.4
  },
  "16065": {
@@ -10241,7 +11021,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Kyffhäuserkreis (Landkreis)",
   "Population": 74212,
+  "Slope_Cases_Last_Week_Percent": 1.9,
   "Slope_Cases_New_Per_Million": 41.39,
+  "Slope_Deaths_Last_Week_Percent": -5.9,
   "Slope_Deaths_New_Per_Million": -4.74
  },
  "16066": {
@@ -10267,7 +11049,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Schmalkalden-Meiningen (Landkreis)",
   "Population": 124916,
+  "Slope_Cases_Last_Week_Percent": 5.7,
   "Slope_Cases_New_Per_Million": 137.0,
+  "Slope_Deaths_Last_Week_Percent": 3.1,
   "Slope_Deaths_New_Per_Million": 0.19
  },
  "16067": {
@@ -10293,7 +11077,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Gotha (Landkreis)",
   "Population": 134908,
+  "Slope_Cases_Last_Week_Percent": 6.0,
   "Slope_Cases_New_Per_Million": 77.13,
+  "Slope_Deaths_Last_Week_Percent": 4.7,
   "Slope_Deaths_New_Per_Million": 0.36
  },
  "16068": {
@@ -10319,7 +11105,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Sömmerda (Landkreis)",
   "Population": 69427,
+  "Slope_Cases_Last_Week_Percent": 1.5,
   "Slope_Cases_New_Per_Million": 24.04,
+  "Slope_Deaths_Last_Week_Percent": 7.7,
   "Slope_Deaths_New_Per_Million": 2.6
  },
  "16069": {
@@ -10344,7 +11132,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Hildburghausen (Landkreis)",
   "Population": 63197,
+  "Slope_Cases_Last_Week_Percent": -0.5,
   "Slope_Cases_New_Per_Million": -23.11,
+  "Slope_Deaths_Last_Week_Percent": -0.4,
   "Slope_Deaths_New_Per_Million": -0.1
  },
  "16070": {
@@ -10370,7 +11160,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Ilm-Kreis (Landkreis)",
   "Population": 106249,
+  "Slope_Cases_Last_Week_Percent": 6.7,
   "Slope_Cases_New_Per_Million": 142.88,
+  "Slope_Deaths_Last_Week_Percent": -2.9,
   "Slope_Deaths_New_Per_Million": -6.35
  },
  "16071": {
@@ -10396,6 +11188,7 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Weimarer Land (Landkreis)",
   "Population": 82156,
+  "Slope_Cases_Last_Week_Percent": 5.5,
   "Slope_Cases_New_Per_Million": 54.91,
   "Slope_Deaths_New_Per_Million": 0.0
  },
@@ -10422,7 +11215,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Sonneberg (Landkreis)",
   "Population": 57717,
+  "Slope_Cases_Last_Week_Percent": 2.0,
   "Slope_Cases_New_Per_Million": 80.91,
+  "Slope_Deaths_Last_Week_Percent": 4.2,
   "Slope_Deaths_New_Per_Million": 3.66
  },
  "16073": {
@@ -10448,7 +11243,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saalfeld-Rudolstadt (Landkreis)",
   "Population": 103199,
+  "Slope_Cases_Last_Week_Percent": 3.1,
   "Slope_Cases_New_Per_Million": 100.74,
+  "Slope_Deaths_Last_Week_Percent": -1.2,
   "Slope_Deaths_New_Per_Million": -4.03
  },
  "16074": {
@@ -10474,7 +11271,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saale-Holzland-Kreis (Landkreis)",
   "Population": 82950,
+  "Slope_Cases_Last_Week_Percent": 6.4,
   "Slope_Cases_New_Per_Million": 112.4,
+  "Slope_Deaths_Last_Week_Percent": 12.5,
   "Slope_Deaths_New_Per_Million": 2.09
  },
  "16075": {
@@ -10499,7 +11298,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Saale-Orla-Kreis (Landkreis)",
   "Population": 80312,
+  "Slope_Cases_Last_Week_Percent": -1.1,
   "Slope_Cases_New_Per_Million": -43.18,
+  "Slope_Deaths_Last_Week_Percent": -0.3,
   "Slope_Deaths_New_Per_Million": 0.11
  },
  "16076": {
@@ -10524,7 +11325,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Greiz (Landkreis)",
   "Population": 97398,
+  "Slope_Cases_Last_Week_Percent": 1.1,
   "Slope_Cases_New_Per_Million": 29.2,
+  "Slope_Deaths_Last_Week_Percent": 3.3,
   "Slope_Deaths_New_Per_Million": 1.63
  },
  "16077": {
@@ -10550,7 +11353,9 @@
   "LK_Typ": "Landkreis",
   "Landkreis": "Altenburger Land (Landkreis)",
   "Population": 89393,
+  "Slope_Cases_Last_Week_Percent": 1.6,
   "Slope_Cases_New_Per_Million": 75.35,
+  "Slope_Deaths_Last_Week_Percent": -4.0,
   "Slope_Deaths_New_Per_Million": -5.19
  }
 }
