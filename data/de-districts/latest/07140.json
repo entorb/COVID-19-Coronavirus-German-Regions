@@ -1,15 +1,15 @@
 {
  "BL_Code": "RP",
  "Bundesland": "Rheinland-Pfalz",
- "Cases": 1267,
- "Cases_Last_Week": 130,
- "Cases_Last_Week_Per_100000": 126.0,
- "Cases_Last_Week_Per_Million": 1260,
+ "Cases": 1281,
+ "Cases_Last_Week": 144,
+ "Cases_Last_Week_Per_100000": 139.5,
+ "Cases_Last_Week_Per_Million": 1395,
  "Cases_New": 0,
- "Cases_Per_Million": 12281,
+ "Cases_Per_Million": 12417,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
  "DIVI_Intensivstationen_Covid_Prozent": 26.7,
- "Date_Latest": "2020-12-19",
+ "Date_Latest": "2020-12-20",
  "Deaths": 14,
  "Deaths_Last_Week": 2,
  "Deaths_Last_Week_Per_Million": 19.39,
@@ -21,7 +21,7 @@
  "Landkreis": "Rhein-Hunsrück-Kreis (Landkreis)",
  "Population": 103163,
  "Slope_Cases_Last_Week_Percent": 0.7,
- "Slope_Cases_New_Per_Million": 8.73,
- "Slope_Deaths_Last_Week_Percent": 7.5,
- "Slope_Deaths_New_Per_Million": 1.58
+ "Slope_Cases_New_Per_Million": 8.76,
+ "Slope_Deaths_Last_Week_Percent": 6.1,
+ "Slope_Deaths_New_Per_Million": 1.45
 }
