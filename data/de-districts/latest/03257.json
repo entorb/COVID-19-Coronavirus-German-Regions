@@ -1,15 +1,15 @@
 {
  "BL_Code": "NI",
  "Bundesland": "Niedersachsen",
- "Cases": 1705,
- "Cases_Last_Week": 154,
- "Cases_Last_Week_Per_100000": 97.5,
- "Cases_Last_Week_Per_Million": 975,
+ "Cases": 1763,
+ "Cases_Last_Week": 170,
+ "Cases_Last_Week_Per_100000": 107.7,
+ "Cases_Last_Week_Per_Million": 1077,
  "Cases_New": 0,
- "Cases_Per_Million": 10803,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 95.5,
+ "Cases_Per_Million": 11170,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 13.6,
- "Date_Latest": "2020-12-24",
+ "Date_Latest": "2020-12-25",
  "Deaths": 19,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 6.34,
@@ -22,7 +22,7 @@
  "Landkreis": "Schaumburg (Landkreis)",
  "Population": 157820,
  "Slope_Cases_Last_Week_Percent": 4.3,
- "Slope_Cases_New_Per_Million": 41.93,
- "Slope_Deaths_Last_Week_Percent": -4.1,
- "Slope_Deaths_New_Per_Million": -1.36
+ "Slope_Cases_New_Per_Million": 44.04,
+ "Slope_Deaths_Last_Week_Percent": -2.3,
+ "Slope_Deaths_New_Per_Million": -0.81
 }

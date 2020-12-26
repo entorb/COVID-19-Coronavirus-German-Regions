@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2371,
+ "Cases": 2406,
  "Cases_Last_Week": 199,
  "Cases_Last_Week_Per_100000": 155.4,
  "Cases_Last_Week_Per_Million": 1554,
- "Cases_New": 32,
- "Cases_Per_Million": 18523,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.7,
+ "Cases_New": 36,
+ "Cases_Per_Million": 18797,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
  "DIVI_Intensivstationen_Covid_Prozent": 7.1,
- "Date_Latest": "2020-12-24",
+ "Date_Latest": "2020-12-25",
  "Deaths": 50,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 7.81,
@@ -21,7 +21,7 @@
  "Landkreis": "Cham (Landkreis)",
  "Population": 127998,
  "Slope_Cases_Last_Week_Percent": -0.4,
- "Slope_Cases_New_Per_Million": -5.8,
- "Slope_Deaths_Last_Week_Percent": -3.7,
- "Slope_Deaths_New_Per_Million": -1.94
+ "Slope_Cases_New_Per_Million": -5.52,
+ "Slope_Deaths_Last_Week_Percent": -4.0,
+ "Slope_Deaths_New_Per_Million": -1.85
 }
