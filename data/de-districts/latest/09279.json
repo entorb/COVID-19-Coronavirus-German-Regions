@@ -1,15 +1,15 @@
 {
  "BL_Code": "BY",
  "Bundesland": "Bayern",
- "Cases": 2425,
+ "Cases": 2434,
  "Cases_Last_Week": 140,
  "Cases_Last_Week_Per_100000": 144.8,
  "Cases_Last_Week_Per_Million": 1448,
- "Cases_New": 18,
- "Cases_Per_Million": 25081,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.3,
+ "Cases_New": 1,
+ "Cases_Per_Million": 25175,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 72.2,
  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
- "Date_Latest": "2020-12-26",
+ "Date_Latest": "2020-12-27",
  "Deaths": 50,
  "Deaths_Last_Week": 1,
  "Deaths_Last_Week_Per_Million": 10.34,
@@ -20,8 +20,8 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Dingolfing-Landau (Landkreis)",
  "Population": 96683,
- "Slope_Cases_Last_Week_Percent": -1.2,
- "Slope_Cases_New_Per_Million": -21.55,
- "Slope_Deaths_Last_Week_Percent": -6.0,
- "Slope_Deaths_New_Per_Million": -2.61
+ "Slope_Cases_Last_Week_Percent": -1.4,
+ "Slope_Cases_New_Per_Million": -25.69,
+ "Slope_Deaths_Last_Week_Percent": -6.3,
+ "Slope_Deaths_New_Per_Million": -2.46
 }

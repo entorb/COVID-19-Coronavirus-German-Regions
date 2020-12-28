@@ -9,7 +9,7 @@
  "Cases_Per_Million": 14660,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 81.1,
  "DIVI_Intensivstationen_Covid_Prozent": 22.6,
- "Date_Latest": "2020-12-26",
+ "Date_Latest": "2020-12-27",
  "Deaths": 60,
  "Deaths_Last_Week": 3,
  "Deaths_Last_Week_Per_Million": 13.85,
@@ -20,8 +20,8 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Potsdam-Mittelmark (Landkreis)",
  "Population": 216566,
- "Slope_Cases_Last_Week_Percent": 0.2,
- "Slope_Cases_New_Per_Million": 4.58,
- "Slope_Deaths_Last_Week_Percent": 3.6,
- "Slope_Deaths_New_Per_Million": 0.72
+ "Slope_Cases_Last_Week_Percent": -1.6,
+ "Slope_Cases_New_Per_Million": -32.55,
+ "Slope_Deaths_Last_Week_Percent": 2.2,
+ "Slope_Deaths_New_Per_Million": 0.64
 }

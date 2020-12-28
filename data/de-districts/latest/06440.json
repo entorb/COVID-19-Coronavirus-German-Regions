@@ -1,15 +1,15 @@
 {
  "BL_Code": "HE",
  "Bundesland": "Hessen",
- "Cases": 5739,
- "Cases_Last_Week": 526,
- "Cases_Last_Week_Per_100000": 170.5,
- "Cases_Last_Week_Per_Million": 1705,
- "Cases_New": 39,
- "Cases_Per_Million": 18612,
+ "Cases": 5808,
+ "Cases_Last_Week": 580,
+ "Cases_Last_Week_Per_100000": 188.1,
+ "Cases_Last_Week_Per_Million": 1881,
+ "Cases_New": 67,
+ "Cases_Per_Million": 18836,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 97.5,
- "DIVI_Intensivstationen_Covid_Prozent": 30.0,
- "Date_Latest": "2020-12-26",
+ "DIVI_Intensivstationen_Covid_Prozent": 28.8,
+ "Date_Latest": "2020-12-27",
  "Deaths": 144,
  "Deaths_Last_Week": 5,
  "Deaths_Last_Week_Per_Million": 16.22,
@@ -21,7 +21,7 @@
  "Landkreis": "Wetteraukreis (Landkreis)",
  "Population": 308339,
  "Slope_Cases_Last_Week_Percent": -2.7,
- "Slope_Cases_New_Per_Million": -65.4,
+ "Slope_Cases_New_Per_Million": -61.69,
  "Slope_Deaths_Last_Week_Percent": -10.8,
- "Slope_Deaths_New_Per_Million": -13.11
+ "Slope_Deaths_New_Per_Million": -10.81
 }

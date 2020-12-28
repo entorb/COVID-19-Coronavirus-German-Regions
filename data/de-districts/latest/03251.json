@@ -5,11 +5,11 @@
  "Cases_Last_Week": 205,
  "Cases_Last_Week_Per_100000": 94.4,
  "Cases_Last_Week_Per_Million": 944,
- "Cases_New": 14,
+ "Cases_New": 0,
  "Cases_Per_Million": 15062,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 41.2,
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 58.8,
  "DIVI_Intensivstationen_Covid_Prozent": 11.8,
- "Date_Latest": "2020-12-26",
+ "Date_Latest": "2020-12-27",
  "Deaths": 55,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,8 +20,8 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Diepholz (Landkreis)",
  "Population": 217089,
- "Slope_Cases_Last_Week_Percent": 0.2,
- "Slope_Cases_New_Per_Million": 2.11,
- "Slope_Deaths_Last_Week_Percent": -0.6,
- "Slope_Deaths_New_Per_Million": -0.05
+ "Slope_Cases_Last_Week_Percent": -0.9,
+ "Slope_Cases_New_Per_Million": -10.82,
+ "Slope_Deaths_Last_Week_Percent": -2.3,
+ "Slope_Deaths_New_Per_Million": -0.12
 }

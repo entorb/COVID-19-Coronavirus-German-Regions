@@ -5,11 +5,11 @@
  "Cases_Last_Week": 52,
  "Cases_Last_Week_Per_100000": 56.9,
  "Cases_Last_Week_Per_Million": 569,
- "Cases_New": 1,
+ "Cases_New": 0,
  "Cases_Per_Million": 7229,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
- "DIVI_Intensivstationen_Covid_Prozent": 13.3,
- "Date_Latest": "2020-12-26",
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 100.0,
+ "DIVI_Intensivstationen_Covid_Prozent": 20.0,
+ "Date_Latest": "2020-12-27",
  "Deaths": 7,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,8 +20,8 @@
  "LK_Typ": "Landkreis",
  "Landkreis": "Helmstedt (Landkreis)",
  "Population": 91297,
- "Slope_Cases_Last_Week_Percent": 1.5,
- "Slope_Cases_New_Per_Million": 11.03,
- "Slope_Deaths_Last_Week_Percent": -3.5,
- "Slope_Deaths_New_Per_Million": -1.13
+ "Slope_Cases_Last_Week_Percent": -0.1,
+ "Slope_Cases_New_Per_Million": -0.56,
+ "Slope_Deaths_Last_Week_Percent": -6.4,
+ "Slope_Deaths_New_Per_Million": -1.59
 }
