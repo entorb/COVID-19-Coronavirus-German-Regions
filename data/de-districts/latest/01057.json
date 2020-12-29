@@ -1,15 +1,15 @@
 {
  "BL_Code": "SH",
  "Bundesland": "Schleswig-Holstein",
- "Cases": 515,
- "Cases_Last_Week": 45,
- "Cases_Last_Week_Per_100000": 34.9,
- "Cases_Last_Week_Per_Million": 349,
- "Cases_New": 2,
- "Cases_Per_Million": 4001,
+ "Cases": 518,
+ "Cases_Last_Week": 43,
+ "Cases_Last_Week_Per_100000": 33.4,
+ "Cases_Last_Week_Per_Million": 334,
+ "Cases_New": 3,
+ "Cases_Per_Million": 4025,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 50.0,
  "DIVI_Intensivstationen_Covid_Prozent": 8.3,
- "Date_Latest": "2020-12-27",
+ "Date_Latest": "2020-12-28",
  "Deaths": 9,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -21,7 +21,7 @@
  "Landkreis": "Plön (Kreis)",
  "Population": 128686,
  "Slope_Cases_Last_Week_Percent": -0.9,
- "Slope_Cases_New_Per_Million": -3.52,
- "Slope_Deaths_Last_Week_Percent": 7.2,
- "Slope_Deaths_New_Per_Million": 0.6
+ "Slope_Cases_New_Per_Million": -3.53,
+ "Slope_Deaths_Last_Week_Percent": 4.1,
+ "Slope_Deaths_New_Per_Million": 0.36
 }
