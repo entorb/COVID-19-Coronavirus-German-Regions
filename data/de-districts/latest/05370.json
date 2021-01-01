@@ -5,11 +5,11 @@
  "Cases_Last_Week": 298,
  "Cases_Last_Week_Per_100000": 116.6,
  "Cases_Last_Week_Per_Million": 1166,
- "Cases_New": 86,
+ "Cases_New": 0,
  "Cases_Per_Million": 24397,
- "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.9,
- "DIVI_Intensivstationen_Covid_Prozent": 27.8,
- "Date_Latest": "2020-12-30",
+ "DIVI_Intensivstationen_Betten_belegt_Prozent": 91.7,
+ "DIVI_Intensivstationen_Covid_Prozent": 33.3,
+ "Date_Latest": "2020-12-31",
  "Deaths": 168,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,8 +20,8 @@
  "LK_Typ": "Kreis",
  "Landkreis": "Heinsberg (Kreis)",
  "Population": 255555,
- "Slope_Cases_Last_Week_Percent": -1.9,
- "Slope_Cases_New_Per_Million": -26.24,
- "Slope_Deaths_Last_Week_Percent": -8.0,
- "Slope_Deaths_New_Per_Million": -1.61
+ "Slope_Cases_Last_Week_Percent": -2.2,
+ "Slope_Cases_New_Per_Million": -29.46,
+ "Slope_Deaths_Last_Week_Percent": -8.9,
+ "Slope_Deaths_New_Per_Million": -1.54
 }
