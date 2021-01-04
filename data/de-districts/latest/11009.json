@@ -1,15 +1,15 @@
 {
  "BL_Code": "BE",
  "Bundesland": "Berlin",
- "Cases": 4556,
+ "Cases": 4666,
  "Cases_Last_Week": 206,
  "Cases_Last_Week_Per_100000": 77.3,
  "Cases_Last_Week_Per_Million": 773,
  "Cases_New": 0,
- "Cases_Per_Million": 17096,
+ "Cases_Per_Million": 17509,
  "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.5,
- "DIVI_Intensivstationen_Covid_Prozent": 34.0,
- "Date_Latest": "2020-12-31",
+ "DIVI_Intensivstationen_Covid_Prozent": 35.1,
+ "Date_Latest": "2021-01-03",
  "Deaths": 48,
  "Deaths_Last_Week": 0,
  "Deaths_Last_Week_Per_Million": 0.0,
@@ -20,8 +20,8 @@
  "LK_Typ": "Bezirk",
  "Landkreis": "Berlin Treptow-Köpenick (Bezirk)",
  "Population": 266488,
- "Slope_Cases_Last_Week_Percent": -7.7,
- "Slope_Cases_New_Per_Million": -119.15,
- "Slope_Deaths_Last_Week_Percent": -17.8,
- "Slope_Deaths_New_Per_Million": -1.65
+ "Slope_Cases_Last_Week_Percent": -8.6,
+ "Slope_Cases_New_Per_Million": -108.34,
+ "Slope_Deaths_Last_Week_Percent": -21.2,
+ "Slope_Deaths_New_Per_Million": -0.64
 }
