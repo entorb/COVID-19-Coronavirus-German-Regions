@@ -1,0 +1,19 @@
+# dirs
+__pycache__/
+.vscode/
+cache/
+plots-gnuplot/
+plots-python/
+maps/out/
+maps/*.gif
+maps/*.mp4
+test/
+.git2
+
+# files
+.vstags
+.DS_Store
+.~lock.*.xlsx#
+~$*.xlsx
+index-*.html
+index2.html
