@@ -3803,7 +3803,7 @@
   "Cases_Last_Week_7Day_Percent": 31.461237589008125,
   "Cases_Last_Week_Per_100000": 45.3,
   "Cases_Last_Week_Per_Million": 453,
-  "Cases_New": 8996,
+  "Cases_New": 4574,
   "Cases_Per_Million": 28635,
   "Code": "ZA",
   "Continent": "Africa",
@@ -3813,13 +3813,14 @@
   "Deaths_Last_Week": 574,
   "Deaths_Last_Week_7Day_Percent": -3.5294117647058822,
   "Deaths_Last_Week_Per_Million": 9.93,
-  "Deaths_New": 216,
+  "Deaths_New": 123,
   "Deaths_Per_Million": 974,
+  "DoublingTime_Cases_Last_Week_Per_100000": 19.1,
   "Population": 57779622,
-  "Slope_Cases_Last_Week_Percent": 1.0,
-  "Slope_Cases_New_Per_Million": 3.75,
-  "Slope_Deaths_Last_Week_Percent": -0.6,
-  "Slope_Deaths_New_Per_Million": -0.22
+  "Slope_Cases_Last_Week_Percent": 3.5,
+  "Slope_Cases_New_Per_Million": 14.0,
+  "Slope_Deaths_Last_Week_Percent": 1.6,
+  "Slope_Deaths_New_Per_Million": -0.04
  },
  {
   "Cases": 139431,
