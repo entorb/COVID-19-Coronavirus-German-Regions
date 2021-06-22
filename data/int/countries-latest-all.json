@@ -740,13 +740,13 @@
   "Slope_Deaths_New_Per_Million": -0.16
  },
  {
-  "Cases": 1415663,
-  "Cases_Last_Week": 6167,
-  "Cases_Last_Week_7Day_Percent": -34.41454854833564,
-  "Cases_Last_Week_Per_100000": 16.6,
-  "Cases_Last_Week_Per_Million": 166,
-  "Cases_New": 49,
-  "Cases_Per_Million": 38200,
+  "Cases": 1416203,
+  "Cases_Last_Week": 6707,
+  "Cases_Last_Week_7Day_Percent": -28.67170052111028,
+  "Cases_Last_Week_Per_100000": 18.0,
+  "Cases_Last_Week_Per_Million": 180,
+  "Cases_New": 589,
+  "Cases_Per_Million": 38214,
   "Code": "CA",
   "Continent": "North America",
   "Country": "Canada",
@@ -758,9 +758,9 @@
   "Deaths_New": 13,
   "Deaths_Per_Million": 703,
   "Population": 37058856,
-  "Slope_Cases_Last_Week_Percent": -5.6,
-  "Slope_Cases_New_Per_Million": -11.61,
-  "Slope_Deaths_Last_Week_Percent": -3.9,
+  "Slope_Cases_Last_Week_Percent": -4.8,
+  "Slope_Cases_New_Per_Million": -10.11,
+  "Slope_Deaths_Last_Week_Percent": -3.5,
   "Slope_Deaths_New_Per_Million": -0.1
  },
  {
@@ -2873,12 +2873,12 @@
   "Deaths_Last_Week_Per_Million": 67.8,
   "Deaths_New": 27,
   "Deaths_Per_Million": 474,
-  "DoublingTime_Cases_Last_Week_Per_100000": 27.4,
+  "DoublingTime_Cases_Last_Week_Per_100000": 33.4,
   "Population": 2448255,
-  "Slope_Cases_Last_Week_Percent": 2.6,
-  "Slope_Cases_New_Per_Million": 78.32,
-  "Slope_Deaths_Last_Week_Percent": 6.4,
-  "Slope_Deaths_New_Per_Million": 5.13
+  "Slope_Cases_Last_Week_Percent": 2.2,
+  "Slope_Cases_New_Per_Million": 72.11,
+  "Slope_Deaths_Last_Week_Percent": 5.8,
+  "Slope_Deaths_New_Per_Million": 5.05
  },
  {
   "Cases": 621056,
@@ -4378,16 +4378,16 @@
   "Country": "United States",
   "Date_Latest": "2021-06-20",
   "Deaths": 601824,
-  "Deaths_Last_Week": 2048,
-  "Deaths_Last_Week_7Day_Percent": -19.49685534591195,
-  "Deaths_Last_Week_Per_Million": 6.26,
+  "Deaths_Last_Week": 1973,
+  "Deaths_Last_Week_7Day_Percent": -22.74862960062647,
+  "Deaths_Last_Week_Per_Million": 6.03,
   "Deaths_New": 83,
   "Deaths_Per_Million": 1839,
   "Population": 327167434,
   "Slope_Cases_Last_Week_Percent": -3.6,
   "Slope_Cases_New_Per_Million": -9.54,
-  "Slope_Deaths_Last_Week_Percent": -3.3,
-  "Slope_Deaths_New_Per_Million": -0.21
+  "Slope_Deaths_Last_Week_Percent": -3.6,
+  "Slope_Deaths_New_Per_Million": -0.25
  },
  {
   "Cases": 354865,
