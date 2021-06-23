@@ -2258,7 +2258,7 @@
   "Cases_Last_Week_7Day_Percent": -11.655239960822723,
   "Cases_Last_Week_Per_100000": 13.1,
   "Cases_Last_Week_Per_Million": 131,
-  "Cases_New": 902,
+  "Cases_New": 46,
   "Cases_Per_Million": 79362,
   "Code": "LB",
   "Continent": "Asia",
@@ -2268,13 +2268,13 @@
   "Deaths_Last_Week": 24,
   "Deaths_Last_Week_7Day_Percent": -25.0,
   "Deaths_Last_Week_Per_Million": 3.5,
-  "Deaths_New": 24,
+  "Deaths_New": 3,
   "Deaths_Per_Million": 1142,
   "Population": 6848925,
-  "Slope_Cases_Last_Week_Percent": -7.2,
-  "Slope_Cases_New_Per_Million": -5.89,
-  "Slope_Deaths_Last_Week_Percent": -7.4,
-  "Slope_Deaths_New_Per_Million": -0.2
+  "Slope_Cases_Last_Week_Percent": -0.8,
+  "Slope_Cases_New_Per_Million": -1.32,
+  "Slope_Deaths_Last_Week_Percent": -1.2,
+  "Slope_Deaths_New_Per_Million": -0.06
  },
  {
   "Cases": 11107,
@@ -3118,13 +3118,13 @@
   "Slope_Deaths_New_Per_Million": -0.1
  },
  {
-  "Cases": 2,
+  "Cases": 0,
   "Cases_Last_Week": 0,
-  "Cases_Last_Week_7Day_Percent": -100.0,
+  "Cases_Last_Week_7Day_Percent": 0,
   "Cases_Last_Week_Per_100000": 0.0,
   "Cases_Last_Week_Per_Million": 0,
   "Cases_New": 0,
-  "Cases_Per_Million": 111,
+  "Cases_Per_Million": 0,
   "Code": "PW",
   "Continent": "Oceania",
   "Country": "Palau",
@@ -3136,8 +3136,7 @@
   "Deaths_New": 0,
   "Deaths_Per_Million": 0,
   "Population": 17907,
-  "Slope_Cases_Last_Week_Percent": -50.0,
-  "Slope_Cases_New_Per_Million": -11.79,
+  "Slope_Cases_New_Per_Million": 0.0,
   "Slope_Deaths_New_Per_Million": 0.0
  },
  {
