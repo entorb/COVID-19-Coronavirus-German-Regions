@@ -1,0 +1,929 @@
+id,Country/Region,federalstate,infections,deaths,date,newinfections,newdeaths
+1,Germany,Baden-Württemberg,10,0,2020-02-28,10,0
+2,Germany,Bavaria,15,0,2020-02-28,15,0
+3,Germany,Berlin,0,0,2020-02-28,0,0
+4,Germany,Brandenburg,0,0,2020-02-28,0,0
+5,Germany,Bremen,0,0,2020-02-28,0,0
+6,Germany,Hamburg,0,0,2020-02-28,0,0
+7,Germany,Hesse,0,0,2020-02-28,0,0
+8,Germany,Lower Saxony,0,0,2020-02-28,0,0
+9,Germany,Mecklenburg-Western Pomerania,0,0,2020-02-28,0,0
+10,Germany,North Rhine-Westphalia,25,0,2020-02-28,25,0
+11,Germany,Rhineland-Palatinate,2,0,2020-02-28,2,0
+12,Germany,Saarland,0,0,2020-02-28,0,0
+13,Germany,Saxony,0,0,2020-02-28,0,0
+14,Germany,Saxony-Anhalt,0,0,2020-02-28,0,0
+15,Germany,Schleswig-Holstein,1,0,2020-02-28,1,0
+16,Germany,Thuringia,0,0,2020-02-28,0,0
+17,Germany,Baden-Württemberg,14,0,2020-02-29,4,0
+18,Germany,Bavaria,15,0,2020-02-29,0,0
+19,Germany,Berlin,0,0,2020-02-29,0,0
+20,Germany,Brandenburg,0,0,2020-02-29,0,0
+21,Germany,Bremen,0,0,2020-02-29,0,0
+22,Germany,Hamburg,0,0,2020-02-29,0,0
+23,Germany,Hesse,3,0,2020-02-29,3,0
+24,Germany,Lower Saxony,0,0,2020-02-29,0,0
+25,Germany,Mecklenburg-Western Pomerania,0,0,2020-02-29,0,0
+26,Germany,North Rhine-Westphalia,30,0,2020-02-29,5,0
+27,Germany,Rhineland-Palatinate,1,0,2020-02-29,-1,0
+28,Germany,Saarland,0,0,2020-02-29,0,0
+29,Germany,Saxony,0,0,2020-02-29,0,0
+30,Germany,Saxony-Anhalt,0,0,2020-02-29,0,0
+31,Germany,Schleswig-Holstein,1,0,2020-02-29,0,0
+32,Germany,Thuringia,0,0,2020-02-29,0,0
+33,Germany,Baden-Württemberg,15,0,2020-03-01,1,0
+34,Germany,Bavaria,23,0,2020-03-01,8,0
+35,Germany,Berlin,0,0,2020-03-01,0,0
+36,Germany,Brandenburg,0,0,2020-03-01,0,0
+37,Germany,Bremen,1,0,2020-03-01,1,0
+38,Germany,Hamburg,1,0,2020-03-01,1,0
+39,Germany,Hesse,8,0,2020-03-01,5,0
+40,Germany,Lower Saxony,1,0,2020-03-01,1,0
+41,Germany,Mecklenburg-Western Pomerania,0,0,2020-03-01,0,0
+42,Germany,North Rhine-Westphalia,74,0,2020-03-01,44,0
+43,Germany,Rhineland-Palatinate,2,0,2020-03-01,1,0
+44,Germany,Saarland,0,0,2020-03-01,0,0
+45,Germany,Saxony,0,0,2020-03-01,0,0
+46,Germany,Saxony-Anhalt,0,0,2020-03-01,0,0
+47,Germany,Schleswig-Holstein,2,0,2020-03-01,1,0
+48,Germany,Thuringia,0,0,2020-03-01,0,0
+49,Germany,Baden-Württemberg,20,0,2020-03-02,5,0
+50,Germany,Bavaria,26,0,2020-03-02,3,0
+51,Germany,Berlin,1,0,2020-03-02,1,0
+52,Germany,Brandenburg,0,0,2020-03-02,0,0
+53,Germany,Bremen,1,0,2020-03-02,0,0
+54,Germany,Hamburg,2,0,2020-03-02,1,0
+55,Germany,Hesse,10,0,2020-03-02,2,0
+56,Germany,Lower Saxony,1,0,2020-03-02,0,0
+57,Germany,Mecklenburg-Western Pomerania,0,0,2020-03-02,0,0
+58,Germany,North Rhine-Westphalia,90,0,2020-03-02,16,0
+59,Germany,Rhineland-Palatinate,2,0,2020-03-02,0,0
+60,Germany,Saarland,0,0,2020-03-02,0,0
+61,Germany,Saxony,0,0,2020-03-02,0,0
+62,Germany,Saxony-Anhalt,0,0,2020-03-02,0,0
+63,Germany,Schleswig-Holstein,2,0,2020-03-02,0,0
+64,Germany,Thuringia,0,0,2020-03-02,0,0
+65,Germany,Baden-Württemberg,28,0,2020-03-03,8,0
+66,Germany,Bavaria,37,0,2020-03-03,11,0
+67,Germany,Berlin,3,0,2020-03-03,2,0
+68,Germany,Brandenburg,1,0,2020-03-03,1,0
+69,Germany,Bremen,2,0,2020-03-03,1,0
+70,Germany,Hamburg,2,0,2020-03-03,0,0
+71,Germany,Hesse,12,0,2020-03-03,2,0
+72,Germany,Lower Saxony,2,0,2020-03-03,1,0
+73,Germany,Mecklenburg-Western Pomerania,0,0,2020-03-03,0,0
+74,Germany,North Rhine-Westphalia,103,0,2020-03-03,13,0
+75,Germany,Rhineland-Palatinate,2,0,2020-03-03,0,0
+76,Germany,Saarland,0,0,2020-03-03,0,0
+77,Germany,Saxony,1,0,2020-03-03,1,0
+78,Germany,Saxony-Anhalt,0,0,2020-03-03,0,0
+79,Germany,Schleswig-Holstein,2,0,2020-03-03,0,0
+80,Germany,Thuringia,1,0,2020-03-03,1,0
+81,Germany,Baden-Württemberg,50,0,2020-03-04,22,0
+82,Germany,Bavaria,48,0,2020-03-04,11,0
+83,Germany,Berlin,7,0,2020-03-04,4,0
+84,Germany,Brandenburg,1,0,2020-03-04,0,0
+85,Germany,Bremen,3,0,2020-03-04,1,0
+86,Germany,Hamburg,3,0,2020-03-04,1,0
+87,Germany,Hesse,12,0,2020-03-04,0,0
+88,Germany,Lower Saxony,7,0,2020-03-04,5,0
+89,Germany,Mecklenburg-Western Pomerania,4,0,2020-03-04,4,0
+90,Germany,North Rhine-Westphalia,115,0,2020-03-04,12,0
+91,Germany,Rhineland-Palatinate,7,0,2020-03-04,5,0
+92,Germany,Saarland,1,0,2020-03-04,1,0
+93,Germany,Saxony,1,0,2020-03-04,0,0
+94,Germany,Saxony-Anhalt,0,0,2020-03-04,0,0
+95,Germany,Schleswig-Holstein,2,0,2020-03-04,0,0
+96,Germany,Thuringia,1,0,2020-03-04,0,0
+97,Germany,Baden-Württemberg,73,0,2020-03-05,23,0
+98,Germany,Bavaria,70,0,2020-03-05,22,0
+99,Germany,Berlin,13,0,2020-03-05,6,0
+100,Germany,Brandenburg,1,0,2020-03-05,0,0
+101,Germany,Bremen,3,0,2020-03-05,0,0
+102,Germany,Hamburg,5,0,2020-03-05,2,0
+103,Germany,Hesse,14,0,2020-03-05,2,0
+104,Germany,Lower Saxony,18,0,2020-03-05,11,0
+105,Germany,Mecklenburg-Western Pomerania,4,0,2020-03-05,0,0
+106,Germany,North Rhine-Westphalia,181,0,2020-03-05,66,0
+107,Germany,Rhineland-Palatinate,8,0,2020-03-05,1,0
+108,Germany,Saarland,1,0,2020-03-05,0,0
+109,Germany,Saxony,1,0,2020-03-05,0,0
+110,Germany,Saxony-Anhalt,0,0,2020-03-05,0,0
+111,Germany,Schleswig-Holstein,7,0,2020-03-05,5,0
+112,Germany,Thuringia,1,0,2020-03-05,0,0
+113,Germany,Baden-Württemberg,96,0,2020-03-06,23,0
+114,Germany,Bavaria,117,0,2020-03-06,47,0
+115,Germany,Berlin,19,0,2020-03-06,6,0
+116,Germany,Brandenburg,2,0,2020-03-06,1,0
+117,Germany,Bremen,4,0,2020-03-06,1,0
+118,Germany,Hamburg,11,0,2020-03-06,6,0
+119,Germany,Hesse,16,0,2020-03-06,2,0
+120,Germany,Lower Saxony,18,0,2020-03-06,0,0
+121,Germany,Mecklenburg-Western Pomerania,5,0,2020-03-06,1,0
+122,Germany,North Rhine-Westphalia,329,0,2020-03-06,148,0
+123,Germany,Rhineland-Palatinate,10,0,2020-03-06,2,0
+124,Germany,Saarland,2,0,2020-03-06,1,0
+125,Germany,Saxony,2,0,2020-03-06,1,0
+126,Germany,Saxony-Anhalt,0,0,2020-03-06,0,0
+127,Germany,Schleswig-Holstein,7,0,2020-03-06,0,0
+128,Germany,Thuringia,1,0,2020-03-06,0,0
+129,Germany,Baden-Württemberg,170,0,2020-03-07,74,0
+130,Germany,Bavaria,134,0,2020-03-07,17,0
+131,Germany,Berlin,28,0,2020-03-07,9,0
+132,Germany,Brandenburg,2,0,2020-03-07,0,0
+133,Germany,Bremen,4,0,2020-03-07,0,0
+134,Germany,Hamburg,13,0,2020-03-07,2,0
+135,Germany,Hesse,17,0,2020-03-07,1,0
+136,Germany,Lower Saxony,19,0,2020-03-07,1,0
+137,Germany,Mecklenburg-Western Pomerania,5,0,2020-03-07,0,0
+138,Germany,North Rhine-Westphalia,373,0,2020-03-07,44,0
+139,Germany,Rhineland-Palatinate,13,0,2020-03-07,3,0
+140,Germany,Saarland,3,0,2020-03-07,1,0
+141,Germany,Saxony,4,0,2020-03-07,2,0
+142,Germany,Saxony-Anhalt,0,0,2020-03-07,0,0
+143,Germany,Schleswig-Holstein,8,0,2020-03-07,1,0
+144,Germany,Thuringia,2,0,2020-03-07,1,0
+145,Germany,Baden-Württemberg,182,0,2020-03-08,12,0
+146,Germany,Bavaria,172,0,2020-03-08,38,0
+147,Germany,Berlin,40,0,2020-03-08,12,0
+148,Germany,Brandenburg,4,0,2020-03-08,2,0
+149,Germany,Bremen,4,0,2020-03-08,0,0
+150,Germany,Hamburg,13,0,2020-03-08,0,0
+151,Germany,Hesse,19,0,2020-03-08,2,0
+152,Germany,Lower Saxony,21,0,2020-03-08,2,0
+153,Germany,Mecklenburg-Western Pomerania,8,0,2020-03-08,3,0
+154,Germany,North Rhine-Westphalia,398,0,2020-03-08,25,0
+155,Germany,Rhineland-Palatinate,19,0,2020-03-08,6,0
+156,Germany,Saarland,9,0,2020-03-08,6,0
+157,Germany,Saxony,4,0,2020-03-08,0,0
+158,Germany,Saxony-Anhalt,0,0,2020-03-08,0,0
+159,Germany,Schleswig-Holstein,7,0,2020-03-08,-1,0
+160,Germany,Thuringia,2,0,2020-03-08,0,0
+161,Germany,Baden-Württemberg,204,0,2020-03-09,22,0
+162,Germany,Bavaria,256,0,2020-03-09,84,0
+163,Germany,Berlin,48,0,2020-03-09,8,0
+164,Germany,Brandenburg,6,0,2020-03-09,2,0
+165,Germany,Bremen,4,0,2020-03-09,0,0
+166,Germany,Hamburg,17,0,2020-03-09,4,0
+167,Germany,Hesse,26,0,2020-03-09,7,0
+168,Germany,Lower Saxony,38,0,2020-03-09,17,0
+169,Germany,Mecklenburg-Western Pomerania,10,0,2020-03-09,2,0
+170,Germany,North Rhine-Westphalia,484,0,2020-03-09,86,0
+171,Germany,Rhineland-Palatinate,17,0,2020-03-09,-2,0
+172,Germany,Saarland,6,0,2020-03-09,-3,0
+173,Germany,Saxony,12,0,2020-03-09,8,0
+174,Germany,Saxony-Anhalt,0,0,2020-03-09,0,0
+175,Germany,Schleswig-Holstein,9,0,2020-03-09,2,0
+176,Germany,Thuringia,2,0,2020-03-09,0,0
+177,Germany,Baden-Württemberg,237,0,2020-03-10,33,0
+178,Germany,Bavaria,314,0,2020-03-10,58,0
+179,Germany,Berlin,48,0,2020-03-10,0,0
+180,Germany,Brandenburg,9,0,2020-03-10,3,0
+181,Germany,Bremen,4,0,2020-03-10,0,0
+182,Germany,Hamburg,29,0,2020-03-10,12,0
+183,Germany,Hesse,35,0,2020-03-10,9,0
+184,Germany,Lower Saxony,49,0,2020-03-10,11,0
+185,Germany,Mecklenburg-Western Pomerania,13,0,2020-03-10,3,0
+186,Germany,North Rhine-Westphalia,484,0,2020-03-10,0,0
+187,Germany,Rhineland-Palatinate,25,0,2020-03-10,8,0
+188,Germany,Saarland,7,0,2020-03-10,1,0
+189,Germany,Saxony,22,0,2020-03-10,10,0
+190,Germany,Saxony-Anhalt,7,0,2020-03-10,7,0
+191,Germany,Schleswig-Holstein,9,0,2020-03-10,0,0
+192,Germany,Thuringia,4,0,2020-03-10,2,0
+193,Germany,Baden-Württemberg,277,0,2020-03-11,40,0
+194,Germany,Bavaria,366,0,2020-03-11,52,0
+195,Germany,Berlin,90,0,2020-03-11,42,0
+196,Germany,Brandenburg,24,0,2020-03-11,15,0
+197,Germany,Bremen,21,0,2020-03-11,17,0
+198,Germany,Hamburg,48,0,2020-03-11,19,0
+199,Germany,Hesse,48,0,2020-03-11,13,0
+200,Germany,Lower Saxony,75,0,2020-03-11,26,0
+201,Germany,Mecklenburg-Western Pomerania,17,0,2020-03-11,4,0
+202,Germany,North Rhine-Westphalia,484,0,2020-03-11,0,0
+203,Germany,Rhineland-Palatinate,25,0,2020-03-11,0,0
+204,Germany,Saarland,14,0,2020-03-11,7,0
+205,Germany,Saxony,26,0,2020-03-11,4,0
+206,Germany,Saxony-Anhalt,15,0,2020-03-11,8,0
+207,Germany,Schleswig-Holstein,27,0,2020-03-11,18,0
+208,Germany,Thuringia,10,0,2020-03-11,6,0
+209,Germany,Baden-Württemberg,454,0,2020-03-12,177,0
+210,Germany,Bavaria,500,0,2020-03-12,134,0
+211,Germany,Berlin,137,0,2020-03-12,47,0
+212,Germany,Brandenburg,30,0,2020-03-12,6,0
+213,Germany,Bremen,38,0,2020-03-12,17,0
+214,Germany,Hamburg,88,0,2020-03-12,40,0
+215,Germany,Hesse,99,0,2020-03-12,51,0
+216,Germany,Lower Saxony,129,0,2020-03-12,54,0
+217,Germany,Mecklenburg-Western Pomerania,23,0,2020-03-12,6,0
+218,Germany,North Rhine-Westphalia,688,0,2020-03-12,204,0
+219,Germany,Rhineland-Palatinate,52,0,2020-03-12,27,0
+220,Germany,Saarland,14,0,2020-03-12,0,0
+221,Germany,Saxony,45,0,2020-03-12,19,0
+222,Germany,Saxony-Anhalt,27,0,2020-03-12,12,0
+223,Germany,Schleswig-Holstein,31,0,2020-03-12,4,0
+224,Germany,Thuringia,14,0,2020-03-12,4,0
+225,Germany,Baden-Württemberg,454,0,2020-03-13,0,0
+226,Germany,Bavaria,558,0,2020-03-13,58,0
+227,Germany,Berlin,174,0,2020-03-13,37,0
+228,Germany,Brandenburg,44,0,2020-03-13,14,0
+229,Germany,Bremen,42,0,2020-03-13,4,0
+230,Germany,Hamburg,99,0,2020-03-13,11,0
+231,Germany,Hesse,148,0,2020-03-13,49,0
+232,Germany,Lower Saxony,230,0,2020-03-13,101,0
+233,Germany,Mecklenburg-Western Pomerania,33,0,2020-03-13,10,0
+234,Germany,North Rhine-Westphalia,936,0,2020-03-13,248,0
+235,Germany,Rhineland-Palatinate,102,0,2020-03-13,50,0
+236,Germany,Saarland,40,0,2020-03-13,26,0
+237,Germany,Saxony,83,0,2020-03-13,38,0
+238,Germany,Saxony-Anhalt,42,0,2020-03-13,15,0
+239,Germany,Schleswig-Holstein,48,0,2020-03-13,17,0
+240,Germany,Thuringia,29,0,2020-03-13,15,0
+241,Germany,Baden-Württemberg,569,0,2020-03-14,115,0
+242,Germany,Bavaria,681,0,2020-03-14,123,0
+243,Germany,Berlin,216,0,2020-03-14,42,0
+244,Germany,Brandenburg,61,0,2020-03-14,17,0
+245,Germany,Bremen,50,0,2020-03-14,8,0
+246,Germany,Hamburg,158,0,2020-03-14,59,0
+247,Germany,Hesse,203,0,2020-03-14,55,0
+248,Germany,Lower Saxony,253,0,2020-03-14,23,0
+249,Germany,Mecklenburg-Western Pomerania,45,0,2020-03-14,12,0
+250,Germany,North Rhine-Westphalia,1154,0,2020-03-14,218,0
+251,Germany,Rhineland-Palatinate,121,0,2020-03-14,19,0
+252,Germany,Saarland,40,0,2020-03-14,0,0
+253,Germany,Saxony,93,0,2020-03-14,10,0
+254,Germany,Saxony-Anhalt,45,0,2020-03-14,3,0
+255,Germany,Schleswig-Holstein,60,0,2020-03-14,12,0
+256,Germany,Thuringia,46,0,2020-03-14,17,0
+257,Germany,Baden-Württemberg,827,0,2020-03-15,258,0
+258,Germany,Bavaria,886,0,2020-03-15,205,0
+259,Germany,Berlin,265,0,2020-03-15,49,0
+260,Germany,Brandenburg,84,0,2020-03-15,23,0
+261,Germany,Bremen,53,0,2020-03-15,3,0
+262,Germany,Hamburg,162,0,2020-03-15,4,0
+263,Germany,Hesse,286,0,2020-03-15,83,0
+264,Germany,Lower Saxony,287,0,2020-03-15,34,0
+265,Germany,Mecklenburg-Western Pomerania,50,0,2020-03-15,5,0
+266,Germany,North Rhine-Westphalia,1407,0,2020-03-15,253,0
+267,Germany,Rhineland-Palatinate,168,0,2020-03-15,47,0
+268,Germany,Saarland,32,0,2020-03-15,-8,0
+269,Germany,Saxony,130,0,2020-03-15,37,0
+270,Germany,Saxony-Anhalt,47,0,2020-03-15,2,0
+271,Germany,Schleswig-Holstein,103,0,2020-03-15,43,0
+272,Germany,Thuringia,51,0,2020-03-15,5,0
+273,Germany,Baden-Württemberg,1105,0,2020-03-16,278,0
+274,Germany,Bavaria,1067,0,2020-03-16,181,0
+275,Germany,Berlin,300,0,2020-03-16,35,0
+276,Germany,Brandenburg,94,0,2020-03-16,10,0
+277,Germany,Bremen,56,0,2020-03-16,3,0
+278,Germany,Hamburg,260,0,2020-03-16,98,0
+279,Germany,Hesse,342,0,2020-03-16,56,0
+280,Germany,Lower Saxony,391,0,2020-03-16,104,0
+281,Germany,Mecklenburg-Western Pomerania,51,0,2020-03-16,1,0
+282,Germany,North Rhine-Westphalia,1541,0,2020-03-16,134,0
+283,Germany,Rhineland-Palatinate,325,0,2020-03-16,157,0
+284,Germany,Saarland,85,0,2020-03-16,53,0
+285,Germany,Saxony,140,0,2020-03-16,10,0
+286,Germany,Saxony-Anhalt,77,0,2020-03-16,30,0
+287,Germany,Schleswig-Holstein,123,0,2020-03-16,20,0
+288,Germany,Thuringia,55,0,2020-03-16,4,0
+289,Germany,Baden-Württemberg,1479,2,2020-03-17,374,2
+290,Germany,Bavaria,1109,4,2020-03-17,42,4
+291,Germany,Berlin,345,0,2020-03-17,45,0
+292,Germany,Brandenburg,73,0,2020-03-17,-21,0
+293,Germany,Bremen,57,0,2020-03-17,1,0
+294,Germany,Hamburg,310,0,2020-03-17,50,0
+295,Germany,Hesse,373,0,2020-03-17,31,0
+296,Germany,Lower Saxony,325,0,2020-03-17,-66,0
+297,Germany,Mecklenburg-Western Pomerania,45,0,2020-03-17,-6,0
+298,Germany,North Rhine-Westphalia,2105,6,2020-03-17,564,6
+299,Germany,Rhineland-Palatinate,442,0,2020-03-17,117,0
+300,Germany,Saarland,75,0,2020-03-17,-10,0
+301,Germany,Saxony,182,0,2020-03-17,42,0
+302,Germany,Saxony-Anhalt,58,0,2020-03-17,-19,0
+303,Germany,Schleswig-Holstein,127,0,2020-03-17,4,0
+304,Germany,Thuringia,51,0,2020-03-17,-4,0
+305,Germany,Baden-Württemberg,1609,2,2020-03-18,130,0
+306,Germany,Bavaria,1243,4,2020-03-18,134,0
+307,Germany,Berlin,391,0,2020-03-18,46,0
+308,Germany,Brandenburg,92,0,2020-03-18,19,0
+309,Germany,Bremen,69,0,2020-03-18,12,0
+310,Germany,Hamburg,358,0,2020-03-18,48,0
+311,Germany,Hesse,432,0,2020-03-18,59,0
+312,Germany,Lower Saxony,478,0,2020-03-18,153,0
+313,Germany,Mecklenburg-Western Pomerania,56,0,2020-03-18,11,0
+314,Germany,North Rhine-Westphalia,2372,6,2020-03-18,267,0
+315,Germany,Rhineland-Palatinate,474,0,2020-03-18,32,0
+316,Germany,Saarland,88,0,2020-03-18,13,0
+317,Germany,Saxony,198,0,2020-03-18,16,0
+318,Germany,Saxony-Anhalt,105,0,2020-03-18,47,0
+319,Germany,Schleswig-Holstein,159,0,2020-03-18,32,0
+320,Germany,Thuringia,74,0,2020-03-18,23,0
+321,Germany,Baden-Württemberg,2155,6,2020-03-19,546,4
+322,Germany,Bavaria,1692,8,2020-03-19,449,4
+323,Germany,Berlin,573,0,2020-03-19,182,0
+324,Germany,Brandenburg,134,0,2020-03-19,42,0
+325,Germany,Bremen,80,0,2020-03-19,11,0
+326,Germany,Hamburg,432,0,2020-03-19,74,0
+327,Germany,Hesse,682,0,2020-03-19,250,0
+328,Germany,Lower Saxony,669,0,2020-03-19,191,0
+329,Germany,Mecklenburg-Western Pomerania,98,0,2020-03-19,42,0
+330,Germany,North Rhine-Westphalia,3033,6,2020-03-19,661,0
+331,Germany,Rhineland-Palatinate,637,0,2020-03-19,163,0
+332,Germany,Saarland,99,0,2020-03-19,11,0
+333,Germany,Saxony,275,0,2020-03-19,77,0
+334,Germany,Saxony-Anhalt,140,0,2020-03-19,35,0
+335,Germany,Schleswig-Holstein,202,0,2020-03-19,43,0
+336,Germany,Thuringia,98,0,2020-03-19,24,0
+337,Germany,Baden-Württemberg,2746,10,2020-03-20,591,4
+338,Germany,Bavaria,2401,12,2020-03-20,709,4
+339,Germany,Berlin,731,0,2020-03-20,158,0
+340,Germany,Brandenburg,192,0,2020-03-20,58,0
+341,Germany,Bremen,121,0,2020-03-20,41,0
+342,Germany,Hamburg,586,0,2020-03-20,154,0
+343,Germany,Hesse,813,1,2020-03-20,131,1
+344,Germany,Lower Saxony,803,0,2020-03-20,134,0
+345,Germany,Mecklenburg-Western Pomerania,131,0,2020-03-20,33,0
+346,Germany,North Rhine-Westphalia,3497,6,2020-03-20,464,0
+347,Germany,Rhineland-Palatinate,801,1,2020-03-20,164,1
+348,Germany,Saarland,146,0,2020-03-20,47,0
+349,Germany,Saxony,394,0,2020-03-20,119,0
+350,Germany,Saxony-Anhalt,180,0,2020-03-20,40,0
+351,Germany,Schleswig-Holstein,266,1,2020-03-20,64,1
+352,Germany,Thuringia,149,0,2020-03-20,51,0
+353,Germany,Baden-Württemberg,3668,16,2020-03-21,922,6
+354,Germany,Bavaria,2960,19,2020-03-21,559,7
+355,Germany,Berlin,866,1,2020-03-21,135,1
+356,Germany,Brandenburg,254,0,2020-03-21,62,0
+357,Germany,Bremen,142,0,2020-03-21,21,0
+358,Germany,Hamburg,587,0,2020-03-21,1,0
+359,Germany,Hesse,1080,2,2020-03-21,267,1
+360,Germany,Lower Saxony,1023,0,2020-03-21,220,0
+361,Germany,Mecklenburg-Western Pomerania,165,0,2020-03-21,34,0
+362,Germany,North Rhine-Westphalia,3542,6,2020-03-21,45,0
+363,Germany,Rhineland-Palatinate,938,1,2020-03-21,137,0
+364,Germany,Saarland,187,0,2020-03-21,41,0
+365,Germany,Saxony,567,0,2020-03-21,173,0
+366,Germany,Saxony-Anhalt,188,1,2020-03-21,8,1
+367,Germany,Schleswig-Holstein,308,1,2020-03-21,42,0
+368,Germany,Thuringia,187,0,2020-03-21,38,0
+369,Germany,Baden-Württemberg,3807,21,2020-03-22,139,5
+370,Germany,Bavaria,3650,21,2020-03-22,690,2
+371,Germany,Berlin,1024,1,2020-03-22,158,0
+372,Germany,Brandenburg,274,0,2020-03-22,20,0
+373,Germany,Bremen,165,0,2020-03-22,23,0
+374,Germany,Hamburg,872,0,2020-03-22,285,0
+375,Germany,Hesse,1175,2,2020-03-22,95,0
+376,Germany,Lower Saxony,1306,1,2020-03-22,283,1
+377,Germany,Mecklenburg-Western Pomerania,172,0,2020-03-22,7,0
+378,Germany,North Rhine-Westphalia,3545,6,2020-03-22,3,0
+379,Germany,Rhineland-Palatinate,1053,2,2020-03-22,115,1
+380,Germany,Saarland,187,0,2020-03-22,0,0
+381,Germany,Saxony,606,0,2020-03-22,39,0
+382,Germany,Saxony-Anhalt,211,0,2020-03-22,23,-1
+383,Germany,Schleswig-Holstein,347,1,2020-03-22,39,0
+384,Germany,Thuringia,216,0,2020-03-22,29,0
+392,Germany,Baden-Württemberg,3811,21,2020-03-23,4,0
+393,Germany,Bavaria,4892,26,2020-03-23,1242,5
+395,Germany,Berlin,1077,1,2020-03-23,53,0
+396,Germany,Brandenburg,288,0,2020-03-23,14,0
+388,Germany,Bremen,170,0,2020-03-23,5,0
+386,Germany,Hamburg,943,0,2020-03-23,71,0
+390,Germany,Hesse,1347,3,2020-03-23,172,1
+387,Germany,Lower Saxony,1483,4,2020-03-23,177,3
+397,Germany,Mecklenburg-Western Pomerania,172,0,2020-03-23,0,0
+389,Germany,North Rhine-Westphalia,5615,28,2020-03-23,2070,22
+391,Germany,Rhineland-Palatinate,1177,2,2020-03-23,124,0
+394,Germany,Saarland,200,0,2020-03-23,13,0
+398,Germany,Saxony,653,0,2020-03-23,47,0
+399,Germany,Saxony-Anhalt,212,0,2020-03-23,1,0
+385,Germany,Schleswig-Holstein,383,1,2020-03-23,36,0
+400,Germany,Thuringia,249,0,2020-03-23,33,0
+408,Germany,Baden-Württemberg,5348,30,2020-03-24,1537,9
+409,Germany,Bavaria,5754,30,2020-03-24,862,4
+411,Germany,Berlin,1220,1,2020-03-24,143,0
+412,Germany,Brandenburg,343,0,2020-03-24,55,0
+404,Germany,Bremen,183,0,2020-03-24,13,0
+402,Germany,Hamburg,1043,0,2020-03-24,100,0
+406,Germany,Hesse,1620,4,2020-03-24,273,1
+403,Germany,Lower Saxony,1764,6,2020-03-24,281,2
+413,Germany,Mecklenburg-Western Pomerania,199,0,2020-03-24,27,0
+405,Germany,North Rhine-Westphalia,6318,33,2020-03-24,703,5
+407,Germany,Rhineland-Palatinate,1370,5,2020-03-24,193,3
+410,Germany,Saarland,337,1,2020-03-24,137,1
+414,Germany,Saxony,811,1,2020-03-24,158,1
+415,Germany,Saxony-Anhalt,321,0,2020-03-24,109,0
+401,Germany,Schleswig-Holstein,478,2,2020-03-24,95,1
+416,Germany,Thuringia,327,1,2020-03-24,78,1
+424,Germany,Baden-Württemberg,6069,37,2020-03-25,721,7
+425,Germany,Bavaria,6558,37,2020-03-25,804,7
+427,Germany,Berlin,1428,2,2020-03-25,208,1
+428,Germany,Brandenburg,429,1,2020-03-25,86,1
+420,Germany,Bremen,200,0,2020-03-25,17,0
+418,Germany,Hamburg,1262,0,2020-03-25,219,0
+422,Germany,Hesse,1754,4,2020-03-25,134,0
+419,Germany,Lower Saxony,2140,7,2020-03-25,376,1
+429,Germany,Mecklenburg-Western Pomerania,218,0,2020-03-25,19,0
+421,Germany,North Rhine-Westphalia,7197,43,2020-03-25,879,10
+423,Germany,Rhineland-Palatinate,1591,5,2020-03-25,221,0
+426,Germany,Saarland,403,2,2020-03-25,66,1
+430,Germany,Saxony,959,6,2020-03-25,148,5
+431,Germany,Saxony-Anhalt,375,1,2020-03-25,54,1
+417,Germany,Schleswig-Holstein,577,3,2020-03-25,99,1
+432,Germany,Thuringia,394,1,2020-03-25,67,0
+440,Germany,Baden-Württemberg,7283,56,2020-03-26,1214,19
+441,Germany,Bavaria,7993,47,2020-03-26,1435,10
+443,Germany,Berlin,1656,4,2020-03-26,228,2
+444,Germany,Brandenburg,477,1,2020-03-26,48,0
+436,Germany,Bremen,211,1,2020-03-26,11,1
+434,Germany,Hamburg,1265,0,2020-03-26,3,0
+438,Germany,Hesse,2157,6,2020-03-26,403,2
+435,Germany,Lower Saxony,2347,8,2020-03-26,207,1
+445,Germany,Mecklenburg-Western Pomerania,244,0,2020-03-26,26,0
+437,Germany,North Rhine-Westphalia,7924,53,2020-03-26,727,10
+439,Germany,Rhineland-Palatinate,1816,6,2020-03-26,225,1
+442,Germany,Saarland,433,2,2020-03-26,30,0
+446,Germany,Saxony,1141,7,2020-03-26,182,1
+447,Germany,Saxony-Anhalt,418,1,2020-03-26,43,0
+433,Germany,Schleswig-Holstein,675,3,2020-03-26,98,0
+448,Germany,Thuringia,468,3,2020-03-26,74,2
+456,Germany,Baden-Württemberg,8161,70,2020-03-27,878,14
+457,Germany,Bavaria,9481,55,2020-03-27,1488,8
+459,Germany,Berlin,1955,8,2020-03-27,299,4
+460,Germany,Brandenburg,537,1,2020-03-27,60,0
+452,Germany,Bremen,241,1,2020-03-27,30,0
+450,Germany,Hamburg,1693,2,2020-03-27,428,2
+454,Germany,Hesse,2323,7,2020-03-27,166,1
+451,Germany,Lower Saxony,2810,10,2020-03-27,463,2
+461,Germany,Mecklenburg-Western Pomerania,259,0,2020-03-27,15,0
+453,Germany,North Rhine-Westphalia,9235,72,2020-03-27,1311,19
+455,Germany,Rhineland-Palatinate,1971,8,2020-03-27,155,2
+458,Germany,Saarland,505,2,2020-03-27,72,0
+462,Germany,Saxony,1305,7,2020-03-27,164,0
+463,Germany,Saxony-Anhalt,458,2,2020-03-27,40,1
+449,Germany,Schleswig-Holstein,812,4,2020-03-27,137,1
+464,Germany,Thuringia,542,4,2020-03-27,74,1
+472,Germany,Baden-Württemberg,9781,101,2020-03-28,1620,31
+473,Germany,Bavaria,11150,77,2020-03-28,1669,22
+475,Germany,Berlin,2161,8,2020-03-28,206,0
+476,Germany,Brandenburg,645,1,2020-03-28,108,0
+468,Germany,Bremen,260,2,2020-03-28,19,1
+466,Germany,Hamburg,1765,2,2020-03-28,72,0
+470,Germany,Hesse,2604,9,2020-03-28,281,2
+467,Germany,Lower Saxony,3150,12,2020-03-28,340,2
+477,Germany,Mecklenburg-Western Pomerania,308,0,2020-03-28,49,0
+469,Germany,North Rhine-Westphalia,10607,80,2020-03-28,1372,8
+471,Germany,Rhineland-Palatinate,2212,11,2020-03-28,241,3
+474,Germany,Saarland,550,2,2020-03-28,45,0
+478,Germany,Saxony,1432,9,2020-03-28,127,2
+479,Germany,Saxony-Anhalt,458,2,2020-03-28,0,0
+465,Germany,Schleswig-Holstein,915,4,2020-03-28,103,0
+480,Germany,Thuringia,584,5,2020-03-28,42,1
+488,Germany,Baden-Württemberg,9794,101,2020-03-29,13,0
+489,Germany,Bavaria,12881,107,2020-03-29,1731,30
+491,Germany,Berlin,2360,9,2020-03-29,199,1
+492,Germany,Brandenburg,721,1,2020-03-29,76,0
+484,Germany,Bremen,275,2,2020-03-29,15,0
+482,Germany,Hamburg,1846,4,2020-03-29,81,2
+486,Germany,Hesse,2605,9,2020-03-29,1,0
+483,Germany,Lower Saxony,3450,21,2020-03-29,300,9
+493,Germany,Mecklenburg-Western Pomerania,348,1,2020-03-29,40,1
+485,Germany,North Rhine-Westphalia,11400,98,2020-03-29,793,18
+487,Germany,Rhineland-Palatinate,2396,12,2020-03-29,184,1
+490,Germany,Saarland,560,2,2020-03-29,10,0
+494,Germany,Saxony,1617,9,2020-03-29,185,0
+495,Germany,Saxony-Anhalt,592,2,2020-03-29,134,0
+481,Germany,Schleswig-Holstein,1005,6,2020-03-29,90,2
+496,Germany,Thuringia,697,5,2020-03-29,113,0
+504,Germany,Baden-Württemberg,10943,119,2020-03-30,1149,18
+505,Germany,Bavaria,13989,127,2020-03-30,1108,20
+507,Germany,Berlin,2464,11,2020-03-30,104,2
+508,Germany,Brandenburg,761,2,2020-03-30,40,1
+500,Germany,Bremen,286,2,2020-03-30,11,0
+498,Germany,Hamburg,2053,5,2020-03-30,207,1
+502,Germany,Hesse,3091,13,2020-03-30,486,4
+499,Germany,Lower Saxony,3732,26,2020-03-30,282,5
+509,Germany,Mecklenburg-Western Pomerania,356,1,2020-03-30,8,0
+501,Germany,North Rhine-Westphalia,12178,101,2020-03-30,778,3
+503,Germany,Rhineland-Palatinate,2584,18,2020-03-30,188,6
+506,Germany,Saarland,706,7,2020-03-30,146,5
+510,Germany,Saxony,1795,9,2020-03-30,178,0
+511,Germany,Saxony-Anhalt,592,2,2020-03-30,0,0
+497,Germany,Schleswig-Holstein,1049,7,2020-03-30,44,1
+512,Germany,Thuringia,719,5,2020-03-30,22,0
+520,Germany,Baden-Württemberg,12334,165,2020-03-31,1391,46
+521,Germany,Bavaria,14810,162,2020-03-31,821,35
+523,Germany,Berlin,2575,13,2020-03-31,111,2
+524,Germany,Brandenburg,798,2,2020-03-31,37,0
+516,Germany,Bremen,294,4,2020-03-31,8,2
+514,Germany,Hamburg,2191,9,2020-03-31,138,4
+518,Germany,Hesse,3283,17,2020-03-31,192,4
+515,Germany,Lower Saxony,4063,34,2020-03-31,331,8
+525,Germany,Mecklenburg-Western Pomerania,366,1,2020-03-31,10,0
+517,Germany,North Rhine-Westphalia,13225,117,2020-03-31,1047,16
+519,Germany,Rhineland-Palatinate,2726,19,2020-03-31,142,1
+522,Germany,Saarland,782,7,2020-03-31,76,0
+526,Germany,Saxony,1882,12,2020-03-31,87,3
+527,Germany,Saxony-Anhalt,680,6,2020-03-31,88,4
+513,Germany,Schleswig-Holstein,1120,9,2020-03-31,71,2
+528,Germany,Thuringia,784,6,2020-03-31,65,1
+536,Germany,Baden-Württemberg,13410,197,2020-04-01,1076,32
+537,Germany,Bavaria,16497,225,2020-04-01,1687,63
+539,Germany,Berlin,2754,16,2020-04-01,179,3
+540,Germany,Brandenburg,881,4,2020-04-01,83,2
+532,Germany,Bremen,311,5,2020-04-01,17,1
+530,Germany,Hamburg,2311,14,2020-04-01,120,5
+534,Germany,Hesse,3445,21,2020-04-01,162,4
+531,Germany,Lower Saxony,4382,42,2020-04-01,319,8
+541,Germany,Mecklenburg-Western Pomerania,406,3,2020-04-01,40,2
+533,Germany,North Rhine-Westphalia,14351,134,2020-04-01,1126,17
+535,Germany,Rhineland-Palatinate,2899,23,2020-04-01,173,4
+538,Germany,Saarland,829,8,2020-04-01,47,1
+542,Germany,Saxony,2034,17,2020-04-01,152,5
+543,Germany,Saxony-Anhalt,750,7,2020-04-01,70,1
+529,Germany,Schleswig-Holstein,1246,10,2020-04-01,126,1
+544,Germany,Thuringia,860,6,2020-04-01,76,0
+552,Germany,Baden-Württemberg,14662,241,2020-04-02,1252,44
+553,Germany,Bavaria,18496,268,2020-04-02,1999,43
+555,Germany,Berlin,2970,19,2020-04-02,216,3
+556,Germany,Brandenburg,995,7,2020-04-02,114,3
+548,Germany,Bremen,327,6,2020-04-02,16,1
+546,Germany,Hamburg,2406,14,2020-04-02,95,0
+550,Germany,Hesse,3707,27,2020-04-02,262,6
+547,Germany,Lower Saxony,4695,45,2020-04-02,313,3
+557,Germany,Mecklenburg-Western Pomerania,438,3,2020-04-02,32,0
+549,Germany,North Rhine-Westphalia,15427,161,2020-04-02,1076,27
+551,Germany,Rhineland-Palatinate,3132,26,2020-04-02,233,3
+554,Germany,Saarland,1020,11,2020-04-02,191,3
+558,Germany,Saxony,2183,18,2020-04-02,149,1
+559,Germany,Saxony-Anhalt,804,8,2020-04-02,54,1
+545,Germany,Schleswig-Holstein,1335,11,2020-04-02,89,1
+560,Germany,Thuringia,925,7,2020-04-02,65,1
+568,Germany,Baden-Württemberg,16059,285,2020-04-03,1397,44
+569,Germany,Bavaria,20237,307,2020-04-03,1741,39
+571,Germany,Berlin,3202,20,2020-04-03,232,1
+572,Germany,Brandenburg,1075,9,2020-04-03,80,2
+564,Germany,Bremen,341,6,2020-04-03,14,0
+562,Germany,Hamburg,2596,16,2020-04-03,190,2
+566,Germany,Hesse,3993,33,2020-04-03,286,6
+563,Germany,Lower Saxony,5081,65,2020-04-03,386,20
+573,Germany,Mecklenburg-Western Pomerania,468,4,2020-04-03,30,1
+565,Germany,North Rhine-Westphalia,16606,178,2020-04-03,1179,17
+567,Germany,Rhineland-Palatinate,3362,26,2020-04-03,230,0
+570,Germany,Saarland,1079,12,2020-04-03,59,1
+574,Germany,Saxony,2336,21,2020-04-03,153,3
+575,Germany,Saxony-Anhalt,836,11,2020-04-03,32,3
+561,Germany,Schleswig-Holstein,1443,15,2020-04-03,108,4
+576,Germany,Thuringia,982,9,2020-04-03,57,2
+584,Germany,Baden-Württemberg,17014,316,2020-04-04,955,31
+585,Germany,Bavaria,21908,349,2020-04-04,1671,42
+587,Germany,Berlin,3471,22,2020-04-04,269,2
+588,Germany,Brandenburg,1211,12,2020-04-04,136,3
+580,Germany,Bremen,354,6,2020-04-04,13,0
+578,Germany,Hamburg,2697,16,2020-04-04,101,0
+582,Germany,Hesse,4279,42,2020-04-04,286,9
+579,Germany,Lower Saxony,5571,85,2020-04-04,490,20
+589,Germany,Mecklenburg-Western Pomerania,501,5,2020-04-04,33,1
+581,Germany,North Rhine-Westphalia,17885,200,2020-04-04,1279,22
+583,Germany,Rhineland-Palatinate,3504,29,2020-04-04,142,3
+586,Germany,Saarland,1265,14,2020-04-04,186,2
+590,Germany,Saxony,2591,24,2020-04-04,255,3
+591,Germany,Saxony-Anhalt,896,11,2020-04-04,60,0
+577,Germany,Schleswig-Holstein,1559,17,2020-04-04,116,2
+592,Germany,Thuringia,1072,10,2020-04-04,90,1
+600,Germany,Baden-Württemberg,18614,367,2020-04-05,1600,51
+601,Germany,Bavaria,23846,396,2020-04-05,1938,47
+603,Germany,Berlin,3613,24,2020-04-05,142,2
+604,Germany,Brandenburg,1305,17,2020-04-05,94,5
+596,Germany,Bremen,394,6,2020-04-05,40,0
+594,Germany,Hamburg,2945,19,2020-04-05,248,3
+598,Germany,Hesse,4575,56,2020-04-05,296,14
+595,Germany,Lower Saxony,5712,89,2020-04-05,141,4
+605,Germany,Mecklenburg-Western Pomerania,523,5,2020-04-05,22,0
+597,Germany,North Rhine-Westphalia,18735,245,2020-04-05,850,45
+599,Germany,Rhineland-Palatinate,3663,32,2020-04-05,159,3
+602,Germany,Saarland,1358,14,2020-04-05,93,0
+606,Germany,Saxony,2741,32,2020-04-05,150,8
+607,Germany,Saxony-Anhalt,919,12,2020-04-05,23,1
+593,Germany,Schleswig-Holstein,1631,18,2020-04-05,72,1
+608,Germany,Thuringia,1140,10,2020-04-05,68,0
+616,Germany,Baden-Württemberg,19395,387,2020-04-06,781,20
+617,Germany,Bavaria,24974,437,2020-04-06,1128,41
+619,Germany,Berlin,3670,26,2020-04-06,57,2
+620,Germany,Brandenburg,1345,19,2020-04-06,40,2
+612,Germany,Bremen,397,8,2020-04-06,3,2
+610,Germany,Hamburg,2993,19,2020-04-06,48,0
+614,Germany,Hesse,4674,61,2020-04-06,99,5
+611,Germany,Lower Saxony,5960,92,2020-04-06,248,3
+621,Germany,Mecklenburg-Western Pomerania,528,6,2020-04-06,5,1
+613,Germany,North Rhine-Westphalia,19384,255,2020-04-06,649,10
+615,Germany,Rhineland-Palatinate,3882,32,2020-04-06,219,0
+618,Germany,Saarland,1483,14,2020-04-06,125,0
+622,Germany,Saxony,2903,34,2020-04-06,162,2
+623,Germany,Saxony-Anhalt,956,12,2020-04-06,37,0
+609,Germany,Schleswig-Holstein,1671,20,2020-04-06,40,2
+624,Germany,Thuringia,1176,12,2020-04-06,36,2
+632,Germany,Baden-Württemberg,20141,433,2020-04-07,746,46
+633,Germany,Bavaria,26163,481,2020-04-07,1189,44
+635,Germany,Berlin,3845,28,2020-04-07,175,2
+636,Germany,Brandenburg,1384,20,2020-04-07,39,1
+628,Germany,Bremen,399,9,2020-04-07,2,1
+626,Germany,Hamburg,3059,20,2020-04-07,66,1
+630,Germany,Hesse,4837,73,2020-04-07,163,12
+627,Germany,Lower Saxony,6200,111,2020-04-07,240,19
+637,Germany,Mecklenburg-Western Pomerania,531,8,2020-04-07,3,2
+629,Germany,North Rhine-Westphalia,20220,282,2020-04-07,836,27
+631,Germany,Rhineland-Palatinate,3992,34,2020-04-07,110,2
+634,Germany,Saarland,1532,16,2020-04-07,49,2
+638,Germany,Saxony,2997,38,2020-04-07,94,4
+639,Germany,Saxony-Anhalt,987,12,2020-04-07,31,0
+625,Germany,Schleswig-Holstein,1730,24,2020-04-07,59,4
+640,Germany,Thuringia,1208,18,2020-04-07,32,6
+648,Germany,Baden-Württemberg,20680,464,2020-04-08,539,31
+649,Germany,Bavaria,27564,564,2020-04-08,1401,83
+651,Germany,Berlin,4028,32,2020-04-08,183,4
+652,Germany,Brandenburg,1472,22,2020-04-08,88,2
+644,Germany,Bremen,424,10,2020-04-08,25,1
+642,Germany,Hamburg,3165,23,2020-04-08,106,3
+646,Germany,Hesse,4965,84,2020-04-08,128,11
+643,Germany,Lower Saxony,6385,121,2020-04-08,185,10
+653,Germany,Mecklenburg-Western Pomerania,555,11,2020-04-08,24,3
+645,Germany,North Rhine-Westphalia,20929,348,2020-04-08,709,66
+647,Germany,Rhineland-Palatinate,4148,45,2020-04-08,156,11
+650,Germany,Saarland,1637,23,2020-04-08,105,7
+654,Germany,Saxony,3144,50,2020-04-08,147,12
+655,Germany,Saxony-Anhalt,1020,16,2020-04-08,33,4
+641,Germany,Schleswig-Holstein,1827,28,2020-04-08,97,4
+656,Germany,Thuringia,1285,20,2020-04-08,77,2
+664,Germany,Baden-Württemberg,21603,519,2020-04-09,923,55
+665,Germany,Bavaria,28827,635,2020-04-09,1263,71
+667,Germany,Berlin,4202,37,2020-04-09,174,5
+668,Germany,Brandenburg,1578,30,2020-04-09,106,8
+660,Germany,Bremen,445,11,2020-04-09,21,1
+658,Germany,Hamburg,3320,44,2020-04-09,155,21
+662,Germany,Hesse,5242,100,2020-04-09,277,16
+659,Germany,Lower Saxony,6804,141,2020-04-09,419,20
+669,Germany,Mecklenburg-Western Pomerania,572,11,2020-04-09,17,0
+661,Germany,North Rhine-Westphalia,21961,384,2020-04-09,1032,36
+663,Germany,Rhineland-Palatinate,4336,50,2020-04-09,188,5
+666,Germany,Saarland,1693,23,2020-04-09,56,0
+670,Germany,Saxony,3261,52,2020-04-09,117,2
+671,Germany,Saxony-Anhalt,1075,16,2020-04-09,55,0
+657,Germany,Schleswig-Holstein,1932,34,2020-04-09,105,6
+672,Germany,Thuringia,1351,20,2020-04-09,66,0
+680,Germany,Baden-Württemberg,22433,570,2020-04-10,830,51
+681,Germany,Bavaria,30363,703,2020-04-10,1536,68
+683,Germany,Berlin,4349,42,2020-04-10,147,5
+684,Germany,Brandenburg,1691,37,2020-04-10,113,7
+676,Germany,Bremen,454,13,2020-04-10,9,2
+674,Germany,Hamburg,3551,53,2020-04-10,231,9
+678,Germany,Hesse,5694,111,2020-04-10,452,11
+675,Germany,Lower Saxony,7114,161,2020-04-10,310,20
+685,Germany,Mecklenburg-Western Pomerania,586,11,2020-04-10,14,0
+677,Germany,North Rhine-Westphalia,23028,446,2020-04-10,1067,62
+679,Germany,Rhineland-Palatinate,4440,51,2020-04-10,104,1
+682,Germany,Saarland,1854,36,2020-04-10,161,13
+686,Germany,Saxony,3402,59,2020-04-10,141,7
+687,Germany,Saxony-Anhalt,1121,18,2020-04-10,46,2
+673,Germany,Schleswig-Holstein,2029,38,2020-04-10,97,4
+688,Germany,Thuringia,1416,24,2020-04-10,65,4
+696,Germany,Baden-Württemberg,23617,622,2020-04-11,1184,52
+697,Germany,Bavaria,31453,747,2020-04-11,1090,44
+699,Germany,Berlin,4458,46,2020-04-11,109,4
+700,Germany,Brandenburg,1764,37,2020-04-11,73,0
+692,Germany,Bremen,469,15,2020-04-11,15,2
+690,Germany,Hamburg,3663,56,2020-04-11,112,3
+694,Germany,Hesse,5808,120,2020-04-11,114,9
+691,Germany,Lower Saxony,7343,171,2020-04-11,229,10
+701,Germany,Mecklenburg-Western Pomerania,601,11,2020-04-11,15,0
+693,Germany,North Rhine-Westphalia,23644,472,2020-04-11,616,26
+695,Germany,Rhineland-Palatinate,4622,59,2020-04-11,182,8
+698,Germany,Saarland,2016,41,2020-04-11,162,5
+702,Germany,Saxony,3565,65,2020-04-11,163,6
+703,Germany,Saxony-Anhalt,1135,18,2020-04-11,14,0
+689,Germany,Schleswig-Holstein,2065,39,2020-04-11,36,1
+704,Germany,Thuringia,1435,25,2020-04-11,19,1
+712,Germany,Baden-Württemberg,24078,649,2020-04-12,461,27
+713,Germany,Bavaria,32282,786,2020-04-12,829,39
+715,Germany,Berlin,4567,50,2020-04-12,109,4
+716,Germany,Brandenburg,1857,38,2020-04-12,93,1
+708,Germany,Bremen,480,15,2020-04-12,11,0
+706,Germany,Hamburg,3742,56,2020-04-12,79,0
+710,Germany,Hesse,5859,123,2020-04-12,51,3
+707,Germany,Lower Saxony,7602,189,2020-04-12,259,18
+717,Germany,Mecklenburg-Western Pomerania,605,11,2020-04-12,4,0
+709,Germany,North Rhine-Westphalia,24267,495,2020-04-12,623,23
+711,Germany,Rhineland-Palatinate,4734,64,2020-04-12,112,5
+714,Germany,Saarland,2058,43,2020-04-12,42,2
+718,Germany,Saxony,3600,67,2020-04-12,35,2
+719,Germany,Saxony-Anhalt,1166,21,2020-04-12,31,3
+705,Germany,Schleswig-Holstein,2118,41,2020-04-12,53,2
+720,Germany,Thuringia,1464,25,2020-04-12,29,0
+728,Germany,Baden-Württemberg,24570,677,2020-04-13,492,28
+729,Germany,Bavaria,33015,820,2020-04-13,733,34
+731,Germany,Berlin,4601,51,2020-04-13,34,1
+732,Germany,Brandenburg,1880,38,2020-04-13,23,0
+724,Germany,Bremen,486,17,2020-04-13,6,2
+722,Germany,Hamburg,3770,56,2020-04-13,28,0
+726,Germany,Hesse,6114,135,2020-04-13,255,12
+723,Germany,Lower Saxony,7723,201,2020-04-13,121,12
+733,Germany,Mecklenburg-Western Pomerania,618,11,2020-04-13,13,0
+725,Germany,North Rhine-Westphalia,24883,518,2020-04-13,616,23
+727,Germany,Rhineland-Palatinate,4810,68,2020-04-13,76,4
+730,Germany,Saarland,2079,44,2020-04-13,21,1
+734,Germany,Saxony,3655,68,2020-04-13,55,1
+735,Germany,Saxony-Anhalt,1193,24,2020-04-13,27,3
+721,Germany,Schleswig-Holstein,2134,44,2020-04-13,16,3
+736,Germany,Thuringia,1485,27,2020-04-13,21,2
+747,Germany,Baden-Württemberg,25040,711,2020-04-14,470,34
+737,Germany,Bavaria,33569,872,2020-04-14,554,52
+750,Germany,Berlin,4668,56,2020-04-14,67,5
+740,Germany,Brandenburg,1916,40,2020-04-14,36,2
+749,Germany,Bremen,492,20,2020-04-14,6,3
+752,Germany,Hamburg,3808,59,2020-04-14,38,3
+738,Germany,Hesse,6183,147,2020-04-14,69,12
+742,Germany,Lower Saxony,7885,211,2020-04-14,162,10
+746,Germany,Mecklenburg-Western Pomerania,619,11,2020-04-14,1,0
+745,Germany,North Rhine-Westphalia,25300,545,2020-04-14,417,27
+739,Germany,Rhineland-Palatinate,4880,70,2020-04-14,70,2
+744,Germany,Saarland,2112,52,2020-04-14,33,8
+748,Germany,Saxony,3751,70,2020-04-14,96,2
+751,Germany,Saxony-Anhalt,1207,25,2020-04-14,14,1
+741,Germany,Schleswig-Holstein,2164,49,2020-04-14,30,5
+743,Germany,Thuringia,1504,31,2020-04-14,19,4
+755,Germany,Baden-Württemberg,25438,767,2020-04-15,398,56
+768,Germany,Bavaria,34294,954,2020-04-15,725,82
+761,Germany,Berlin,4722,62,2020-04-15,54,6
+762,Germany,Brandenburg,1950,42,2020-04-15,34,2
+760,Germany,Bremen,500,21,2020-04-15,8,1
+756,Germany,Hamburg,3869,67,2020-04-15,61,8
+765,Germany,Hesse,6347,173,2020-04-15,164,26
+758,Germany,Lower Saxony,8019,224,2020-04-15,134,13
+767,Germany,Mecklenburg-Western Pomerania,624,11,2020-04-15,5,0
+754,Germany,North Rhine-Westphalia,25835,607,2020-04-15,535,62
+766,Germany,Rhineland-Palatinate,5004,77,2020-04-15,124,7
+764,Germany,Saarland,2145,58,2020-04-15,33,6
+753,Germany,Saxony,3819,73,2020-04-15,68,3
+757,Germany,Saxony-Anhalt,1223,26,2020-04-15,16,1
+763,Germany,Schleswig-Holstein,2245,54,2020-04-15,81,5
+759,Germany,Thuringia,1550,38,2020-04-15,46,7
+771,Germany,Baden-Württemberg,25881,802,2020-04-16,443,35
+773,Germany,Bavaria,35142,1049,2020-04-16,848,95
+770,Germany,Berlin,4848,74,2020-04-16,126,12
+781,Germany,Brandenburg,2058,54,2020-04-16,108,12
+774,Germany,Bremen,507,21,2020-04-16,7,0
+776,Germany,Hamburg,3953,80,2020-04-16,84,13
+779,Germany,Hesse,6470,187,2020-04-16,123,14
+778,Germany,Lower Saxony,8188,248,2020-04-16,169,24
+775,Germany,Mecklenburg-Western Pomerania,634,13,2020-04-16,10,2
+780,Germany,North Rhine-Westphalia,26383,663,2020-04-16,548,56
+782,Germany,Rhineland-Palatinate,5087,87,2020-04-16,83,10
+769,Germany,Saarland,2201,71,2020-04-16,56,13
+783,Germany,Saxony,3955,94,2020-04-16,136,21
+777,Germany,Saxony-Anhalt,1248,26,2020-04-16,25,0
+772,Germany,Schleswig-Holstein,2294,55,2020-04-16,49,1
+784,Germany,Thuringia,1601,45,2020-04-16,51,7
+797,Germany,Baden-Württemberg,26543,872,2020-04-17,662,70
+789,Germany,Bavaria,36027,1137,2020-04-17,885,88
+798,Germany,Berlin,4945,84,2020-04-17,97,10
+790,Germany,Brandenburg,2120,60,2020-04-17,62,6
+800,Germany,Bremen,556,22,2020-04-17,49,1
+799,Germany,Hamburg,4005,84,2020-04-17,52,4
+794,Germany,Hesse,6705,197,2020-04-17,235,10
+787,Germany,Lower Saxony,8442,274,2020-04-17,254,26
+791,Germany,Mecklenburg-Western Pomerania,634,13,2020-04-17,0,0
+793,Germany,North Rhine-Westphalia,27030,726,2020-04-17,647,63
+795,Germany,Rhineland-Palatinate,5211,92,2020-04-17,124,5
+792,Germany,Saarland,2254,76,2020-04-17,53,5
+796,Germany,Saxony,4048,95,2020-04-17,93,1
+786,Germany,Saxony-Anhalt,1279,28,2020-04-17,31,2
+785,Germany,Schleswig-Holstein,2349,59,2020-04-17,55,4
+788,Germany,Thuringia,1682,49,2020-04-17,81,4
+802,Germany,Baden-Württemberg,27258,919,2020-04-18,715,47
+814,Germany,Bavaria,36881,1198,2020-04-18,854,61
+805,Germany,Berlin,5066,91,2020-04-18,121,7
+806,Germany,Brandenburg,2161,62,2020-04-18,41,2
+804,Germany,Bremen,567,24,2020-04-18,11,2
+808,Germany,Hamburg,4118,90,2020-04-18,113,6
+811,Germany,Hesse,6916,212,2020-04-18,211,15
+807,Germany,Lower Saxony,8649,281,2020-04-18,207,7
+816,Germany,Mecklenburg-Western Pomerania,645,14,2020-04-18,11,1
+801,Germany,North Rhine-Westphalia,28006,791,2020-04-18,976,65
+812,Germany,Rhineland-Palatinate,5324,99,2020-04-18,113,7
+815,Germany,Saarland,2289,86,2020-04-18,35,10
+803,Germany,Saxony,4140,103,2020-04-18,92,8
+809,Germany,Saxony-Anhalt,1315,29,2020-04-18,36,1
+813,Germany,Schleswig-Holstein,2387,61,2020-04-18,38,2
+810,Germany,Thuringia,1717,50,2020-04-18,35,1
+821,Germany,Baden-Württemberg,27883,968,2020-04-19,625,49
+820,Germany,Bavaria,37407,1256,2020-04-19,526,58
+818,Germany,Berlin,5159,92,2020-04-19,93,1
+828,Germany,Brandenburg,2221,66,2020-04-19,60,4
+827,Germany,Bremen,585,25,2020-04-19,18,1
+823,Germany,Hamburg,4167,91,2020-04-19,49,1
+830,Germany,Hesse,7108,230,2020-04-19,192,18
+822,Germany,Lower Saxony,8797,288,2020-04-19,148,7
+825,Germany,Mecklenburg-Western Pomerania,651,15,2020-04-19,6,1
+826,Germany,North Rhine-Westphalia,28471,814,2020-04-19,465,23
+832,Germany,Rhineland-Palatinate,5432,106,2020-04-19,108,7
+817,Germany,Saarland,2303,91,2020-04-19,14,5
+831,Germany,Saxony,4190,107,2020-04-19,50,4
+824,Germany,Saxony-Anhalt,1350,30,2020-04-19,35,1
+819,Germany,Schleswig-Holstein,2417,62,2020-04-19,30,1
+829,Germany,Thuringia,1756,53,2020-04-19,39,3
+847,Germany,Baden-Württemberg,28253,982,2020-04-20,370,14
+840,Germany,Bavaria,37849,1286,2020-04-20,442,30
+846,Germany,Berlin,5196,94,2020-04-20,37,2
+834,Germany,Brandenburg,2238,66,2020-04-20,17,0
+833,Germany,Bremen,604,25,2020-04-20,19,0
+836,Germany,Hamburg,4185,91,2020-04-20,18,0
+842,Germany,Hesse,7177,240,2020-04-20,69,10
+835,Germany,Lower Saxony,8900,291,2020-04-20,103,3
+839,Germany,Mecklenburg-Western Pomerania,653,15,2020-04-20,2,0
+841,Germany,North Rhine-Westphalia,28971,857,2020-04-20,500,43
+845,Germany,Rhineland-Palatinate,5523,107,2020-04-20,91,1
+843,Germany,Saarland,2314,91,2020-04-20,11,0
+844,Germany,Saxony,4229,109,2020-04-20,39,2
+838,Germany,Saxony-Anhalt,1369,30,2020-04-20,19,0
+848,Germany,Schleswig-Holstein,2426,67,2020-04-20,9,5
+837,Germany,Thuringia,1785,53,2020-04-20,29,0
+850,Germany,Baden-Württemberg,28712,1031,2020-04-21,459,49
+860,Germany,Bavaria,38310,1336,2020-04-21,461,50
+856,Germany,Berlin,5237,97,2020-04-21,41,3
+858,Germany,Brandenburg,2275,67,2020-04-21,37,1
+855,Germany,Bremen,609,25,2020-04-21,5,0
+853,Germany,Hamburg,4204,91,2020-04-21,19,0
+861,Germany,Hesse,7231,251,2020-04-21,54,11
+852,Germany,Lower Saxony,9098,306,2020-04-21,198,15
+863,Germany,Mecklenburg-Western Pomerania,655,15,2020-04-21,2,0
+849,Germany,North Rhine-Westphalia,29389,896,2020-04-21,418,39
+862,Germany,Rhineland-Palatinate,5561,116,2020-04-21,38,9
+864,Germany,Saarland,2328,93,2020-04-21,14,2
+851,Germany,Saxony,4253,117,2020-04-21,24,8
+854,Germany,Saxony-Anhalt,1383,32,2020-04-21,14,2
+857,Germany,Schleswig-Holstein,2414,70,2020-04-21,-12,3
+859,Germany,Thuringia,1798,55,2020-04-21,13,2
+868,Germany,Baden-Württemberg,28898,1063,2020-04-22,186,32
+870,Germany,Bavaria,38814,1424,2020-04-22,504,88
+876,Germany,Berlin,5312,105,2020-04-22,75,8
+877,Germany,Brandenburg,2389,74,2020-04-22,114,7
+871,Germany,Bremen,624,26,2020-04-22,15,1
+873,Germany,Hamburg,4204,91,2020-04-22,0,0
+866,Germany,Hesse,7380,265,2020-04-22,149,14
+878,Germany,Lower Saxony,9236,328,2020-04-22,138,22
+874,Germany,Mecklenburg-Western Pomerania,656,15,2020-04-22,1,0
+872,Germany,North Rhine-Westphalia,30185,964,2020-04-22,796,68
+867,Germany,Rhineland-Palatinate,5593,122,2020-04-22,32,6
+865,Germany,Saarland,2367,97,2020-04-22,39,4
+875,Germany,Saxony,4273,122,2020-04-22,20,5
+880,Germany,Saxony-Anhalt,1395,33,2020-04-22,12,1
+869,Germany,Schleswig-Holstein,2496,79,2020-04-22,82,9
+879,Germany,Thuringia,1872,71,2020-04-22,74,16
+896,Germany,Baden-Württemberg,29443,1113,2020-04-23,545,50
+884,Germany,Bavaria,39395,1476,2020-04-23,581,52
+894,Germany,Berlin,5324,105,2020-04-23,12,0
+882,Germany,Brandenburg,2447,84,2020-04-23,58,10
+886,Germany,Bremen,672,27,2020-04-23,48,1
+888,Germany,Hamburg,4286,113,2020-04-23,82,22
+891,Germany,Hesse,7593,286,2020-04-23,213,21
+881,Germany,Lower Saxony,9391,340,2020-04-23,155,12
+885,Germany,Mecklenburg-Western Pomerania,659,15,2020-04-23,3,0
+889,Germany,North Rhine-Westphalia,30584,999,2020-04-23,399,35
+892,Germany,Rhineland-Palatinate,5643,131,2020-04-23,50,9
+893,Germany,Saarland,2395,99,2020-04-23,28,2
+890,Germany,Saxony,4327,127,2020-04-23,54,5
+887,Germany,Saxony-Anhalt,1425,34,2020-04-23,30,1
+895,Germany,Schleswig-Holstein,2530,84,2020-04-23,34,5
+883,Germany,Thuringia,1932,61,2020-04-23,60,-10
+897,Germany,Baden-Württemberg,29792,1153,2020-04-24,349,40
+908,Germany,Bavaria,39939,1525,2020-04-24,544,49
+902,Germany,Berlin,5459,112,2020-04-24,135,7
+906,Germany,Brandenburg,2536,90,2020-04-24,89,6
+899,Germany,Bremen,707,27,2020-04-24,35,0
+901,Germany,Hamburg,4358,122,2020-04-24,72,9
+905,Germany,Hesse,7712,296,2020-04-24,119,10
+903,Germany,Lower Saxony,9544,364,2020-04-24,153,24
+912,Germany,Mecklenburg-Western Pomerania,661,16,2020-04-24,2,1
+911,Germany,North Rhine-Westphalia,31106,1052,2020-04-24,522,53
+904,Germany,Rhineland-Palatinate,5731,136,2020-04-24,88,5
+910,Germany,Saarland,2445,105,2020-04-24,50,6
+898,Germany,Saxony,4377,135,2020-04-24,50,8
+900,Germany,Saxony-Anhalt,1436,35,2020-04-24,11,1
+909,Germany,Schleswig-Holstein,2557,88,2020-04-24,27,4
+907,Germany,Thuringia,2023,65,2020-04-24,91,4
+920,Germany,Baden-Württemberg,30169,1189,2020-04-25,377,36
+918,Germany,Bavaria,40547,1566,2020-04-25,608,41
+928,Germany,Berlin,5525,113,2020-04-25,66,1
+923,Germany,Brandenburg,2627,97,2020-04-25,91,7
+919,Germany,Bremen,719,27,2020-04-25,12,0
+927,Germany,Hamburg,4400,139,2020-04-25,42,17
+915,Germany,Hesse,7837,305,2020-04-25,125,9
+924,Germany,Lower Saxony,9691,377,2020-04-25,147,13
+917,Germany,Mecklenburg-Western Pomerania,667,16,2020-04-25,6,0
+921,Germany,North Rhine-Westphalia,31465,1084,2020-04-25,359,32
+916,Germany,Rhineland-Palatinate,5767,138,2020-04-25,36,2
+913,Germany,Saarland,2468,107,2020-04-25,23,2
+922,Germany,Saxony,4406,141,2020-04-25,29,6
+926,Germany,Saxony-Anhalt,1480,35,2020-04-25,44,0
+914,Germany,Schleswig-Holstein,2612,95,2020-04-25,55,7
+925,Germany,Thuringia,2058,71,2020-04-25,35,6
