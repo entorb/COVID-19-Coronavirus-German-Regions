@@ -5159,7 +5159,7 @@
   "Cases": 10220,
   "Cases_Last_Week": 531,
   "Cases_Last_Week_7Day_Percent": 35.8,
-  "Cases_Last_Week_Doubling_Time": 14.3,
+  "Cases_Last_Week_Doubling_Time": "",
   "Cases_Last_Week_Per_100000": 14.5,
   "Cases_Last_Week_Per_Million": 145,
   "Cases_New": 75,
@@ -7017,12 +7017,12 @@
   "DIVI_Intensivstationen_Covid_Prozent": 14.1,
   "Date": "2020-10-30",
   "Days_Since_2nd_Death": 226,
-  "Deaths": 383,
-  "Deaths_Last_Week": 82,
-  "Deaths_Last_Week_7Day_Percent": 100.0,
-  "Deaths_Last_Week_Per_Million": 22.5,
-  "Deaths_New": 18,
-  "Deaths_New_Per_Million": 4.939,
+  "Deaths": 384,
+  "Deaths_Last_Week": 83,
+  "Deaths_Last_Week_7Day_Percent": 102.4,
+  "Deaths_Last_Week_Per_Million": 22.77,
+  "Deaths_New": 19,
+  "Deaths_New_Per_Million": 5.213,
   "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": 0.013,
   "Deaths_Per_Million": 105
@@ -7041,15 +7041,15 @@
   "DIVI_Intensivstationen_Covid_Prozent": 14.1,
   "Date": "2020-10-31",
   "Days_Since_2nd_Death": 227,
-  "Deaths": 389,
-  "Deaths_Last_Week": 86,
-  "Deaths_Last_Week_7Day_Percent": 100.0,
-  "Deaths_Last_Week_Per_Million": 23.6,
+  "Deaths": 390,
+  "Deaths_Last_Week": 87,
+  "Deaths_Last_Week_7Day_Percent": 102.3,
+  "Deaths_Last_Week_Per_Million": 23.87,
   "Deaths_New": 6,
   "Deaths_New_Per_Million": 1.646,
   "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": 0.014,
-  "Deaths_Per_Million": 106
+  "Deaths_Per_Million": 107
  },
  {
   "Cases": 32760,
@@ -7065,10 +7065,10 @@
   "DIVI_Intensivstationen_Covid_Prozent": 15.6,
   "Date": "2020-11-01",
   "Days_Since_2nd_Death": 228,
-  "Deaths": 396,
-  "Deaths_Last_Week": 89,
-  "Deaths_Last_Week_7Day_Percent": 93.5,
-  "Deaths_Last_Week_Per_Million": 24.42,
+  "Deaths": 397,
+  "Deaths_Last_Week": 90,
+  "Deaths_Last_Week_7Day_Percent": 95.7,
+  "Deaths_Last_Week_Per_Million": 24.69,
   "Deaths_New": 7,
   "Deaths_New_Per_Million": 1.921,
   "Deaths_Per_Cases": 0.012,
@@ -7089,10 +7089,10 @@
   "DIVI_Intensivstationen_Covid_Prozent": 16.9,
   "Date": "2020-11-02",
   "Days_Since_2nd_Death": 229,
-  "Deaths": 417,
-  "Deaths_Last_Week": 95,
-  "Deaths_Last_Week_7Day_Percent": 79.2,
-  "Deaths_Last_Week_Per_Million": 26.06,
+  "Deaths": 418,
+  "Deaths_Last_Week": 96,
+  "Deaths_Last_Week_7Day_Percent": 81.1,
+  "Deaths_Last_Week_Per_Million": 26.34,
   "Deaths_New": 21,
   "Deaths_New_Per_Million": 5.762,
   "Deaths_Per_Cases": 0.012,
@@ -7113,10 +7113,10 @@
   "DIVI_Intensivstationen_Covid_Prozent": 18.1,
   "Date": "2020-11-03",
   "Days_Since_2nd_Death": 230,
-  "Deaths": 436,
-  "Deaths_Last_Week": 103,
-  "Deaths_Last_Week_7Day_Percent": 87.3,
-  "Deaths_Last_Week_Per_Million": 28.26,
+  "Deaths": 437,
+  "Deaths_Last_Week": 104,
+  "Deaths_Last_Week_7Day_Percent": 89.1,
+  "Deaths_Last_Week_Per_Million": 28.53,
   "Deaths_New": 19,
   "Deaths_New_Per_Million": 5.213,
   "Deaths_Per_Cases": 0.012,
@@ -7137,15 +7137,15 @@
   "DIVI_Intensivstationen_Covid_Prozent": 18.3,
   "Date": "2020-11-04",
   "Days_Since_2nd_Death": 231,
-  "Deaths": 451,
-  "Deaths_Last_Week": 101,
-  "Deaths_Last_Week_7Day_Percent": 50.7,
-  "Deaths_Last_Week_Per_Million": 27.71,
+  "Deaths": 452,
+  "Deaths_Last_Week": 102,
+  "Deaths_Last_Week_7Day_Percent": 52.2,
+  "Deaths_Last_Week_Per_Million": 27.99,
   "Deaths_New": 15,
   "Deaths_New_Per_Million": 4.115,
   "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": 0.015,
-  "Deaths_Per_Million": 123
+  "Deaths_Per_Million": 124
  },
  {
   "Cases": 38048,
@@ -7161,10 +7161,10 @@
   "DIVI_Intensivstationen_Covid_Prozent": 19.4,
   "Date": "2020-11-05",
   "Days_Since_2nd_Death": 232,
-  "Deaths": 471,
-  "Deaths_Last_Week": 106,
-  "Deaths_Last_Week_7Day_Percent": 47.2,
-  "Deaths_Last_Week_Per_Million": 29.08,
+  "Deaths": 472,
+  "Deaths_Last_Week": 107,
+  "Deaths_Last_Week_7Day_Percent": 48.6,
+  "Deaths_Last_Week_Per_Million": 29.36,
   "Deaths_New": 20,
   "Deaths_New_Per_Million": 5.487,
   "Deaths_Per_Cases": 0.012,
@@ -7185,9 +7185,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 17.9,
   "Date": "2020-11-06",
   "Days_Since_2nd_Death": 233,
-  "Deaths": 479,
+  "Deaths": 480,
   "Deaths_Last_Week": 96,
-  "Deaths_Last_Week_7Day_Percent": 17.1,
+  "Deaths_Last_Week_7Day_Percent": 15.7,
   "Deaths_Last_Week_Per_Million": 26.34,
   "Deaths_New": 8,
   "Deaths_New_Per_Million": 2.195,
@@ -7209,9 +7209,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 20.3,
   "Date": "2020-11-07",
   "Days_Since_2nd_Death": 234,
-  "Deaths": 486,
+  "Deaths": 487,
   "Deaths_Last_Week": 97,
-  "Deaths_Last_Week_7Day_Percent": 12.8,
+  "Deaths_Last_Week_7Day_Percent": 11.5,
   "Deaths_Last_Week_Per_Million": 26.61,
   "Deaths_New": 7,
   "Deaths_New_Per_Million": 1.921,
@@ -7233,9 +7233,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 20.6,
   "Date": "2020-11-08",
   "Days_Since_2nd_Death": 235,
-  "Deaths": 489,
+  "Deaths": 490,
   "Deaths_Last_Week": 93,
-  "Deaths_Last_Week_7Day_Percent": 4.5,
+  "Deaths_Last_Week_7Day_Percent": 3.3,
   "Deaths_Last_Week_Per_Million": 25.52,
   "Deaths_New": 3,
   "Deaths_New_Per_Million": 0.823,
@@ -7257,9 +7257,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 21.2,
   "Date": "2020-11-09",
   "Days_Since_2nd_Death": 236,
-  "Deaths": 516,
+  "Deaths": 517,
   "Deaths_Last_Week": 99,
-  "Deaths_Last_Week_7Day_Percent": 4.2,
+  "Deaths_Last_Week_7Day_Percent": 3.1,
   "Deaths_Last_Week_Per_Million": 27.16,
   "Deaths_New": 27,
   "Deaths_New_Per_Million": 7.408,
@@ -7281,9 +7281,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 21.5,
   "Date": "2020-11-10",
   "Days_Since_2nd_Death": 237,
-  "Deaths": 534,
+  "Deaths": 535,
   "Deaths_Last_Week": 98,
-  "Deaths_Last_Week_7Day_Percent": -4.9,
+  "Deaths_Last_Week_7Day_Percent": -5.8,
   "Deaths_Last_Week_Per_Million": 26.89,
   "Deaths_New": 18,
   "Deaths_New_Per_Million": 4.939,
@@ -7305,9 +7305,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 21.7,
   "Date": "2020-11-11",
   "Days_Since_2nd_Death": 238,
-  "Deaths": 555,
+  "Deaths": 556,
   "Deaths_Last_Week": 104,
-  "Deaths_Last_Week_7Day_Percent": 3.0,
+  "Deaths_Last_Week_7Day_Percent": 2.0,
   "Deaths_Last_Week_Per_Million": 28.53,
   "Deaths_New": 21,
   "Deaths_New_Per_Million": 5.762,
@@ -7329,9 +7329,9 @@
   "DIVI_Intensivstationen_Covid_Prozent": 21.7,
   "Date": "2020-11-12",
   "Days_Since_2nd_Death": 239,
-  "Deaths": 571,
+  "Deaths": 572,
   "Deaths_Last_Week": 100,
-  "Deaths_Last_Week_7Day_Percent": -5.7,
+  "Deaths_Last_Week_7Day_Percent": -6.5,
   "Deaths_Last_Week_Per_Million": 27.44,
   "Deaths_New": 16,
   "Deaths_New_Per_Million": 4.39,
@@ -7353,7 +7353,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 22.5,
   "Date": "2020-11-13",
   "Days_Since_2nd_Death": 240,
-  "Deaths": 590,
+  "Deaths": 591,
   "Deaths_Last_Week": 111,
   "Deaths_Last_Week_7Day_Percent": 15.6,
   "Deaths_Last_Week_Per_Million": 30.45,
@@ -7361,7 +7361,7 @@
   "Deaths_New_Per_Million": 5.213,
   "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": 0.014,
-  "Deaths_Per_Million": 161
+  "Deaths_Per_Million": 162
  },
  {
   "Cases": 47785,
@@ -7377,7 +7377,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 22.3,
   "Date": "2020-11-14",
   "Days_Since_2nd_Death": 241,
-  "Deaths": 601,
+  "Deaths": 602,
   "Deaths_Last_Week": 115,
   "Deaths_Last_Week_7Day_Percent": 18.6,
   "Deaths_Last_Week_Per_Million": 31.55,
@@ -7385,7 +7385,7 @@
   "Deaths_New_Per_Million": 3.018,
   "Deaths_Per_Cases": 0.013,
   "Deaths_Per_Cases_Last_Week": 0.014,
-  "Deaths_Per_Million": 164
+  "Deaths_Per_Million": 165
  },
  {
   "Cases": 48373,
@@ -7401,7 +7401,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 22.9,
   "Date": "2020-11-15",
   "Days_Since_2nd_Death": 242,
-  "Deaths": 610,
+  "Deaths": 611,
   "Deaths_Last_Week": 121,
   "Deaths_Last_Week_7Day_Percent": 30.1,
   "Deaths_Last_Week_Per_Million": 33.2,
@@ -7412,20 +7412,20 @@
   "Deaths_Per_Million": 167
  },
  {
-  "Cases": 49989,
-  "Cases_Last_Week": 8601,
+  "Cases": 49990,
+  "Cases_Last_Week": 8602,
   "Cases_Last_Week_7Day_Percent": 19.3,
   "Cases_Last_Week_Doubling_Time": 38.0,
-  "Cases_Last_Week_Per_100000": 235.9,
-  "Cases_Last_Week_Per_Million": 2359,
-  "Cases_New": 1616,
+  "Cases_Last_Week_Per_100000": 236.0,
+  "Cases_Last_Week_Per_Million": 2360,
+  "Cases_New": 1617,
   "Cases_New_Per_Million": 443,
   "Cases_Per_Million": 13715,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
   "DIVI_Intensivstationen_Covid_Prozent": 23.1,
   "Date": "2020-11-16",
   "Days_Since_2nd_Death": 243,
-  "Deaths": 643,
+  "Deaths": 644,
   "Deaths_Last_Week": 127,
   "Deaths_Last_Week_7Day_Percent": 28.3,
   "Deaths_Last_Week_Per_Million": 34.84,
@@ -7436,12 +7436,12 @@
   "Deaths_Per_Million": 176
  },
  {
-  "Cases": 51671,
-  "Cases_Last_Week": 8977,
-  "Cases_Last_Week_7Day_Percent": 24.9,
-  "Cases_Last_Week_Doubling_Time": 34.0,
-  "Cases_Last_Week_Per_100000": 246.2,
-  "Cases_Last_Week_Per_Million": 2462,
+  "Cases": 51672,
+  "Cases_Last_Week": 8978,
+  "Cases_Last_Week_7Day_Percent": 25.0,
+  "Cases_Last_Week_Doubling_Time": 33.9,
+  "Cases_Last_Week_Per_100000": 246.3,
+  "Cases_Last_Week_Per_Million": 2463,
   "Cases_New": 1682,
   "Cases_New_Per_Million": 461,
   "Cases_Per_Million": 14176,
@@ -7449,7 +7449,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.2,
   "Date": "2020-11-17",
   "Days_Since_2nd_Death": 244,
-  "Deaths": 662,
+  "Deaths": 663,
   "Deaths_Last_Week": 128,
   "Deaths_Last_Week_7Day_Percent": 30.6,
   "Deaths_Last_Week_Per_Million": 35.12,
@@ -7460,20 +7460,20 @@
   "Deaths_Per_Million": 181
  },
  {
-  "Cases": 53013,
-  "Cases_Last_Week": 8640,
+  "Cases": 53014,
+  "Cases_Last_Week": 8641,
   "Cases_Last_Week_7Day_Percent": 13.3,
   "Cases_Last_Week_Doubling_Time": 35.1,
   "Cases_Last_Week_Per_100000": 237.0,
   "Cases_Last_Week_Per_Million": 2370,
   "Cases_New": 1342,
   "Cases_New_Per_Million": 368,
-  "Cases_Per_Million": 14544,
+  "Cases_Per_Million": 14545,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 23.8,
   "Date": "2020-11-18",
   "Days_Since_2nd_Death": 245,
-  "Deaths": 676,
+  "Deaths": 677,
   "Deaths_Last_Week": 121,
   "Deaths_Last_Week_7Day_Percent": 16.3,
   "Deaths_Last_Week_Per_Million": 33.2,
@@ -7484,8 +7484,8 @@
   "Deaths_Per_Million": 185
  },
  {
-  "Cases": 54459,
-  "Cases_Last_Week": 8527,
+  "Cases": 54460,
+  "Cases_Last_Week": 8528,
   "Cases_Last_Week_7Day_Percent": 8.2,
   "Cases_Last_Week_Doubling_Time": 37.1,
   "Cases_Last_Week_Per_100000": 233.9,
@@ -7497,7 +7497,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 23.8,
   "Date": "2020-11-19",
   "Days_Since_2nd_Death": 246,
-  "Deaths": 699,
+  "Deaths": 700,
   "Deaths_Last_Week": 128,
   "Deaths_Last_Week_7Day_Percent": 28.0,
   "Deaths_Last_Week_Per_Million": 35.12,
@@ -7505,12 +7505,12 @@
   "Deaths_New_Per_Million": 6.31,
   "Deaths_Per_Cases": 0.013,
   "Deaths_Per_Cases_Last_Week": 0.015,
-  "Deaths_Per_Million": 191
+  "Deaths_Per_Million": 192
  },
  {
-  "Cases": 55939,
-  "Cases_Last_Week": 8610,
-  "Cases_Last_Week_7Day_Percent": 6.1,
+  "Cases": 55940,
+  "Cases_Last_Week": 8611,
+  "Cases_Last_Week_7Day_Percent": 6.2,
   "Cases_Last_Week_Doubling_Time": 39.4,
   "Cases_Last_Week_Per_100000": 236.2,
   "Cases_Last_Week_Per_Million": 2362,
@@ -7521,7 +7521,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.1,
   "Date": "2020-11-20",
   "Days_Since_2nd_Death": 247,
-  "Deaths": 725,
+  "Deaths": 726,
   "Deaths_Last_Week": 135,
   "Deaths_Last_Week_7Day_Percent": 21.6,
   "Deaths_Last_Week_Per_Million": 37.04,
@@ -7529,23 +7529,23 @@
   "Deaths_New_Per_Million": 7.133,
   "Deaths_Per_Cases": 0.013,
   "Deaths_Per_Cases_Last_Week": 0.016,
-  "Deaths_Per_Million": 198
+  "Deaths_Per_Million": 199
  },
  {
-  "Cases": 56399,
-  "Cases_Last_Week": 8614,
+  "Cases": 56400,
+  "Cases_Last_Week": 8615,
   "Cases_Last_Week_7Day_Percent": 5.6,
   "Cases_Last_Week_Doubling_Time": 43.1,
   "Cases_Last_Week_Per_100000": 236.3,
   "Cases_Last_Week_Per_Million": 2363,
   "Cases_New": 460,
   "Cases_New_Per_Million": 126,
-  "Cases_Per_Million": 15473,
+  "Cases_Per_Million": 15474,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.6,
   "DIVI_Intensivstationen_Covid_Prozent": 24.0,
   "Date": "2020-11-21",
   "Days_Since_2nd_Death": 248,
-  "Deaths": 729,
+  "Deaths": 730,
   "Deaths_Last_Week": 128,
   "Deaths_Last_Week_7Day_Percent": 11.3,
   "Deaths_Last_Week_Per_Million": 35.12,
@@ -7556,9 +7556,9 @@
   "Deaths_Per_Million": 200
  },
  {
-  "Cases": 56790,
-  "Cases_Last_Week": 8417,
-  "Cases_Last_Week_7Day_Percent": -0.5,
+  "Cases": 56791,
+  "Cases_Last_Week": 8418,
+  "Cases_Last_Week_7Day_Percent": -0.4,
   "Cases_Last_Week_Doubling_Time": 53.3,
   "Cases_Last_Week_Per_100000": 230.9,
   "Cases_Last_Week_Per_Million": 2309,
@@ -7569,7 +7569,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.4,
   "Date": "2020-11-22",
   "Days_Since_2nd_Death": 249,
-  "Deaths": 744,
+  "Deaths": 745,
   "Deaths_Last_Week": 134,
   "Deaths_Last_Week_7Day_Percent": 10.7,
   "Deaths_Last_Week_Per_Million": 36.76,
@@ -7580,7 +7580,7 @@
   "Deaths_Per_Million": 204
  },
  {
-  "Cases": 58391,
+  "Cases": 58392,
   "Cases_Last_Week": 8402,
   "Cases_Last_Week_7Day_Percent": -2.3,
   "Cases_Last_Week_Doubling_Time": 72.3,
@@ -7593,7 +7593,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.1,
   "Date": "2020-11-23",
   "Days_Since_2nd_Death": 250,
-  "Deaths": 782,
+  "Deaths": 783,
   "Deaths_Last_Week": 139,
   "Deaths_Last_Week_7Day_Percent": 9.4,
   "Deaths_Last_Week_Per_Million": 38.14,
@@ -7604,10 +7604,10 @@
   "Deaths_Per_Million": 214
  },
  {
-  "Cases": 59883,
+  "Cases": 59884,
   "Cases_Last_Week": 8212,
   "Cases_Last_Week_7Day_Percent": -8.5,
-  "Cases_Last_Week_Doubling_Time": 139.4,
+  "Cases_Last_Week_Doubling_Time": 139.5,
   "Cases_Last_Week_Per_100000": 225.3,
   "Cases_Last_Week_Per_Million": 2253,
   "Cases_New": 1492,
@@ -7617,7 +7617,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.0,
   "Date": "2020-11-24",
   "Days_Since_2nd_Death": 251,
-  "Deaths": 820,
+  "Deaths": 821,
   "Deaths_Last_Week": 158,
   "Deaths_Last_Week_7Day_Percent": 23.4,
   "Deaths_Last_Week_Per_Million": 43.35,
@@ -7625,10 +7625,10 @@
   "Deaths_New_Per_Million": 10.426,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.019,
-  "Deaths_Per_Million": 224
+  "Deaths_Per_Million": 225
  },
  {
-  "Cases": 61143,
+  "Cases": 61144,
   "Cases_Last_Week": 8130,
   "Cases_Last_Week_7Day_Percent": -5.9,
   "Cases_Last_Week_Doubling_Time": 365.0,
@@ -7641,7 +7641,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 23.3,
   "Date": "2020-11-25",
   "Days_Since_2nd_Death": 252,
-  "Deaths": 856,
+  "Deaths": 857,
   "Deaths_Last_Week": 180,
   "Deaths_Last_Week_7Day_Percent": 48.8,
   "Deaths_Last_Week_Per_Million": 49.39,
@@ -7649,23 +7649,23 @@
   "Deaths_New_Per_Million": 9.877,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.022,
-  "Deaths_Per_Million": 234
+  "Deaths_Per_Million": 235
  },
  {
-  "Cases": 62464,
+  "Cases": 62465,
   "Cases_Last_Week": 8005,
   "Cases_Last_Week_7Day_Percent": -6.1,
-  "Cases_Last_Week_Doubling_Time": -337.3,
+  "Cases_Last_Week_Doubling_Time": -335.5,
   "Cases_Last_Week_Per_100000": 219.6,
   "Cases_Last_Week_Per_Million": 2196,
   "Cases_New": 1321,
   "Cases_New_Per_Million": 362,
-  "Cases_Per_Million": 17137,
+  "Cases_Per_Million": 17138,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.4,
   "DIVI_Intensivstationen_Covid_Prozent": 23.3,
   "Date": "2020-11-26",
   "Days_Since_2nd_Death": 253,
-  "Deaths": 892,
+  "Deaths": 893,
   "Deaths_Last_Week": 193,
   "Deaths_Last_Week_7Day_Percent": 50.8,
   "Deaths_Last_Week_Per_Million": 52.95,
@@ -7673,13 +7673,13 @@
   "Deaths_New_Per_Million": 9.877,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.024,
-  "Deaths_Per_Million": 244
+  "Deaths_Per_Million": 245
  },
  {
-  "Cases": 63772,
+  "Cases": 63773,
   "Cases_Last_Week": 7833,
   "Cases_Last_Week_7Day_Percent": -9.0,
-  "Cases_Last_Week_Doubling_Time": -133.4,
+  "Cases_Last_Week_Doubling_Time": -133.0,
   "Cases_Last_Week_Per_100000": 214.9,
   "Cases_Last_Week_Per_Million": 2149,
   "Cases_New": 1308,
@@ -7689,7 +7689,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 25.1,
   "Date": "2020-11-27",
   "Days_Since_2nd_Death": 254,
-  "Deaths": 926,
+  "Deaths": 927,
   "Deaths_Last_Week": 201,
   "Deaths_Last_Week_7Day_Percent": 48.9,
   "Deaths_Last_Week_Per_Million": 55.15,
@@ -7700,10 +7700,10 @@
   "Deaths_Per_Million": 254
  },
  {
-  "Cases": 64259,
+  "Cases": 64260,
   "Cases_Last_Week": 7860,
   "Cases_Last_Week_7Day_Percent": -8.8,
-  "Cases_Last_Week_Doubling_Time": -86.6,
+  "Cases_Last_Week_Doubling_Time": -86.4,
   "Cases_Last_Week_Per_100000": 215.6,
   "Cases_Last_Week_Per_Million": 2156,
   "Cases_New": 487,
@@ -7713,7 +7713,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 23.7,
   "Date": "2020-11-28",
   "Days_Since_2nd_Death": 255,
-  "Deaths": 937,
+  "Deaths": 938,
   "Deaths_Last_Week": 208,
   "Deaths_Last_Week_7Day_Percent": 62.5,
   "Deaths_Last_Week_Per_Million": 57.07,
@@ -7724,10 +7724,10 @@
   "Deaths_Per_Million": 257
  },
  {
-  "Cases": 64528,
+  "Cases": 64529,
   "Cases_Last_Week": 7738,
   "Cases_Last_Week_7Day_Percent": -8.1,
-  "Cases_Last_Week_Doubling_Time": -69.6,
+  "Cases_Last_Week_Doubling_Time": -69.4,
   "Cases_Last_Week_Per_100000": 212.3,
   "Cases_Last_Week_Per_Million": 2123,
   "Cases_New": 269,
@@ -7737,7 +7737,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.0,
   "Date": "2020-11-29",
   "Days_Since_2nd_Death": 256,
-  "Deaths": 946,
+  "Deaths": 947,
   "Deaths_Last_Week": 202,
   "Deaths_Last_Week_7Day_Percent": 50.7,
   "Deaths_Last_Week_Per_Million": 55.42,
@@ -7748,10 +7748,10 @@
   "Deaths_Per_Million": 259
  },
  {
-  "Cases": 65710,
+  "Cases": 65711,
   "Cases_Last_Week": 7319,
   "Cases_Last_Week_7Day_Percent": -12.9,
-  "Cases_Last_Week_Doubling_Time": -55.7,
+  "Cases_Last_Week_Doubling_Time": -55.6,
   "Cases_Last_Week_Per_100000": 200.8,
   "Cases_Last_Week_Per_Million": 2008,
   "Cases_New": 1182,
@@ -7761,7 +7761,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.4,
   "Date": "2020-11-30",
   "Days_Since_2nd_Death": 257,
-  "Deaths": 977,
+  "Deaths": 978,
   "Deaths_Last_Week": 195,
   "Deaths_Last_Week_7Day_Percent": 40.3,
   "Deaths_Last_Week_Per_Million": 53.5,
@@ -7772,7 +7772,7 @@
   "Deaths_Per_Million": 268
  },
  {
-  "Cases": 66796,
+  "Cases": 66797,
   "Cases_Last_Week": 6913,
   "Cases_Last_Week_7Day_Percent": -15.8,
   "Cases_Last_Week_Doubling_Time": -48.8,
@@ -7785,7 +7785,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.1,
   "Date": "2020-12-01",
   "Days_Since_2nd_Death": 258,
-  "Deaths": 1016,
+  "Deaths": 1017,
   "Deaths_Last_Week": 196,
   "Deaths_Last_Week_7Day_Percent": 24.1,
   "Deaths_Last_Week_Per_Million": 53.78,
@@ -7793,10 +7793,10 @@
   "Deaths_New_Per_Million": 10.7,
   "Deaths_Per_Cases": 0.015,
   "Deaths_Per_Cases_Last_Week": 0.028,
-  "Deaths_Per_Million": 278
+  "Deaths_Per_Million": 279
  },
  {
-  "Cases": 67962,
+  "Cases": 67963,
   "Cases_Last_Week": 6819,
   "Cases_Last_Week_7Day_Percent": -16.1,
   "Cases_Last_Week_Doubling_Time": -41.7,
@@ -7809,7 +7809,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 24.7,
   "Date": "2020-12-02",
   "Days_Since_2nd_Death": 259,
-  "Deaths": 1056,
+  "Deaths": 1057,
   "Deaths_Last_Week": 200,
   "Deaths_Last_Week_7Day_Percent": 11.1,
   "Deaths_Last_Week_Per_Million": 54.87,
@@ -7817,10 +7817,10 @@
   "Deaths_New_Per_Million": 10.975,
   "Deaths_Per_Cases": 0.016,
   "Deaths_Per_Cases_Last_Week": 0.029,
-  "Deaths_Per_Million": 289
+  "Deaths_Per_Million": 290
  },
  {
-  "Cases": 69369,
+  "Cases": 69370,
   "Cases_Last_Week": 6905,
   "Cases_Last_Week_7Day_Percent": -13.7,
   "Cases_Last_Week_Doubling_Time": -37.7,
@@ -7833,7 +7833,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 25.6,
   "Date": "2020-12-03",
   "Days_Since_2nd_Death": 260,
-  "Deaths": 1103,
+  "Deaths": 1104,
   "Deaths_Last_Week": 211,
   "Deaths_Last_Week_7Day_Percent": 9.3,
   "Deaths_Last_Week_Per_Million": 57.89,
@@ -7844,7 +7844,7 @@
   "Deaths_Per_Million": 302
  },
  {
-  "Cases": 70826,
+  "Cases": 70827,
   "Cases_Last_Week": 7054,
   "Cases_Last_Week_7Day_Percent": -9.9,
   "Cases_Last_Week_Doubling_Time": -37.6,
@@ -7857,7 +7857,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 26.1,
   "Date": "2020-12-04",
   "Days_Since_2nd_Death": 261,
-  "Deaths": 1145,
+  "Deaths": 1146,
   "Deaths_Last_Week": 219,
   "Deaths_Last_Week_7Day_Percent": 9.0,
   "Deaths_Last_Week_Per_Million": 60.09,
@@ -7868,7 +7868,7 @@
   "Deaths_Per_Million": 314
  },
  {
-  "Cases": 71256,
+  "Cases": 71257,
   "Cases_Last_Week": 6997,
   "Cases_Last_Week_7Day_Percent": -11.0,
   "Cases_Last_Week_Doubling_Time": -39.0,
@@ -7881,7 +7881,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 27.4,
   "Date": "2020-12-05",
   "Days_Since_2nd_Death": 262,
-  "Deaths": 1161,
+  "Deaths": 1162,
   "Deaths_Last_Week": 224,
   "Deaths_Last_Week_7Day_Percent": 7.7,
   "Deaths_Last_Week_Per_Million": 61.46,
@@ -7892,7 +7892,7 @@
   "Deaths_Per_Million": 318
  },
  {
-  "Cases": 71586,
+  "Cases": 71587,
   "Cases_Last_Week": 7058,
   "Cases_Last_Week_7Day_Percent": -8.8,
   "Cases_Last_Week_Doubling_Time": -41.4,
@@ -7905,7 +7905,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 26.7,
   "Date": "2020-12-06",
   "Days_Since_2nd_Death": 263,
-  "Deaths": 1169,
+  "Deaths": 1170,
   "Deaths_Last_Week": 223,
   "Deaths_Last_Week_7Day_Percent": 10.4,
   "Deaths_Last_Week_Per_Million": 61.18,
@@ -7913,10 +7913,10 @@
   "Deaths_New_Per_Million": 2.195,
   "Deaths_Per_Cases": 0.016,
   "Deaths_Per_Cases_Last_Week": 0.032,
-  "Deaths_Per_Million": 320
+  "Deaths_Per_Million": 321
  },
  {
-  "Cases": 72911,
+  "Cases": 72912,
   "Cases_Last_Week": 7201,
   "Cases_Last_Week_7Day_Percent": -1.6,
   "Cases_Last_Week_Doubling_Time": -48.4,
@@ -7929,7 +7929,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 27.1,
   "Date": "2020-12-07",
   "Days_Since_2nd_Death": 264,
-  "Deaths": 1207,
+  "Deaths": 1208,
   "Deaths_Last_Week": 230,
   "Deaths_Last_Week_7Day_Percent": 17.9,
   "Deaths_Last_Week_Per_Million": 63.1,
@@ -7940,7 +7940,7 @@
   "Deaths_Per_Million": 331
  },
  {
-  "Cases": 74108,
+  "Cases": 74109,
   "Cases_Last_Week": 7312,
   "Cases_Last_Week_7Day_Percent": 5.8,
   "Cases_Last_Week_Doubling_Time": -60.6,
@@ -7953,7 +7953,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 27.6,
   "Date": "2020-12-08",
   "Days_Since_2nd_Death": 265,
-  "Deaths": 1240,
+  "Deaths": 1241,
   "Deaths_Last_Week": 224,
   "Deaths_Last_Week_7Day_Percent": 14.3,
   "Deaths_Last_Week_Per_Million": 61.46,
@@ -7964,7 +7964,7 @@
   "Deaths_Per_Million": 340
  },
  {
-  "Cases": 75535,
+  "Cases": 75536,
   "Cases_Last_Week": 7573,
   "Cases_Last_Week_7Day_Percent": 11.1,
   "Cases_Last_Week_Doubling_Time": -96.1,
@@ -7977,7 +7977,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 27.9,
   "Date": "2020-12-09",
   "Days_Since_2nd_Death": 266,
-  "Deaths": 1277,
+  "Deaths": 1278,
   "Deaths_Last_Week": 221,
   "Deaths_Last_Week_7Day_Percent": 10.5,
   "Deaths_Last_Week_Per_Million": 60.63,
@@ -7988,7 +7988,7 @@
   "Deaths_Per_Million": 350
  },
  {
-  "Cases": 76967,
+  "Cases": 76968,
   "Cases_Last_Week": 7598,
   "Cases_Last_Week_7Day_Percent": 10.0,
   "Cases_Last_Week_Doubling_Time": -232.7,
@@ -7996,12 +7996,12 @@
   "Cases_Last_Week_Per_Million": 2084,
   "Cases_New": 1432,
   "Cases_New_Per_Million": 392,
-  "Cases_Per_Million": 21116,
+  "Cases_Per_Million": 21117,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.2,
   "DIVI_Intensivstationen_Covid_Prozent": 28.1,
   "Date": "2020-12-10",
   "Days_Since_2nd_Death": 267,
-  "Deaths": 1315,
+  "Deaths": 1316,
   "Deaths_Last_Week": 212,
   "Deaths_Last_Week_7Day_Percent": 0.5,
   "Deaths_Last_Week_Per_Million": 58.17,
@@ -8009,10 +8009,10 @@
   "Deaths_New_Per_Million": 10.426,
   "Deaths_Per_Cases": 0.017,
   "Deaths_Per_Cases_Last_Week": 0.028,
-  "Deaths_Per_Million": 360
+  "Deaths_Per_Million": 361
  },
  {
-  "Cases": 78295,
+  "Cases": 78296,
   "Cases_Last_Week": 7469,
   "Cases_Last_Week_7Day_Percent": 5.9,
   "Cases_Last_Week_Doubling_Time": "",
@@ -8025,7 +8025,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 28.5,
   "Date": "2020-12-11",
   "Days_Since_2nd_Death": 268,
-  "Deaths": 1363,
+  "Deaths": 1364,
   "Deaths_Last_Week": 218,
   "Deaths_Last_Week_7Day_Percent": -0.5,
   "Deaths_Last_Week_Per_Million": 59.81,
@@ -8033,10 +8033,10 @@
   "Deaths_New_Per_Million": 13.169,
   "Deaths_Per_Cases": 0.017,
   "Deaths_Per_Cases_Last_Week": 0.029,
-  "Deaths_Per_Million": 373
+  "Deaths_Per_Million": 374
  },
  {
-  "Cases": 78762,
+  "Cases": 78763,
   "Cases_Last_Week": 7506,
   "Cases_Last_Week_7Day_Percent": 7.3,
   "Cases_Last_Week_Doubling_Time": 177.3,
@@ -8049,7 +8049,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 28.2,
   "Date": "2020-12-12",
   "Days_Since_2nd_Death": 269,
-  "Deaths": 1399,
+  "Deaths": 1400,
   "Deaths_Last_Week": 238,
   "Deaths_Last_Week_7Day_Percent": 6.2,
   "Deaths_Last_Week_Per_Million": 65.3,
@@ -8057,10 +8057,10 @@
   "Deaths_New_Per_Million": 9.877,
   "Deaths_Per_Cases": 0.018,
   "Deaths_Per_Cases_Last_Week": 0.032,
-  "Deaths_Per_Million": 383
+  "Deaths_Per_Million": 384
  },
  {
-  "Cases": 79067,
+  "Cases": 79068,
   "Cases_Last_Week": 7481,
   "Cases_Last_Week_7Day_Percent": 6.0,
   "Cases_Last_Week_Doubling_Time": 98.4,
@@ -8073,7 +8073,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 28.5,
   "Date": "2020-12-13",
   "Days_Since_2nd_Death": 270,
-  "Deaths": 1412,
+  "Deaths": 1413,
   "Deaths_Last_Week": 243,
   "Deaths_Last_Week_7Day_Percent": 9.0,
   "Deaths_Last_Week_Per_Million": 66.67,
@@ -8084,7 +8084,7 @@
   "Deaths_Per_Million": 387
  },
  {
-  "Cases": 80597,
+  "Cases": 80598,
   "Cases_Last_Week": 7686,
   "Cases_Last_Week_7Day_Percent": 6.7,
   "Cases_Last_Week_Doubling_Time": 75.6,
@@ -8092,12 +8092,12 @@
   "Cases_Last_Week_Per_Million": 2108,
   "Cases_New": 1530,
   "Cases_New_Per_Million": 419,
-  "Cases_Per_Million": 22112,
+  "Cases_Per_Million": 22113,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.1,
   "DIVI_Intensivstationen_Covid_Prozent": 28.9,
   "Date": "2020-12-14",
   "Days_Since_2nd_Death": 271,
-  "Deaths": 1455,
+  "Deaths": 1456,
   "Deaths_Last_Week": 248,
   "Deaths_Last_Week_7Day_Percent": 7.8,
   "Deaths_Last_Week_Per_Million": 68.04,
@@ -8108,7 +8108,7 @@
   "Deaths_Per_Million": 399
  },
  {
-  "Cases": 81790,
+  "Cases": 81791,
   "Cases_Last_Week": 7682,
   "Cases_Last_Week_7Day_Percent": 5.1,
   "Cases_Last_Week_Doubling_Time": 75.4,
@@ -8121,7 +8121,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 29.4,
   "Date": "2020-12-15",
   "Days_Since_2nd_Death": 272,
-  "Deaths": 1495,
+  "Deaths": 1496,
   "Deaths_Last_Week": 255,
   "Deaths_Last_Week_7Day_Percent": 13.8,
   "Deaths_Last_Week_Per_Million": 69.96,
@@ -8132,7 +8132,7 @@
   "Deaths_Per_Million": 410
  },
  {
-  "Cases": 83356,
+  "Cases": 83357,
   "Cases_Last_Week": 7821,
   "Cases_Last_Week_7Day_Percent": 3.3,
   "Cases_Last_Week_Doubling_Time": 78.0,
@@ -8140,12 +8140,12 @@
   "Cases_Last_Week_Per_Million": 2145,
   "Cases_New": 1566,
   "Cases_New_Per_Million": 429,
-  "Cases_Per_Million": 22869,
+  "Cases_Per_Million": 22870,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.6,
   "DIVI_Intensivstationen_Covid_Prozent": 29.6,
   "Date": "2020-12-16",
   "Days_Since_2nd_Death": 273,
-  "Deaths": 1543,
+  "Deaths": 1544,
   "Deaths_Last_Week": 266,
   "Deaths_Last_Week_7Day_Percent": 20.4,
   "Deaths_Last_Week_Per_Million": 72.98,
@@ -8156,7 +8156,7 @@
   "Deaths_Per_Million": 423
  },
  {
-  "Cases": 85018,
+  "Cases": 85019,
   "Cases_Last_Week": 8051,
   "Cases_Last_Week_7Day_Percent": 6.0,
   "Cases_Last_Week_Doubling_Time": 74.7,
@@ -8164,12 +8164,12 @@
   "Cases_Last_Week_Per_Million": 2208,
   "Cases_New": 1662,
   "Cases_New_Per_Million": 455,
-  "Cases_Per_Million": 23325,
+  "Cases_Per_Million": 23326,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.5,
   "DIVI_Intensivstationen_Covid_Prozent": 30.4,
   "Date": "2020-12-17",
   "Days_Since_2nd_Death": 274,
-  "Deaths": 1601,
+  "Deaths": 1602,
   "Deaths_Last_Week": 286,
   "Deaths_Last_Week_7Day_Percent": 34.9,
   "Deaths_Last_Week_Per_Million": 78.47,
@@ -8180,7 +8180,7 @@
   "Deaths_Per_Million": 439
  },
  {
-  "Cases": 86553,
+  "Cases": 86554,
   "Cases_Last_Week": 8258,
   "Cases_Last_Week_7Day_Percent": 10.6,
   "Cases_Last_Week_Doubling_Time": 66.5,
@@ -8188,12 +8188,12 @@
   "Cases_Last_Week_Per_Million": 2265,
   "Cases_New": 1535,
   "Cases_New_Per_Million": 421,
-  "Cases_Per_Million": 23746,
+  "Cases_Per_Million": 23747,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.3,
   "DIVI_Intensivstationen_Covid_Prozent": 29.0,
   "Date": "2020-12-18",
   "Days_Since_2nd_Death": 275,
-  "Deaths": 1677,
+  "Deaths": 1678,
   "Deaths_Last_Week": 314,
   "Deaths_Last_Week_7Day_Percent": 44.0,
   "Deaths_Last_Week_Per_Million": 86.15,
@@ -8204,7 +8204,7 @@
   "Deaths_Per_Million": 460
  },
  {
-  "Cases": 87056,
+  "Cases": 87057,
   "Cases_Last_Week": 8294,
   "Cases_Last_Week_7Day_Percent": 10.5,
   "Cases_Last_Week_Doubling_Time": 64.6,
@@ -8212,12 +8212,12 @@
   "Cases_Last_Week_Per_Million": 2275,
   "Cases_New": 503,
   "Cases_New_Per_Million": 138,
-  "Cases_Per_Million": 23884,
+  "Cases_Per_Million": 23885,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
   "DIVI_Intensivstationen_Covid_Prozent": 29.8,
   "Date": "2020-12-19",
   "Days_Since_2nd_Death": 276,
-  "Deaths": 1694,
+  "Deaths": 1695,
   "Deaths_Last_Week": 295,
   "Deaths_Last_Week_7Day_Percent": 23.9,
   "Deaths_Last_Week_Per_Million": 80.94,
@@ -8225,10 +8225,10 @@
   "Deaths_New_Per_Million": 4.664,
   "Deaths_Per_Cases": 0.019,
   "Deaths_Per_Cases_Last_Week": 0.036,
-  "Deaths_Per_Million": 464
+  "Deaths_Per_Million": 465
  },
  {
-  "Cases": 87403,
+  "Cases": 87404,
   "Cases_Last_Week": 8336,
   "Cases_Last_Week_7Day_Percent": 11.4,
   "Cases_Last_Week_Doubling_Time": 64.7,
@@ -8241,7 +8241,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 29.5,
   "Date": "2020-12-20",
   "Days_Since_2nd_Death": 277,
-  "Deaths": 1711,
+  "Deaths": 1712,
   "Deaths_Last_Week": 299,
   "Deaths_Last_Week_7Day_Percent": 23.0,
   "Deaths_Last_Week_Per_Million": 82.03,
@@ -8252,7 +8252,7 @@
   "Deaths_Per_Million": 469
  },
  {
-  "Cases": 88984,
+  "Cases": 88985,
   "Cases_Last_Week": 8387,
   "Cases_Last_Week_7Day_Percent": 9.1,
   "Cases_Last_Week_Doubling_Time": 64.5,
@@ -8260,12 +8260,12 @@
   "Cases_Last_Week_Per_Million": 2301,
   "Cases_New": 1581,
   "Cases_New_Per_Million": 433,
-  "Cases_Per_Million": 24413,
+  "Cases_Per_Million": 24414,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.5,
   "DIVI_Intensivstationen_Covid_Prozent": 30.3,
   "Date": "2020-12-21",
   "Days_Since_2nd_Death": 278,
-  "Deaths": 1766,
+  "Deaths": 1767,
   "Deaths_Last_Week": 311,
   "Deaths_Last_Week_7Day_Percent": 25.4,
   "Deaths_Last_Week_Per_Million": 85.33,
@@ -8276,7 +8276,7 @@
   "Deaths_Per_Million": 484
  },
  {
-  "Cases": 90432,
+  "Cases": 90433,
   "Cases_Last_Week": 8642,
   "Cases_Last_Week_7Day_Percent": 12.5,
   "Cases_Last_Week_Doubling_Time": 60.1,
@@ -8289,7 +8289,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 30.5,
   "Date": "2020-12-22",
   "Days_Since_2nd_Death": 279,
-  "Deaths": 1810,
+  "Deaths": 1811,
   "Deaths_Last_Week": 315,
   "Deaths_Last_Week_7Day_Percent": 23.5,
   "Deaths_Last_Week_Per_Million": 86.42,
@@ -8300,7 +8300,7 @@
   "Deaths_Per_Million": 496
  },
  {
-  "Cases": 92005,
+  "Cases": 92006,
   "Cases_Last_Week": 8649,
   "Cases_Last_Week_7Day_Percent": 10.6,
   "Cases_Last_Week_Doubling_Time": 55.1,
@@ -8308,12 +8308,12 @@
   "Cases_Last_Week_Per_Million": 2372,
   "Cases_New": 1573,
   "Cases_New_Per_Million": 431,
-  "Cases_Per_Million": 25242,
+  "Cases_Per_Million": 25243,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 30.3,
   "Date": "2020-12-23",
   "Days_Since_2nd_Death": 280,
-  "Deaths": 1868,
+  "Deaths": 1869,
   "Deaths_Last_Week": 325,
   "Deaths_Last_Week_7Day_Percent": 22.2,
   "Deaths_Last_Week_Per_Million": 89.17,
@@ -8324,7 +8324,7 @@
   "Deaths_Per_Million": 512
  },
  {
-  "Cases": 92599,
+  "Cases": 92600,
   "Cases_Last_Week": 7581,
   "Cases_Last_Week_7Day_Percent": -5.8,
   "Cases_Last_Week_Doubling_Time": 74.7,
@@ -8332,12 +8332,12 @@
   "Cases_Last_Week_Per_Million": 2079,
   "Cases_New": 594,
   "Cases_New_Per_Million": 162,
-  "Cases_Per_Million": 25405,
+  "Cases_Per_Million": 25406,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.8,
   "DIVI_Intensivstationen_Covid_Prozent": 31.6,
   "Date": "2020-12-24",
   "Days_Since_2nd_Death": 281,
-  "Deaths": 1897,
+  "Deaths": 1898,
   "Deaths_Last_Week": 296,
   "Deaths_Last_Week_7Day_Percent": 3.5,
   "Deaths_Last_Week_Per_Million": 81.21,
@@ -8348,7 +8348,7 @@
   "Deaths_Per_Million": 520
  },
  {
-  "Cases": 92780,
+  "Cases": 92781,
   "Cases_Last_Week": 6227,
   "Cases_Last_Week_7Day_Percent": -24.6,
   "Cases_Last_Week_Doubling_Time": 365.0,
@@ -8361,7 +8361,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 32.1,
   "Date": "2020-12-25",
   "Days_Since_2nd_Death": 282,
-  "Deaths": 1906,
+  "Deaths": 1907,
   "Deaths_Last_Week": 229,
   "Deaths_Last_Week_7Day_Percent": -27.1,
   "Deaths_Last_Week_Per_Million": 62.83,
@@ -8369,10 +8369,10 @@
   "Deaths_New_Per_Million": 2.469,
   "Deaths_Per_Cases": 0.021,
   "Deaths_Per_Cases_Last_Week": 0.037,
-  "Deaths_Per_Million": 522
+  "Deaths_Per_Million": 523
  },
  {
-  "Cases": 93474,
+  "Cases": 93475,
   "Cases_Last_Week": 6418,
   "Cases_Last_Week_7Day_Percent": -22.6,
   "Cases_Last_Week_Doubling_Time": -121.6,
@@ -8380,12 +8380,12 @@
   "Cases_Last_Week_Per_Million": 1760,
   "Cases_New": 694,
   "Cases_New_Per_Million": 190,
-  "Cases_Per_Million": 25645,
+  "Cases_Per_Million": 25646,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
   "DIVI_Intensivstationen_Covid_Prozent": 32.3,
   "Date": "2020-12-26",
   "Days_Since_2nd_Death": 283,
-  "Deaths": 1944,
+  "Deaths": 1945,
   "Deaths_Last_Week": 250,
   "Deaths_Last_Week_7Day_Percent": -15.3,
   "Deaths_Last_Week_Per_Million": 68.59,
@@ -8396,7 +8396,7 @@
   "Deaths_Per_Million": 533
  },
  {
-  "Cases": 93961,
+  "Cases": 93962,
   "Cases_Last_Week": 6558,
   "Cases_Last_Week_7Day_Percent": -21.3,
   "Cases_Last_Week_Doubling_Time": -60.3,
@@ -8409,7 +8409,7 @@
   "DIVI_Intensivstationen_Covid_Prozent": 32.7,
   "Date": "2020-12-27",
   "Days_Since_2nd_Death": 284,
-  "Deaths": 1966,
+  "Deaths": 1967,
   "Deaths_Last_Week": 255,
   "Deaths_Last_Week_7Day_Percent": -14.7,
   "Deaths_Last_Week_Per_Million": 69.96,
@@ -8421,35 +8421,35 @@
  },
  {
   "Cases": 95121,
-  "Cases_Last_Week": 6137,
+  "Cases_Last_Week": 6136,
   "Cases_Last_Week_7Day_Percent": -26.8,
   "Cases_Last_Week_Doubling_Time": -39.3,
   "Cases_Last_Week_Per_100000": 168.3,
   "Cases_Last_Week_Per_Million": 1683,
-  "Cases_New": 1160,
-  "Cases_New_Per_Million": 318,
+  "Cases_New": 1159,
+  "Cases_New_Per_Million": 317,
   "Cases_Per_Million": 26097,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.0,
   "DIVI_Intensivstationen_Covid_Prozent": 32.1,
   "Date": "2020-12-28",
   "Days_Since_2nd_Death": 285,
   "Deaths": 2042,
-  "Deaths_Last_Week": 276,
-  "Deaths_Last_Week_7Day_Percent": -11.3,
-  "Deaths_Last_Week_Per_Million": 75.72,
-  "Deaths_New": 76,
-  "Deaths_New_Per_Million": 20.852,
+  "Deaths_Last_Week": 275,
+  "Deaths_Last_Week_7Day_Percent": -11.6,
+  "Deaths_Last_Week_Per_Million": 75.45,
+  "Deaths_New": 75,
+  "Deaths_New_Per_Million": 20.577,
   "Deaths_Per_Cases": 0.021,
   "Deaths_Per_Cases_Last_Week": 0.045,
   "Deaths_Per_Million": 560
  },
  {
   "Cases": 96330,
-  "Cases_Last_Week": 5898,
+  "Cases_Last_Week": 5897,
   "Cases_Last_Week_7Day_Percent": -31.8,
   "Cases_Last_Week_Doubling_Time": -28.6,
-  "Cases_Last_Week_Per_100000": 161.8,
-  "Cases_Last_Week_Per_Million": 1618,
+  "Cases_Last_Week_Per_100000": 161.7,
+  "Cases_Last_Week_Per_Million": 1617,
   "Cases_New": 1209,
   "Cases_New_Per_Million": 331,
   "Cases_Per_Million": 26429,
@@ -8458,9 +8458,9 @@
   "Date": "2020-12-29",
   "Days_Since_2nd_Death": 286,
   "Deaths": 2089,
-  "Deaths_Last_Week": 279,
-  "Deaths_Last_Week_7Day_Percent": -11.4,
-  "Deaths_Last_Week_Per_Million": 76.55,
+  "Deaths_Last_Week": 278,
+  "Deaths_Last_Week_7Day_Percent": -11.7,
+  "Deaths_Last_Week_Per_Million": 76.27,
   "Deaths_New": 47,
   "Deaths_New_Per_Million": 12.895,
   "Deaths_Per_Cases": 0.022,
@@ -8469,11 +8469,11 @@
  },
  {
   "Cases": 97378,
-  "Cases_Last_Week": 5373,
+  "Cases_Last_Week": 5372,
   "Cases_Last_Week_7Day_Percent": -37.9,
   "Cases_Last_Week_Doubling_Time": -21.9,
-  "Cases_Last_Week_Per_100000": 147.4,
-  "Cases_Last_Week_Per_Million": 1474,
+  "Cases_Last_Week_Per_100000": 147.3,
+  "Cases_Last_Week_Per_Million": 1473,
   "Cases_New": 1048,
   "Cases_New_Per_Million": 287,
   "Cases_Per_Million": 26716,
@@ -8482,9 +8482,9 @@
   "Date": "2020-12-30",
   "Days_Since_2nd_Death": 287,
   "Deaths": 2122,
-  "Deaths_Last_Week": 254,
-  "Deaths_Last_Week_7Day_Percent": -21.8,
-  "Deaths_Last_Week_Per_Million": 69.69,
+  "Deaths_Last_Week": 253,
+  "Deaths_Last_Week_7Day_Percent": -22.2,
+  "Deaths_Last_Week_Per_Million": 69.41,
   "Deaths_New": 33,
   "Deaths_New_Per_Million": 9.054,
   "Deaths_Per_Cases": 0.022,
@@ -8493,7 +8493,7 @@
  },
  {
   "Cases": 97860,
-  "Cases_Last_Week": 5261,
+  "Cases_Last_Week": 5260,
   "Cases_Last_Week_7Day_Percent": -30.6,
   "Cases_Last_Week_Doubling_Time": -18.3,
   "Cases_Last_Week_Per_100000": 144.3,
@@ -8506,9 +8506,9 @@
   "Date": "2020-12-31",
   "Days_Since_2nd_Death": 288,
   "Deaths": 2140,
-  "Deaths_Last_Week": 243,
-  "Deaths_Last_Week_7Day_Percent": -17.9,
-  "Deaths_Last_Week_Per_Million": 66.67,
+  "Deaths_Last_Week": 242,
+  "Deaths_Last_Week_7Day_Percent": -18.2,
+  "Deaths_Last_Week_Per_Million": 66.4,
   "Deaths_New": 18,
   "Deaths_New_Per_Million": 4.939,
   "Deaths_Per_Cases": 0.022,
@@ -8517,8 +8517,8 @@
  },
  {
   "Cases": 98133,
-  "Cases_Last_Week": 5353,
-  "Cases_Last_Week_7Day_Percent": -14.0,
+  "Cases_Last_Week": 5352,
+  "Cases_Last_Week_7Day_Percent": -14.1,
   "Cases_Last_Week_Doubling_Time": -16.5,
   "Cases_Last_Week_Per_100000": 146.8,
   "Cases_Last_Week_Per_Million": 1468,
@@ -8530,9 +8530,9 @@
   "Date": "2021-01-01",
   "Days_Since_2nd_Death": 289,
   "Deaths": 2146,
-  "Deaths_Last_Week": 240,
-  "Deaths_Last_Week_7Day_Percent": 4.8,
-  "Deaths_Last_Week_Per_Million": 65.85,
+  "Deaths_Last_Week": 239,
+  "Deaths_Last_Week_7Day_Percent": 4.4,
+  "Deaths_Last_Week_Per_Million": 65.57,
   "Deaths_New": 6,
   "Deaths_New_Per_Million": 1.646,
   "Deaths_Per_Cases": 0.022,
@@ -8541,8 +8541,8 @@
  },
  {
   "Cases": 98612,
-  "Cases_Last_Week": 5138,
-  "Cases_Last_Week_7Day_Percent": -19.9,
+  "Cases_Last_Week": 5137,
+  "Cases_Last_Week_7Day_Percent": -20.0,
   "Cases_Last_Week_Doubling_Time": -15.3,
   "Cases_Last_Week_Per_100000": 140.9,
   "Cases_Last_Week_Per_Million": 1409,
@@ -8554,9 +8554,9 @@
   "Date": "2021-01-02",
   "Days_Since_2nd_Death": 290,
   "Deaths": 2165,
-  "Deaths_Last_Week": 221,
-  "Deaths_Last_Week_7Day_Percent": -11.6,
-  "Deaths_Last_Week_Per_Million": 60.63,
+  "Deaths_Last_Week": 220,
+  "Deaths_Last_Week_7Day_Percent": -12.0,
+  "Deaths_Last_Week_Per_Million": 60.36,
   "Deaths_New": 19,
   "Deaths_New_Per_Million": 5.213,
   "Deaths_Per_Cases": 0.022,
@@ -8565,7 +8565,7 @@
  },
  {
   "Cases": 99069,
-  "Cases_Last_Week": 5108,
+  "Cases_Last_Week": 5107,
   "Cases_Last_Week_7Day_Percent": -22.1,
   "Cases_Last_Week_Doubling_Time": -14.8,
   "Cases_Last_Week_Per_100000": 140.1,
@@ -8578,9 +8578,9 @@
   "Date": "2021-01-03",
   "Days_Since_2nd_Death": 291,
   "Deaths": 2197,
-  "Deaths_Last_Week": 231,
-  "Deaths_Last_Week_7Day_Percent": -9.4,
-  "Deaths_Last_Week_Per_Million": 63.38,
+  "Deaths_Last_Week": 230,
+  "Deaths_Last_Week_7Day_Percent": -9.8,
+  "Deaths_Last_Week_Per_Million": 63.1,
   "Deaths_New": 32,
   "Deaths_New_Per_Million": 8.78,
   "Deaths_Per_Cases": 0.022,
@@ -8603,7 +8603,7 @@
   "Days_Since_2nd_Death": 292,
   "Deaths": 2242,
   "Deaths_Last_Week": 200,
-  "Deaths_Last_Week_7Day_Percent": -27.5,
+  "Deaths_Last_Week_7Day_Percent": -27.3,
   "Deaths_Last_Week_Per_Million": 54.87,
   "Deaths_New": 45,
   "Deaths_New_Per_Million": 12.346,
@@ -8627,7 +8627,7 @@
   "Days_Since_2nd_Death": 293,
   "Deaths": 2302,
   "Deaths_Last_Week": 213,
-  "Deaths_Last_Week_7Day_Percent": -23.7,
+  "Deaths_Last_Week_7Day_Percent": -23.4,
   "Deaths_Last_Week_Per_Million": 58.44,
   "Deaths_New": 60,
   "Deaths_New_Per_Million": 16.462,
@@ -8651,7 +8651,7 @@
   "Days_Since_2nd_Death": 294,
   "Deaths": 2348,
   "Deaths_Last_Week": 226,
-  "Deaths_Last_Week_7Day_Percent": -11.0,
+  "Deaths_Last_Week_7Day_Percent": -10.7,
   "Deaths_Last_Week_Per_Million": 62.01,
   "Deaths_New": 46,
   "Deaths_New_Per_Million": 12.621,
@@ -8675,7 +8675,7 @@
   "Days_Since_2nd_Death": 295,
   "Deaths": 2406,
   "Deaths_Last_Week": 266,
-  "Deaths_Last_Week_7Day_Percent": 9.5,
+  "Deaths_Last_Week_7Day_Percent": 9.9,
   "Deaths_Last_Week_Per_Million": 72.98,
   "Deaths_New": 58,
   "Deaths_New_Per_Million": 15.913,
@@ -8687,7 +8687,7 @@
   "Cases": 105525,
   "Cases_Last_Week": 7392,
   "Cases_Last_Week_7Day_Percent": 38.1,
-  "Cases_Last_Week_Doubling_Time": -242.2,
+  "Cases_Last_Week_Doubling_Time": -243.7,
   "Cases_Last_Week_Per_100000": 202.8,
   "Cases_Last_Week_Per_Million": 2028,
   "Cases_New": 1269,
@@ -8699,7 +8699,7 @@
   "Days_Since_2nd_Death": 296,
   "Deaths": 2442,
   "Deaths_Last_Week": 296,
-  "Deaths_Last_Week_7Day_Percent": 23.3,
+  "Deaths_Last_Week_7Day_Percent": 23.8,
   "Deaths_Last_Week_Per_Million": 81.21,
   "Deaths_New": 36,
   "Deaths_New_Per_Million": 9.877,
@@ -8710,8 +8710,8 @@
  {
   "Cases": 105941,
   "Cases_Last_Week": 7329,
-  "Cases_Last_Week_7Day_Percent": 42.6,
-  "Cases_Last_Week_Doubling_Time": 66.3,
+  "Cases_Last_Week_7Day_Percent": 42.7,
+  "Cases_Last_Week_Doubling_Time": 66.1,
   "Cases_Last_Week_Per_100000": 201.0,
   "Cases_Last_Week_Per_Million": 2010,
   "Cases_New": 416,
@@ -8723,7 +8723,7 @@
   "Days_Since_2nd_Death": 297,
   "Deaths": 2454,
   "Deaths_Last_Week": 289,
-  "Deaths_Last_Week_7Day_Percent": 30.8,
+  "Deaths_Last_Week_7Day_Percent": 31.4,
   "Deaths_Last_Week_Per_Million": 79.29,
   "Deaths_New": 12,
   "Deaths_New_Per_Million": 3.292,
@@ -8734,8 +8734,8 @@
  {
   "Cases": 106151,
   "Cases_Last_Week": 7082,
-  "Cases_Last_Week_7Day_Percent": 38.6,
-  "Cases_Last_Week_Doubling_Time": 31.6,
+  "Cases_Last_Week_7Day_Percent": 38.7,
+  "Cases_Last_Week_Doubling_Time": 31.5,
   "Cases_Last_Week_Per_100000": 194.3,
   "Cases_Last_Week_Per_Million": 1943,
   "Cases_New": 210,
@@ -8747,7 +8747,7 @@
   "Days_Since_2nd_Death": 298,
   "Deaths": 2465,
   "Deaths_Last_Week": 268,
-  "Deaths_Last_Week_7Day_Percent": 16.0,
+  "Deaths_Last_Week_7Day_Percent": 16.5,
   "Deaths_Last_Week_Per_Million": 73.53,
   "Deaths_New": 11,
   "Deaths_New_Per_Million": 3.018,
@@ -9164,13 +9164,13 @@
   "Deaths_Per_Million": 800
  },
  {
-  "Cases": 118636,
-  "Cases_Last_Week": 3403,
-  "Cases_Last_Week_7Day_Percent": -22.4,
+  "Cases": 118635,
+  "Cases_Last_Week": 3402,
+  "Cases_Last_Week_7Day_Percent": -22.5,
   "Cases_Last_Week_Doubling_Time": -14.2,
   "Cases_Last_Week_Per_100000": 93.3,
   "Cases_Last_Week_Per_Million": 933,
-  "Cases_New": 487,
+  "Cases_New": 486,
   "Cases_New_Per_Million": 133,
   "Cases_Per_Million": 32549,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.5,
@@ -9188,8 +9188,8 @@
   "Deaths_Per_Million": 803
  },
  {
-  "Cases": 119146,
-  "Cases_Last_Week": 3253,
+  "Cases": 119145,
+  "Cases_Last_Week": 3252,
   "Cases_Last_Week_7Day_Percent": -22.0,
   "Cases_Last_Week_Doubling_Time": -14.3,
   "Cases_Last_Week_Per_100000": 89.2,
@@ -9212,8 +9212,8 @@
   "Deaths_Per_Million": 807
  },
  {
-  "Cases": 119322,
-  "Cases_Last_Week": 3163,
+  "Cases": 119321,
+  "Cases_Last_Week": 3162,
   "Cases_Last_Week_7Day_Percent": -23.7,
   "Cases_Last_Week_Doubling_Time": -14.9,
   "Cases_Last_Week_Per_100000": 86.7,
@@ -9236,8 +9236,8 @@
   "Deaths_Per_Million": 810
  },
  {
-  "Cases": 119378,
-  "Cases_Last_Week": 3163,
+  "Cases": 119377,
+  "Cases_Last_Week": 3162,
   "Cases_Last_Week_7Day_Percent": -21.6,
   "Cases_Last_Week_Doubling_Time": -17.0,
   "Cases_Last_Week_Per_100000": 86.7,
@@ -9260,15 +9260,15 @@
   "Deaths_Per_Million": 811
  },
  {
-  "Cases": 119998,
-  "Cases_Last_Week": 3178,
+  "Cases": 119997,
+  "Cases_Last_Week": 3177,
   "Cases_Last_Week_7Day_Percent": -20.4,
   "Cases_Last_Week_Doubling_Time": -18.6,
   "Cases_Last_Week_Per_100000": 87.1,
   "Cases_Last_Week_Per_Million": 871,
   "Cases_New": 620,
   "Cases_New_Per_Million": 170,
-  "Cases_Per_Million": 32923,
+  "Cases_Per_Million": 32922,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.3,
   "DIVI_Intensivstationen_Covid_Prozent": 27.0,
   "Date": "2021-02-01",
@@ -9284,8 +9284,8 @@
   "Deaths_Per_Million": 818
  },
  {
-  "Cases": 120503,
-  "Cases_Last_Week": 2999,
+  "Cases": 120502,
+  "Cases_Last_Week": 2998,
   "Cases_Last_Week_7Day_Percent": -20.9,
   "Cases_Last_Week_Doubling_Time": -20.1,
   "Cases_Last_Week_Per_100000": 82.2,
@@ -9308,9 +9308,9 @@
   "Deaths_Per_Million": 823
  },
  {
-  "Cases": 120987,
-  "Cases_Last_Week": 2838,
-  "Cases_Last_Week_7Day_Percent": -20.6,
+  "Cases": 120986,
+  "Cases_Last_Week": 2837,
+  "Cases_Last_Week_7Day_Percent": -20.7,
   "Cases_Last_Week_Doubling_Time": -20.9,
   "Cases_Last_Week_Per_100000": 77.8,
   "Cases_Last_Week_Per_Million": 778,
@@ -9332,7 +9332,7 @@
   "Deaths_Per_Million": 828
  },
  {
-  "Cases": 121417,
+  "Cases": 121416,
   "Cases_Last_Week": 2781,
   "Cases_Last_Week_7Day_Percent": -18.3,
   "Cases_Last_Week_Doubling_Time": -20.8,
@@ -9356,9 +9356,9 @@
   "Deaths_Per_Million": 834
  },
  {
-  "Cases": 121805,
+  "Cases": 121804,
   "Cases_Last_Week": 2659,
-  "Cases_Last_Week_7Day_Percent": -18.3,
+  "Cases_Last_Week_7Day_Percent": -18.2,
   "Cases_Last_Week_Doubling_Time": -20.2,
   "Cases_Last_Week_Per_100000": 72.9,
   "Cases_Last_Week_Per_Million": 729,
@@ -9380,9 +9380,9 @@
   "Deaths_Per_Million": 839
  },
  {
-  "Cases": 122002,
+  "Cases": 122001,
   "Cases_Last_Week": 2680,
-  "Cases_Last_Week_7Day_Percent": -15.3,
+  "Cases_Last_Week_7Day_Percent": -15.2,
   "Cases_Last_Week_Doubling_Time": -20.7,
   "Cases_Last_Week_Per_100000": 73.5,
   "Cases_Last_Week_Per_Million": 735,
@@ -9404,9 +9404,9 @@
   "Deaths_Per_Million": 840
  },
  {
-  "Cases": 122027,
+  "Cases": 122026,
   "Cases_Last_Week": 2649,
-  "Cases_Last_Week_7Day_Percent": -16.3,
+  "Cases_Last_Week_7Day_Percent": -16.2,
   "Cases_Last_Week_Doubling_Time": -21.7,
   "Cases_Last_Week_Per_100000": 72.6,
   "Cases_Last_Week_Per_Million": 726,
@@ -9428,7 +9428,7 @@
   "Deaths_Per_Million": 841
  },
  {
-  "Cases": 122445,
+  "Cases": 122444,
   "Cases_Last_Week": 2447,
   "Cases_Last_Week_7Day_Percent": -23.0,
   "Cases_Last_Week_Doubling_Time": -22.9,
@@ -9452,9 +9452,9 @@
   "Deaths_Per_Million": 845
  },
  {
-  "Cases": 122906,
+  "Cases": 122905,
   "Cases_Last_Week": 2403,
-  "Cases_Last_Week_7Day_Percent": -19.9,
+  "Cases_Last_Week_7Day_Percent": -19.8,
   "Cases_Last_Week_Doubling_Time": -24.1,
   "Cases_Last_Week_Per_100000": 65.9,
   "Cases_Last_Week_Per_Million": 659,
@@ -9476,7 +9476,7 @@
   "Deaths_Per_Million": 847
  },
  {
-  "Cases": 123326,
+  "Cases": 123325,
   "Cases_Last_Week": 2339,
   "Cases_Last_Week_7Day_Percent": -17.6,
   "Cases_Last_Week_Doubling_Time": -24.5,
@@ -9484,7 +9484,7 @@
   "Cases_Last_Week_Per_Million": 641,
   "Cases_New": 420,
   "Cases_New_Per_Million": 115,
-  "Cases_Per_Million": 33836,
+  "Cases_Per_Million": 33835,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.2,
   "DIVI_Intensivstationen_Covid_Prozent": 23.1,
   "Date": "2021-02-10",
@@ -9500,7 +9500,7 @@
   "Deaths_Per_Million": 849
  },
  {
-  "Cases": 123705,
+  "Cases": 123704,
   "Cases_Last_Week": 2288,
   "Cases_Last_Week_7Day_Percent": -17.7,
   "Cases_Last_Week_Doubling_Time": -24.4,
@@ -9508,7 +9508,7 @@
   "Cases_Last_Week_Per_Million": 627,
   "Cases_New": 379,
   "Cases_New_Per_Million": 103,
-  "Cases_Per_Million": 33940,
+  "Cases_Per_Million": 33939,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
   "DIVI_Intensivstationen_Covid_Prozent": 22.5,
   "Date": "2021-02-11",
@@ -9524,7 +9524,7 @@
   "Deaths_Per_Million": 851
  },
  {
-  "Cases": 124037,
+  "Cases": 124036,
   "Cases_Last_Week": 2232,
   "Cases_Last_Week_7Day_Percent": -16.1,
   "Cases_Last_Week_Doubling_Time": -23.8,
@@ -9532,7 +9532,7 @@
   "Cases_Last_Week_Per_Million": 612,
   "Cases_New": 332,
   "Cases_New_Per_Million": 91,
-  "Cases_Per_Million": 34031,
+  "Cases_Per_Million": 34030,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
   "DIVI_Intensivstationen_Covid_Prozent": 21.6,
   "Date": "2021-02-12",
@@ -9548,7 +9548,7 @@
   "Deaths_Per_Million": 855
  },
  {
-  "Cases": 124134,
+  "Cases": 124133,
   "Cases_Last_Week": 2132,
   "Cases_Last_Week_7Day_Percent": -20.4,
   "Cases_Last_Week_Doubling_Time": -22.7,
@@ -9572,7 +9572,7 @@
   "Deaths_Per_Million": 857
  },
  {
-  "Cases": 124169,
+  "Cases": 124168,
   "Cases_Last_Week": 2142,
   "Cases_Last_Week_7Day_Percent": -19.1,
   "Cases_Last_Week_Doubling_Time": -23.1,
@@ -9596,7 +9596,7 @@
   "Deaths_Per_Million": 857
  },
  {
-  "Cases": 124540,
+  "Cases": 124539,
   "Cases_Last_Week": 2095,
   "Cases_Last_Week_7Day_Percent": -14.4,
   "Cases_Last_Week_Doubling_Time": -24.9,
@@ -9604,7 +9604,7 @@
   "Cases_Last_Week_Per_Million": 574,
   "Cases_New": 371,
   "Cases_New_Per_Million": 101,
-  "Cases_Per_Million": 34169,
+  "Cases_Per_Million": 34168,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.3,
   "DIVI_Intensivstationen_Covid_Prozent": 21.7,
   "Date": "2021-02-15",
@@ -9620,7 +9620,7 @@
   "Deaths_Per_Million": 862
  },
  {
-  "Cases": 124910,
+  "Cases": 124909,
   "Cases_Last_Week": 2004,
   "Cases_Last_Week_7Day_Percent": -16.6,
   "Cases_Last_Week_Doubling_Time": -25.6,
@@ -9644,7 +9644,7 @@
   "Deaths_Per_Million": 864
  },
  {
-  "Cases": 125356,
+  "Cases": 125355,
   "Cases_Last_Week": 2030,
   "Cases_Last_Week_7Day_Percent": -13.2,
   "Cases_Last_Week_Doubling_Time": -26.2,
@@ -9652,7 +9652,7 @@
   "Cases_Last_Week_Per_Million": 556,
   "Cases_New": 446,
   "Cases_New_Per_Million": 122,
-  "Cases_Per_Million": 34393,
+  "Cases_Per_Million": 34392,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.7,
   "DIVI_Intensivstationen_Covid_Prozent": 20.5,
   "Date": "2021-02-17",
@@ -9668,7 +9668,7 @@
   "Deaths_Per_Million": 865
  },
  {
-  "Cases": 125739,
+  "Cases": 125738,
   "Cases_Last_Week": 2034,
   "Cases_Last_Week_7Day_Percent": -11.1,
   "Cases_Last_Week_Doubling_Time": -27.9,
@@ -9676,7 +9676,7 @@
   "Cases_Last_Week_Per_Million": 558,
   "Cases_New": 383,
   "Cases_New_Per_Million": 105,
-  "Cases_Per_Million": 34498,
+  "Cases_Per_Million": 34497,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
   "DIVI_Intensivstationen_Covid_Prozent": 20.2,
   "Date": "2021-02-18",
@@ -9692,7 +9692,7 @@
   "Deaths_Per_Million": 867
  },
  {
-  "Cases": 126111,
+  "Cases": 126110,
   "Cases_Last_Week": 2074,
   "Cases_Last_Week_7Day_Percent": -7.1,
   "Cases_Last_Week_Doubling_Time": -30.2,
@@ -9700,7 +9700,7 @@
   "Cases_Last_Week_Per_Million": 569,
   "Cases_New": 372,
   "Cases_New_Per_Million": 102,
-  "Cases_Per_Million": 34600,
+  "Cases_Per_Million": 34599,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.6,
   "DIVI_Intensivstationen_Covid_Prozent": 20.3,
   "Date": "2021-02-19",
@@ -9716,7 +9716,7 @@
   "Deaths_Per_Million": 868
  },
  {
-  "Cases": 126287,
+  "Cases": 126286,
   "Cases_Last_Week": 2153,
   "Cases_Last_Week_7Day_Percent": 1.0,
   "Cases_Last_Week_Doubling_Time": -37.9,
@@ -9740,7 +9740,7 @@
   "Deaths_Per_Million": 869
  },
  {
-  "Cases": 126298,
+  "Cases": 126297,
   "Cases_Last_Week": 2129,
   "Cases_Last_Week_7Day_Percent": -0.6,
   "Cases_Last_Week_Doubling_Time": -53.5,
@@ -9764,7 +9764,7 @@
   "Deaths_Per_Million": 869
  },
  {
-  "Cases": 126718,
+  "Cases": 126717,
   "Cases_Last_Week": 2178,
   "Cases_Last_Week_7Day_Percent": 4.0,
   "Cases_Last_Week_Doubling_Time": -77.9,
@@ -9788,7 +9788,7 @@
   "Deaths_Per_Million": 872
  },
  {
-  "Cases": 127193,
+  "Cases": 127192,
   "Cases_Last_Week": 2283,
   "Cases_Last_Week_7Day_Percent": 13.9,
   "Cases_Last_Week_Doubling_Time": -206.6,
@@ -9796,7 +9796,7 @@
   "Cases_Last_Week_Per_Million": 626,
   "Cases_New": 475,
   "Cases_New_Per_Million": 130,
-  "Cases_Per_Million": 34897,
+  "Cases_Per_Million": 34896,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.8,
   "DIVI_Intensivstationen_Covid_Prozent": 17.7,
   "Date": "2021-02-23",
@@ -9812,7 +9812,7 @@
   "Deaths_Per_Million": 874
  },
  {
-  "Cases": 127676,
+  "Cases": 127675,
   "Cases_Last_Week": 2320,
   "Cases_Last_Week_7Day_Percent": 14.3,
   "Cases_Last_Week_Doubling_Time": 351.2,
@@ -9836,7 +9836,7 @@
   "Deaths_Per_Million": 877
  },
  {
-  "Cases": 128137,
+  "Cases": 128136,
   "Cases_Last_Week": 2398,
   "Cases_Last_Week_7Day_Percent": 17.9,
   "Cases_Last_Week_Doubling_Time": 91.9,
@@ -9844,7 +9844,7 @@
   "Cases_Last_Week_Per_Million": 657,
   "Cases_New": 461,
   "Cases_New_Per_Million": 126,
-  "Cases_Per_Million": 35156,
+  "Cases_Per_Million": 35155,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 17.1,
   "Date": "2021-02-25",
@@ -9860,7 +9860,7 @@
   "Deaths_Per_Million": 879
  },
  {
-  "Cases": 128612,
+  "Cases": 128611,
   "Cases_Last_Week": 2501,
   "Cases_Last_Week_7Day_Percent": 20.6,
   "Cases_Last_Week_Doubling_Time": 52.1,
@@ -9884,7 +9884,7 @@
   "Deaths_Per_Million": 881
  },
  {
-  "Cases": 128744,
+  "Cases": 128743,
   "Cases_Last_Week": 2457,
   "Cases_Last_Week_7Day_Percent": 14.1,
   "Cases_Last_Week_Doubling_Time": 43.0,
@@ -9908,7 +9908,7 @@
   "Deaths_Per_Million": 881
  },
  {
-  "Cases": 128773,
+  "Cases": 128772,
   "Cases_Last_Week": 2475,
   "Cases_Last_Week_7Day_Percent": 16.3,
   "Cases_Last_Week_Doubling_Time": 37.6,
@@ -9932,7 +9932,7 @@
   "Deaths_Per_Million": 881
  },
  {
-  "Cases": 129285,
+  "Cases": 129284,
   "Cases_Last_Week": 2567,
   "Cases_Last_Week_7Day_Percent": 17.9,
   "Cases_Last_Week_Doubling_Time": 33.8,
@@ -9940,7 +9940,7 @@
   "Cases_Last_Week_Per_Million": 704,
   "Cases_New": 512,
   "Cases_New_Per_Million": 140,
-  "Cases_Per_Million": 35471,
+  "Cases_Per_Million": 35470,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.4,
   "DIVI_Intensivstationen_Covid_Prozent": 16.9,
   "Date": "2021-03-01",
@@ -9956,7 +9956,7 @@
   "Deaths_Per_Million": 885
  },
  {
-  "Cases": 129785,
+  "Cases": 129784,
   "Cases_Last_Week": 2592,
   "Cases_Last_Week_7Day_Percent": 13.5,
   "Cases_Last_Week_Doubling_Time": 33.7,
@@ -9964,7 +9964,7 @@
   "Cases_Last_Week_Per_Million": 711,
   "Cases_New": 500,
   "Cases_New_Per_Million": 137,
-  "Cases_Per_Million": 35608,
+  "Cases_Per_Million": 35607,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
   "DIVI_Intensivstationen_Covid_Prozent": 17.4,
   "Date": "2021-03-02",
@@ -9980,7 +9980,7 @@
   "Deaths_Per_Million": 887
  },
  {
-  "Cases": 130301,
+  "Cases": 130300,
   "Cases_Last_Week": 2625,
   "Cases_Last_Week_7Day_Percent": 13.1,
   "Cases_Last_Week_Doubling_Time": 34.2,
@@ -10004,7 +10004,7 @@
   "Deaths_Per_Million": 890
  },
  {
-  "Cases": 130744,
+  "Cases": 130743,
   "Cases_Last_Week": 2607,
   "Cases_Last_Week_7Day_Percent": 8.7,
   "Cases_Last_Week_Doubling_Time": 37.0,
@@ -10028,7 +10028,7 @@
   "Deaths_Per_Million": 891
  },
  {
-  "Cases": 131182,
+  "Cases": 131181,
   "Cases_Last_Week": 2570,
   "Cases_Last_Week_7Day_Percent": 2.8,
   "Cases_Last_Week_Doubling_Time": 42.2,
@@ -10052,7 +10052,7 @@
   "Deaths_Per_Million": 893
  },
  {
-  "Cases": 131350,
+  "Cases": 131349,
   "Cases_Last_Week": 2606,
   "Cases_Last_Week_7Day_Percent": 6.1,
   "Cases_Last_Week_Doubling_Time": 47.0,
@@ -10076,7 +10076,7 @@
   "Deaths_Per_Million": 893
  },
  {
-  "Cases": 131438,
+  "Cases": 131437,
   "Cases_Last_Week": 2665,
   "Cases_Last_Week_7Day_Percent": 7.7,
   "Cases_Last_Week_Doubling_Time": 54.1,
@@ -10100,7 +10100,7 @@
   "Deaths_Per_Million": 894
  },
  {
-  "Cases": 131512,
+  "Cases": 131511,
   "Cases_Last_Week": 2227,
   "Cases_Last_Week_7Day_Percent": -13.2,
   "Cases_Last_Week_Doubling_Time": 121.5,
@@ -10108,7 +10108,7 @@
   "Cases_Last_Week_Per_Million": 611,
   "Cases_New": 74,
   "Cases_New_Per_Million": 20,
-  "Cases_Per_Million": 36082,
+  "Cases_Per_Million": 36081,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.0,
   "DIVI_Intensivstationen_Covid_Prozent": 16.9,
   "Date": "2021-03-08",
@@ -10124,7 +10124,7 @@
   "Deaths_Per_Million": 894
  },
  {
-  "Cases": 131987,
+  "Cases": 131986,
   "Cases_Last_Week": 2202,
   "Cases_Last_Week_7Day_Percent": -15.0,
   "Cases_Last_Week_Doubling_Time": "",
@@ -10148,7 +10148,7 @@
   "Deaths_Per_Million": 897
  },
  {
-  "Cases": 132594,
+  "Cases": 132593,
   "Cases_Last_Week": 2293,
   "Cases_Last_Week_7Day_Percent": -12.6,
   "Cases_Last_Week_Doubling_Time": -154.8,
@@ -10172,7 +10172,7 @@
   "Deaths_Per_Million": 899
  },
  {
-  "Cases": 133269,
+  "Cases": 133268,
   "Cases_Last_Week": 2525,
   "Cases_Last_Week_7Day_Percent": -3.1,
   "Cases_Last_Week_Doubling_Time": -131.8,
@@ -10180,7 +10180,7 @@
   "Cases_Last_Week_Per_Million": 692,
   "Cases_New": 675,
   "Cases_New_Per_Million": 185,
-  "Cases_Per_Million": 36564,
+  "Cases_Per_Million": 36563,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.9,
   "DIVI_Intensivstationen_Covid_Prozent": 15.0,
   "Date": "2021-03-11",
@@ -10196,7 +10196,7 @@
   "Deaths_Per_Million": 902
  },
  {
-  "Cases": 133949,
+  "Cases": 133948,
   "Cases_Last_Week": 2767,
   "Cases_Last_Week_7Day_Percent": 7.7,
   "Cases_Last_Week_Doubling_Time": -326.8,
@@ -10220,7 +10220,7 @@
   "Deaths_Per_Million": 904
  },
  {
-  "Cases": 134216,
+  "Cases": 134215,
   "Cases_Last_Week": 2866,
   "Cases_Last_Week_7Day_Percent": 10.0,
   "Cases_Last_Week_Doubling_Time": "",
@@ -10244,7 +10244,7 @@
   "Deaths_Per_Million": 904
  },
  {
-  "Cases": 134283,
+  "Cases": 134282,
   "Cases_Last_Week": 2845,
   "Cases_Last_Week_7Day_Percent": 6.8,
   "Cases_Last_Week_Doubling_Time": 181.6,
@@ -10268,7 +10268,7 @@
   "Deaths_Per_Million": 904
  },
  {
-  "Cases": 134963,
+  "Cases": 134962,
   "Cases_Last_Week": 3451,
   "Cases_Last_Week_7Day_Percent": 55.0,
   "Cases_Last_Week_Doubling_Time": 49.0,
@@ -10292,7 +10292,7 @@
   "Deaths_Per_Million": 906
  },
  {
-  "Cases": 135611,
+  "Cases": 135610,
   "Cases_Last_Week": 3624,
   "Cases_Last_Week_7Day_Percent": 64.6,
   "Cases_Last_Week_Doubling_Time": 27.8,
@@ -10316,7 +10316,7 @@
   "Deaths_Per_Million": 908
  },
  {
-  "Cases": 136362,
+  "Cases": 136361,
   "Cases_Last_Week": 3768,
   "Cases_Last_Week_7Day_Percent": 64.3,
   "Cases_Last_Week_Doubling_Time": 19.7,
@@ -10340,7 +10340,7 @@
   "Deaths_Per_Million": 909
  },
  {
-  "Cases": 137124,
+  "Cases": 137123,
   "Cases_Last_Week": 3855,
   "Cases_Last_Week_7Day_Percent": 52.7,
   "Cases_Last_Week_Doubling_Time": 16.2,
@@ -10364,7 +10364,7 @@
   "Deaths_Per_Million": 911
  },
  {
-  "Cases": 137753,
+  "Cases": 137752,
   "Cases_Last_Week": 3804,
   "Cases_Last_Week_7Day_Percent": 37.5,
   "Cases_Last_Week_Doubling_Time": 15.1,
@@ -10388,7 +10388,7 @@
   "Deaths_Per_Million": 912
  },
  {
-  "Cases": 138010,
+  "Cases": 138009,
   "Cases_Last_Week": 3794,
   "Cases_Last_Week_7Day_Percent": 32.4,
   "Cases_Last_Week_Doubling_Time": 14.8,
@@ -10412,7 +10412,7 @@
   "Deaths_Per_Million": 913
  },
  {
-  "Cases": 138091,
+  "Cases": 138090,
   "Cases_Last_Week": 3808,
   "Cases_Last_Week_7Day_Percent": 33.8,
   "Cases_Last_Week_Doubling_Time": 14.8,
@@ -10420,7 +10420,7 @@
   "Cases_Last_Week_Per_Million": 1044,
   "Cases_New": 81,
   "Cases_New_Per_Million": 22,
-  "Cases_Per_Million": 37887,
+  "Cases_Per_Million": 37886,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.0,
   "DIVI_Intensivstationen_Covid_Prozent": 15.9,
   "Date": "2021-03-21",
@@ -10436,7 +10436,7 @@
   "Deaths_Per_Million": 913
  },
  {
-  "Cases": 138981,
+  "Cases": 138980,
   "Cases_Last_Week": 4018,
   "Cases_Last_Week_7Day_Percent": 16.4,
   "Cases_Last_Week_Doubling_Time": 16.1,
@@ -10460,7 +10460,7 @@
   "Deaths_Per_Million": 914
  },
  {
-  "Cases": 140019,
+  "Cases": 140018,
   "Cases_Last_Week": 4408,
   "Cases_Last_Week_7Day_Percent": 21.6,
   "Cases_Last_Week_Doubling_Time": 16.9,
@@ -10468,7 +10468,7 @@
   "Cases_Last_Week_Per_Million": 1209,
   "Cases_New": 1038,
   "Cases_New_Per_Million": 284,
-  "Cases_Per_Million": 38416,
+  "Cases_Per_Million": 38415,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 16.6,
   "Date": "2021-03-23",
@@ -10484,7 +10484,7 @@
   "Deaths_Per_Million": 916
  },
  {
-  "Cases": 141015,
+  "Cases": 141014,
   "Cases_Last_Week": 4653,
   "Cases_Last_Week_7Day_Percent": 23.5,
   "Cases_Last_Week_Doubling_Time": 17.6,
@@ -10508,7 +10508,7 @@
   "Deaths_Per_Million": 918
  },
  {
-  "Cases": 141954,
+  "Cases": 141953,
   "Cases_Last_Week": 4830,
   "Cases_Last_Week_7Day_Percent": 25.3,
   "Cases_Last_Week_Doubling_Time": 18.1,
@@ -10532,7 +10532,7 @@
   "Deaths_Per_Million": 919
  },
  {
-  "Cases": 142933,
+  "Cases": 142932,
   "Cases_Last_Week": 5180,
   "Cases_Last_Week_7Day_Percent": 36.2,
   "Cases_Last_Week_Doubling_Time": 17.7,
@@ -10556,7 +10556,7 @@
   "Deaths_Per_Million": 920
  },
  {
-  "Cases": 143401,
+  "Cases": 143400,
   "Cases_Last_Week": 5391,
   "Cases_Last_Week_7Day_Percent": 42.1,
   "Cases_Last_Week_Doubling_Time": 17.4,
@@ -10580,7 +10580,7 @@
   "Deaths_Per_Million": 921
  },
  {
-  "Cases": 143503,
+  "Cases": 143502,
   "Cases_Last_Week": 5412,
   "Cases_Last_Week_7Day_Percent": 42.1,
   "Cases_Last_Week_Doubling_Time": 18.5,
@@ -10604,7 +10604,7 @@
   "Deaths_Per_Million": 921
  },
  {
-  "Cases": 144286,
+  "Cases": 144285,
   "Cases_Last_Week": 5305,
   "Cases_Last_Week_7Day_Percent": 32.0,
   "Cases_Last_Week_Doubling_Time": 19.1,
@@ -10628,7 +10628,7 @@
   "Deaths_Per_Million": 922
  },
  {
-  "Cases": 145236,
+  "Cases": 145235,
   "Cases_Last_Week": 5217,
   "Cases_Last_Week_7Day_Percent": 18.4,
   "Cases_Last_Week_Doubling_Time": 20.5,
@@ -10652,7 +10652,7 @@
   "Deaths_Per_Million": 925
  },
  {
-  "Cases": 146345,
+  "Cases": 146344,
   "Cases_Last_Week": 5330,
   "Cases_Last_Week_7Day_Percent": 14.5,
   "Cases_Last_Week_Doubling_Time": 21.7,
@@ -10676,7 +10676,7 @@
   "Deaths_Per_Million": 927
  },
  {
-  "Cases": 147263,
+  "Cases": 147262,
   "Cases_Last_Week": 5309,
   "Cases_Last_Week_7Day_Percent": 9.9,
   "Cases_Last_Week_Doubling_Time": 23.6,
@@ -10700,7 +10700,7 @@
   "Deaths_Per_Million": 929
  },
  {
-  "Cases": 147616,
+  "Cases": 147615,
   "Cases_Last_Week": 4683,
   "Cases_Last_Week_7Day_Percent": -9.6,
   "Cases_Last_Week_Doubling_Time": 31.7,
@@ -10724,7 +10724,7 @@
   "Deaths_Per_Million": 930
  },
  {
-  "Cases": 148291,
+  "Cases": 148290,
   "Cases_Last_Week": 4890,
   "Cases_Last_Week_7Day_Percent": -9.3,
   "Cases_Last_Week_Doubling_Time": 45.0,
@@ -10748,7 +10748,7 @@
   "Deaths_Per_Million": 932
  },
  {
-  "Cases": 148467,
+  "Cases": 148466,
   "Cases_Last_Week": 4964,
   "Cases_Last_Week_7Day_Percent": -8.3,
   "Cases_Last_Week_Doubling_Time": 77.8,
@@ -10772,7 +10772,7 @@
   "Deaths_Per_Million": 933
  },
  {
-  "Cases": 148794,
+  "Cases": 148793,
   "Cases_Last_Week": 4508,
   "Cases_Last_Week_7Day_Percent": -15.0,
   "Cases_Last_Week_Doubling_Time": "",
@@ -10796,7 +10796,7 @@
   "Deaths_Per_Million": 933
  },
  {
-  "Cases": 149418,
+  "Cases": 149417,
   "Cases_Last_Week": 4182,
   "Cases_Last_Week_7Day_Percent": -19.8,
   "Cases_Last_Week_Doubling_Time": -88.5,
@@ -10820,7 +10820,7 @@
   "Deaths_Per_Million": 937
  },
  {
-  "Cases": 150160,
+  "Cases": 150159,
   "Cases_Last_Week": 3815,
   "Cases_Last_Week_7Day_Percent": -28.4,
   "Cases_Last_Week_Doubling_Time": -41.9,
@@ -10844,7 +10844,7 @@
   "Deaths_Per_Million": 938
  },
  {
-  "Cases": 151104,
+  "Cases": 151103,
   "Cases_Last_Week": 3841,
   "Cases_Last_Week_7Day_Percent": -27.7,
   "Cases_Last_Week_Doubling_Time": -29.1,
@@ -10868,7 +10868,7 @@
   "Deaths_Per_Million": 940
  },
  {
-  "Cases": 152179,
+  "Cases": 152178,
   "Cases_Last_Week": 4563,
   "Cases_Last_Week_7Day_Percent": -2.6,
   "Cases_Last_Week_Doubling_Time": -28.6,
@@ -10892,7 +10892,7 @@
   "Deaths_Per_Million": 942
  },
  {
-  "Cases": 152671,
+  "Cases": 152670,
   "Cases_Last_Week": 4380,
   "Cases_Last_Week_7Day_Percent": -10.4,
   "Cases_Last_Week_Doubling_Time": -29.3,
@@ -10916,7 +10916,7 @@
   "Deaths_Per_Million": 944
  },
  {
-  "Cases": 152771,
+  "Cases": 152770,
   "Cases_Last_Week": 4304,
   "Cases_Last_Week_7Day_Percent": -13.3,
   "Cases_Last_Week_Doubling_Time": -31.1,
@@ -10940,7 +10940,7 @@
   "Deaths_Per_Million": 944
  },
  {
-  "Cases": 153580,
+  "Cases": 153579,
   "Cases_Last_Week": 4786,
   "Cases_Last_Week_7Day_Percent": 6.2,
   "Cases_Last_Week_Doubling_Time": -39.7,
@@ -10964,7 +10964,7 @@
   "Deaths_Per_Million": 946
  },
  {
-  "Cases": 154671,
+  "Cases": 154670,
   "Cases_Last_Week": 5253,
   "Cases_Last_Week_7Day_Percent": 25.6,
   "Cases_Last_Week_Doubling_Time": -75.0,
@@ -10972,7 +10972,7 @@
   "Cases_Last_Week_Per_Million": 1441,
   "Cases_New": 1091,
   "Cases_New_Per_Million": 299,
-  "Cases_Per_Million": 42436,
+  "Cases_Per_Million": 42435,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.5,
   "DIVI_Intensivstationen_Covid_Prozent": 24.8,
   "Date": "2021-04-13",
@@ -10988,7 +10988,7 @@
   "Deaths_Per_Million": 948
  },
  {
-  "Cases": 155919,
+  "Cases": 155918,
   "Cases_Last_Week": 5759,
   "Cases_Last_Week_7Day_Percent": 51.0,
   "Cases_Last_Week_Doubling_Time": 186.8,
@@ -11012,7 +11012,7 @@
   "Deaths_Per_Million": 950
  },
  {
-  "Cases": 157007,
+  "Cases": 157006,
   "Cases_Last_Week": 5903,
   "Cases_Last_Week_7Day_Percent": 53.7,
   "Cases_Last_Week_Doubling_Time": 40.9,
@@ -11036,7 +11036,7 @@
   "Deaths_Per_Million": 952
  },
  {
-  "Cases": 157945,
+  "Cases": 157944,
   "Cases_Last_Week": 5766,
   "Cases_Last_Week_7Day_Percent": 26.4,
   "Cases_Last_Week_Doubling_Time": 29.8,
@@ -11060,7 +11060,7 @@
   "Deaths_Per_Million": 953
  },
  {
-  "Cases": 158330,
+  "Cases": 158329,
   "Cases_Last_Week": 5659,
   "Cases_Last_Week_7Day_Percent": 29.2,
   "Cases_Last_Week_Doubling_Time": 24.2,
@@ -11084,7 +11084,7 @@
   "Deaths_Per_Million": 954
  },
  {
-  "Cases": 158440,
+  "Cases": 158439,
   "Cases_Last_Week": 5669,
   "Cases_Last_Week_7Day_Percent": 31.7,
   "Cases_Last_Week_Doubling_Time": 21.0,
@@ -11092,7 +11092,7 @@
   "Cases_Last_Week_Per_Million": 1555,
   "Cases_New": 110,
   "Cases_New_Per_Million": 30,
-  "Cases_Per_Million": 43470,
+  "Cases_Per_Million": 43469,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.7,
   "DIVI_Intensivstationen_Covid_Prozent": 25.0,
   "Date": "2021-04-18",
@@ -11108,7 +11108,7 @@
   "Deaths_Per_Million": 954
  },
  {
-  "Cases": 159280,
+  "Cases": 159279,
   "Cases_Last_Week": 5700,
   "Cases_Last_Week_7Day_Percent": 19.1,
   "Cases_Last_Week_Doubling_Time": 20.7,
@@ -11132,7 +11132,7 @@
   "Deaths_Per_Million": 957
  },
  {
-  "Cases": 160311,
+  "Cases": 160310,
   "Cases_Last_Week": 5640,
   "Cases_Last_Week_7Day_Percent": 7.4,
   "Cases_Last_Week_Doubling_Time": 22.5,
@@ -11156,7 +11156,7 @@
   "Deaths_Per_Million": 958
  },
  {
-  "Cases": 161378,
+  "Cases": 161377,
   "Cases_Last_Week": 5459,
   "Cases_Last_Week_7Day_Percent": -5.2,
   "Cases_Last_Week_Doubling_Time": 28.6,
@@ -11164,7 +11164,7 @@
   "Cases_Last_Week_Per_Million": 1497,
   "Cases_New": 1067,
   "Cases_New_Per_Million": 292,
-  "Cases_Per_Million": 44276,
+  "Cases_Per_Million": 44275,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.7,
   "DIVI_Intensivstationen_Covid_Prozent": 25.4,
   "Date": "2021-04-21",
@@ -11180,7 +11180,7 @@
   "Deaths_Per_Million": 960
  },
  {
-  "Cases": 162267,
+  "Cases": 162266,
   "Cases_Last_Week": 5260,
   "Cases_Last_Week_7Day_Percent": -10.9,
   "Cases_Last_Week_Doubling_Time": 42.9,
@@ -11188,7 +11188,7 @@
   "Cases_Last_Week_Per_Million": 1443,
   "Cases_New": 889,
   "Cases_New_Per_Million": 243,
-  "Cases_Per_Million": 44520,
+  "Cases_Per_Million": 44519,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 90.5,
   "DIVI_Intensivstationen_Covid_Prozent": 26.2,
   "Date": "2021-04-22",
@@ -11204,7 +11204,7 @@
   "Deaths_Per_Million": 961
  },
  {
-  "Cases": 163081,
+  "Cases": 163080,
   "Cases_Last_Week": 5136,
   "Cases_Last_Week_7Day_Percent": -10.9,
   "Cases_Last_Week_Doubling_Time": 64.0,
@@ -11228,7 +11228,7 @@
   "Deaths_Per_Million": 962
  },
  {
-  "Cases": 163508,
+  "Cases": 163507,
   "Cases_Last_Week": 5178,
   "Cases_Last_Week_7Day_Percent": -8.5,
   "Cases_Last_Week_Doubling_Time": 154.5,
@@ -11252,7 +11252,7 @@
   "Deaths_Per_Million": 962
  },
  {
-  "Cases": 163605,
+  "Cases": 163604,
   "Cases_Last_Week": 5165,
   "Cases_Last_Week_7Day_Percent": -8.9,
   "Cases_Last_Week_Doubling_Time": -236.0,
@@ -11260,7 +11260,7 @@
   "Cases_Last_Week_Per_Million": 1417,
   "Cases_New": 97,
   "Cases_New_Per_Million": 26,
-  "Cases_Per_Million": 44887,
+  "Cases_Per_Million": 44886,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.4,
   "DIVI_Intensivstationen_Covid_Prozent": 25.3,
   "Date": "2021-04-25",
@@ -11276,7 +11276,7 @@
   "Deaths_Per_Million": 963
  },
  {
-  "Cases": 164530,
+  "Cases": 164529,
   "Cases_Last_Week": 5250,
   "Cases_Last_Week_7Day_Percent": -7.9,
   "Cases_Last_Week_Doubling_Time": -87.1,
@@ -11284,7 +11284,7 @@
   "Cases_Last_Week_Per_Million": 1440,
   "Cases_New": 925,
   "Cases_New_Per_Million": 253,
-  "Cases_Per_Million": 45141,
+  "Cases_Per_Million": 45140,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 89.4,
   "DIVI_Intensivstationen_Covid_Prozent": 26.3,
   "Date": "2021-04-26",
@@ -11300,7 +11300,7 @@
   "Deaths_Per_Million": 964
  },
  {
-  "Cases": 165506,
+  "Cases": 165505,
   "Cases_Last_Week": 5195,
   "Cases_Last_Week_7Day_Percent": -7.9,
   "Cases_Last_Week_Doubling_Time": -62.9,
@@ -11324,7 +11324,7 @@
   "Deaths_Per_Million": 967
  },
  {
-  "Cases": 166390,
+  "Cases": 166389,
   "Cases_Last_Week": 5012,
   "Cases_Last_Week_7Day_Percent": -8.2,
   "Cases_Last_Week_Doubling_Time": -58.1,
@@ -11348,7 +11348,7 @@
   "Deaths_Per_Million": 969
  },
  {
-  "Cases": 167170,
+  "Cases": 167169,
   "Cases_Last_Week": 4903,
   "Cases_Last_Week_7Day_Percent": -6.8,
   "Cases_Last_Week_Doubling_Time": -58.1,
@@ -11372,7 +11372,7 @@
   "Deaths_Per_Million": 970
  },
  {
-  "Cases": 167848,
+  "Cases": 167847,
   "Cases_Last_Week": 4767,
   "Cases_Last_Week_7Day_Percent": -7.2,
   "Cases_Last_Week_Doubling_Time": -54.5,
@@ -11396,7 +11396,7 @@
   "Deaths_Per_Million": 970
  },
  {
-  "Cases": 168068,
+  "Cases": 168067,
   "Cases_Last_Week": 4560,
   "Cases_Last_Week_7Day_Percent": -11.9,
   "Cases_Last_Week_Doubling_Time": -47.8,
@@ -11420,7 +11420,7 @@
   "Deaths_Per_Million": 971
  },
  {
-  "Cases": 168101,
+  "Cases": 168100,
   "Cases_Last_Week": 4496,
   "Cases_Last_Week_7Day_Percent": -13.0,
   "Cases_Last_Week_Doubling_Time": -44.2,
@@ -11444,7 +11444,7 @@
   "Deaths_Per_Million": 971
  },
  {
-  "Cases": 168803,
+  "Cases": 168802,
   "Cases_Last_Week": 4273,
   "Cases_Last_Week_7Day_Percent": -18.6,
   "Cases_Last_Week_Doubling_Time": -41.0,
@@ -11468,7 +11468,7 @@
   "Deaths_Per_Million": 971
  },
  {
-  "Cases": 169590,
+  "Cases": 169589,
   "Cases_Last_Week": 4084,
   "Cases_Last_Week_7Day_Percent": -21.4,
   "Cases_Last_Week_Doubling_Time": -37.6,
@@ -11492,7 +11492,7 @@
   "Deaths_Per_Million": 972
  },
  {
-  "Cases": 170343,
+  "Cases": 170342,
   "Cases_Last_Week": 3953,
   "Cases_Last_Week_7Day_Percent": -21.1,
   "Cases_Last_Week_Doubling_Time": -33.6,
@@ -11516,7 +11516,7 @@
   "Deaths_Per_Million": 972
  },
  {
-  "Cases": 170944,
+  "Cases": 170943,
   "Cases_Last_Week": 3774,
   "Cases_Last_Week_7Day_Percent": -23.0,
   "Cases_Last_Week_Doubling_Time": -28.8,
@@ -11540,7 +11540,7 @@
   "Deaths_Per_Million": 972
  },
  {
-  "Cases": 171552,
+  "Cases": 171551,
   "Cases_Last_Week": 3704,
   "Cases_Last_Week_7Day_Percent": -22.3,
   "Cases_Last_Week_Doubling_Time": -25.0,
@@ -11564,7 +11564,7 @@
   "Deaths_Per_Million": 973
  },
  {
-  "Cases": 171747,
+  "Cases": 171746,
   "Cases_Last_Week": 3679,
   "Cases_Last_Week_7Day_Percent": -19.3,
   "Cases_Last_Week_Doubling_Time": -23.0,
@@ -11572,7 +11572,7 @@
   "Cases_Last_Week_Per_Million": 1009,
   "Cases_New": 195,
   "Cases_New_Per_Million": 53,
-  "Cases_Per_Million": 47121,
+  "Cases_Per_Million": 47120,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
   "DIVI_Intensivstationen_Covid_Prozent": 23.0,
   "Date": "2021-05-08",
@@ -11588,7 +11588,7 @@
   "Deaths_Per_Million": 974
  },
  {
-  "Cases": 171772,
+  "Cases": 171771,
   "Cases_Last_Week": 3671,
   "Cases_Last_Week_7Day_Percent": -18.3,
   "Cases_Last_Week_Doubling_Time": -22.0,
@@ -11612,7 +11612,7 @@
   "Deaths_Per_Million": 974
  },
  {
-  "Cases": 172328,
+  "Cases": 172327,
   "Cases_Last_Week": 3525,
   "Cases_Last_Week_7Day_Percent": -17.5,
   "Cases_Last_Week_Doubling_Time": -21.9,
@@ -11636,7 +11636,7 @@
   "Deaths_Per_Million": 975
  },
  {
-  "Cases": 172843,
+  "Cases": 172842,
   "Cases_Last_Week": 3253,
   "Cases_Last_Week_7Day_Percent": -20.3,
   "Cases_Last_Week_Doubling_Time": -21.6,
@@ -11660,7 +11660,7 @@
   "Deaths_Per_Million": 976
  },
  {
-  "Cases": 173520,
+  "Cases": 173519,
   "Cases_Last_Week": 3177,
   "Cases_Last_Week_7Day_Percent": -19.6,
   "Cases_Last_Week_Doubling_Time": -21.3,
@@ -11684,7 +11684,7 @@
   "Deaths_Per_Million": 977
  },
  {
-  "Cases": 173646,
+  "Cases": 173645,
   "Cases_Last_Week": 2702,
   "Cases_Last_Week_7Day_Percent": -28.4,
   "Cases_Last_Week_Doubling_Time": -19.8,
@@ -11692,7 +11692,7 @@
   "Cases_Last_Week_Per_Million": 741,
   "Cases_New": 126,
   "Cases_New_Per_Million": 34,
-  "Cases_Per_Million": 47642,
+  "Cases_Per_Million": 47641,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.2,
   "DIVI_Intensivstationen_Covid_Prozent": 19.2,
   "Date": "2021-05-13",
@@ -11708,7 +11708,7 @@
   "Deaths_Per_Million": 977
  },
  {
-  "Cases": 174079,
+  "Cases": 174078,
   "Cases_Last_Week": 2527,
   "Cases_Last_Week_7Day_Percent": -31.8,
   "Cases_Last_Week_Doubling_Time": -18.3,
@@ -11732,7 +11732,7 @@
   "Deaths_Per_Million": 977
  },
  {
-  "Cases": 174256,
+  "Cases": 174255,
   "Cases_Last_Week": 2509,
   "Cases_Last_Week_7Day_Percent": -31.8,
   "Cases_Last_Week_Doubling_Time": -17.2,
@@ -11756,7 +11756,7 @@
   "Deaths_Per_Million": 977
  },
  {
-  "Cases": 174290,
+  "Cases": 174289,
   "Cases_Last_Week": 2518,
   "Cases_Last_Week_7Day_Percent": -31.4,
   "Cases_Last_Week_Doubling_Time": -16.9,
@@ -11780,7 +11780,7 @@
   "Deaths_Per_Million": 977
  },
  {
-  "Cases": 174704,
+  "Cases": 174703,
   "Cases_Last_Week": 2376,
   "Cases_Last_Week_7Day_Percent": -32.6,
   "Cases_Last_Week_Doubling_Time": -16.2,
@@ -11804,7 +11804,7 @@
   "Deaths_Per_Million": 978
  },
  {
-  "Cases": 175190,
+  "Cases": 175189,
   "Cases_Last_Week": 2347,
   "Cases_Last_Week_7Day_Percent": -27.9,
   "Cases_Last_Week_Doubling_Time": -15.7,
@@ -11828,7 +11828,7 @@
   "Deaths_Per_Million": 978
  },
  {
-  "Cases": 175626,
+  "Cases": 175625,
   "Cases_Last_Week": 2106,
   "Cases_Last_Week_7Day_Percent": -33.7,
   "Cases_Last_Week_Doubling_Time": -14.8,
@@ -11852,7 +11852,7 @@
   "Deaths_Per_Million": 978
  },
  {
-  "Cases": 175877,
+  "Cases": 175876,
   "Cases_Last_Week": 2231,
   "Cases_Last_Week_7Day_Percent": -17.4,
   "Cases_Last_Week_Doubling_Time": -14.4,
@@ -11860,7 +11860,7 @@
   "Cases_Last_Week_Per_Million": 612,
   "Cases_New": 251,
   "Cases_New_Per_Million": 68,
-  "Cases_Per_Million": 48254,
+  "Cases_Per_Million": 48253,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.6,
   "DIVI_Intensivstationen_Covid_Prozent": 16.9,
   "Date": "2021-05-20",
@@ -11876,7 +11876,7 @@
   "Deaths_Per_Million": 978
  },
  {
-  "Cases": 176198,
+  "Cases": 176197,
   "Cases_Last_Week": 2119,
   "Cases_Last_Week_7Day_Percent": -16.1,
   "Cases_Last_Week_Doubling_Time": -14.1,
@@ -11900,7 +11900,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 176302,
+  "Cases": 176301,
   "Cases_Last_Week": 2046,
   "Cases_Last_Week_7Day_Percent": -18.5,
   "Cases_Last_Week_Doubling_Time": -14.4,
@@ -11924,7 +11924,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 176328,
+  "Cases": 176327,
   "Cases_Last_Week": 2038,
   "Cases_Last_Week_7Day_Percent": -19.1,
   "Cases_Last_Week_Doubling_Time": -15.9,
@@ -11948,7 +11948,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 176406,
+  "Cases": 176405,
   "Cases_Last_Week": 1702,
   "Cases_Last_Week_7Day_Percent": -28.4,
   "Cases_Last_Week_Doubling_Time": -16.8,
@@ -11972,7 +11972,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 176645,
+  "Cases": 176644,
   "Cases_Last_Week": 1455,
   "Cases_Last_Week_7Day_Percent": -38.0,
   "Cases_Last_Week_Doubling_Time": -16.5,
@@ -11996,7 +11996,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 176941,
+  "Cases": 176940,
   "Cases_Last_Week": 1315,
   "Cases_Last_Week_7Day_Percent": -37.6,
   "Cases_Last_Week_Doubling_Time": -16.5,
@@ -12004,7 +12004,7 @@
   "Cases_Last_Week_Per_Million": 360,
   "Cases_New": 296,
   "Cases_New_Per_Million": 81,
-  "Cases_Per_Million": 48546,
+  "Cases_Per_Million": 48545,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
   "DIVI_Intensivstationen_Covid_Prozent": 14.4,
   "Date": "2021-05-26",
@@ -12020,7 +12020,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 177208,
+  "Cases": 177207,
   "Cases_Last_Week": 1331,
   "Cases_Last_Week_7Day_Percent": -40.3,
   "Cases_Last_Week_Doubling_Time": -15.0,
@@ -12044,7 +12044,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 177450,
+  "Cases": 177449,
   "Cases_Last_Week": 1252,
   "Cases_Last_Week_7Day_Percent": -40.9,
   "Cases_Last_Week_Doubling_Time": -13.4,
@@ -12068,7 +12068,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 177513,
+  "Cases": 177512,
   "Cases_Last_Week": 1211,
   "Cases_Last_Week_7Day_Percent": -40.8,
   "Cases_Last_Week_Doubling_Time": -12.3,
@@ -12076,7 +12076,7 @@
   "Cases_Last_Week_Per_Million": 332,
   "Cases_New": 63,
   "Cases_New_Per_Million": 17,
-  "Cases_Per_Million": 48703,
+  "Cases_Per_Million": 48702,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.9,
   "DIVI_Intensivstationen_Covid_Prozent": 12.3,
   "Date": "2021-05-29",
@@ -12092,7 +12092,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 177521,
+  "Cases": 177520,
   "Cases_Last_Week": 1193,
   "Cases_Last_Week_7Day_Percent": -41.5,
   "Cases_Last_Week_Doubling_Time": -11.8,
@@ -12116,7 +12116,7 @@
   "Deaths_Per_Million": 979
  },
  {
-  "Cases": 177722,
+  "Cases": 177721,
   "Cases_Last_Week": 1316,
   "Cases_Last_Week_7Day_Percent": -22.7,
   "Cases_Last_Week_Doubling_Time": -11.8,
@@ -12140,7 +12140,7 @@
   "Deaths_Per_Million": 980
  },
  {
-  "Cases": 177897,
+  "Cases": 177896,
   "Cases_Last_Week": 1252,
   "Cases_Last_Week_7Day_Percent": -14.0,
   "Cases_Last_Week_Doubling_Time": -12.1,
@@ -12164,7 +12164,7 @@
   "Deaths_Per_Million": 980
  },
  {
-  "Cases": 178110,
+  "Cases": 178109,
   "Cases_Last_Week": 1169,
   "Cases_Last_Week_7Day_Percent": -11.1,
   "Cases_Last_Week_Doubling_Time": -11.7,
@@ -12188,7 +12188,7 @@
   "Deaths_Per_Million": 980
  },
  {
-  "Cases": 178337,
+  "Cases": 178336,
   "Cases_Last_Week": 1129,
   "Cases_Last_Week_7Day_Percent": -15.2,
   "Cases_Last_Week_Doubling_Time": -12.6,
@@ -12196,7 +12196,7 @@
   "Cases_Last_Week_Per_Million": 309,
   "Cases_New": 227,
   "Cases_New_Per_Million": 62,
-  "Cases_Per_Million": 48929,
+  "Cases_Per_Million": 48928,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.8,
   "DIVI_Intensivstationen_Covid_Prozent": 10.9,
   "Date": "2021-06-03",
@@ -12212,7 +12212,7 @@
   "Deaths_Per_Million": 980
  },
  {
-  "Cases": 178486,
+  "Cases": 178485,
   "Cases_Last_Week": 1036,
   "Cases_Last_Week_7Day_Percent": -17.3,
   "Cases_Last_Week_Doubling_Time": -13.6,
@@ -12220,7 +12220,7 @@
   "Cases_Last_Week_Per_Million": 284,
   "Cases_New": 149,
   "Cases_New_Per_Million": 40,
-  "Cases_Per_Million": 48970,
+  "Cases_Per_Million": 48969,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.2,
   "DIVI_Intensivstationen_Covid_Prozent": 10.7,
   "Date": "2021-06-04",
@@ -12236,7 +12236,7 @@
   "Deaths_Per_Million": 980
  },
  {
-  "Cases": 178513,
+  "Cases": 178512,
   "Cases_Last_Week": 1000,
   "Cases_Last_Week_7Day_Percent": -17.4,
   "Cases_Last_Week_Doubling_Time": -15.6,
@@ -12260,7 +12260,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 178519,
+  "Cases": 178518,
   "Cases_Last_Week": 998,
   "Cases_Last_Week_7Day_Percent": -16.3,
   "Cases_Last_Week_Doubling_Time": -21.0,
@@ -12268,7 +12268,7 @@
   "Cases_Last_Week_Per_Million": 273,
   "Cases_New": 6,
   "Cases_New_Per_Million": 1,
-  "Cases_Per_Million": 48979,
+  "Cases_Per_Million": 48978,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.1,
   "DIVI_Intensivstationen_Covid_Prozent": 10.3,
   "Date": "2021-06-06",
@@ -12284,7 +12284,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 178637,
+  "Cases": 178636,
   "Cases_Last_Week": 915,
   "Cases_Last_Week_7Day_Percent": -30.5,
   "Cases_Last_Week_Doubling_Time": -24.3,
@@ -12308,7 +12308,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 178750,
+  "Cases": 178749,
   "Cases_Last_Week": 853,
   "Cases_Last_Week_7Day_Percent": -31.9,
   "Cases_Last_Week_Doubling_Time": -23.5,
@@ -12332,7 +12332,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 178867,
+  "Cases": 178866,
   "Cases_Last_Week": 757,
   "Cases_Last_Week_7Day_Percent": -35.2,
   "Cases_Last_Week_Doubling_Time": -19.8,
@@ -12356,7 +12356,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 178973,
+  "Cases": 178972,
   "Cases_Last_Week": 636,
   "Cases_Last_Week_7Day_Percent": -43.7,
   "Cases_Last_Week_Doubling_Time": -16.8,
@@ -12380,7 +12380,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179062,
+  "Cases": 179061,
   "Cases_Last_Week": 576,
   "Cases_Last_Week_7Day_Percent": -44.4,
   "Cases_Last_Week_Doubling_Time": -14.0,
@@ -12388,7 +12388,7 @@
   "Cases_Last_Week_Per_Million": 158,
   "Cases_New": 89,
   "Cases_New_Per_Million": 24,
-  "Cases_Per_Million": 49128,
+  "Cases_Per_Million": 49127,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.9,
   "DIVI_Intensivstationen_Covid_Prozent": 7.6,
   "Date": "2021-06-11",
@@ -12404,7 +12404,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179074,
+  "Cases": 179073,
   "Cases_Last_Week": 561,
   "Cases_Last_Week_7Day_Percent": -43.9,
   "Cases_Last_Week_Doubling_Time": -11.9,
@@ -12428,7 +12428,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179079,
+  "Cases": 179078,
   "Cases_Last_Week": 560,
   "Cases_Last_Week_7Day_Percent": -43.9,
   "Cases_Last_Week_Doubling_Time": -10.4,
@@ -12452,7 +12452,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179141,
+  "Cases": 179140,
   "Cases_Last_Week": 504,
   "Cases_Last_Week_7Day_Percent": -44.9,
   "Cases_Last_Week_Doubling_Time": -10.0,
@@ -12476,7 +12476,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179201,
+  "Cases": 179200,
   "Cases_Last_Week": 451,
   "Cases_Last_Week_7Day_Percent": -47.1,
   "Cases_Last_Week_Doubling_Time": -9.5,
@@ -12484,7 +12484,7 @@
   "Cases_Last_Week_Per_Million": 123,
   "Cases_New": 60,
   "Cases_New_Per_Million": 16,
-  "Cases_Per_Million": 49166,
+  "Cases_Per_Million": 49165,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.6,
   "DIVI_Intensivstationen_Covid_Prozent": 6.3,
   "Date": "2021-06-15",
@@ -12500,7 +12500,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179268,
+  "Cases": 179267,
   "Cases_Last_Week": 401,
   "Cases_Last_Week_7Day_Percent": -47.0,
   "Cases_Last_Week_Doubling_Time": -8.9,
@@ -12524,7 +12524,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179295,
+  "Cases": 179294,
   "Cases_Last_Week": 322,
   "Cases_Last_Week_7Day_Percent": -49.4,
   "Cases_Last_Week_Doubling_Time": -8.4,
@@ -12532,7 +12532,7 @@
   "Cases_Last_Week_Per_Million": 88,
   "Cases_New": 27,
   "Cases_New_Per_Million": 7,
-  "Cases_Per_Million": 49192,
+  "Cases_Per_Million": 49191,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.4,
   "DIVI_Intensivstationen_Covid_Prozent": 6.3,
   "Date": "2021-06-17",
@@ -12548,7 +12548,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179344,
+  "Cases": 179343,
   "Cases_Last_Week": 282,
   "Cases_Last_Week_7Day_Percent": -51.0,
   "Cases_Last_Week_Doubling_Time": -7.7,
@@ -12572,7 +12572,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179361,
+  "Cases": 179360,
   "Cases_Last_Week": 287,
   "Cases_Last_Week_7Day_Percent": -48.8,
   "Cases_Last_Week_Doubling_Time": -7.2,
@@ -12580,7 +12580,7 @@
   "Cases_Last_Week_Per_Million": 78,
   "Cases_New": 17,
   "Cases_New_Per_Million": 4,
-  "Cases_Per_Million": 49210,
+  "Cases_Per_Million": 49209,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.5,
   "DIVI_Intensivstationen_Covid_Prozent": 6.3,
   "Date": "2021-06-19",
@@ -12596,7 +12596,7 @@
   "Deaths_Per_Million": 981
  },
  {
-  "Cases": 179362,
+  "Cases": 179361,
   "Cases_Last_Week": 283,
   "Cases_Last_Week_7Day_Percent": -49.5,
   "Cases_Last_Week_Doubling_Time": -7.3,
@@ -12620,7 +12620,7 @@
   "Deaths_Per_Million": 982
  },
  {
-  "Cases": 179420,
+  "Cases": 179419,
   "Cases_Last_Week": 279,
   "Cases_Last_Week_7Day_Percent": -44.6,
   "Cases_Last_Week_Doubling_Time": -7.4,
@@ -12644,7 +12644,7 @@
   "Deaths_Per_Million": 982
  },
  {
-  "Cases": 179465,
+  "Cases": 179464,
   "Cases_Last_Week": 264,
   "Cases_Last_Week_7Day_Percent": -41.5,
   "Cases_Last_Week_Doubling_Time": -7.9,
@@ -12668,7 +12668,7 @@
   "Deaths_Per_Million": 982
  },
  {
-  "Cases": 179518,
+  "Cases": 179517,
   "Cases_Last_Week": 250,
   "Cases_Last_Week_7Day_Percent": -37.7,
   "Cases_Last_Week_Doubling_Time": -8.4,
@@ -12676,7 +12676,7 @@
   "Cases_Last_Week_Per_Million": 68,
   "Cases_New": 53,
   "Cases_New_Per_Million": 14,
-  "Cases_Per_Million": 49253,
+  "Cases_Per_Million": 49252,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.4,
   "DIVI_Intensivstationen_Covid_Prozent": 5.2,
   "Date": "2021-06-23",
@@ -12692,7 +12692,7 @@
   "Deaths_Per_Million": 982
  },
  {
-  "Cases": 179565,
+  "Cases": 179564,
   "Cases_Last_Week": 270,
   "Cases_Last_Week_7Day_Percent": -16.1,
   "Cases_Last_Week_Doubling_Time": -8.7,
@@ -12700,7 +12700,7 @@
   "Cases_Last_Week_Per_Million": 74,
   "Cases_New": 47,
   "Cases_New_Per_Million": 12,
-  "Cases_Per_Million": 49266,
+  "Cases_Per_Million": 49265,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 88.3,
   "DIVI_Intensivstationen_Covid_Prozent": 5.0,
   "Date": "2021-06-24",
@@ -12716,7 +12716,7 @@
   "Deaths_Per_Million": 982
  },
  {
-  "Cases": 179605,
+  "Cases": 179604,
   "Cases_Last_Week": 261,
   "Cases_Last_Week_7Day_Percent": -7.4,
   "Cases_Last_Week_Doubling_Time": -8.9,
@@ -12724,7 +12724,7 @@
   "Cases_Last_Week_Per_Million": 71,
   "Cases_New": 40,
   "Cases_New_Per_Million": 10,
-  "Cases_Per_Million": 49277,
+  "Cases_Per_Million": 49276,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 4.7,
   "Date": "2021-06-25",
@@ -12740,7 +12740,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179613,
+  "Cases": 179612,
   "Cases_Last_Week": 252,
   "Cases_Last_Week_7Day_Percent": -12.2,
   "Cases_Last_Week_Doubling_Time": -9.6,
@@ -12748,7 +12748,7 @@
   "Cases_Last_Week_Per_Million": 69,
   "Cases_New": 8,
   "Cases_New_Per_Million": 2,
-  "Cases_Per_Million": 49279,
+  "Cases_Per_Million": 49278,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.0,
   "DIVI_Intensivstationen_Covid_Prozent": 4.8,
   "Date": "2021-06-26",
@@ -12764,7 +12764,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179613,
+  "Cases": 179612,
   "Cases_Last_Week": 251,
   "Cases_Last_Week_7Day_Percent": -11.3,
   "Cases_Last_Week_Doubling_Time": -11.9,
@@ -12772,7 +12772,7 @@
   "Cases_Last_Week_Per_Million": 68,
   "Cases_New": 0,
   "Cases_New_Per_Million": 0,
-  "Cases_Per_Million": 49279,
+  "Cases_Per_Million": 49278,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.1,
   "DIVI_Intensivstationen_Covid_Prozent": 4.8,
   "Date": "2021-06-27",
@@ -12788,7 +12788,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179652,
+  "Cases": 179651,
   "Cases_Last_Week": 232,
   "Cases_Last_Week_7Day_Percent": -16.8,
   "Cases_Last_Week_Doubling_Time": -15.3,
@@ -12812,7 +12812,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179696,
+  "Cases": 179695,
   "Cases_Last_Week": 231,
   "Cases_Last_Week_7Day_Percent": -12.5,
   "Cases_Last_Week_Doubling_Time": -21.2,
@@ -12820,7 +12820,7 @@
   "Cases_Last_Week_Per_Million": 63,
   "Cases_New": 44,
   "Cases_New_Per_Million": 12,
-  "Cases_Per_Million": 49302,
+  "Cases_Per_Million": 49301,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.8,
   "DIVI_Intensivstationen_Covid_Prozent": 4.4,
   "Date": "2021-06-29",
@@ -12836,7 +12836,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179731,
+  "Cases": 179730,
   "Cases_Last_Week": 213,
   "Cases_Last_Week_7Day_Percent": -14.8,
   "Cases_Last_Week_Doubling_Time": -29.2,
@@ -12860,7 +12860,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179766,
+  "Cases": 179765,
   "Cases_Last_Week": 201,
   "Cases_Last_Week_7Day_Percent": -25.6,
   "Cases_Last_Week_Doubling_Time": -30.0,
@@ -12868,7 +12868,7 @@
   "Cases_Last_Week_Per_Million": 55,
   "Cases_New": 35,
   "Cases_New_Per_Million": 9,
-  "Cases_Per_Million": 49321,
+  "Cases_Per_Million": 49320,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.6,
   "DIVI_Intensivstationen_Covid_Prozent": 4.0,
   "Date": "2021-07-01",
@@ -12884,7 +12884,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179804,
+  "Cases": 179803,
   "Cases_Last_Week": 199,
   "Cases_Last_Week_7Day_Percent": -23.8,
   "Cases_Last_Week_Doubling_Time": -26.4,
@@ -12908,7 +12908,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179807,
+  "Cases": 179806,
   "Cases_Last_Week": 194,
   "Cases_Last_Week_7Day_Percent": -23.0,
   "Cases_Last_Week_Doubling_Time": -24.7,
@@ -12932,7 +12932,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179811,
+  "Cases": 179810,
   "Cases_Last_Week": 198,
   "Cases_Last_Week_7Day_Percent": -21.1,
   "Cases_Last_Week_Doubling_Time": -24.3,
@@ -12956,7 +12956,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179878,
+  "Cases": 179877,
   "Cases_Last_Week": 226,
   "Cases_Last_Week_7Day_Percent": -2.6,
   "Cases_Last_Week_Doubling_Time": -28.5,
@@ -12980,7 +12980,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179937,
+  "Cases": 179936,
   "Cases_Last_Week": 241,
   "Cases_Last_Week_7Day_Percent": 4.3,
   "Cases_Last_Week_Doubling_Time": -36.4,
@@ -12988,7 +12988,7 @@
   "Cases_Last_Week_Per_Million": 66,
   "Cases_New": 59,
   "Cases_New_Per_Million": 16,
-  "Cases_Per_Million": 49368,
+  "Cases_Per_Million": 49367,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.9,
   "DIVI_Intensivstationen_Covid_Prozent": 3.6,
   "Date": "2021-07-06",
@@ -13004,7 +13004,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 179990,
+  "Cases": 179989,
   "Cases_Last_Week": 259,
   "Cases_Last_Week_7Day_Percent": 21.6,
   "Cases_Last_Week_Doubling_Time": "",
@@ -13028,7 +13028,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180036,
+  "Cases": 180035,
   "Cases_Last_Week": 270,
   "Cases_Last_Week_7Day_Percent": 34.3,
   "Cases_Last_Week_Doubling_Time": "",
@@ -13052,7 +13052,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180101,
+  "Cases": 180100,
   "Cases_Last_Week": 297,
   "Cases_Last_Week_7Day_Percent": 49.2,
   "Cases_Last_Week_Doubling_Time": "",
@@ -13060,7 +13060,7 @@
   "Cases_Last_Week_Per_Million": 81,
   "Cases_New": 65,
   "Cases_New_Per_Million": 17,
-  "Cases_Per_Million": 49413,
+  "Cases_Per_Million": 49412,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.9,
   "DIVI_Intensivstationen_Covid_Prozent": 3.5,
   "Date": "2021-07-09",
@@ -13076,7 +13076,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180108,
+  "Cases": 180107,
   "Cases_Last_Week": 301,
   "Cases_Last_Week_7Day_Percent": 55.2,
   "Cases_Last_Week_Doubling_Time": 28.4,
@@ -13084,7 +13084,7 @@
   "Cases_Last_Week_Per_Million": 82,
   "Cases_New": 7,
   "Cases_New_Per_Million": 1,
-  "Cases_Per_Million": 49415,
+  "Cases_Per_Million": 49414,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.1,
   "DIVI_Intensivstationen_Covid_Prozent": 3.3,
   "Date": "2021-07-10",
@@ -13100,7 +13100,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180109,
+  "Cases": 180108,
   "Cases_Last_Week": 298,
   "Cases_Last_Week_7Day_Percent": 50.5,
   "Cases_Last_Week_Doubling_Time": 21.1,
@@ -13124,7 +13124,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180216,
+  "Cases": 180215,
   "Cases_Last_Week": 338,
   "Cases_Last_Week_7Day_Percent": 49.6,
   "Cases_Last_Week_Doubling_Time": 16.5,
@@ -13148,7 +13148,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180331,
+  "Cases": 180330,
   "Cases_Last_Week": 394,
   "Cases_Last_Week_7Day_Percent": 63.5,
   "Cases_Last_Week_Doubling_Time": 12.6,
@@ -13156,7 +13156,7 @@
   "Cases_Last_Week_Per_Million": 108,
   "Cases_New": 115,
   "Cases_New_Per_Million": 31,
-  "Cases_Per_Million": 49476,
+  "Cases_Per_Million": 49475,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 85.9,
   "DIVI_Intensivstationen_Covid_Prozent": 3.2,
   "Date": "2021-07-13",
@@ -13172,7 +13172,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180461,
+  "Cases": 180460,
   "Cases_Last_Week": 471,
   "Cases_Last_Week_7Day_Percent": 81.9,
   "Cases_Last_Week_Doubling_Time": 10.0,
@@ -13196,7 +13196,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180597,
+  "Cases": 180596,
   "Cases_Last_Week": 561,
   "Cases_Last_Week_7Day_Percent": 107.8,
   "Cases_Last_Week_Doubling_Time": 8.1,
@@ -13204,7 +13204,7 @@
   "Cases_Last_Week_Per_Million": 153,
   "Cases_New": 136,
   "Cases_New_Per_Million": 37,
-  "Cases_Per_Million": 49549,
+  "Cases_Per_Million": 49548,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.3,
   "DIVI_Intensivstationen_Covid_Prozent": 3.2,
   "Date": "2021-07-15",
@@ -13220,7 +13220,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180737,
+  "Cases": 180736,
   "Cases_Last_Week": 636,
   "Cases_Last_Week_7Day_Percent": 114.1,
   "Cases_Last_Week_Doubling_Time": 7.0,
@@ -13244,7 +13244,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180755,
+  "Cases": 180754,
   "Cases_Last_Week": 647,
   "Cases_Last_Week_7Day_Percent": 115.0,
   "Cases_Last_Week_Doubling_Time": 6.8,
@@ -13268,7 +13268,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180756,
+  "Cases": 180755,
   "Cases_Last_Week": 647,
   "Cases_Last_Week_7Day_Percent": 117.1,
   "Cases_Last_Week_Doubling_Time": 7.2,
@@ -13292,7 +13292,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 180977,
+  "Cases": 180976,
   "Cases_Last_Week": 761,
   "Cases_Last_Week_7Day_Percent": 125.1,
   "Cases_Last_Week_Doubling_Time": 7.1,
@@ -13316,7 +13316,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181170,
+  "Cases": 181169,
   "Cases_Last_Week": 839,
   "Cases_Last_Week_7Day_Percent": 112.9,
   "Cases_Last_Week_Doubling_Time": 7.0,
@@ -13340,7 +13340,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181342,
+  "Cases": 181341,
   "Cases_Last_Week": 881,
   "Cases_Last_Week_7Day_Percent": 87.0,
   "Cases_Last_Week_Doubling_Time": 7.1,
@@ -13364,7 +13364,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181481,
+  "Cases": 181480,
   "Cases_Last_Week": 884,
   "Cases_Last_Week_7Day_Percent": 57.6,
   "Cases_Last_Week_Doubling_Time": 7.7,
@@ -13388,7 +13388,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181653,
+  "Cases": 181652,
   "Cases_Last_Week": 916,
   "Cases_Last_Week_7Day_Percent": 44.0,
   "Cases_Last_Week_Doubling_Time": 8.3,
@@ -13412,7 +13412,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181679,
+  "Cases": 181678,
   "Cases_Last_Week": 924,
   "Cases_Last_Week_7Day_Percent": 42.8,
   "Cases_Last_Week_Doubling_Time": 9.3,
@@ -13420,7 +13420,7 @@
   "Cases_Last_Week_Per_Million": 253,
   "Cases_New": 26,
   "Cases_New_Per_Million": 7,
-  "Cases_Per_Million": 49846,
+  "Cases_Per_Million": 49845,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.5,
   "DIVI_Intensivstationen_Covid_Prozent": 2.8,
   "Date": "2021-07-24",
@@ -13436,7 +13436,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181688,
+  "Cases": 181687,
   "Cases_Last_Week": 932,
   "Cases_Last_Week_7Day_Percent": 44.0,
   "Cases_Last_Week_Doubling_Time": 10.8,
@@ -13460,7 +13460,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 181939,
+  "Cases": 181938,
   "Cases_Last_Week": 962,
   "Cases_Last_Week_7Day_Percent": 26.4,
   "Cases_Last_Week_Doubling_Time": 12.7,
@@ -13484,7 +13484,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182145,
+  "Cases": 182144,
   "Cases_Last_Week": 975,
   "Cases_Last_Week_7Day_Percent": 16.2,
   "Cases_Last_Week_Doubling_Time": 15.0,
@@ -13508,7 +13508,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182350,
+  "Cases": 182349,
   "Cases_Last_Week": 1008,
   "Cases_Last_Week_7Day_Percent": 14.4,
   "Cases_Last_Week_Doubling_Time": 17.5,
@@ -13516,7 +13516,7 @@
   "Cases_Last_Week_Per_Million": 276,
   "Cases_New": 205,
   "Cases_New_Per_Million": 56,
-  "Cases_Per_Million": 50030,
+  "Cases_Per_Million": 50029,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.0,
   "DIVI_Intensivstationen_Covid_Prozent": 3.0,
   "Date": "2021-07-28",
@@ -13532,7 +13532,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182553,
+  "Cases": 182552,
   "Cases_Last_Week": 1072,
   "Cases_Last_Week_7Day_Percent": 21.3,
   "Cases_Last_Week_Doubling_Time": 19.1,
@@ -13556,7 +13556,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182732,
+  "Cases": 182731,
   "Cases_Last_Week": 1079,
   "Cases_Last_Week_7Day_Percent": 17.8,
   "Cases_Last_Week_Doubling_Time": 20.5,
@@ -13580,7 +13580,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182758,
+  "Cases": 182757,
   "Cases_Last_Week": 1079,
   "Cases_Last_Week_7Day_Percent": 16.8,
   "Cases_Last_Week_Doubling_Time": 23.3,
@@ -13588,7 +13588,7 @@
   "Cases_Last_Week_Per_Million": 296,
   "Cases_New": 26,
   "Cases_New_Per_Million": 7,
-  "Cases_Per_Million": 50142,
+  "Cases_Per_Million": 50141,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.2,
   "DIVI_Intensivstationen_Covid_Prozent": 2.8,
   "Date": "2021-07-31",
@@ -13604,7 +13604,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 182772,
+  "Cases": 182771,
   "Cases_Last_Week": 1084,
   "Cases_Last_Week_7Day_Percent": 16.3,
   "Cases_Last_Week_Doubling_Time": 28.5,
@@ -13628,7 +13628,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 183054,
+  "Cases": 183053,
   "Cases_Last_Week": 1115,
   "Cases_Last_Week_7Day_Percent": 15.9,
   "Cases_Last_Week_Doubling_Time": 31.9,
@@ -13652,7 +13652,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 183338,
+  "Cases": 183337,
   "Cases_Last_Week": 1193,
   "Cases_Last_Week_7Day_Percent": 22.4,
   "Cases_Last_Week_Doubling_Time": 30.6,
@@ -13660,7 +13660,7 @@
   "Cases_Last_Week_Per_Million": 327,
   "Cases_New": 284,
   "Cases_New_Per_Million": 77,
-  "Cases_Per_Million": 50301,
+  "Cases_Per_Million": 50300,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 82.9,
   "DIVI_Intensivstationen_Covid_Prozent": 3.2,
   "Date": "2021-08-03",
@@ -13676,7 +13676,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 183669,
+  "Cases": 183668,
   "Cases_Last_Week": 1319,
   "Cases_Last_Week_7Day_Percent": 30.9,
   "Cases_Last_Week_Doubling_Time": 25.8,
@@ -13684,7 +13684,7 @@
   "Cases_Last_Week_Per_Million": 361,
   "Cases_New": 331,
   "Cases_New_Per_Million": 90,
-  "Cases_Per_Million": 50392,
+  "Cases_Per_Million": 50391,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
   "DIVI_Intensivstationen_Covid_Prozent": 3.1,
   "Date": "2021-08-04",
@@ -13700,7 +13700,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 183937,
+  "Cases": 183936,
   "Cases_Last_Week": 1384,
   "Cases_Last_Week_7Day_Percent": 29.1,
   "Cases_Last_Week_Doubling_Time": 22.5,
@@ -13724,7 +13724,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 184165,
+  "Cases": 184164,
   "Cases_Last_Week": 1433,
   "Cases_Last_Week_7Day_Percent": 32.8,
   "Cases_Last_Week_Doubling_Time": 20.1,
@@ -13732,7 +13732,7 @@
   "Cases_Last_Week_Per_Million": 393,
   "Cases_New": 228,
   "Cases_New_Per_Million": 62,
-  "Cases_Per_Million": 50528,
+  "Cases_Per_Million": 50527,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.9,
   "DIVI_Intensivstationen_Covid_Prozent": 3.2,
   "Date": "2021-08-06",
@@ -13748,7 +13748,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 184237,
+  "Cases": 184236,
   "Cases_Last_Week": 1479,
   "Cases_Last_Week_7Day_Percent": 37.1,
   "Cases_Last_Week_Doubling_Time": 18.7,
@@ -13772,7 +13772,7 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 184282,
+  "Cases": 184281,
   "Cases_Last_Week": 1510,
   "Cases_Last_Week_7Day_Percent": 39.3,
   "Cases_Last_Week_Doubling_Time": 18.1,
@@ -13780,7 +13780,7 @@
   "Cases_Last_Week_Per_Million": 414,
   "Cases_New": 45,
   "Cases_New_Per_Million": 12,
-  "Cases_Per_Million": 50560,
+  "Cases_Per_Million": 50559,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.8,
   "DIVI_Intensivstationen_Covid_Prozent": 3.3,
   "Date": "2021-08-08",
@@ -13796,13 +13796,13 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 184731,
-  "Cases_Last_Week": 1677,
-  "Cases_Last_Week_7Day_Percent": 50.4,
+  "Cases": 184732,
+  "Cases_Last_Week": 1679,
+  "Cases_Last_Week_7Day_Percent": 50.6,
   "Cases_Last_Week_Doubling_Time": 16.5,
   "Cases_Last_Week_Per_100000": 46.0,
   "Cases_Last_Week_Per_Million": 460,
-  "Cases_New": 449,
+  "Cases_New": 451,
   "Cases_New_Per_Million": 123,
   "Cases_Per_Million": 50683,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 83.1,
@@ -13820,15 +13820,15 @@
   "Deaths_Per_Million": 983
  },
  {
-  "Cases": 185168,
-  "Cases_Last_Week": 1830,
-  "Cases_Last_Week_7Day_Percent": 53.4,
-  "Cases_Last_Week_Doubling_Time": 14.9,
-  "Cases_Last_Week_Per_100000": 50.2,
-  "Cases_Last_Week_Per_Million": 502,
-  "Cases_New": 437,
-  "Cases_New_Per_Million": 119,
-  "Cases_Per_Million": 50803,
+  "Cases": 185174,
+  "Cases_Last_Week": 1837,
+  "Cases_Last_Week_7Day_Percent": 54.0,
+  "Cases_Last_Week_Doubling_Time": 14.8,
+  "Cases_Last_Week_Per_100000": 50.4,
+  "Cases_Last_Week_Per_Million": 504,
+  "Cases_New": 442,
+  "Cases_New_Per_Million": 121,
+  "Cases_Per_Million": 50804,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 84.0,
   "DIVI_Intensivstationen_Covid_Prozent": 3.7,
   "Date": "2021-08-10",
@@ -13844,15 +13844,15 @@
   "Deaths_Per_Million": 984
  },
  {
-  "Cases": 185669,
-  "Cases_Last_Week": 2000,
-  "Cases_Last_Week_7Day_Percent": 51.6,
-  "Cases_Last_Week_Doubling_Time": 13.3,
-  "Cases_Last_Week_Per_100000": 54.8,
-  "Cases_Last_Week_Per_Million": 548,
-  "Cases_New": 501,
-  "Cases_New_Per_Million": 137,
-  "Cases_Per_Million": 50940,
+  "Cases": 185679,
+  "Cases_Last_Week": 2011,
+  "Cases_Last_Week_7Day_Percent": 52.5,
+  "Cases_Last_Week_Doubling_Time": 13.2,
+  "Cases_Last_Week_Per_100000": 55.1,
+  "Cases_Last_Week_Per_Million": 551,
+  "Cases_New": 505,
+  "Cases_New_Per_Million": 138,
+  "Cases_Per_Million": 50943,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.8,
   "DIVI_Intensivstationen_Covid_Prozent": 4.2,
   "Date": "2021-08-11",
@@ -13868,15 +13868,15 @@
   "Deaths_Per_Million": 984
  },
  {
-  "Cases": 186094,
-  "Cases_Last_Week": 2157,
-  "Cases_Last_Week_7Day_Percent": 55.9,
-  "Cases_Last_Week_Doubling_Time": 11.9,
-  "Cases_Last_Week_Per_100000": 59.1,
-  "Cases_Last_Week_Per_Million": 591,
-  "Cases_New": 425,
-  "Cases_New_Per_Million": 116,
-  "Cases_Per_Million": 51057,
+  "Cases": 186115,
+  "Cases_Last_Week": 2179,
+  "Cases_Last_Week_7Day_Percent": 57.4,
+  "Cases_Last_Week_Doubling_Time": 11.7,
+  "Cases_Last_Week_Per_100000": 59.7,
+  "Cases_Last_Week_Per_Million": 597,
+  "Cases_New": 436,
+  "Cases_New_Per_Million": 119,
+  "Cases_Per_Million": 51063,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 87.4,
   "DIVI_Intensivstationen_Covid_Prozent": 4.4,
   "Date": "2021-08-12",
@@ -13892,19 +13892,43 @@
   "Deaths_Per_Million": 984
  },
  {
-  "Cases": 186394,
-  "Cases_Last_Week": 2229,
-  "Cases_Last_Week_7Day_Percent": 55.5,
-  "Cases_Last_Week_Doubling_Time": 11.3,
-  "Cases_Last_Week_Per_100000": 61.1,
-  "Cases_Last_Week_Per_Million": 611,
-  "Cases_New": 300,
-  "Cases_New_Per_Million": 82,
-  "Cases_Per_Million": 51139,
+  "Cases": 186471,
+  "Cases_Last_Week": 2307,
+  "Cases_Last_Week_7Day_Percent": 61.0,
+  "Cases_Last_Week_Doubling_Time": 10.9,
+  "Cases_Last_Week_Per_100000": 63.2,
+  "Cases_Last_Week_Per_Million": 632,
+  "Cases_New": 356,
+  "Cases_New_Per_Million": 97,
+  "Cases_Per_Million": 51160,
   "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.5,
   "DIVI_Intensivstationen_Covid_Prozent": 4.6,
   "Date": "2021-08-13",
   "Days_Since_2nd_Death": 513,
+  "Deaths": 3587,
+  "Deaths_Last_Week": 2,
+  "Deaths_Last_Week_7Day_Percent": 0,
+  "Deaths_Last_Week_Per_Million": 0.55,
+  "Deaths_New": 0,
+  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Per_Cases": 0.019,
+  "Deaths_Per_Cases_Last_Week": 0.001,
+  "Deaths_Per_Million": 984
+ },
+ {
+  "Cases": 186520,
+  "Cases_Last_Week": 2284,
+  "Cases_Last_Week_7Day_Percent": 54.4,
+  "Cases_Last_Week_Doubling_Time": 11.1,
+  "Cases_Last_Week_Per_100000": 62.6,
+  "Cases_Last_Week_Per_Million": 626,
+  "Cases_New": 49,
+  "Cases_New_Per_Million": 13,
+  "Cases_Per_Million": 51174,
+  "DIVI_Intensivstationen_Betten_belegt_Prozent": 86.3,
+  "DIVI_Intensivstationen_Covid_Prozent": 4.5,
+  "Date": "2021-08-14",
+  "Days_Since_2nd_Death": 514,
   "Deaths": 3587,
   "Deaths_Last_Week": 2,
   "Deaths_Last_Week_7Day_Percent": 0,
