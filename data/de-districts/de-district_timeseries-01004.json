@@ -13692,5 +13692,28 @@
   "Deaths_Per_Cases": 0.011,
   "Deaths_Per_Cases_Last_Week": null,
   "Deaths_Per_Million": 287
+ },
+ {
+  "Cases": 2202,
+  "Cases_Last_Week": 79,
+  "Cases_Last_Week_7Day_Percent": 5.3,
+  "Cases_Last_Week_Per_100000": 98.8,
+  "Cases_Last_Week_Per_Million": 988,
+  "Cases_New": 16,
+  "Cases_New_Per_Million": 200,
+  "Cases_Per_Million": 27557,
+  "DIVI_Intensivstationen_Betten_belegt_Prozent": 80.0,
+  "DIVI_Intensivstationen_Covid_Prozent": 0.0,
+  "Date": "2021-08-30",
+  "Days_Since_2nd_Death": 511,
+  "Deaths": 23,
+  "Deaths_Last_Week": 0,
+  "Deaths_Last_Week_7Day_Percent": 0,
+  "Deaths_Last_Week_Per_Million": 0.0,
+  "Deaths_New": 0,
+  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Per_Cases": 0.01,
+  "Deaths_Per_Cases_Last_Week": null,
+  "Deaths_Per_Million": 287
  }
 ]
