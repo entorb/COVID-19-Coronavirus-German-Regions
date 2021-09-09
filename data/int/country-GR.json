@@ -12468,7 +12468,6 @@
   "Cases_New": 3442,
   "Cases_New_Per_Million": 320,
   "Cases_Per_Million": 56410,
-  "Country": "Greece",
   "Date": "2021-09-07",
   "Days_Since_2nd_Death": 542,
   "Deaths": 13971,
@@ -12479,7 +12478,29 @@
   "Deaths_New_Per_Million": 3.542,
   "Deaths_Per_Cases": 0.023,
   "Deaths_Per_Cases_Last_Week": 0.02,
-  "Deaths_Per_Million": 1302,
+  "Deaths_Per_Million": 1302
+ },
+ {
+  "Cases": 607356,
+  "Cases_Last_Week": 16524,
+  "Cases_Last_Week_7Day_Percent": -20.4,
+  "Cases_Last_Week_Per_100000": 154.0,
+  "Cases_Last_Week_Per_Million": 1540,
+  "Cases_New": 2198,
+  "Cases_New_Per_Million": 204,
+  "Cases_Per_Million": 56615,
+  "Country": "Greece",
+  "Date": "2021-09-08",
+  "Days_Since_2nd_Death": 543,
+  "Deaths": 14014,
+  "Deaths_Last_Week": 345,
+  "Deaths_Last_Week_7Day_Percent": 64.3,
+  "Deaths_Last_Week_Per_Million": 32.16,
+  "Deaths_New": 43,
+  "Deaths_New_Per_Million": 4.008,
+  "Deaths_Per_Cases": 0.023,
+  "Deaths_Per_Cases_Last_Week": 0.021,
+  "Deaths_Per_Million": 1306,
   "Population": 10768477
  }
 ]
