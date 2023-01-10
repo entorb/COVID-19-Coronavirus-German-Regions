@@ -100,15 +100,28 @@ def prepare_covid_data() -> pd.DataFrame:
     )
     df_covid_2022.set_index("Day", inplace=True)
 
+    df_covid_2023 = (
+        df[df.index.year == 2023][["Day", "Deaths_Covid", "Deaths_Covid_roll_av"]]
+        .reset_index(drop=True)
+        .rename(
+            columns={
+                "Deaths_Covid": "Deaths_Covid_2023",
+                "Deaths_Covid_roll_av": "Deaths_Covid_2023_roll_av",
+            },
+            errors="raise",
+        )
+    )
+    df_covid_2023.set_index("Day", inplace=True)
+
     # join in index = Day
-    df_covid = df_covid_2020.join(df_covid_2021).join(df_covid_2022)
+    df_covid = df_covid_2020.join(df_covid_2021).join(df_covid_2022).join(df_covid_2023)
 
     return df_covid
 
 
 def convert2date(year: int, ddmm: str) -> dt.date:
     # test: print(convert2date(year=2016, ddmm="01.01"))
-    d, m, empty = ddmm.split(".")
+    d, m, _ = ddmm.split(".")
     date = dt.date(int(year), int(m), int(d))
     return date
 
@@ -141,15 +154,19 @@ def fetch_and_prepare_mortality_data_timeseries() -> pd.DataFrame:
     #         f.write(datatowrite)
 
     # data_only : read values instead of formulas
-    workbookIn = openpyxl.load_workbook(excelFile, data_only=True)
-    sheetIn = workbookIn["D_2016_2022_Tage"]
+    workbookIn = openpyxl.load_workbook(
+        excelFile,
+        data_only=True,
+        # read_only=True,  # suppresses: UserWarning: wmf image format is not supported so the image is being dropped, but results in endless runtime
+    )
+    sheetIn = workbookIn["D_2016_2023_Tage"]
 
     # 1. time series for correct rolling av calc
 
     # 1.1 read from Excel
     l_timeseries = []
     col = 1
-    for row in range(16, 10 - 1, -1):
+    for row in range(17, 10 - 1, -1):
         year = int(sheetIn.cell(column=col, row=row).value)
         assert year >= 2016
         assert year <= 2028
