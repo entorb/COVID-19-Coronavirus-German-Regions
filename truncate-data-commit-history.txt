@@ -3,6 +3,25 @@ echo this is not fully automated!!!
 
 exit 0
 
+NEW VERSION
+
+pip install git-filter-repo
+
+cp .git/config ../
+cp README.md ../
+cp -r data ../
+
+git-filter-repo --prune-empty always --invert-paths --path README.md --path data
+
+cp ../config .git/
+cp ../README.md .
+cp -r ../data .
+
+echo now run git push -f
+
+
+OLD VERSION
+
 #
 # 0. backup original Repo!!!
 #
