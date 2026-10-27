@@ -1,0 +1,2879 @@
+{
+  "01001": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Flensburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 91113
+  },
+  "01002": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Kiel",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 246243
+  },
+  "01003": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Lübeck",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 216277
+  },
+  "01004": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Neumünster",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 79496
+  },
+  "01051": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Dithmarschen",
+    "LK_Typ": "Kreis",
+    "Population": 133969
+  },
+  "01053": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Herzogtum Lauenburg",
+    "LK_Typ": "Kreis",
+    "Population": 200819
+  },
+  "01054": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Nordfriesland",
+    "LK_Typ": "Kreis",
+    "Population": 167560
+  },
+  "01055": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Ostholstein",
+    "LK_Typ": "Kreis",
+    "Population": 202014
+  },
+  "01056": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Pinneberg",
+    "LK_Typ": "Kreis",
+    "Population": 318326
+  },
+  "01057": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Plön",
+    "LK_Typ": "Kreis",
+    "Population": 129687
+  },
+  "01058": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Rendsburg-Eckernförde",
+    "LK_Typ": "Kreis",
+    "Population": 276053
+  },
+  "01059": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Schleswig-Flensburg",
+    "LK_Typ": "Kreis",
+    "Population": 203799
+  },
+  "01060": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Segeberg",
+    "LK_Typ": "Kreis",
+    "Population": 280400
+  },
+  "01061": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Steinburg",
+    "LK_Typ": "Kreis",
+    "Population": 130843
+  },
+  "01062": {
+    "BL_Code": "SH",
+    "BL_Name": "Schleswig-Holstein",
+    "LK_Name": "Stormarn",
+    "LK_Typ": "Kreis",
+    "Population": 245406
+  },
+  "02000": {
+    "BL_Code": "HH",
+    "BL_Name": "Hamburg",
+    "LK_Name": "Hamburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 1853935
+  },
+  "03101": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Braunschweig",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 248823
+  },
+  "03102": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Salzgitter",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 103694
+  },
+  "03103": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Wolfsburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 123949
+  },
+  "03151": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Gifhorn",
+    "LK_Typ": "Landkreis",
+    "Population": 177919
+  },
+  "03153": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Goslar",
+    "LK_Typ": "Landkreis",
+    "Population": 134050
+  },
+  "03154": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Helmstedt",
+    "LK_Typ": "Landkreis",
+    "Population": 91379
+  },
+  "03155": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Northeim",
+    "LK_Typ": "Landkreis",
+    "Population": 131765
+  },
+  "03157": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Peine",
+    "LK_Typ": "Landkreis",
+    "Population": 136960
+  },
+  "03158": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Wolfenbüttel",
+    "LK_Typ": "Landkreis",
+    "Population": 119224
+  },
+  "03159": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Göttingen",
+    "LK_Typ": "Landkreis",
+    "Population": 323661
+  },
+  "03241": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Hannover",
+    "LK_Typ": "Landkreis",
+    "Population": 1157541
+  },
+  "03251": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Diepholz",
+    "LK_Typ": "Landkreis",
+    "Population": 218839
+  },
+  "03252": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Hameln-Pyrmont",
+    "LK_Typ": "Landkreis",
+    "Population": 148963
+  },
+  "03254": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Hildesheim",
+    "LK_Typ": "Landkreis",
+    "Population": 274773
+  },
+  "03255": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Holzminden",
+    "LK_Typ": "Landkreis",
+    "Population": 69862
+  },
+  "03256": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Nienburg (Weser)",
+    "LK_Typ": "Landkreis",
+    "Population": 121773
+  },
+  "03257": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Schaumburg",
+    "LK_Typ": "Landkreis",
+    "Population": 158108
+  },
+  "03351": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Celle",
+    "LK_Typ": "Landkreis",
+    "Population": 179915
+  },
+  "03352": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Cuxhaven",
+    "LK_Typ": "Landkreis",
+    "Population": 199603
+  },
+  "03353": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Harburg",
+    "LK_Typ": "Landkreis",
+    "Population": 257548
+  },
+  "03354": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Lüchow-Dannenberg",
+    "LK_Typ": "Landkreis",
+    "Population": 48472
+  },
+  "03355": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Lüneburg",
+    "LK_Typ": "Landkreis",
+    "Population": 185129
+  },
+  "03356": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Osterholz",
+    "LK_Typ": "Landkreis",
+    "Population": 115054
+  },
+  "03357": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Rotenburg (Wümme)",
+    "LK_Typ": "Landkreis",
+    "Population": 165001
+  },
+  "03358": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Heidekreis",
+    "LK_Typ": "Landkreis",
+    "Population": 142912
+  },
+  "03359": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Stade",
+    "LK_Typ": "Landkreis",
+    "Population": 206496
+  },
+  "03360": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Uelzen",
+    "LK_Typ": "Landkreis",
+    "Population": 92894
+  },
+  "03361": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Verden",
+    "LK_Typ": "Landkreis",
+    "Population": 138507
+  },
+  "03401": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Delmenhorst",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 77522
+  },
+  "03402": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Emden",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 49523
+  },
+  "03403": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Oldenburg (Oldb)",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 170389
+  },
+  "03404": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Osnabrück",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 165034
+  },
+  "03405": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Wilhelmshaven",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 75027
+  },
+  "03451": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Ammerland",
+    "LK_Typ": "Landkreis",
+    "Population": 126475
+  },
+  "03452": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Aurich",
+    "LK_Typ": "Landkreis",
+    "Population": 190425
+  },
+  "03453": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Cloppenburg",
+    "LK_Typ": "Landkreis",
+    "Population": 173980
+  },
+  "03454": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Emsland",
+    "LK_Typ": "Landkreis",
+    "Population": 331397
+  },
+  "03455": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Friesland",
+    "LK_Typ": "Landkreis",
+    "Population": 98971
+  },
+  "03456": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Grafschaft Bentheim",
+    "LK_Typ": "Landkreis",
+    "Population": 138722
+  },
+  "03457": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Leer",
+    "LK_Typ": "Landkreis",
+    "Population": 172421
+  },
+  "03458": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Oldenburg",
+    "LK_Typ": "Landkreis",
+    "Population": 132091
+  },
+  "03459": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Osnabrück",
+    "LK_Typ": "Landkreis",
+    "Population": 361550
+  },
+  "03460": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Vechta",
+    "LK_Typ": "Landkreis",
+    "Population": 144805
+  },
+  "03461": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Wesermarsch",
+    "LK_Typ": "Landkreis",
+    "Population": 88430
+  },
+  "03462": {
+    "BL_Code": "NI",
+    "BL_Name": "Niedersachsen",
+    "LK_Name": "Wittmund",
+    "LK_Typ": "Landkreis",
+    "Population": 57455
+  },
+  "04011": {
+    "BL_Code": "HB",
+    "BL_Name": "Bremen",
+    "LK_Name": "Bremen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 563290
+  },
+  "04012": {
+    "BL_Code": "HB",
+    "BL_Name": "Bremen",
+    "LK_Name": "Bremerhaven",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 113173
+  },
+  "05111": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Düsseldorf",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 619477
+  },
+  "05112": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Duisburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 495152
+  },
+  "05113": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Essen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 579432
+  },
+  "05114": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Krefeld",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 227050
+  },
+  "05116": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Mönchengladbach",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 261001
+  },
+  "05117": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Mülheim an der Ruhr",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 170739
+  },
+  "05119": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Oberhausen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 208752
+  },
+  "05120": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Remscheid",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 111770
+  },
+  "05122": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Solingen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 158957
+  },
+  "05124": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Wuppertal",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 354572
+  },
+  "05154": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Kleve",
+    "LK_Typ": "Kreis",
+    "Population": 314676
+  },
+  "05158": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Mettmann",
+    "LK_Typ": "Kreis",
+    "Population": 484411
+  },
+  "05162": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Rhein-Kreis Neuss",
+    "LK_Typ": "Kreis",
+    "Population": 452496
+  },
+  "05166": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Viersen",
+    "LK_Typ": "Kreis",
+    "Population": 298761
+  },
+  "05170": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Wesel",
+    "LK_Typ": "Kreis",
+    "Population": 460433
+  },
+  "05314": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Bonn",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 331885
+  },
+  "05315": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Köln",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 1073096
+  },
+  "05316": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Leverkusen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 163851
+  },
+  "05334": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Städteregion Aachen",
+    "LK_Typ": "Kreis",
+    "Population": 556673
+  },
+  "05358": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Düren",
+    "LK_Typ": "Kreis",
+    "Population": 266771
+  },
+  "05362": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Rhein-Erft-Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 471891
+  },
+  "05366": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Euskirchen",
+    "LK_Typ": "Kreis",
+    "Population": 194701
+  },
+  "05370": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Heinsberg",
+    "LK_Typ": "Kreis",
+    "Population": 258306
+  },
+  "05374": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Oberbergischer Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 271621
+  },
+  "05378": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Rheinisch-Bergischer Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 283429
+  },
+  "05382": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Rhein-Sieg-Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 600732
+  },
+  "05512": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Bottrop",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 117311
+  },
+  "05513": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Gelsenkirchen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 260126
+  },
+  "05515": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Münster",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 317713
+  },
+  "05554": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Borken",
+    "LK_Typ": "Kreis",
+    "Population": 373582
+  },
+  "05558": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Coesfeld",
+    "LK_Typ": "Kreis",
+    "Population": 221352
+  },
+  "05562": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Recklinghausen",
+    "LK_Typ": "Kreis",
+    "Population": 612801
+  },
+  "05566": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Steinfurt",
+    "LK_Typ": "Kreis",
+    "Population": 450176
+  },
+  "05570": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Warendorf",
+    "LK_Typ": "Kreis",
+    "Population": 278176
+  },
+  "05711": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Bielefeld",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 334002
+  },
+  "05754": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Gütersloh",
+    "LK_Typ": "Kreis",
+    "Population": 366104
+  },
+  "05758": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Herford",
+    "LK_Typ": "Kreis",
+    "Population": 250635
+  },
+  "05762": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Höxter",
+    "LK_Typ": "Kreis",
+    "Population": 139994
+  },
+  "05766": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Lippe",
+    "LK_Typ": "Kreis",
+    "Population": 346151
+  },
+  "05770": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Minden-Lübbecke",
+    "LK_Typ": "Kreis",
+    "Population": 311214
+  },
+  "05774": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Paderborn",
+    "LK_Typ": "Kreis",
+    "Population": 309380
+  },
+  "05911": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Bochum",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 363441
+  },
+  "05913": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Dortmund",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 586852
+  },
+  "05914": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Hagen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 188713
+  },
+  "05915": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Hamm",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 179238
+  },
+  "05916": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Herne",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 156621
+  },
+  "05954": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Ennepe-Ruhr-Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 322143
+  },
+  "05958": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Hochsauerlandkreis",
+    "LK_Typ": "Kreis",
+    "Population": 258615
+  },
+  "05962": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Märkischer Kreis",
+    "LK_Typ": "Kreis",
+    "Population": 406793
+  },
+  "05966": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Olpe",
+    "LK_Typ": "Kreis",
+    "Population": 133120
+  },
+  "05970": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Siegen-Wittgenstein",
+    "LK_Typ": "Kreis",
+    "Population": 274342
+  },
+  "05974": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Soest",
+    "LK_Typ": "Kreis",
+    "Population": 302298
+  },
+  "05978": {
+    "BL_Code": "NW",
+    "BL_Name": "Nordrhein-Westfalen",
+    "LK_Name": "Unna",
+    "LK_Typ": "Kreis",
+    "Population": 393063
+  },
+  "06411": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Darmstadt",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 159631
+  },
+  "06412": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Frankfurt am Main",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 759224
+  },
+  "06413": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Offenbach am Main",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 131295
+  },
+  "06414": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Wiesbaden",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 278950
+  },
+  "06431": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Bergstraße",
+    "LK_Typ": "Landkreis",
+    "Population": 271166
+  },
+  "06432": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Darmstadt-Dieburg",
+    "LK_Typ": "Landkreis",
+    "Population": 296900
+  },
+  "06433": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Groß-Gerau",
+    "LK_Typ": "Landkreis",
+    "Population": 276307
+  },
+  "06434": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Hochtaunuskreis",
+    "LK_Typ": "Landkreis",
+    "Population": 237041
+  },
+  "06435": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Main-Kinzig-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 423465
+  },
+  "06436": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Main-Taunus-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 239276
+  },
+  "06437": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Odenwaldkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 96953
+  },
+  "06438": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Offenbach",
+    "LK_Typ": "Landkreis",
+    "Population": 357466
+  },
+  "06439": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Rheingau-Taunus-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 187229
+  },
+  "06440": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Wetteraukreis",
+    "LK_Typ": "Landkreis",
+    "Population": 311661
+  },
+  "06531": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Gießen",
+    "LK_Typ": "Landkreis",
+    "Population": 272874
+  },
+  "06532": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Lahn-Dill-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 253364
+  },
+  "06533": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Limburg-Weilburg",
+    "LK_Typ": "Landkreis",
+    "Population": 172759
+  },
+  "06534": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Marburg-Biedenkopf",
+    "LK_Typ": "Landkreis",
+    "Population": 246097
+  },
+  "06535": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Vogelsbergkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 105671
+  },
+  "06611": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Kassel",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 200406
+  },
+  "06631": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Fulda",
+    "LK_Typ": "Landkreis",
+    "Population": 223572
+  },
+  "06632": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Hersfeld-Rotenburg",
+    "LK_Typ": "Landkreis",
+    "Population": 120163
+  },
+  "06633": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Kassel",
+    "LK_Typ": "Landkreis",
+    "Population": 237268
+  },
+  "06634": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Schwalm-Eder-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 180052
+  },
+  "06635": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Waldeck-Frankenberg",
+    "LK_Typ": "Landkreis",
+    "Population": 156513
+  },
+  "06636": {
+    "BL_Code": "HE",
+    "BL_Name": "Hessen",
+    "LK_Name": "Werra-Meißner-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 99714
+  },
+  "07111": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Koblenz",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 113638
+  },
+  "07131": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Ahrweiler",
+    "LK_Typ": "Landkreis",
+    "Population": 128146
+  },
+  "07132": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Altenkirchen (Westerwald)",
+    "LK_Typ": "Landkreis",
+    "Population": 129261
+  },
+  "07133": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Bad Kreuznach",
+    "LK_Typ": "Landkreis",
+    "Population": 159402
+  },
+  "07134": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Birkenfeld",
+    "LK_Typ": "Landkreis",
+    "Population": 80849
+  },
+  "07135": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Cochem-Zell",
+    "LK_Typ": "Landkreis",
+    "Population": 61735
+  },
+  "07137": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Mayen-Koblenz",
+    "LK_Typ": "Landkreis",
+    "Population": 215446
+  },
+  "07138": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Neuwied",
+    "LK_Typ": "Landkreis",
+    "Population": 184390
+  },
+  "07140": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Rhein-Hunsrück-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 103767
+  },
+  "07141": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Rhein-Lahn-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 122724
+  },
+  "07143": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Westerwaldkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 203831
+  },
+  "07211": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Trier",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 110570
+  },
+  "07231": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Bernkastel-Wittlich",
+    "LK_Typ": "Landkreis",
+    "Population": 113194
+  },
+  "07232": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Eifelkreis Bitburg-Prüm",
+    "LK_Typ": "Landkreis",
+    "Population": 100959
+  },
+  "07233": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Vulkaneifel",
+    "LK_Typ": "Landkreis",
+    "Population": 60882
+  },
+  "07235": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Trier-Saarburg",
+    "LK_Typ": "Landkreis",
+    "Population": 151167
+  },
+  "07311": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Frankenthal (Pfalz)",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 48773
+  },
+  "07312": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Kaiserslautern",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 99292
+  },
+  "07313": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Landau in der Pfalz",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 46919
+  },
+  "07314": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Ludwigshafen am Rhein",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 172145
+  },
+  "07315": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Mainz",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 217556
+  },
+  "07316": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Neustadt an der Weinstraße",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 53491
+  },
+  "07317": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Pirmasens",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 40054
+  },
+  "07318": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Speyer",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 50565
+  },
+  "07319": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Worms",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 83850
+  },
+  "07320": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Zweibrücken",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 34091
+  },
+  "07331": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Alzey-Worms",
+    "LK_Typ": "Landkreis",
+    "Population": 131330
+  },
+  "07332": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Bad Dürkheim",
+    "LK_Typ": "Landkreis",
+    "Population": 133206
+  },
+  "07333": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Donnersbergkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 75569
+  },
+  "07334": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Germersheim",
+    "LK_Typ": "Landkreis",
+    "Population": 129313
+  },
+  "07335": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Kaiserslautern",
+    "LK_Typ": "Landkreis",
+    "Population": 106853
+  },
+  "07336": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Kusel",
+    "LK_Typ": "Landkreis",
+    "Population": 69949
+  },
+  "07337": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Südliche Weinstraße",
+    "LK_Typ": "Landkreis",
+    "Population": 111279
+  },
+  "07338": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Rhein-Pfalz-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 155050
+  },
+  "07339": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Mainz-Bingen",
+    "LK_Typ": "Landkreis",
+    "Population": 212420
+  },
+  "07340": {
+    "BL_Code": "RP",
+    "BL_Name": "Rheinland-Pfalz",
+    "LK_Name": "Südwestpfalz",
+    "LK_Typ": "Landkreis",
+    "Population": 94819
+  },
+  "08111": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Stuttgart",
+    "LK_Typ": "Stadtkreis",
+    "Population": 626275
+  },
+  "08115": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Böblingen",
+    "LK_Typ": "Landkreis",
+    "Population": 393195
+  },
+  "08116": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Esslingen",
+    "LK_Typ": "Landkreis",
+    "Population": 533388
+  },
+  "08117": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Göppingen",
+    "LK_Typ": "Landkreis",
+    "Population": 259046
+  },
+  "08118": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Ludwigsburg",
+    "LK_Typ": "Landkreis",
+    "Population": 544679
+  },
+  "08119": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Rems-Murr-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 427316
+  },
+  "08121": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Heilbronn",
+    "LK_Typ": "Stadtkreis",
+    "Population": 125613
+  },
+  "08125": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Heilbronn",
+    "LK_Typ": "Landkreis",
+    "Population": 347798
+  },
+  "08126": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Hohenlohekreis",
+    "LK_Typ": "Landkreis",
+    "Population": 113318
+  },
+  "08127": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Schwäbisch Hall",
+    "LK_Typ": "Landkreis",
+    "Population": 199398
+  },
+  "08128": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Main-Tauber-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 132956
+  },
+  "08135": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Heidenheim",
+    "LK_Typ": "Landkreis",
+    "Population": 132958
+  },
+  "08136": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Ostalbkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 315009
+  },
+  "08211": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Baden-Baden",
+    "LK_Typ": "Stadtkreis",
+    "Population": 55527
+  },
+  "08212": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Karlsruhe",
+    "LK_Typ": "Stadtkreis",
+    "Population": 306502
+  },
+  "08215": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Karlsruhe",
+    "LK_Typ": "Landkreis",
+    "Population": 448487
+  },
+  "08216": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Rastatt",
+    "LK_Typ": "Landkreis",
+    "Population": 232296
+  },
+  "08221": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Heidelberg",
+    "LK_Typ": "Stadtkreis",
+    "Population": 159245
+  },
+  "08222": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Mannheim",
+    "LK_Typ": "Stadtkreis",
+    "Population": 311831
+  },
+  "08225": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Neckar-Odenwald-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 143929
+  },
+  "08226": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Rhein-Neckar-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 549030
+  },
+  "08231": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Pforzheim",
+    "LK_Typ": "Stadtkreis",
+    "Population": 125529
+  },
+  "08235": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Calw",
+    "LK_Typ": "Landkreis",
+    "Population": 160686
+  },
+  "08236": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Enzkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 200237
+  },
+  "08237": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Freudenstadt",
+    "LK_Typ": "Landkreis",
+    "Population": 119183
+  },
+  "08311": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Freiburg im Breisgau",
+    "LK_Typ": "Stadtkreis",
+    "Population": 231848
+  },
+  "08315": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Breisgau-Hochschwarzwald",
+    "LK_Typ": "Landkreis",
+    "Population": 265792
+  },
+  "08316": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Emmendingen",
+    "LK_Typ": "Landkreis",
+    "Population": 167945
+  },
+  "08317": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Ortenaukreis",
+    "LK_Typ": "Landkreis",
+    "Population": 434535
+  },
+  "08325": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Rottweil",
+    "LK_Typ": "Landkreis",
+    "Population": 140446
+  },
+  "08326": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Schwarzwald-Baar-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 213385
+  },
+  "08327": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Tuttlingen",
+    "LK_Typ": "Landkreis",
+    "Population": 142414
+  },
+  "08335": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Konstanz",
+    "LK_Typ": "Landkreis",
+    "Population": 288097
+  },
+  "08336": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Lörrach",
+    "LK_Typ": "Landkreis",
+    "Population": 229445
+  },
+  "08337": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Waldshut",
+    "LK_Typ": "Landkreis",
+    "Population": 171249
+  },
+  "08415": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Reutlingen",
+    "LK_Typ": "Landkreis",
+    "Population": 288158
+  },
+  "08416": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Tübingen",
+    "LK_Typ": "Landkreis",
+    "Population": 229806
+  },
+  "08417": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Zollernalbkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 190545
+  },
+  "08421": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Ulm",
+    "LK_Typ": "Stadtkreis",
+    "Population": 126949
+  },
+  "08425": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Alb-Donau-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 199732
+  },
+  "08426": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Biberach",
+    "LK_Typ": "Landkreis",
+    "Population": 203244
+  },
+  "08435": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Bodenseekreis",
+    "LK_Typ": "Landkreis",
+    "Population": 218885
+  },
+  "08436": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Ravensburg",
+    "LK_Typ": "Landkreis",
+    "Population": 287011
+  },
+  "08437": {
+    "BL_Code": "BW",
+    "BL_Name": "Baden-Württemberg",
+    "LK_Name": "Sigmaringen",
+    "LK_Typ": "Landkreis",
+    "Population": 131725
+  },
+  "09161": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Ingolstadt",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 138016
+  },
+  "09162": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "München",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 1487708
+  },
+  "09163": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Rosenheim",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 63508
+  },
+  "09171": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Altötting",
+    "LK_Typ": "Landkreis",
+    "Population": 112116
+  },
+  "09172": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Berchtesgadener Land",
+    "LK_Typ": "Landkreis",
+    "Population": 106389
+  },
+  "09173": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bad Tölz-Wolfratshausen",
+    "LK_Typ": "Landkreis",
+    "Population": 127919
+  },
+  "09174": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Dachau",
+    "LK_Typ": "Landkreis",
+    "Population": 155449
+  },
+  "09175": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Ebersberg",
+    "LK_Typ": "Landkreis",
+    "Population": 144562
+  },
+  "09176": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Eichstätt",
+    "LK_Typ": "Landkreis",
+    "Population": 133634
+  },
+  "09177": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Erding",
+    "LK_Typ": "Landkreis",
+    "Population": 139622
+  },
+  "09178": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Freising",
+    "LK_Typ": "Landkreis",
+    "Population": 181144
+  },
+  "09179": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Fürstenfeldbruck",
+    "LK_Typ": "Landkreis",
+    "Population": 218579
+  },
+  "09180": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Garmisch-Partenkirchen",
+    "LK_Typ": "Landkreis",
+    "Population": 88232
+  },
+  "09181": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Landsberg am Lech",
+    "LK_Typ": "Landkreis",
+    "Population": 121466
+  },
+  "09182": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Miesbach",
+    "LK_Typ": "Landkreis",
+    "Population": 99978
+  },
+  "09183": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Mühldorf a. Inn",
+    "LK_Typ": "Landkreis",
+    "Population": 117606
+  },
+  "09184": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "München",
+    "LK_Typ": "Landkreis",
+    "Population": 349837
+  },
+  "09185": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Neuburg-Schrobenhausen",
+    "LK_Typ": "Landkreis",
+    "Population": 98503
+  },
+  "09186": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Pfaffenhofen a.d. Ilm",
+    "LK_Typ": "Landkreis",
+    "Population": 129772
+  },
+  "09187": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Rosenheim",
+    "LK_Typ": "Landkreis",
+    "Population": 263367
+  },
+  "09188": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Starnberg",
+    "LK_Typ": "Landkreis",
+    "Population": 136747
+  },
+  "09189": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Traunstein",
+    "LK_Typ": "Landkreis",
+    "Population": 178447
+  },
+  "09190": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Weilheim-Schongau",
+    "LK_Typ": "Landkreis",
+    "Population": 136642
+  },
+  "09261": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Landshut",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 73150
+  },
+  "09262": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Passau",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 53093
+  },
+  "09263": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Straubing",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 47854
+  },
+  "09271": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Deggendorf",
+    "LK_Typ": "Landkreis",
+    "Population": 120521
+  },
+  "09272": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Freyung-Grafenau",
+    "LK_Typ": "Landkreis",
+    "Population": 78632
+  },
+  "09273": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kelheim",
+    "LK_Typ": "Landkreis",
+    "Population": 123899
+  },
+  "09274": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Landshut",
+    "LK_Typ": "Landkreis",
+    "Population": 162331
+  },
+  "09275": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Passau",
+    "LK_Typ": "Landkreis",
+    "Population": 194090
+  },
+  "09276": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Regen",
+    "LK_Typ": "Landkreis",
+    "Population": 77176
+  },
+  "09277": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Rottal-Inn",
+    "LK_Typ": "Landkreis",
+    "Population": 122252
+  },
+  "09278": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Straubing-Bogen",
+    "LK_Typ": "Landkreis",
+    "Population": 102398
+  },
+  "09279": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Dingolfing-Landau",
+    "LK_Typ": "Landkreis",
+    "Population": 98045
+  },
+  "09361": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Amberg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 41994
+  },
+  "09362": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Regensburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 153542
+  },
+  "09363": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Weiden i.d. OPf.",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 42472
+  },
+  "09371": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Amberg-Sulzbach",
+    "LK_Typ": "Landkreis",
+    "Population": 103277
+  },
+  "09372": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Cham",
+    "LK_Typ": "Landkreis",
+    "Population": 128444
+  },
+  "09373": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Neumarkt i.d. OPf.",
+    "LK_Typ": "Landkreis",
+    "Population": 136062
+  },
+  "09374": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Neustadt a.d. Waldnaab",
+    "LK_Typ": "Landkreis",
+    "Population": 94838
+  },
+  "09375": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Regensburg",
+    "LK_Typ": "Landkreis",
+    "Population": 195225
+  },
+  "09376": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Schwandorf",
+    "LK_Typ": "Landkreis",
+    "Population": 149239
+  },
+  "09377": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Tirschenreuth",
+    "LK_Typ": "Landkreis",
+    "Population": 71648
+  },
+  "09461": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bamberg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 77749
+  },
+  "09462": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bayreuth",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 73909
+  },
+  "09463": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Coburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 40955
+  },
+  "09464": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Hof",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 45125
+  },
+  "09471": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bamberg",
+    "LK_Typ": "Landkreis",
+    "Population": 147697
+  },
+  "09472": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bayreuth",
+    "LK_Typ": "Landkreis",
+    "Population": 103648
+  },
+  "09473": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Coburg",
+    "LK_Typ": "Landkreis",
+    "Population": 86544
+  },
+  "09474": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Forchheim",
+    "LK_Typ": "Landkreis",
+    "Population": 116753
+  },
+  "09475": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Hof",
+    "LK_Typ": "Landkreis",
+    "Population": 93907
+  },
+  "09476": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kronach",
+    "LK_Typ": "Landkreis",
+    "Population": 66091
+  },
+  "09477": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kulmbach",
+    "LK_Typ": "Landkreis",
+    "Population": 71328
+  },
+  "09478": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Lichtenfels",
+    "LK_Typ": "Landkreis",
+    "Population": 66741
+  },
+  "09479": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Wunsiedel i. Fichtelgebirge",
+    "LK_Typ": "Landkreis",
+    "Population": 71482
+  },
+  "09561": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Ansbach",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 41662
+  },
+  "09562": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Erlangen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 113292
+  },
+  "09563": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Fürth",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 129122
+  },
+  "09564": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Nürnberg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 510632
+  },
+  "09565": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Schwabach",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 41146
+  },
+  "09571": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Ansbach",
+    "LK_Typ": "Landkreis",
+    "Population": 186279
+  },
+  "09572": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Erlangen-Höchstadt",
+    "LK_Typ": "Landkreis",
+    "Population": 139323
+  },
+  "09573": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Fürth",
+    "LK_Typ": "Landkreis",
+    "Population": 119432
+  },
+  "09574": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Nürnberger Land",
+    "LK_Typ": "Landkreis",
+    "Population": 171424
+  },
+  "09575": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Neustadt a.d. Aisch-Bad Windsheim",
+    "LK_Typ": "Landkreis",
+    "Population": 101788
+  },
+  "09576": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Roth",
+    "LK_Typ": "Landkreis",
+    "Population": 127520
+  },
+  "09577": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Weißenburg-Gunzenhausen",
+    "LK_Typ": "Landkreis",
+    "Population": 95523
+  },
+  "09661": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Aschaffenburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 71381
+  },
+  "09662": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Schweinfurt",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 53585
+  },
+  "09663": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Würzburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 126933
+  },
+  "09671": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Aschaffenburg",
+    "LK_Typ": "Landkreis",
+    "Population": 174965
+  },
+  "09672": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Bad Kissingen",
+    "LK_Typ": "Landkreis",
+    "Population": 103454
+  },
+  "09673": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Rhön-Grabfeld",
+    "LK_Typ": "Landkreis",
+    "Population": 79376
+  },
+  "09674": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Haßberge",
+    "LK_Typ": "Landkreis",
+    "Population": 84284
+  },
+  "09675": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kitzingen",
+    "LK_Typ": "Landkreis",
+    "Population": 91980
+  },
+  "09676": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Miltenberg",
+    "LK_Typ": "Landkreis",
+    "Population": 128782
+  },
+  "09677": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Main-Spessart",
+    "LK_Typ": "Landkreis",
+    "Population": 126105
+  },
+  "09678": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Schweinfurt",
+    "LK_Typ": "Landkreis",
+    "Population": 116134
+  },
+  "09679": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Würzburg",
+    "LK_Typ": "Landkreis",
+    "Population": 163534
+  },
+  "09761": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Augsburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 296478
+  },
+  "09762": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kaufbeuren",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 45118
+  },
+  "09763": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Kempten (Allgäu)",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 69053
+  },
+  "09764": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Memmingen",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 44721
+  },
+  "09771": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Aichach-Friedberg",
+    "LK_Typ": "Landkreis",
+    "Population": 135538
+  },
+  "09772": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Augsburg",
+    "LK_Typ": "Landkreis",
+    "Population": 257790
+  },
+  "09773": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Dillingen a.d. Donau",
+    "LK_Typ": "Landkreis",
+    "Population": 97985
+  },
+  "09774": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Günzburg",
+    "LK_Typ": "Landkreis",
+    "Population": 128436
+  },
+  "09775": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Neu-Ulm",
+    "LK_Typ": "Landkreis",
+    "Population": 177330
+  },
+  "09776": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Lindau (Bodensee)",
+    "LK_Typ": "Landkreis",
+    "Population": 82330
+  },
+  "09777": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Ostallgäu",
+    "LK_Typ": "Landkreis",
+    "Population": 143236
+  },
+  "09778": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Unterallgäu",
+    "LK_Typ": "Landkreis",
+    "Population": 147776
+  },
+  "09779": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Donau-Ries",
+    "LK_Typ": "Landkreis",
+    "Population": 134986
+  },
+  "09780": {
+    "BL_Code": "BY",
+    "BL_Name": "Bayern",
+    "LK_Name": "Oberallgäu",
+    "LK_Typ": "Landkreis",
+    "Population": 157202
+  },
+  "10041": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "Saarbrücken",
+    "LK_Typ": "Landkreis",
+    "Population": 327284
+  },
+  "10042": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "Merzig-Wadern",
+    "LK_Typ": "Landkreis",
+    "Population": 103426
+  },
+  "10043": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "Neunkirchen",
+    "LK_Typ": "Landkreis",
+    "Population": 130847
+  },
+  "10044": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "Saarlouis",
+    "LK_Typ": "Landkreis",
+    "Population": 193661
+  },
+  "10045": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "Saarpfalz-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 140960
+  },
+  "10046": {
+    "BL_Code": "SL",
+    "BL_Name": "Saarland",
+    "LK_Name": "St. Wendel",
+    "LK_Typ": "Landkreis",
+    "Population": 86170
+  },
+  "11001": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Mitte",
+    "LK_Typ": "Bezirk",
+    "Population": 377735
+  },
+  "11002": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Friedrichshain-Kreuzberg",
+    "LK_Typ": "Bezirk",
+    "Population": 280671
+  },
+  "11003": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Pankow",
+    "LK_Typ": "Bezirk",
+    "Population": 404795
+  },
+  "11004": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Charlottenburg-Wilmersdorf",
+    "LK_Typ": "Bezirk",
+    "Population": 317229
+  },
+  "11005": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Spandau",
+    "LK_Typ": "Bezirk",
+    "Population": 240542
+  },
+  "11006": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Steglitz-Zehlendorf",
+    "LK_Typ": "Bezirk",
+    "Population": 292255
+  },
+  "11007": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Tempelhof-Schöneberg",
+    "LK_Typ": "Bezirk",
+    "Population": 342285
+  },
+  "11008": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Neukölln",
+    "LK_Typ": "Bezirk",
+    "Population": 320204
+  },
+  "11009": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Treptow-Köpenick",
+    "LK_Typ": "Bezirk",
+    "Population": 273188
+  },
+  "11010": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Marzahn-Hellersdorf",
+    "LK_Typ": "Bezirk",
+    "Population": 274853
+  },
+  "11011": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Lichtenberg",
+    "LK_Typ": "Bezirk",
+    "Population": 293139
+  },
+  "11012": {
+    "BL_Code": "BE",
+    "BL_Name": "Berlin",
+    "LK_Name": "Berlin Reinickendorf",
+    "LK_Typ": "Bezirk",
+    "Population": 260576
+  },
+  "12051": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Brandenburg an der Havel",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 72461
+  },
+  "12052": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Cottbus",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 98359
+  },
+  "12053": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Frankfurt (Oder)",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 56679
+  },
+  "12054": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Potsdam",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 183154
+  },
+  "12060": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Barnim",
+    "LK_Typ": "Landkreis",
+    "Population": 188835
+  },
+  "12061": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Dahme-Spreewald",
+    "LK_Typ": "Landkreis",
+    "Population": 175834
+  },
+  "12062": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Elbe-Elster",
+    "LK_Typ": "Landkreis",
+    "Population": 100317
+  },
+  "12063": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Havelland",
+    "LK_Typ": "Landkreis",
+    "Population": 165906
+  },
+  "12064": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Märkisch-Oderland",
+    "LK_Typ": "Landkreis",
+    "Population": 197965
+  },
+  "12065": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Oberhavel",
+    "LK_Typ": "Landkreis",
+    "Population": 215795
+  },
+  "12066": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Oberspreewald-Lausitz",
+    "LK_Typ": "Landkreis",
+    "Population": 107558
+  },
+  "12067": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Oder-Spree",
+    "LK_Typ": "Landkreis",
+    "Population": 179245
+  },
+  "12068": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Ostprignitz-Ruppin",
+    "LK_Typ": "Landkreis",
+    "Population": 98829
+  },
+  "12069": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Potsdam-Mittelmark",
+    "LK_Typ": "Landkreis",
+    "Population": 219521
+  },
+  "12070": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Prignitz",
+    "LK_Typ": "Landkreis",
+    "Population": 75574
+  },
+  "12071": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Spree-Neiße",
+    "LK_Typ": "Landkreis",
+    "Population": 111955
+  },
+  "12072": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Teltow-Fläming",
+    "LK_Typ": "Landkreis",
+    "Population": 172545
+  },
+  "12073": {
+    "BL_Code": "BB",
+    "BL_Name": "Brandenburg",
+    "LK_Name": "Uckermark",
+    "LK_Typ": "Landkreis",
+    "Population": 117336
+  },
+  "13003": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Rostock",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 208400
+  },
+  "13004": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Schwerin",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 95740
+  },
+  "13071": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Mecklenburgische Seenplatte",
+    "LK_Typ": "Landkreis",
+    "Population": 257525
+  },
+  "13072": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Rostock",
+    "LK_Typ": "Landkreis",
+    "Population": 217796
+  },
+  "13073": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Vorpommern-Rügen",
+    "LK_Typ": "Landkreis",
+    "Population": 225900
+  },
+  "13074": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Nordwestmecklenburg",
+    "LK_Typ": "Landkreis",
+    "Population": 158449
+  },
+  "13075": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Vorpommern-Greifswald",
+    "LK_Typ": "Landkreis",
+    "Population": 235451
+  },
+  "13076": {
+    "BL_Code": "MV",
+    "BL_Name": "Mecklenburg-Vorpommern",
+    "LK_Name": "Ludwigslust-Parchim",
+    "LK_Typ": "Landkreis",
+    "Population": 211899
+  },
+  "14511": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Chemnitz",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 243105
+  },
+  "14521": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Erzgebirgskreis",
+    "LK_Typ": "Landkreis",
+    "Population": 328695
+  },
+  "14522": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Mittelsachsen",
+    "LK_Typ": "Landkreis",
+    "Population": 299329
+  },
+  "14523": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Vogtlandkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 221376
+  },
+  "14524": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Zwickau",
+    "LK_Typ": "Landkreis",
+    "Population": 309621
+  },
+  "14612": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Dresden",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 555351
+  },
+  "14625": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Bautzen",
+    "LK_Typ": "Landkreis",
+    "Population": 296290
+  },
+  "14626": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Görlitz",
+    "LK_Typ": "Landkreis",
+    "Population": 248273
+  },
+  "14627": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Meißen",
+    "LK_Typ": "Landkreis",
+    "Population": 239344
+  },
+  "14628": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Sächsische Schweiz-Osterzgebirge",
+    "LK_Typ": "Landkreis",
+    "Population": 244009
+  },
+  "14713": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Leipzig",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 601866
+  },
+  "14729": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Leipzig",
+    "LK_Typ": "Landkreis",
+    "Population": 258214
+  },
+  "14730": {
+    "BL_Code": "SN",
+    "BL_Name": "Sachsen",
+    "LK_Name": "Nordsachsen",
+    "LK_Typ": "Landkreis",
+    "Population": 197529
+  },
+  "15001": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Dessau-Roßlau",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 78731
+  },
+  "15002": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Halle (Saale)",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 238061
+  },
+  "15003": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Magdeburg",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 236188
+  },
+  "15081": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Altmarkkreis Salzwedel",
+    "LK_Typ": "Landkreis",
+    "Population": 81986
+  },
+  "15082": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Anhalt-Bitterfeld",
+    "LK_Typ": "Landkreis",
+    "Population": 155900
+  },
+  "15083": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Börde",
+    "LK_Typ": "Landkreis",
+    "Population": 170106
+  },
+  "15084": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Burgenlandkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 176333
+  },
+  "15085": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Harz",
+    "LK_Typ": "Landkreis",
+    "Population": 209117
+  },
+  "15086": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Jerichower Land",
+    "LK_Typ": "Landkreis",
+    "Population": 89118
+  },
+  "15087": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Mansfeld-Südharz",
+    "LK_Typ": "Landkreis",
+    "Population": 132317
+  },
+  "15088": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Saalekreis",
+    "LK_Typ": "Landkreis",
+    "Population": 182814
+  },
+  "15089": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Salzlandkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 185495
+  },
+  "15090": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Stendal",
+    "LK_Typ": "Landkreis",
+    "Population": 109746
+  },
+  "15091": {
+    "BL_Code": "ST",
+    "BL_Name": "Sachsen-Anhalt",
+    "LK_Name": "Wittenberg",
+    "LK_Typ": "Landkreis",
+    "Population": 123341
+  },
+  "16051": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Erfurt",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 213227
+  },
+  "16052": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Gera",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 91368
+  },
+  "16053": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Jena",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 110502
+  },
+  "16054": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Suhl",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 36054
+  },
+  "16055": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Weimar",
+    "LK_Typ": "Kreisfreie Stadt",
+    "Population": 65138
+  },
+  "16061": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Eichsfeld",
+    "LK_Typ": "Landkreis",
+    "Population": 99324
+  },
+  "16062": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Nordhausen",
+    "LK_Typ": "Landkreis",
+    "Population": 81687
+  },
+  "16063": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Wartburgkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 158900
+  },
+  "16064": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Unstrut-Hainich-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 101269
+  },
+  "16065": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Kyffhäuserkreis",
+    "LK_Typ": "Landkreis",
+    "Population": 72964
+  },
+  "16066": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Schmalkalden-Meiningen",
+    "LK_Typ": "Landkreis",
+    "Population": 123404
+  },
+  "16067": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Gotha",
+    "LK_Typ": "Landkreis",
+    "Population": 133825
+  },
+  "16068": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Sömmerda",
+    "LK_Typ": "Landkreis",
+    "Population": 68717
+  },
+  "16069": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Hildburghausen",
+    "LK_Typ": "Landkreis",
+    "Population": 62089
+  },
+  "16070": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Ilm-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 105367
+  },
+  "16071": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Weimarer Land",
+    "LK_Typ": "Landkreis",
+    "Population": 82103
+  },
+  "16072": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Sonneberg",
+    "LK_Typ": "Landkreis",
+    "Population": 56504
+  },
+  "16073": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Saalfeld-Rudolstadt",
+    "LK_Typ": "Landkreis",
+    "Population": 100969
+  },
+  "16074": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Saale-Holzland-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 82513
+  },
+  "16075": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Saale-Orla-Kreis",
+    "LK_Typ": "Landkreis",
+    "Population": 79030
+  },
+  "16076": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Greiz",
+    "LK_Typ": "Landkreis",
+    "Population": 96102
+  },
+  "16077": {
+    "BL_Code": "TH",
+    "BL_Name": "Thüringen",
+    "LK_Name": "Altenburger Land",
+    "LK_Typ": "Landkreis",
+    "Population": 87807
+  }
+}

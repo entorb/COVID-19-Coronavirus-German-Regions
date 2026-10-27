@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+  <title>COVID-19 Landkreis Benachrichtigung - Anmeldung</title>
+  <meta charset="utf-8">
+  <meta name="author" content="Dr. Torben Menke">
+  <link rel="stylesheet" href="/style.css" />
+  <script src="./js/jquery-3.5.0.min.js"></script>
+</head>
+
+<body>
+
+  <h2>21.06.2023 Abkündigung des Newsletters</h2>
+
+  <p>Da die Pandemie (hoffentlich) endlich vorbei ist und da meine <a href="https://services7.arcgis.com/mOBPykOjAyBO2ZKk/ArcGIS/rest/services/Covid19_RKI_Sums/FeatureServer/0/query?f=html&where=(IdLandkreis='14612')&outFields=Meldedatum%2CSummeFall%2C+SummeTodesfall%2C+AnzahlFall%2C+AnzahlTodesfall&orderByFields=Meldedatum&objectIds=&time=&resultType=none&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&sqlFormat=none&token=" target="_blank">Datenquelle für deutsche Inzidenzdaten</a> zum 01.06.2023 den Dienst ein- oder umgestellt hat, habe ich beschlossen keine weitere Energie in einen Umbau zu stecken. Damit stelle ich die Aktualisierungen von Webseite und E-Mail Newsletter nun ein. Die internationalen Daten werden vorerst weiterhin täglich automatisch aktualisiert. </p>
+
+  <h1>COVID-19 Landkreis Benachrichtigung - Anmeldung</h1>
+
+  <h2>Info</h2>
+  <ul>
+    <li>Inhalt der E-Mail Benachrichtigung: Daten zu den vom Abonnenten ausgewählten Landkreisen</li>
+    <li>Datenquelle: RKI Dashboard, wie auch meine anderen <a href="https://entorb.net/COVID-19-coronavirus/" target="_blank">COVID-19 Auswertungen</a></li>
+    <li>Sendefrequenz: Wahlweise täglich, sonntäglich oder bei Erreichen eines Grenzwertes</li>
+    <li>Versand erfolgt um 7:30 Uhr</li>
+    <li>Die hinterlegten E-Mail Adressen werden natürlich für keine anderen Zwecke verwendet oder gar weitergegeben</li>
+    <li>Quellcode ist OpenSource und ist bei <a href="https://github.com/entorb/COVID-19-Coronavirus-German-Regions/tree/master/newsletter" target="_blank">GitHub veröffentlicht</a></li>
+  </ul>
+
+  <h2>Anmeldung</h2>
+
+  <p> E-Mail: <input type="email" id="email" name="email">
+    <button id="submit" onclick="submitFunction()">Anmelden</button>
+  </p>
+
+  <h2>Beispiel E-Mail</h2>
+  <img src="newsletter-screenshot-2-mail.png" width="512" height="428" style="border: 5px solid #555;" alt="newsletter-screenshot-2-mail.png">
+
+  <h2>Feedback</h2>
+  <ul>
+    <li> Jona: Ich finde das Teil echt klasse [...] und erhalte so jeden Tag meine Übersicht - das ist das erste Mal, dass ich das Gefühl habe die ganze Corona-Geschichte wirklich vernünftig einschätzen zu können. Großes Danke hierfür! </li>
+  </ul>
+  <!-- <br /> -->
+  <script>
+
+    var input_email = document.getElementById("email");
+    input_email.addEventListener("keydown", function (e) {
+      // Enter is pressed
+      if (e.keyCode === 13) {
+        event.preventDefault();
+        submitFunction();
+      }
+    }, false);
+
+    function submitFunction() {
+      $.get("https://entorb.net/COVID-19-coronavirus/newsletter-backend.py", { action: "subscribe", email: input_email.value },
+        function (response) {
+          console.log("reply:")
+          console.log(response);
+          if (response.status = "ok") {
+            alert("Bestätigungs E-Mail ist unterwegs und enthält den Link zur Konfigurationsseite")
+          }
+        }
+      );
+    }
+
+  </script>
+  <!-- Footer -->
+  <hr>
+  <a href="/">Home</a> - <a href="/contact.php?origin=COVID-19">Contact</a> - <a href="/impressum.php">Impressum</a>
+</body>
+
+</html>

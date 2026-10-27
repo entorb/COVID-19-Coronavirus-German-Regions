@@ -1,0 +1,9 @@
+Header set Access-Control-Allow-Origin 'null'
+
+#<IfModule mod_headers.c>
+#    # To allow headers
+#    Header set Access-Control-Allow-Headers "Authorization"
+#
+#    # to allow cross origin request from *
+#    Header set Access-Control-Allow-Origin *
+#</IfModule>
